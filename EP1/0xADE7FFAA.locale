@@ -1,0 +1,121 @@
+﻿0x2a8d9af3 EA Help~EA_HELP~
+0x344bfce3 <SPORE_EP_BIN_TARGET_FOLDER>\\readme.txt~ADD_REMOVE_PROGRAMS_README~
+0x76de4021 <SPORE_EP_SUPPORT_TARGET_FOLDER>\\Electronic_Arts_Technical_Support.htm~ADD_REMOVE_PROGRAMS_SUPPORT~
+0x44ca6ae6 An administrator account is required to install.~ADMINISTRATOR_ACCOUNT~
+0x5c043e34 Patching Files...~APPLY_PATCH~
+0x7b152168 Click Install to begin the installation~br~~br~If you want to review or change any of your installation settings, click the Back button, or click Cancel to exit.~BEGIN_INSTALLATION~
+0x0d849c4a Click Finish to exit and get started~CLICK_FINISH~
+0x303d349e File: ~string~~br~Error: ~string~~COMP_ERROR_MSG~
+0x292edcb9 SPORE™ Creature Creator~CSA_TITLE~
+0x711d4a01 You must have SPORE™ or SPORE™ Creature Creator installed to install ~string~.~CSA_TRIAL_UNSUPPORTED~
+0x7d4a4e2f Custom~CUSTOM~
+0x144073d1 ~string~ will be installed in the directory of your choice.~CUSTOM_SPORE_SETUP~
+0x166e669a Cannot install to ~string~~br~Please select a different directory.~DANGEROUS_DIRECTORY_ERROR~
+0x51909529 Deauthorize this machine~DEAUTHORIZE~
+0x7426eaa1 Desktop Shortcut~DESKTOP_SHORTCUT~
+0x151dec2f SPORE™ will not work properly without DirectX.~DIRECTX_WARNING~
+0x27d33671 Your file path is too long. Please choose a shorter file path.~DIR_TOO_LONG~
+0x1e337a76 Click Install to begin the installation.~br~~br~If you want to review or change any of your installation settings, click Back. Click Cancel to exit the wizard.~br~~br~You cannot uninstall ~string~ until ~string~ has been uninstalled.~DLG_SDSTARTCOPY2_MSG~
+0x1004b90b Would you like to install the latest EA Download Manager?  EADM will notify you about the latest game updates and improvements, and you will be able to download and install them faster. Players that have EADM will benefit from exclusive content and gameplay updates from Maxis™.~EADM_Install~
+0x50f7380e Electronic Arts~EA_GAMES~
+0x367e6b82 You have a copy of SPORE™ currently running. Please quit SPORE™ before continuing.~GAME_RUNNING~
+0x5ec7afc0 You have a copy of SPORE™ Creature Creator currently running. Please quit SPORE™ Creature Creator before continuing.~GAME_RUNNING_CSA~
+0x4de32707 Please stop ~string~ before continuing.~GAME_RUNNING_STRING~
+0x07f727e1 SPORE™~GAME_TITLE~
+0x64a17d06 An error has occurred. Setup cannot be completed and will now stop. Please try again.~GENERAL_ERROR~
+0x7e8bb5fd The Installation is complete~INSTALLATION_COMPLETE~
+0x58210f85 ~string~ was not installed successfully. Your system has not been modified. Please try again.~INSTALL_UNSUCCESSFUL~
+0x16741c9f Launch ~string~ after installation~LAUNCH_SPORE~
+0x46a61b9b ~string~ could not be found.~MISSING_FILES~
+0x6cd070e6 Some information needed for uninstallation could not be found. An error may have occurred during initial setup. Some files and folders may need to be removed manually.~MISSING_UNINSTALL~
+0x2bf6ea98 The current volume selected does not have sufficient disk space. You can remove files from the selected volume or select a different destination drive.~NO_SPACE_MSG~
+0x6ba1b25f The current volume selected does not have sufficient disk space. You must free up space from the selected volume.~NO_SPACE_MSG_CP~
+0x51ea40d5 If you are offline and continue to uninstall, this machine will not be deauthorized. Do you want to continue?~OFFLINE_DEAUTHENTICATION~
+0x767ef241 Unable to open backup destination file.~PATCH_ERROR_BACKUP_DESTINATION~
+0x7ec3c6fa Unable to create backup directory.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x394403eb Unable to create backup log file.~PATCH_ERROR_BACKUP_LOG~
+0x45db3d71 Unable to open backup source file.~PATCH_ERROR_BACKUP_SOURCE~
+0x71211e4d patchw32.dll is busy.~PATCH_ERROR_BUSY~
+0x657f7d49 Cannot find patch file.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x40cfbf3e Cannot open patch file.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x28a00c2c Only one file and one directory may be specified on command line.~PATCH_ERROR_COMMAND_LINE~
+0x568d9702 Neither command line parameter specified is an existing directory.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x48dbedef Terminated by Custom Action.~PATCH_ERROR_CUSTOM_ACTION~
+0x6aee038f An update directory does not exist.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x15c024fc Update directory is not a valid directory name.~PATCH_ERROR_DIRECTORY_INVALID~
+0x3bcc85d2 Insufficient disk space - please free up more disk space to apply the patch.~PATCH_ERROR_DISKSPACE~
+0x23584337 Registry/INI patching not supported under DOS.~PATCH_ERROR_DOS~
+0x3269ed31 Unable to open error message file.~PATCH_ERROR_ERROR~
+0x208ab121 An error occured while attempting to apply the patch. (%d)~PATCH_ERROR_GENERAL~
+0x08f68c4f Specified option is illegal.~PATCH_ERROR_ILLEGAL~
+0x1d6f9667 Newer version of patch program required.~PATCH_ERROR_INCOMPATIBLE~
+0x54f8a844 Insufficient memory.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x09fae7da Patch file is invalid.~PATCH_ERROR_INVALID~
+0x3c17044b User abort/error loading patchw32.dll.~PATCH_ERROR_IS_ABORT~
+0x0f48320c Could not load isrtp.dll.~PATCH_ERROR_IS_LOAD~
+0x0e777733 The old version of the file to be patched is missing.~PATCH_ERROR_MISSING_FILE~
+0x0890c566 Error updating MSI database.~PATCH_ERROR_MSI~
+0x4c7a3e93 MSI Support only available in 32-bit Windows patching.~PATCH_ERROR_MSI_32BIT~
+0x19843e71 Unable to open new file.~PATCH_ERROR_NEW_FILE~
+0x6754c223 New file already exists.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x4c87f179 File has already been patched.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x3d73b13d Unable to find a patch specified in the patch file.~PATCH_ERROR_NOT_FOUND~
+0x4a43ca10 Unable to open old file.~PATCH_ERROR_OLD_FILE~
+0x72b5864f Old file not found. However, a file of the same was found. No update done since contents differ.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x1adb7500 Unable to open the serialization file.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x25a6abc6 Unable to open file for its overflow information.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55ba6a48 Unable to read from the overflow table.~PATCH_ERROR_OVERFLOW_READ~
+0x70c5cbe4 Unable to write to the overflow table.~PATCH_ERROR_OVERFLOW_WRITE~
+0x227bb46b Valid password not entered. Patch cannot be applied.~PATCH_ERROR_PASSWORD~
+0x2f6dae9f Patch file built for the wrong platform.~PATCH_ERROR_PLATFORM~
+0x42a0f6f9 Error occurred while reading from old file.~PATCH_ERROR_READING_FILE~
+0x0f1854e4 Unable to read the serialization file.~PATCH_ERROR_READING_SERIALIZATION~
+0x0ac7c17d Missing or invalid registry/INI entry.~PATCH_ERROR_REGISTRY~
+0x74ca8ad7 Unable to rename a file.~PATCH_ERROR_RENAMING~
+0x6bcc80af Unable to rename of delete file. File may be locked or in use.~PATCH_ERROR_RENAMING_DELETING~
+0x0f5f623f Unable to seek to a position within a file.~PATCH_ERROR_SEEKING~
+0x2a2f9bcc Unable to create temporary file.~PATCH_ERROR_TEMPORARY~
+0x5cebc9ef Unable to set the time/date stamp for the updated file.~PATCH_ERROR_TIME~
+0x3162cd81 Patch Error~PATCH_ERROR_TITLE~
+0x5760c2f0 Patch file is not valid.~PATCH_ERROR_VERIFY_FAILED~
+0x20176e40 Unable to write backup file.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x61abcbcd Error occurred while writing to new file.~PATCH_ERROR_WRITING_FILE~
+0x64663aca SPORE™ patching did not complete. Please try to patch SPORE™ again later or contact customer support for more information.~PATCH_FAILED~
+0x01725188 SPORE™ Creature Creator patching did not complete. Please try to patch SPORE™ Creature Creator again later.~PATCH_FAILED_CSA~
+0x3d80e796 Your product ~string~ is up to date. Patch not required.~PATCH_NOT_REQUIRED~
+0x1f726bca Play~PLAY_SPORE~
+0x319ad21d SPORE™~PRODUCT_NAME~
+0x4c84fc5d You must have ~string~ installed to patch ~string~.~PRODUCT_TO_PATCH_NOT_INSTALLED~
+0x39040f38 Read Me~README~
+0x1498ec13 We're ready to install!~READY_TO_INSTALL~
+0x16fbaeaf You are now ready to play ~string~~READY_TO_PLAY~
+0x0aa43b92 Recommended~RECOMMENDED~
+0x15cc67e6 ~string~ will be installed in~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x3017ef99 Do you wish to delete all user data generated by ~string~?~REMOVE_USERDATA~
+0x01fcaf57 My Spore Creations~SAVE_FOLDER~
+0x23fd0d11 SPORE™ Creature Creator~SCC_NAME~
+0x4950a450 SPORE™ Creature Creator Trial Edition~SCC_TRIAL_NAME~
+0x03bcf887 Select from the options below.~SELECT_OPTIONS~
+0x59450ac4 Setup type~br~Select your setup type~SETUP_TYPE_MESSAGE~
+0x02699e57 Setup type~SETUP_TYPE_TITLE~
+0x3d927fe5 SOFTWARE END USER LICENSE AGREEMENT~SOFTWARE_LICENSE~
+0x0a77d8d6 SPORE™ Galactic Adventures~SPORE_EP1_NAME~
+0x7734f859 You must have SPORE™ installed to install ~string~.~SPORE_NOT_INSTALLED~
+0x353f37c7 You must uninstall the ~string~ to continue. Do you wish to continue?~SPORE_REMOVE_CSA_WARNING~
+0x6a8319b9 Spore.com~SPORE_WEB~
+0x7fa1f2a0 Uninstall ~string~~UNINSTALL_APPLICATION~
+0x3c8ec28c You must uninstall SPORE™ Creature Creator before uninstalling ~string~.~UNINSTALL_CSA_FIRST~
+0x3b9c8cd2 You must uninstall all Expansion Packs before uninstalling ~string~.~UNINSTALL_EXPANSIONS_FIRST~
+0x494aa82f The wizard was interrupted before ~string~ could be completely patched.~br~~br~To fully patch this program at a later time, please run the patch again.~UNINSTALL_INCOMP~
+0x5e418c32 You must uninstall SPORE™ before uninstalling ~string~.~UNINSTALL_SPORE_FIRST~
+0x07b43e64 The InstallShield Wizard has updated %P to version %VS.~UPDATE_COMPLETE~
+0x40922e1b The ~string~ Installer has updated ~string~ to version ~string~.~UPDATE_COMPLETE_VERSION~
+0x0018fc1d The SPORE™ Installer will first update your copy of the SPORE™ Creature Creator to the latest version and then resume installing ~string~.~UPDATE_CSA~
+0x18017123 The ~string~ Installer is going to update your copy of ~string~ to the latest version.~UPDATE_PRODUCT~
+0x3c7bb1e1 The SPORE™ Installer will first update your copy of SPORE™ to the latest version and then resume installing ~string~.~UPDATE_SPORE~
+0x783c20b6 The InstallShield Wizard will update the installed version (%VI) of %P to version %VS.  To continue, click Next.~UPDATE_TO_NEW_VERSION~
+0x7d34f09b The ~string~ Installer is attempting to update the installed version (~string~) of ~string~ to version ~string~.~UPDATING_TO_NEW_VERSION~
+0x40d6f8bd View ReadMe.txt after installation~VIEW_README~
+0x374f68d8 Please wait while setup attempts to deauthorize ~string~.~WAIT_DEAUTHORIZE~
+0x06220ba5 Click "Next" to install ~string~ on your computer!~WELCOME_SPORE_MESSAGE~
+0x38a8f152 Welcome to ~string~~WELCOME_SPORE_TITLE~

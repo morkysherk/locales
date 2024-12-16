@@ -1,0 +1,211 @@
+0x07464747 Density
+0x07466355 Introduction Text
+0x07466356 Winning/Losing Text
+0x07466357 Act One
+0x07466364 Act Two
+0x0746636d Act Three
+0x07466375 Act Four
+0x0746637e Act Five
+0x074663b1 Add Act
+0x074663b2 Create at least one goal to add act
+0x074663fd Act Name
+0x0746718f Lower
+0x0746719e Level
+0x074671a8 Raise
+0x0746759f Small
+0x074675b6 Large
+0x074675be Less Intense
+0x07467689 More Intense
+0x07467690 Toggle Act Time Limit
+0x07467691 Set Act Time Limit
+0x074686a5 Terraform Mode
+0x074686a6 Behavior
+0x074b54a0 Next Act
+0x074b54a1 Previous Act
+0x074b54a2 Normal Game Speed
+0x074b54a3 Game Speed x2
+0x074b54a4 Game Speed x4
+0x074b54a5 Complete Goal
+0x074b54a6 Lock/Unlock camera
+0x074b54a7 Delete Goal
+0x074b54a8 Show/Hide goal in mission card and minimap
+0x074b54a9 Lock/Unlock Captain
+0x07c4fb2f Lock/Unlock Crew
+0x07d72f5f Dismiss Crew
+0x074b54aa Show/Hide Cast Member
+0x0770b540 Add Crew
+0x0770b541 Test Mode
+0x0770b542 Terraform Mode
+0x0770b543 Build Mode
+0x0770b544 Set Time-of-Day
+0x0770b545 Atmosphere Density
+0x0770b546 Global Temperature
+0x0770b547 Global Water Level
+0x0770b548 Load Music
+0x0770c549 Randomize
+0x0770d549 Thought Bubble
+0x0770e549 Caption Bubble
+0x0779ebb0 Speech Bubble
+0x07d4c021 Inspection Bubble
+0x07e1a122 Radio Bubble
+0x07df6770 Audio On/Off
+0x0779ebb1 Exit Adventure
+0x0779ebb2 Delete
+0x0779ebb3 Make this my cover art
+0x0779ebb4 Take snapshot
+0x0779ebb5 Select a Genre
+0x0779ebb6 Load
+0x078ff358 Small Flora
+0x078ff535 Medium Flora
+0x078ff53e Large Flora
+0x079c1227 Awareness Range
+0x07a6c0c8 Lock/Unlock Time-of-Day
+0x07a94410 Meteor shower
+0x07a94411 Lightning
+0x07a94412 Fire Jets
+0x07a94413 Ice Geysers
+0x07bd1370 Act Six
+0x07bd1371 Act Seven
+0x07bd1372 Act Eight
+0x07bd1373 Current Act
+
+#Behavior tooltip strings
+0x07953b21 Awareness
+0x07953b22 Health
+0xb69d5ab3 Dead
+0xb69d5ab4 Invulnerable
+0x07953b23 Enter chatter text
+0x07953b24 Team
+0x07953b25 Pick up
+0x07953b26 Give
+0x07953b27 Movement
+0x07953b28 sound Volume
+0x07953b29 sound Pitch
+0x07953b30 Sound reach
+0x07953b31 Retrigger
+0x07953b32 Apply changes to all acts (on/off)
+0x07cc7a08 Move To
+0x07c8a9a5 Damage Bonus
+0x07c8a9aa Speed
+0x07d4a9fb Inspect/Talk to
+0x07d4aa17 Chatter
+0x07d4aa18 Damage
+0x07d4aa19 Damage Radius
+0x07d4aa20 Shielding
+0x07d4aa21 Health Regeneration
+0x07d4aa22 Energy Regeneration
+
+# team
+0x074524A6 Neutral
+0x074524A7 Allied Team
+0x074524A8 Enemy Team 1
+0x07a56c67 Enemy Team 2
+0x07a56c68 Enemy Team 3
+0x07a05aa7 No Team
+# stance
+0x074524A9 Peaceful
+0x074524AA Neutral
+0x074524AB Mindless
+0x074524AC Territorial
+0x074524AD Aggressive
+0x07da2631 Advanced
+# movement
+0x074524B4 Stationary
+0x074524B6 Wander
+0x074524B7 Patrol
+0x074524B8 Follow
+# pickup/give
+0x074524AE None
+0x074524AF Any
+0x074524B0 Target
+
+#Partial Styles
+0x079736a3 Live Terrain Color
+0x079736c6 Dead Terrain Color
+0x079736e4 Water Color
+0x079736ef Atmosphere Color
+0x768f4f70 Beach Color
+0x768f4f71 Cliff Color
+0x07da0e55 Color Strata
+0x07da0e70 Add New Color Strata
+0x07da0eca Delete Color Strata
+0x07da0f68 Terrain Elevation
+
+0x36ae6da0 Ice
+0x36ae6da1 Cold
+0x36ae6da2 Mild
+0x36ae6da3 Hot
+0x36ae6da4 Lava
+0x36ae6da5 Temperate
+
+0x07d4badd Open/Close Palette
+0x07953dbc Next Page
+0x07953dbd Previous Page
+0x079c150c Page
+0x07953dbe Cast Name
+0x07953dbf Name and Describe Adventure
+0x07a2459f Energy
+
+0x07971b38 Drag Goal Marker to Target in World
+0x07971b39 Spawner
+0x079c16c8 Frequency
+0x07971b40 Count
+0x07971b41 Load Creature
+0x07971b42 Load Vehicle
+0x07971b43 Load Building
+0x07971b44 Load Fixed Object
+0x07971b45 Load Music
+0x07971b46 Adventure Intro text
+0x07971b47 Adventure End Text
+0x07971b48 Spore Points
+0x07971b49 Respawn Delay
+0x07ec7659 Option unavailable for objects with respawn
+
+#Adventure Creator Rollovers
+0x07980bf9 Name
+0x07980bd4 Visibility
+0x07980be1 Stats
+0x07980bef Complexity Limit Reached
+
+0x079c288e Low Water
+0x079c28a0 High Water
+0x079c2e5d Record Movie
+0x079c2e68 Take Picture
+0x079c36c4 Current Cover
+0x079c36d2 Album 
+
+#Terrain Mode Complexity
+0x07a03279 Terrain Complexity
+0x07a0328c When the meter is full, no more Terrain Objects can be added.
+
+# Terrain Elevation Paint UI
+0x07c43900 Add New Color
+0x07c43901 Remove Color
+
+#checklist
+0x07a24886 Tutorial Checklist
+0x07a24898 Open Checklist
+0x07a248a0 Close Checklist
+0x07a248aa Disable Tutorials
+0x07a248c4 Skip Current Tutorial
+
+#Emoticons
+0x07d4a6ef Emotion
+0x07c3d660 Neutral
+0x07c3d661 Happy
+0x07c3d662 Sad
+0x07c3d663 Mad
+0x07c3d664 Afraid
+
+0x07c73ffb Energy
+0x07c74000 Base Health
+
+0x07ccfc64 Show/Hide Goal Detail
+0x07eee7a2 Resize Window
+
+# Maxis authored Sporecasts
+0x07c7b2c6 Pause downloads from this Sporecast
+0x07c7b2c7 Resume downloads from this Sporecast
+0x07ce47b0 Captain's Log
+
+0x07fae4cd Energy

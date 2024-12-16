@@ -1,0 +1,744 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Concert in the Park
+
+# Adventure description
+0x00000003 Make sure that galactic superstar Shmelvin makes it to the concert on time.
+
+# 'Adventure start' message
+0x00000010 Intergalactic music mogul Colonel Jim Farkus is in need of emergency assistance!  Head down to the planet and see if you can help him out.
+
+# 'Adventure won' message
+0x00000011 Congratulations! You did it! Thanks to you, the show will go on!
+
+# 'Adventure lost' message
+0x00000012 Sorry...you weren't able to succeed. Better luck next time!
+
+# Act 1 name
+0x00000020 Meet The Colonel
+
+# Act 1 description
+0x00000021 Find Colonel Jim Farkus, personal manager of the one and only Shmelvin.
+
+# Act 2 name
+0x00000022 Lotta Pipes
+
+# Act 2 description
+0x00000023 Find Shmelvin's backup singer, Lotta Pipes and add her to your crew!
+
+# Act 3 name
+0x00000024 The House of Shmelvin
+
+# Act 3 description
+0x00000025 Try to lure Shmelvin out of his seclusion.
+
+# Act 4 name
+0x00000026 Kat Waller
+
+# Act 4 description
+0x00000027 Find Kat and rebuild the backup band.
+
+# Act 5 name
+0x00000028 Open Up That Golden Gate
+
+# Act 5 description
+0x00000029 Take Kat and Lotta to Shmelvin' mansion so he will open the front gate.
+
+# Act 6 name
+0x0000002a Reunion With Shmelvin
+
+# Act 6 description
+0x0000002b Convince Shmelvin to perform at the concert.
+
+# Act 7 name
+0x0000002c A Really Big Show
+
+# Act 7 description
+0x0000002d The band is back together again! Sit back and enjoy the show.
+
+# Character name (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt")
+0xff3b8b42 Boy Teen
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 1, Variation 1
+0xe1a30840 Scoo-bee-dooo-laaaa!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 1, Variation 2
+0xe1a30841 This is going to be a killer concert!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 1, Variation 3
+0xe1a30842 What a great day for a concert in the park!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 2, Variation 1
+0xe1a308c0 Scoo-bee-dooo-laaaa!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 2, Variation 2
+0xe1a308c1 This is going to be a killer concert!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 2, Variation 3
+0xe1a308c2 What a great day for a concert in the park!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 3, Variation 1
+0xe1a30940 I can't wait to see Shmelvin's show!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 4, Variation 1
+0xe1a309c0 Hey!  It's the Spyders!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 5, Variation 1
+0xe1a30a40 It's almost time for Shmelvin!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 6, Variation 1
+0xe1a30ac0 We love you guys!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 6, Variation 2
+0xe1a30ac1 Hooray!
+
+# Character chatter (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 6, Variation 3
+0xe1a30ac2 Shmelvin! Shmelvin! Shmelvin!
+
+# Character inspect text (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 2, Variation 1
+0xe1a308a0 Sorry, dude.  I've never heard of Lotta Pipes.
+
+# Character inspect text (Character: "boy_teen", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 4, Variation 1
+0xe1a309a0 I saw Kat hanging out past the statue of Our Founder.
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 1, Variation 1
+0x400ef840 Wow!  I just saw The Spyders hanging out behind the stage!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 1, Variation 2
+0x400ef841 I hope I wore enough sunscreen.
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 1, Variation 3
+0x400ef842 Is there a beverage cart anywhere?
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 2, Variation 1
+0x400ef8c0 Hoo boy.  This show is gonna be great!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 2, Variation 2
+0x400ef8c1 I can't wait for the concert to start!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 3, Variation 1
+0x400ef940 A free concert in the park... what a GREAT idea!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 4, Variation 1
+0x400ef9c0 It's almost showtime!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 5, Variation 1
+0x400efa40 I've had a ticket to this show for months!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 6, Variation 1
+0x400efac0 Shmelvin ROCKS!!!
+
+# Character chatter (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 7, Variation 1
+0x400efb40 YOU ROCK, Shmelvin!
+
+# Character inspect text (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 2, Variation 1
+0x400ef8a0 Lotta Pipes writes most of the songs for the band.
+
+# Character inspect text (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 2, Variation 2
+0x400ef8a1 A couple of her hits are:  "By the Ocean" and "Rock Beach".
+
+# Character inspect text (Character: "boy_teen_2", model: "Boy Teen 2_@creature_editorModel!0x07bfa13a.crt"): Act 4, Variation 1
+0x400ef9a0 I saw Kat over by that statue just a little while ago...
+
+# Character chatter (Character: "boy_teen_3", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 7, Variation 1
+0xe1a30b40 We love you guys!
+
+# Character chatter (Character: "boy_teen_3", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 7, Variation 2
+0xe1a30b41 Hooray!
+
+# Character chatter (Character: "boy_teen_3", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 7, Variation 3
+0xe1a30b42 Shmelvin!
+
+# Character chatter (Character: "boy_teen_3", model: "Boy Teen 1_@creature_editorModel!0x07bfa13f.crt"): Act 7, Variation 4
+0xe1a30b43 Shmelvin! We love you, man!
+
+# Character name (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt")
+0xff3b8b44 Colonel Jim Farkus
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 1
+0xe7831840 I sure do hope we can get Shmelvin to the show on time...
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 2
+0xe7831841 That Shmelvin is a fine boy... He's good to his momma, too!
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 3
+0xe7831842 I wonder if I could sign The Spyders to a contract today?
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 2, Variation 1
+0xe78318c0 Time is getting short!
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 2, Variation 2
+0xe78318c1 This could be the end of my managerial career....
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 3, Variation 1
+0xe7831940 Oh, Shmelvin...don't do this to me today!
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 3, Variation 2
+0xe7831941 I hope that stranger can reunite the group!
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 4, Variation 1
+0xe78319c0 I wonder if I picked the right person for the job...
+
+# Character chatter (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 5, Variation 1
+0xe7831a40 We are running out of time!
+
+# Character talk dialog (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 1
+0xe7831820 My, my... You truly are a sight for sore eyes!  The name's Farkus... Colonel Jim Farkus.  You can call me Colonel!
+
+# Character talk dialog (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 2
+0xe7831821 I am the manager, record producer and concert organizer for some of the most famous entertainers in the galaxy.... including the one and only Shmelvin!
+
+# Character talk dialog (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 3
+0xe7831822 It seems that he and his backup singers had a bit of a rift this morning and now they are threatening to disband the group mere hours before the benefit concert in the park!
+
+# Character talk dialog (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 4
+0xe7831823 Shmelvin is a fine talent, but he needs those singers in order to achieve his unique sound!  I need you to find them and convince them that the show must go on!
+
+# Character talk dialog (Character: "colonel_jim_farkus", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 1, Variation 5
+0xe7831824 Ask the folks around town and perhaps you can get some clues.  Try to find the singer named "Lotta Pipes" first.  If you can find her, you are on your way towards reuniting Shmelvin and his band!  
+
+# Character talk dialog (Character: "colonel_jim_farkus_2", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 6, Variation 1
+0xff3b8b6b Simply amazing! Stupendous! Incredible! You did it, my friend, YOU DID IT!
+
+# Character talk dialog (Character: "colonel_jim_farkus_2", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 6, Variation 2
+0xff3b8b6c You got the band back together and were able to get Shmelvin to the concert on time!
+
+# Character talk dialog (Character: "colonel_jim_farkus_2", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 6, Variation 3
+0xff3b8b6d You have saved the concert..and more likely than not, my career as well!
+
+# Character talk dialog (Character: "colonel_jim_farkus_2", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 6, Variation 4
+0xff3b8b6e I owe you a debt that can never be repaid...so, I won't even try.
+
+# Character talk dialog (Character: "colonel_jim_farkus_2", model: "Colonel Jim Farkus_@creature_editorModel!0x07bfa12e.crt"): Act 6, Variation 5
+0xff3b8b6f Stand back, realax and watch the show featuring Shmelvin and his band!
+
+# Character name (Character: "ethereal_door", model: "Ethereal Door_@building_editorModel!0x07549b62.bld")
+0xff3b8b46 Ethereal Door
+
+# Character name (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt")
+0xff3b8b48 Fancy Chancey
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 1, Variation 1
+0xb7f92840 like...wow, man...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 1, Variation 2
+0xb7f92841 ...so coooool...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 1, Variation 3
+0xb7f92842 ...pretty colors...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 3, Variation 1
+0xb7f92940 ...this is a trip...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 3, Variation 2
+0xb7f92941 it's like I can see through time...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 4, Variation 1
+0xb7f929c0 duuuuude....
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 5, Variation 1
+0xb7f92a40 ...
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 6, Variation 1
+0xb7f92ac0 Where am I?
+
+# Character chatter (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 6, Variation 2
+0xb7f92ac1 Who are all these people?
+
+# Character inspect text (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 2, Variation 1
+0xb7f928a0 Like, there's a pathway by the fountain that leads to the ocean.
+
+# Character inspect text (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 2, Variation 2
+0xb7f928a1 Can I have a quarter?
+
+# Character inspect text (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 4, Variation 1
+0xb7f929a0 Kat is the type of woman who likes to hang out near the water...
+
+# Character inspect text (Character: "fancy_chancey", model: "Fancy Prancey Dancey Chancey_@creature_editorModel!0x07bfa155.crt"): Act 4, Variation 2
+0xb7f929a1 Her daddy was a sailor. She spent a lot of time at the loading docks.
+
+# Character name (Character: "gate", model: "Ethereal Gates Top_@building_editorModel!0x07632abb.bld")
+0xff3b8b49 Gate
+
+# Character name (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt")
+0xff3b8b4a Girl Teen
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 1, Variation 1
+0xd285a840 Laa-tee-dummm...
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 1, Variation 2
+0xd285a841 such a beautiful day....
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 2, Variation 1
+0xd285a8c0 Laa-tee-dummm...
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 2, Variation 2
+0xd285a8c1 Such a beautiful day....
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 3, Variation 1
+0xd285a940 Someday, I'd love to vist Shmelvin's house up on the hill.
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 4, Variation 1
+0xd285a9c0 I wonder what time the show starts...
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 5, Variation 1
+0xd285aa40 Oooh! It's almost showtime!
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 6, Variation 1
+0xd285aac0 We love you Shmelvin!
+
+# Character chatter (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 6, Variation 2
+0xd285aac1 Yayyyyyyyy, Shmelvin!
+
+# Character inspect text (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 2, Variation 1
+0xd285a8a0 I think I saw Lotta hanging out past the fountain...
+
+# Character inspect text (Character: "girl_teen", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 4, Variation 1
+0xd285a9a0 Sorry...never heard of Kat Waller...
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 1, Variation 1
+0x4da51840 I can't believe so many folks are here today!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 1, Variation 2
+0x4da51841 Wow! THE SPYDERS are hanging out behind the stage!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 2, Variation 1
+0x4da518c0 ...I can't believe so many folks are here today!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 2, Variation 2
+0x4da518c1 Wow! THE SPYDERS are hanging out behind the stage!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 3, Variation 1
+0x4da51940 I hope I can get close to the stage during the show!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 5, Variation 1
+0x4da51a40 I am soooo excited!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 6, Variation 1
+0x4da51ac0 Shmelvin!
+
+# Character chatter (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 6, Variation 2
+0x4da51ac1 I LOVE YOU, Shmelvin!
+
+# Character inspect text (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 2, Variation 1
+0x4da518a0 Sorry! Can't help ya!
+
+# Character inspect text (Character: "girl_teen_2", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 4, Variation 1
+0x4da519a0 Sorry! I'm not familiar with Kat Waller...
+
+# Character chatter (Character: "girl_teen_3", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 7, Variation 1
+0x4da51b40 Shmelvin, We Love You!
+
+# Character chatter (Character: "girl_teen_3", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 7, Variation 2
+0x4da51b41 Shmelvin!
+
+# Character chatter (Character: "girl_teen_3", model: "Girl Teen 2_@creature_editorModel!0x07bfa133.crt"): Act 7, Variation 3
+0x4da51b42 I LOVE YOU, Shmelvin!
+
+# Character chatter (Character: "girl_teen_4", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 7, Variation 1
+0xd285ab40 We love you Shmelvin!
+
+# Character chatter (Character: "girl_teen_4", model: "Girl Teen 1_@creature_editorModel!0x07bfa14e.crt"): Act 7, Variation 2
+0xd285ab41 Marry me, Shmelvin!
+
+# Character name (Character: "johnny_s_citadel", model: "The Citadel_@building_editorModel!0x07549b40.bld")
+0xff3b8b4e Johnny's Citadel
+
+# Character name (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt")
+0xff3b8b50 Kat Waller
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 4, Variation 1
+0xe47ff9a0 Heya Lotta!  What brings you out to the pier?  Who's your little friend?
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 4, Variation 2
+0xe47ff9a1 Oh, so now Shmelvin is ready to perform?  I'm not sure that I feel ready to perform, Lotta...
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 4, Variation 3
+0xe47ff9a2 What's that? Your friend here will help me rehearse?
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 4, Variation 4
+0xe47ff9a3 Haha! That's awesome! Let's see what you got!
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 4, Variation 5
+0xe47ff9a4 With a little rehearsing, this show might not be a disaster after all!
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 5, Variation 1
+0xe47ffa20 Oooooh, Baby! Fantastic!
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 5, Variation 2
+0xe47ffa21 Man, that really got my adrenaline flowing! What say we go put on a show!
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 5, Variation 3
+0xe47ffa22 Let's go up the hill to Shmelvin's mansion and let him know we're ready to rock!
+
+# Character talk dialog (Character: "kat_waller", model: "Backup Singer_@creature_editorModel!0x07bbabb4.crt"): Act 5, Variation 4
+0xe47ffa23 I'm sure that once he knows that the band's all here, he'll be ready to quiver and quake like never before!
+
+# Character name (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt")
+0xff3b8b52 Kid
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 1, Variation 1
+0x428cb840 Yaaaaaaaayyyyyy!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 1, Variation 2
+0x428cb841 I sure am glad that my folks let me run around unsupervised!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 1, Variation 3
+0x428cb842 Come out, come out, wherever you are!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 3, Variation 1
+0x428cb940 Yaaaaaaaayyyyyy!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 4, Variation 1
+0x428cb9c0 Wheeeeee!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 4, Variation 2
+0x428cb9c1 I'm hungry!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 5, Variation 1
+0x428cba40 yaaaaaaaaay!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 5, Variation 2
+0x428cba41 I've waited a long time for this show!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 5, Variation 3
+0x428cba42 This is going to be awesome!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 6, Variation 1
+0x428cbac0 THIS...IS...AWESOME!!!
+
+# Character chatter (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 7, Variation 1
+0x428cbb40 YAAYYYYYYYYYYYYY!
+
+# Character inspect text (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 2, Variation 1
+0x428cb8a0 Never heard of her! Sorry!
+
+# Character inspect text (Character: "kid", model: "Kid Boy_@creature_editorModel!0x07bfa144.crt"): Act 4, Variation 1
+0x428cb9a0 I saw a pretty lady walking down the path behind the big statue...
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 1, Variation 1
+0x39dd4840 hee hee hee hee!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 1, Variation 2
+0x39dd4841 I'm gonna catch you!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 1, Variation 3
+0x39dd4842 Shmelvin ROCKS!!!!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 2, Variation 1
+0x39dd48c0 The backup singers are so pretty!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 2, Variation 2
+0x39dd48c1 Shmelvin is my mommy's favorite singer!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 3, Variation 1
+0x39dd4940 hahahahahahaha!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 4, Variation 1
+0x39dd49c0 I wonder if I can run around the town during the show...
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 5, Variation 1
+0x39dd4a40 I don't even know who Shmelvin is and I am still excited!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 5, Variation 2
+0x39dd4a41 I wonder where I should sit?
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 6, Variation 1
+0x39dd4ac0 Yaaaaayyyyy!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 6, Variation 2
+0x39dd4ac1 Woooo Hoooooo!
+
+# Character chatter (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 7, Variation 1
+0x39dd4b40 WHEEEEEEEEEEEE!
+
+# Character inspect text (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 2, Variation 1
+0x39dd48a0 I saw a lady standing by the fountain that looked very sad...
+
+# Character inspect text (Character: "kid_2", model: "Kid Girl_@creature_editorModel!0x07bfa149.crt"): Act 4, Variation 1
+0x39dd49a0 Sorry! I don't know anyone by that name!
+
+# Character name (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt")
+0xff3b8b54 Lotta Pipes
+
+# Character chatter (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 1, Variation 1
+0xe3cd5840 I wonder if Shmelvin realizes how insensitive he can be at times?
+
+# Character chatter (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 1, Variation 2
+0xe3cd5841 This time, the band is breaking up for good!
+
+# Character chatter (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 1, Variation 3
+0xe3cd5842 Shmelvin just won't be Shmelvin without us to back him up!
+
+# Character chatter (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 1
+0xe3cd58c0 I wonder if Shmelvin realizes how insensitive he can be at times?
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 1
+0xe3cd58a0 Hey Sugar...what brings you all the way out here?
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 2
+0xe3cd58a1 Oh, the Colonel sent you for li'l ol' me?  I suppose he wants you to see if you can get me back together with Shmelvin.
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 3
+0xe3cd58a2 We had a pretty nasty disagreement today, but I understand that the show must go on.  Maybe if you help me rehearse my act, I'll cheer up a bit and we can go talk to Shmelvin.
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 4
+0xe3cd58a3 We must put our adoring fans above any silly ol' fight we might be having!
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 2, Variation 5
+0xe3cd58a4 Show me what you got, Sugar!
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 3, Variation 1
+0xe3cd5920 Oh, Sugar... that was WONDERFUL!
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 3, Variation 2
+0xe3cd5921 I've got my act back, Jack!  I feel like putting on a show!
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 3, Variation 3
+0xe3cd5922 Let's go up the hill and see if that silly ol' Shmelvin is home.
+
+# Character talk dialog (Character: "lotta_pipes", model: "Lotta Pipes_@creature_editorModel!0x07c4d754.crt"): Act 3, Variation 4
+0xe3cd5923 I feel a concert coming on!
+
+# Character name (Character: "microphone", model: "Microphone_@building_editorModel!0x07bbab27.bld")
+0xff3b8b5c Microphone
+
+# Character name (Character: "our_founder_statue", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld")
+0xf6576860 Our Founder Statue
+
+# Character inspect text (Character: "our_founder_statue", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld"): Act 1, Variation 1
+0xff3b8b5b "Our Founder"
+
+# Character name (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt")
+0xff3b8b60 Shmelvin
+
+# Character talk dialog (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 6, Variation 1
+0xbd63baa0 Hey Heyyyyy! Lotta! Kat!  So good to see you! I am sorry about our stupid argument this morning!
+
+# Character talk dialog (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 6, Variation 2
+0xbd63baa1 I don't exactly remember the details of what we were fighting about, but man, oh man am I sorry we were fighting! Hey...who's your little friend?
+
+# Character talk dialog (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 6, Variation 3
+0xbd63baa2 Anyway...you have my sincerest apologies and to completely make it up to you both, I want you each to have a car.
+
+# Character talk dialog (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 6, Variation 4
+0xbd63baa3 There! All better! Now, our adoring fans await! We have a show to put on!
+
+# Character talk dialog (Character: "shmelvin", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 6, Variation 5
+0xbd63baa4 Lead the way, little strange creature I've never met before!
+
+# Character chatter (Character: "shmelvin_2", model: "Schmelvis_@creature_editorModel!0x076318ae.crt"): Act 7, Variation 1
+0xff3b8b61 Thanks, strange little creature!  This show is for you!
+
+# Character name (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt")
+0xff3b8b62 Spyder Ned
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 1, Variation 1
+0xed236840 Wow!  What a great turnout!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 1, Variation 2
+0xed236841 We made it!  We've hit the big time!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 1, Variation 3
+0xed236842 If only me mum could see me now!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 2, Variation 1
+0xed2368c0 Glad we popped across the pond for this gig.
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 3, Variation 1
+0xed236940 The crowd is going to be wild today!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 3, Variation 2
+0xed236941 Get a look at all of the girls!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 4, Variation 1
+0xed2369c0 Come one, come all!  We're scribbling autographs before the show!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 5, Variation 1
+0xed236a40 It's time for the show!
+
+# Character chatter (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 6, Variation 1
+0xed236ac0 GROOVY!
+
+# Character inspect text (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 2, Variation 1
+0xed2368a0 Yah...that Lotta is a real fab bird.
+
+# Character inspect text (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 2, Variation 2
+0xed2368a1 She has beatuiful eyes...kinda sad though, don'tcha think, Sid?
+
+# Character inspect text (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 4, Variation 1
+0xed2369a0 I had a crush on Kat Waller when I was a lad!
+
+# Character inspect text (Character: "spyder_ned", model: "Spider 1_@creature_editorModel!0x07bfa15a.crt"): Act 4, Variation 2
+0xed2369a1 Kat sang 'Standing on the Pier in the Lagoon'...one of my faves!
+
+# Character name (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt")
+0xff3b8b64 Spyder Philo
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 1, Variation 1
+0x40f15840 Hello, luv!
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 1, Variation 2
+0x40f15841 Nice weather they have here when the sun's shining.
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 1, Variation 3
+0x40f15842 ...this costume sure is itchy...
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 2, Variation 1
+0x40f158c0 The birds here sure are pretty.
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 2, Variation 2
+0x40f158c1 I might move here some day and open up me own habadasherie.
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 3, Variation 1
+0x40f15940 Looks like our gig is going to go over big!
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 3, Variation 2
+0x40f15941 I hope that all of these folks buy our new record!
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 4, Variation 1
+0x40f159c0 I'd love to grab some fish and chips before the show...
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 5, Variation 1
+0x40f15a40 Places, everybody!
+
+# Character chatter (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 6, Variation 1
+0x40f15ac0 PSYCHELDELIC!
+
+# Character inspect text (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 2, Variation 1
+0x40f158a0 Lotta said something about the wee path by City Hall...
+
+# Character inspect text (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 2, Variation 2
+0x40f158a1 Said she was gonna pop a tuppence into the fountain and then go for a stroll.
+
+# Character inspect text (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 2, Variation 3
+0x40f158a2 Personally, I like to go to the beach when I am glum, chum!
+
+# Character inspect text (Character: "spyder_philo", model: "Spider 4_@creature_editorModel!0x07bfa170.crt"): Act 4, Variation 1
+0x40f159a0 I saw Kat earlier...she looked upset.
+
+# Character name (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt")
+0xff3b8b66 Spyder Sid
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 1, Variation 1
+0x21293840 Hi everybody!  Thanks for coming to the show!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 1, Variation 2
+0x21293841 ...I wonder where Shmelvin is.  He's a hero of mine!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 1, Variation 3
+0x21293842 Boy, I sure do look great in blue!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 2, Variation 1
+0x212938c0 *whistle*
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 2, Variation 2
+0x212938c1 I've got a song in my heart and a 5 pound note in me pocket...
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 3, Variation 1
+0x21293940 Hello, ladies!  Welcome to the show!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 3, Variation 2
+0x21293941 Look lively lads!  All eyes are on us!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 4, Variation 1
+0x212939c0 Wow...I've agreed to 3 dates tonight, lads!  We'd better get the show moving!
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 5, Variation 1
+0x21293a40 How do I look? Is my wig on straight?
+
+# Character chatter (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 6, Variation 1
+0x21293ac0 FAB!
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 2, Variation 1
+0x212938a0 Lotta said something about wanting to get away from all of the fuss and bother.
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 2, Variation 2
+0x212938a1 I think the crowd was getting to the poor lass.
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 2, Variation 3
+0x212938a2 Philo, you were the last of us to talk to Lotta...any clues, man?
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 4, Variation 1
+0x212939a0 Kat's a great gal.  She was by here earlier.
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 4, Variation 2
+0x212939a1 She was asking where the statue of Our Founder was.
+
+# Character inspect text (Character: "spyder_sid", model: "Spider 3_@creature_editorModel!0x07bfa16b.crt"): Act 4, Variation 3
+0x212939a2 No idea...We're new here!
+
+# Character name (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt")
+0xff3b8b68 Spyder Ted
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 1, Variation 1
+0xff3b8840 Anyone have a notepad?  I just got a great idea for a song!
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 1, Variation 2
+0xff3b8841 Where are all of the ladies?
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 1, Variation 3
+0xff3b8842 Step right up, don't be shy!  Meet the Spyders!
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 2, Variation 1
+0xff3b88c0 Blimey!  I'm tired of the touring scene...we should make more studio albums, we should.
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 2, Variation 2
+0xff3b88c1 These outfits are way better than our last ones.
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 3, Variation 1
+0xff3b8940 I wonder if ol' Shmelvin knows how big an influence he was on us?
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 3, Variation 2
+0xff3b8941 Hello, hello!  Welcome to the concert, mates!
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 4, Variation 1
+0xff3b89c0 Where did we leave our insturments?
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 5, Variation 1
+0xff3b8a40 Me folks would be so proud!
+
+# Character chatter (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 6, Variation 1
+0xff3b8ac0 GEAR!
+
+# Character inspect text (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 2, Variation 1
+0xff3b88a0 Absolutely we saw Lotta, didn't we mates?
+
+# Character inspect text (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 2, Variation 2
+0xff3b88a1 Ned, you were chatting her up weren't ya?
+
+# Character inspect text (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 4, Variation 1
+0xff3b89a0 I saw Kat a while ago.
+
+# Character inspect text (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 4, Variation 2
+0xff3b89a1 No idea where she went...
+
+# Character inspect text (Character: "spyder_ted", model: "Spider 2_@creature_editorModel!0x07bfa160.crt"): Act 4, Variation 3
+0xff3b89a2 Did you see her, Sid?
+
+# Character name (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld")
+0xff3b8b6a Squawk Box
+
+# Character talk dialog (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 3, Variation 1
+0x3c863920 *grumble*  Hello...who is it?
+
+# Character talk dialog (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 3, Variation 2
+0x3c863921 Oh, hi Lotta...you here to yell at me? Who's your little friend?
+
+# Character talk dialog (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 3, Variation 3
+0x3c863922 What's that? You're ready to forgive me and get on with the show? Well, thank you! Thank you very much!  I, I...I feel really bad about the argument, and I wouldn't blame you for being mad.
+
+# Character talk dialog (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 3, Variation 4
+0x3c863923 I'd love to do the show, Lotta...but as you know, the band just isn't the band without Kat Waller.  We need her back, too.
+
+# Character talk dialog (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 3, Variation 5
+0x3c863924 If Kat's in, I'm in!  Take your little friend and ask around town and see if you can find her. Bring her back here and we can rock the concert together!
+
+# Character inspect text (Character: "squawk_box", model: "Squawk Box_@building_editorModel!0x07bf9f0c.bld"): Act 1, Variation 1
+0x10001001 Go away!

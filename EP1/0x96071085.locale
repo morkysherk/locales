@@ -1,0 +1,42 @@
+#########################################################
+# AutoPollinatorProgressDialog.layout
+
+# Progress dialog box
+0x00000001 Creation Download Progress
+0x00000002 Downloading Adventure Creations
+0x00000003 Cancel
+0x00000004 Creation Download Failed
+0x00000005 You need to login to download creations used in this Adventure.
+0x00000006 Failed to publish Creations.
+0x00000007 Publish progress
+0x00000008 Publishing...
+
+# Failed to download assets from server (i.e. server removed the asset. This case shouldn't happen, but the client needs to handle it anyway)
+0x00000009 Creation download failed. Do you want to continue?~p~Some assets will be replaced and your score will not be credited.
+
+# NOT USED (not allowed to play with replaced adventures now) Playing adventure with banned assets
+0x0750187a Some creations in this Adventure were banned.~p~ Your score will not be credited.
+
+# NOT USED (this is automatic now): editing adventure with removed assets
+0x0750187b Some creations in this Adventure were deleted.~p~ Do you want to re-download them?
+
+# Editing adventures with banned assets
+0x0750187c Some creations in this Adventure were banned.~p~ Some creations will be replaced.
+# Editing adventures with BP or invalid assets
+0x0750187d Some creations in this Adventure contain parts you don't have.~p~ Some creations will be replaced.
+# Editing adventures with 1) banned assets, 2) BP or invalid assets
+0x0750187e This Adventure contains banned creations and creations with parts you don't have.~p~ Some creations will be replaced.
+
+# Editing adventures offline
+0x07aa5b64 You will need to login before creations can be downloaded for this Adventure. If you edit this adventure, those creations will be replaced.
+0x07aa5b65 Login
+0x07aa5b66 Replace
+0x07aa5b67 Cancel
+
+# Publishing adventures with unpublished assets
+0x5edb5d58 The following creations used by this adventure have not been published yet. Would you like to publish them so the Adventure can be played by others?~p~~ep1_unpublished_creations~
+# Publishing adventures with assets that were removed by the server (hence the player need to republish them)
+0x5edb5d59 The following creations used by this adventure have been deleted by the server. Would you like to re-publish them so the Adventure can be played by others?~p~~ep1_server_deleted_creations~
+
+# NOT USED you cannot play adventures with banned content anymore
+0x07bb7490 Some creations in this Adventure were banned.~p~ Your score has not been shared.

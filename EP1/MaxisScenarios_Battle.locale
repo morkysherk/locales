@@ -1,0 +1,192 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Infestation
+
+# Adventure description
+0x00000003 An alien infestation threatens to transform a peaceful planet. Team up with a small defense force and remove the source of the problem before it's too late.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 warrior, grox, attack
+
+# 'Adventure start' message
+0x00000010 A small squad of soldiers prepares to investigate a Grox Infestation Pod. You must destroy the Pod soon or the Grox will claim this planet as their own.
+
+# 'Adventure won' message
+0x00000011 Victory! The Grox infestation has been halted. But you must remain vigilant! Who knows which planet the Grox will claim next?
+
+# 'Adventure lost' message
+0x00000012 You lost this battle, but the war goes on. Continue to fight the Grox before they spread across the entire galaxy.
+
+# Act 1 name
+0x00000020 Briefing
+
+# Act 1 description
+0x00000021 Barbaros, the Commander of the planetary defense force, is leading a small combat team into action. Follow his orders. 
+
+# Act 2 name
+0x00000022 Move Out!
+
+# Act 2 description
+0x00000023 Secure the hilltop. Concentrate on taking out the Dronox Commanders.
+
+# Act 3 name
+0x00000024 Attack!
+
+# Act 3 description
+0x00000025 Concentrate all firepower at the Infestation Pod at the end of the valley.
+
+# Act 4 name
+0x00000026 Attack!
+
+# Act 4 description
+0x00000027 Take cover! It's going to blow...!
+
+# Act 5 name
+0x00000028 Success!
+
+# Act 5 description
+0x00000029 The infestation has been stopped. Report back to Barbaros.
+
+# Character name (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt")
+0x47c7d860 Barbaros
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 2, Variation 1
+0x20000101 Advance!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 2, Variation 2
+0x20000102 Follow me!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 2, Variation 3
+0x20000103 Over here!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 2, Variation 4
+0x20000104 Watch out!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 2, Variation 5
+0x20000105 Regroup!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 3, Variation 1
+0x30000101 Cover me!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 3, Variation 2
+0x30000102 Don't give up!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 3, Variation 3
+0x30000103 We're almost there!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 3, Variation 4
+0x30000104 Where's my backup?
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 3, Variation 5
+0x30000105 Take out that Pod!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 4, Variation 1
+0x40000101 Yes! We did it!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 4, Variation 2
+0x40000102 Fall back!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 4, Variation 3
+0x40000103 Take cover!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 4, Variation 4
+0x40000104 This planet is ours!
+
+# Character chatter (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 4, Variation 5
+0x40000105 Go back to the Core, Grox scum!
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 1, Variation 1
+0x10000101 I hope you're ready for battle. We don't have much time.
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 1, Variation 2
+0x10000102 A Grox Infestation Pod has landed nearby and it's corrupting this entire valley.
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 1, Variation 3
+0x10000103 The infestation is spreading fast. If we don't destroy it now it will consume this entire planet...
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 1, Variation 4
+0x10000104 ...and after the planet is transformed the Grox will move in and call it home.
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 1, Variation 5
+0x10000105 We have to take out that Infestation Pod now! Move out soldiers!
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 5, Variation 1
+0x50000101 Good job, soldier! I don't think we could have done it without you.
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 5, Variation 2
+0x50000102 The Grox will never take this world from us!
+
+# Character talk dialog (Character: "barbaros", model: "Barbaros_@creature_editorModel!0x07e043f5.crt"): Act 5, Variation 3
+0x50000103 Thanks again for the assist. I hope you're in this sector if the Grox come back.
+
+# Character name (Character: "barn", model: "Bovus Barn_@building_editorModel!0x07919e20.bld")
+0x9b40e860 Barn
+
+# Character name (Character: "bomb", model: "PaletteItems!0x48b8e425.prop")
+0xf87618c2 Bomb
+
+# Character name (Character: "bovus", model: "Wild Cow_@creature_editorModel!0x07919e34.crt")
+0xf8761860 Bovus
+
+# Character talk dialog (Character: "bovus", model: "Wild Cow_@creature_editorModel!0x07919e34.crt"): Act 2, Variation 1
+0xf8761840 Bovus. Simple grazing animals.
+
+# Character talk dialog (Character: "bovus", model: "Wild Cow_@creature_editorModel!0x07919e34.crt"): Act 2, Variation 2
+0xf8761841 These animals could be used as a diversion.
+
+# Character talk dialog (Character: "bovus", model: "Wild Cow_@creature_editorModel!0x07919e34.crt"): Act 2, Variation 3
+0xf8761842 It's war...sacrifices must be made.
+
+# Character name (Character: "defender", model: "PRA Soldier_@creature_editorModel!0x07ccabf5.crt")
+0xf87618c5 Defender
+
+# Character name (Character: "dronox", model: "Conqrix Troop_@creature_editorModel!0x07ccac2a.crt")
+0xf87618c9 Dronox
+
+# Character name (Character: "dronox_commander", model: "Conqrix Commander_@creature_editorModel!0x07ccabc4.crt")
+0xf87618cc Dronox Commander
+
+# Character name (Character: "gate", model: "Bovus Gate_@building_editorModel!0x07919e24.bld")
+0xb0088860 Gate
+
+# Character talk dialog (Character: "gate", model: "Bovus Gate_@building_editorModel!0x07919e24.bld"): Act 2, Variation 1
+0x9b40e840 A small herd of Bovus are penned here.
+
+# Character talk dialog (Character: "gate", model: "Bovus Gate_@building_editorModel!0x07919e24.bld"): Act 2, Variation 2
+0x9b40e841 Perhaps they could be released to create a diversion...
+
+# Character name (Character: "grox_clone_pod", model: "Conqrix Clone Pod_@building_editorModel!0x07d7579b.bld")
+0xf87618cd Conversion Chamber
+
+# Character name (Character: "grox_infiltrator", model: "Conqrix Hive_@building_editorModel!0x07d7579e.bld")
+0xf87618ce Infestation Pod
+
+# Character name (Character: "insectrox", model: "Insectrox Commander_@creature_editorModel!0x07d33ebf.crt")
+0xf87618cf Insectrox
+
+# Character name (Character: "mite", model: "DynaMite_@creature_editorModel!0x07d1d401.crt")
+0xf87618d0 Mite
+
+# Character name (Character: "scanfly", model: "Conqrix Air Walker_@vehicle_editorModel!0x07d24c8f.vcl")
+0xf87618d1 Scanfly
+
+# Character name (Character: "scavenger", model: "Conqrix Walker_@vehicle_editorModel!0x07d1f0ff.vcl")
+0xf87618d2 Scavenger
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+0xfce10860 Spoffitt
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 1
+0xfce109c1 A Spoffitt? What is it doing over here?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 2
+0xfce109c2 Baaah?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 3
+0xfce109c3 Baaah!

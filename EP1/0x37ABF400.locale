@@ -1,0 +1,9 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Temporary name

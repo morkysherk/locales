@@ -1,0 +1,966 @@
+﻿# ep1_ci_air_plane.prop - sporepediaName, blockName
+0xed438640 R/C Plane
+
+# ep1_ci_firewagon.prop - sporepediaName, blockName
+0x749cb7c7 Fire Wagon
+
+# ep1_ci_money_bag1.prop - sporepediaName, blockName
+0x7c6e66dd Money Bag
+
+# ep1_ci_money_bag2.prop - sporepediaName, blockName
+0x7c6e66de Money Baggums
+
+# ep1_ci_money_bag3.prop - sporepediaName, blockName
+0x7c6e66df Money Bagsalot
+
+# ep1_ci_objects_floracontainers_large2.prop - sporepediaName, blockName
+0x39022976 Bouncy Botany
+
+# ep1_ci_objects_floracontainers_large3.prop - sporepediaName, blockName
+0x39022977 Sim Flora
+
+# ep1_ci_objects_floracontainers_medium3.prop - sporepediaName, blockName
+0x0c836595 Blooms of Euphoria
+
+# ep1_ci_objects_floracontainers_small2.prop - sporepediaName, blockName
+0xda19f66e Back-Slapping Bush
+
+# ep1_ci_objects_floracontainers_small3.prop - sporepediaName, blockName
+0xda19f66f Snappy Sprout
+
+# ep1_ci_objects_fountain1.prop - sporepediaName, blockName
+0x81914f27 Festivity Fountain
+
+# ep1_ci_objects_fountain2.prop - sporepediaName, blockName
+0x81914f24 Slapstick Spring
+
+# ep1_ci_objects_fountain3.prop - sporepediaName, blockName
+0x81914f25 Gushing Smiles
+
+# ep1_ci_objects_lamp1.prop - sporepediaName, blockName
+0x690d61ed Irrepressible Illumination
+
+# ep1_ci_objects_lamp2.prop - sporepediaName, blockName
+0x690d61ee Light-Hearted
+
+# ep1_ci_objects_lamp3.prop - sporepediaName, blockName
+0x690d61ef Lamp of Delight
+
+# ep1_ci_sackgold.prop - sporepediaName, blockName
+0x5282421d Gold Sack
+
+# ep1_ci_spice_pumpstation.prop - sporepediaName, blockName
+0x96aaf13a Spice Derrick
+
+# ep1_ci_telescope.prop - sporepediaName, blockName
+0x0677ab7b Telescope
+
+# ep1_ci_ufo_silo.prop - sporepediaName, blockName
+0x63051a81 Space Silo
+
+# ep1_ci_water_boatbottle.prop - sporepediaName, blockName
+0xef06808b Ship-n-Bottle
+
+# ep1_cr_coccoon.prop - sporepediaName, blockName
+0x82b78e34 Cocoon
+
+# ep1_cr_shell_01.prop - sporepediaName, blockName
+0xf47611a8 Shell Simple
+
+# ep1_cr_shell_02.prop - sporepediaName, blockName
+0xf47611ab Shell Cute
+
+# ep1_cr_shell_03.prop - sporepediaName, blockName
+0xf47611aa Shell Soft
+
+# ep1_cr_shell_04.prop - sporepediaName, blockName
+0xf47611ad Shell Snail
+
+# ep1_creature_nest0.prop - sporepediaName, blockName
+0x278dc4e6 Nest Small
+
+# ep1_creature_nest1.prop - sporepediaName, blockName
+0x278dc4e7 Nest Medium
+
+# ep1_creature_nest2.prop - sporepediaName, blockName
+0x278dc4e4 Nest Rocky
+
+# ep1_creature_nest3.prop - sporepediaName, blockName
+0x278dc4e5 Nest Fancy
+
+# ep1_creature_npc_nest.prop - sporepediaName, blockName
+0x7a21008a Nest Large
+
+# ep1_crg_arizona_largerock1.prop - sporepediaName, blockName
+0xae38775b Zona Rock
+
+# ep1_crg_arizona_mediumrock1.prop - sporepediaName, blockName
+0xcb42d413 Zona Stack
+
+# ep1_crg_ashtray_largerock1.prop - sporepediaName, blockName
+0x6923d7bf Pipe Rock
+
+# ep1_crg_ashtray_largerock2.prop - sporepediaName, blockName
+0x6923d7bc Pipe Stack
+
+# ep1_crg_claymation_largerock1.prop - sporepediaName, blockName
+0x7540f2a4 Clay Rock
+
+# ep1_crg_claymation_largerock2.prop - sporepediaName, blockName
+0x7540f2a7 Clay Stack
+
+# ep1_crg_claymation_mediumrock2.prop - sporepediaName, blockName
+0xd8a97c7d Clay Formation
+
+# ep1_crg_claymation_smallrock1.prop - sporepediaName, blockName
+0xe5cd0fbc Clay Cluster
+
+# ep1_crg_conglomerate_largerock1.prop - sporepediaName, blockName
+0x8031cfb5 Conglomerate Rock
+
+# ep1_crg_conglomerate_smallrock1.prop - sporepediaName, blockName
+0x56f3aa21 Conglomerate Stack
+
+# ep1_crg_coral_largerock1.prop - sporepediaName, blockName
+0xa8c67dbe Coral Rock
+
+# ep1_crg_coral_largerock2.prop - sporepediaName, blockName
+0xa8c67dbd Coral Stack
+
+# ep1_crg_coral_mediumrock2.prop - sporepediaName, blockName
+0xde39a3b7 Coral Formation
+
+# ep1_crg_coral_smallrock1.prop - sporepediaName, blockName
+0x6a73308a Coral Cluster
+
+# ep1_crg_crableg_largerock1.prop - sporepediaName, blockName
+0xb9f3638d Crab Rock
+
+# ep1_crg_crableg_largerock2.prop - sporepediaName, blockName
+0xb9f3638e Crab Stack
+
+# ep1_crg_crableg_mediumrock2.prop - sporepediaName, blockName
+0xbb1891da Crab Formation
+
+# ep1_crg_crableg_smallrock1.prop - sporepediaName, blockName
+0xdc4b35f9 Crab Cluster
+
+# ep1_crg_crystal_largerock1.prop - sporepediaName, blockName
+0x59794899 Crystal Rock
+
+# ep1_crg_crystal_mediumrock1.prop - sporepediaName, blockName
+0x7445c45d Crystal Stack
+
+# ep1_crg_crystal_smallrock1.prop - sporepediaName, blockName
+0xc82daf75 Crystal Formation
+
+# ep1_crg_flower1.prop - sporepediaName, blockName, interactableObjectName
+0x103764bb Flower
+
+# ep1_crg_fossil_largerock1.prop - sporepediaName, blockName
+0x1fc5213d Skeleton Bone
+
+# ep1_crg_fossil_largerock2.prop - sporepediaName, blockName
+0x1fc5213e Skeleton Fragments
+
+# ep1_crg_fossil_largerock3.prop - sporepediaName, blockName
+0x1fc5213f Skeleton Head
+
+# ep1_crg_fossil_smallrock1.prop - sporepediaName, blockName
+0xaf9fb929 Skeleton Chip
+
+# ep1_crg_french_largerock1.prop - sporepediaName, blockName
+0x1a66787d Plump Rock
+
+# ep1_crg_french_largerock2.prop - sporepediaName, blockName
+0x1a66787e Plump Stack
+
+# ep1_crg_french_smallrock1.prop - sporepediaName, blockName
+0xaa42a369 Plump Formation
+
+# ep1_crg_gear_largerock1.prop - sporepediaName, blockName
+0x7a71f73a Gear Rock
+
+# ep1_crg_gear_mediumrock1.prop - sporepediaName, blockName
+0xb88f89f8 Gear Stack
+
+# ep1_crg_gear_smallrock1.prop - sporepediaName, blockName
+0xdd3e61a6 Gear Formation
+
+# ep1_crg_giant_skeleton.prop - sporepediaName, blockName
+0x5f54db58 Skeleton Cluster
+
+# ep1_crg_giant_skull.prop - sporepediaName, blockName, interactableObjectName
+0xfa907900 Skeleton Skull
+
+# ep1_crg_granite_largerock1.prop - sporepediaName, blockName
+0x59b82429 Granite Rock
+
+# ep1_crg_granite_mediumrock1.prop - sporepediaName, blockName
+0x55939fcd Granite Stack
+
+# ep1_crg_granite_smallrock1.prop - sporepediaName, blockName
+0x1831f8c5 Granite Formation
+
+# ep1_crg_localrock01.prop - sporepediaName, blockName
+0x1d3d470e Local Rock
+
+# ep1_crg_localrock02.prop - sporepediaName, blockName
+0x1d3d470d Local Stack
+
+# ep1_crg_marshmellow_largerock1.prop - sporepediaName, blockName
+0x66246b5c Marshmallow Rock
+
+# ep1_crg_marshmellow_largerock2.prop - sporepediaName, blockName
+0x66246b5f Marshmallow Stack
+
+# ep1_crg_marshmellow_mediumrock1.prop - sporepediaName, blockName
+0x3da4a246 Marshmallow Formation
+
+# ep1_crg_organic_largerock1.prop - sporepediaName, blockName
+0x03520182 Organic Rock
+
+# ep1_crg_organic_mediumrock1.prop - sporepediaName, blockName
+0xb3391090 Organic Stack
+
+# ep1_crg_organic_smallrock1.prop - sporepediaName, blockName
+0x93a9a26e Organic Formation
+
+
+# ep1_crg_part_unlock_skeleton2.prop - sporepediaName, blockName
+0x8d21df3f Skeleton Ribcage
+
+# ep1_crg_part_unlock_skeleton3.prop - sporepediaName, blockName
+0x8d21df3e Skeleton Spine
+
+# ep1_crg_part_unlock_skeleton4.prop - sporepediaName, blockName
+0x8d21df39 Skeleton Fish
+
+# ep1_crg_pickle_largerock1.prop - sporepediaName, blockName
+0xc3d34b47 Pickle Rock
+
+# ep1_crg_pickle_largerock2.prop - sporepediaName, blockName
+0xc3d34b44 Pickle Stack
+
+# ep1_crg_pickle_mediumrock1.prop - sporepediaName, blockName
+0xed955387 Pickle Formation
+
+# ep1_crg_pickle_smallrock1.prop - sporepediaName, blockName
+0x7b42cbaf Pickle Cluster
+
+# ep1_crg_pineapple_largerock1.prop - sporepediaName, blockName
+0xa16e26a1 Pineapple Rock
+
+# ep1_crg_pineapple_largerock2.prop - sporepediaName, blockName
+0xa16e26a2 Pineapple Stack
+
+# ep1_crg_pineapple_mediumrock2.prop - sporepediaName, blockName
+0xe8370436 Pineapple Formation
+
+# ep1_crg_pineapple_smallrock1.prop - sporepediaName, blockName
+0xac68fc1d Pineapple Cluster
+
+# ep1_crg_potatoeye_largerock1.prop - sporepediaName, blockName
+0xe4e11e07 Potato Rock
+
+# ep1_crg_potatoeye_smallrock1.prop - sporepediaName, blockName
+0x68c4e96f Potato Stack
+
+# ep1_crg_rattlesnake_largerock1.prop - sporepediaName, blockName
+0x9e9baad5 Rattlesnake Rock
+
+# ep1_crg_rattlesnake_mediumrock2.prop - sporepediaName, blockName
+0xe8a18d72 Rattlesnake Stack
+
+# ep1_crg_rattlesnake_smallrock1.prop - sporepediaName, blockName
+0x6b86bc41 Rattlesnake Formation
+
+# ep1_crg_sandstone_largerock1.prop - sporepediaName, blockName
+0x6db644f8 Sandstone Rock
+
+# ep1_crg_sandstone_largerock2.prop - sporepediaName, blockName
+0x6db644fb Sandstone Stack
+
+# ep1_crg_sandstone_mediumrock1.prop - sporepediaName, blockName
+0xdc4ede5a Sandstone Formation
+
+# ep1_crg_shitaake_largerock1.prop - sporepediaName, blockName
+0x77d2234d Shiitake Rock
+
+# ep1_crg_shitaake_largerock2.prop - sporepediaName, blockName
+0x77d2234e Shiitake Stack
+
+# ep1_crg_shitaake_largerock3.prop - sporepediaName, blockName
+0x77d2234f Shiitake Formation
+
+# ep1_crg_shitaake_largerock4.prop - sporepediaName, blockName
+0x77d22348 Shiitake Cluster
+
+# ep1_crg_spikes_largerock1.prop - sporepediaName, blockName
+0x807c3f4e Spikey Rock
+
+# ep1_crg_spikes_smallrock1.prop - sporepediaName, blockName
+0xb5de8c9a Spikey Stack
+
+# ep1_crg_stackrocks_largerock1.prop - sporepediaName, blockName
+0x5252e30b Stack Rock
+
+# ep1_crg_stackrocks_mediumrock1.prop - sporepediaName, blockName
+0x65ae4e63 Stack Formation
+
+# ep1_crg_stackrocks_smallrock2.prop - sporepediaName, blockName
+0xcc8b8520 Stack Cluster
+
+# ep1_crg_swiss_largerock1.prop - sporepediaName, blockName
+0xf4087b40 Dimple Rock
+
+# ep1_crg_swiss_mediumrock1.prop - sporepediaName, blockName
+0xd5fcdad2 Dimple Stack
+
+# ep1_crg_swiss_smallrock1.prop - sporepediaName, blockName
+0xde9b2828 Dimple Formation
+
+# ep1_crg_tentacle_largerock1.prop - sporepediaName, blockName
+0xf456a6ef Tentacle Rock
+
+# ep1_crg_tentacle_mediumrock1.prop - sporepediaName, blockName
+0x40c4425f Tentacle Stack
+
+# ep1_crg_tentacle_smallrock1.prop - sporepediaName, blockName
+0xdf111417 Tentacle Formation
+
+# ep1_crg_tribal_largerock1.prop - sporepediaName, blockName
+0x28e8f5b1 Tribal Rock
+
+# ep1_crg_tribal_largerock2.prop - sporepediaName, blockName
+0x28e8f5b2 Tribal Stack
+
+# ep1_crg_tribal_mediumrock2.prop - sporepediaName, blockName
+0xf2cb65a6 Tribal Formation
+
+# ep1_crg_tribal_smallrock1.prop - sporepediaName, blockName
+0x9ba674ed Tribal Cluster
+
+# ep1_he_canvas_1.prop - sporepediaName, blockName
+0x0543edea Hut Paper
+
+# ep1_he_canvas_2.prop - sporepediaName, blockName
+0x0543ede9 Hut Cloth
+
+# ep1_he_canvas_3.prop - sporepediaName, blockName
+0x0543ede8 Hut Canvas
+
+# ep1_he_simple_1.prop - sporepediaName, blockName
+0x4f487c5c Hut Simple
+
+# ep1_he_simple_2.prop - sporepediaName, blockName
+0x4f487c5f Hut Generic
+
+# ep1_he_simple_3.prop - sporepediaName, blockName
+0x4f487c5e Hut Basic
+
+# ep1_he_timber_1.prop - sporepediaName, blockName
+0xd7e0d95f Hut Timber
+
+# ep1_he_timber_2.prop - sporepediaName, blockName
+0xd7e0d95c Hut Wood
+
+# ep1_he_timber_3.prop - sporepediaName, blockName
+0xd7e0d95d Hut Splinter
+
+# ep1_he_yurt_1.prop - sporepediaName, blockName
+0xc8b6dd5e Hut Yurt
+
+# ep1_he_yurt_2.prop - sporepediaName, blockName
+0xc8b6dd5d Hut Happy
+
+# ep1_he_yurt_3.prop - sporepediaName, blockName
+0xc8b6dd5c Hut Hip
+
+# ep1_log1.prop - sporepediaName, blockName, interactableObjectName
+0x396cb771 Log
+
+# ep1_scm_boulder.prop - sporepediaName, blockName, interactableObjectName
+0x848356e7 Boulder
+
+# ep1_scm_fruit.prop - sporepediaName, blockName, interactableObjectName
+0xe9e9ee66 Fruit
+
+# ep1_scm_pipe.prop - sporepediaName, blockName, interactableObjectName
+0xe45ad0b4 Stick
+
+# ep1_sg_colonytool_bioprotector.prop - sporepediaName, blockName
+0x6ca72c2a Colony Bio Protector
+
+# ep1_sg_colonytool_biostabilizer.prop - sporepediaName, blockName
+0x6cf94a37 Colony Bio Stabilizer
+
+# ep1_sg_colonytool_econstorage.prop - sporepediaName, blockName
+0x514acc9c Colony Spice Storage
+
+# ep1_sg_colonytool_embassy.prop - sporepediaName, blockName
+0x17f7d6fe Colony Embassy
+
+# ep1_sg_colonytool_planethappy.prop - sporepediaName, blockName
+0x7c6a7586 Colony Happiness Booster
+
+# ep1_sg_colonytool_planetloyal.prop - sporepediaName, blockName
+0x3485a48b Colony Loyalty Booster
+
+# ep1_sg_colonytool_preserve.prop - sporepediaName, blockName
+0x4986ca52 Colony Wildlife Sanctuary
+
+# ep1_sg_monolith.prop - sporepediaName, blockName
+0xb8fe6e0b Monolith
+
+# ep1_sg_rare_gem_01.prop - sporepediaName, blockName
+0xbc469bef Gem Pile Pink
+
+# ep1_sg_rare_gem_02.prop - sporepediaName, blockName
+0xbc469bec Gem Stash Red
+
+# ep1_sg_rare_gem_03.prop - sporepediaName, blockName
+0xbc469bed Gem Bunch Yellow
+
+# ep1_sg_rare_gem_04.prop - sporepediaName, blockName
+0xbc469bea Gem Pile Blue
+
+# ep1_sg_rare_gem_05.prop - sporepediaName, blockName
+0xbc469beb Gem Pile Green
+
+# ep1_sg_rare_gem_06.prop - sporepediaName, blockName
+0xbc469be8 Gem Pile Lavender
+
+# ep1_sg_rare_gem_07.prop - sporepediaName, blockName
+0xbc469be9 Gem Bunch Opals
+
+# ep1_sg_rare_gem_08.prop - sporepediaName, blockName
+0xbc469be6 Gem Stack Blue
+
+# ep1_sg_rare_gem_09.prop - sporepediaName, blockName
+0xbc469be7 Gem Stack Green
+
+# ep1_sg_rare_gem_10.prop - sporepediaName, blockName
+0xbd469d41 Gem Stack Pink
+
+# ep1_sg_rare_geodes_01.prop - sporepediaName, blockName
+0x2987f4ff Geode Yellow
+
+# ep1_sg_rare_geodes_02.prop - sporepediaName, blockName
+0x2987f4fc Geode Green
+
+# ep1_sg_rare_geodes_03.prop - sporepediaName, blockName
+0x2987f4fd Geode Red
+
+# ep1_sg_rare_geodes_04.prop - sporepediaName, blockName
+0x2987f4fa Geode Blue
+
+# ep1_sg_rare_geodes_05.prop - sporepediaName, blockName
+0x2987f4fb Geode Pink
+
+# ep1_sg_rare_geodes_06.prop - sporepediaName, blockName
+0x2987f4f8 Geode Orange
+
+# ep1_sg_rare_geodes_07.prop - sporepediaName, blockName
+0x2987f4f9 Geode Gray
+
+# ep1_sg_rare_geodes_08.prop - sporepediaName, blockName
+0x2987f4f6 Geode Teal
+
+# ep1_sg_rare_geodes_09.prop - sporepediaName, blockName
+0x2987f4f7 Geode Purple
+
+# ep1_sg_rare_geodes_10.prop - sporepediaName, blockName
+0x2a87f651 Geode Black
+
+# ep1_stick1.prop - sporepediaName, blockName, interactableObjectName (REMOVE)
+0x79de54e3 Wooden Stick
+
+# ep1_tt_firepit_home_01.prop - sporepediaName, blockName
+0xea2585b4 Fire Pit
+
+# ep1_tt_firepit_home_02.prop - sporepediaName, blockName
+0xea2585b7 Fire Pile
+
+# ep1_tt_firepit_home_03.prop - sporepediaName, blockName
+0xea2585b6 Fire Stove
+
+# ep1_tt_fish_home_02.prop - sporepediaName, blockName
+0x38ae0bcc Fish Hut
+
+# ep1_tt_fish_home_03.prop - sporepediaName, blockName
+0x38ae0bcd Fish Market
+
+# ep1_tt_gather_home_01.prop - sporepediaName, blockName
+0x94cd5c04 Gather Hut
+
+# ep1_tt_gather_home_02.prop - sporepediaName, blockName
+0x94cd5c07 Gather Storage
+
+# ep1_tt_heal_home_00.prop - sporepediaName, blockName
+0x593a20b6 Medi Pad
+
+# ep1_tt_heal_home_01.prop - sporepediaName, blockName
+0x593a20b7 Medi Tent
+
+# ep1_tt_heal_home_02.prop - sporepediaName, blockName
+0x593a20b4 Medi Hut
+
+# ep1_tt_recruit_home_01.prop - sporepediaName, blockName
+0xc1bf7295 Totem Rack
+
+# ep1_tt_recruit_home_02.prop - sporepediaName, blockName
+0xc1bf7296 Totem Pole
+
+# ep1_tt_tombstone.prop - sporepediaName, blockName
+0x1706cf9e Tombstone
+
+# ep1_ci_objects_floracontainers_large1.prop - sporepediaName, blockName
+0x39022975 Giggle n Greens
+
+# ep1_ci_objects_floracontainers_medium1.prop - sporepediaName, blockName
+0x0c836597 Green Tentacle
+
+# ep1_ci_objects_floracontainers_medium2.prop - sporepediaName, blockName
+0x0c836594 Foliage Folly
+
+# ep1_ci_objects_floracontainers_small1.prop - sporepediaName, blockName
+0xda19f66d Pleather Shrub
+
+# ep1_sg_lifescrolls_01.prop - sporepediaName, blockName
+0x0ee35325 Scroll Aqua
+
+# ep1_sg_lifescrolls_02.prop - sporepediaName, blockName
+0x0ee35326 Scroll Fuchsia
+
+# ep1_sg_lifescrolls_03.prop - sporepediaName, blockName
+0x0ee35327 Scroll Green
+
+# ep1_sg_lifescrolls_04.prop - sporepediaName, blockName
+0x0ee35320 Scroll Red
+
+# ep1_sg_lifescrolls_05.prop - sporepediaName, blockName
+0x0ee35321 Scroll Mint
+
+# ep1_sg_lifescrolls_06.prop - sporepediaName, blockName
+0x0ee35322 Scroll Orange
+
+# ep1_sg_lifescrolls_07.prop - sporepediaName, blockName
+0x0ee35323 Scroll Blue
+
+# ep1_sg_lifescrolls_08.prop - sporepediaName, blockName
+0x0ee3532c Scroll Purple
+
+# ep1_sg_lifescrolls_09.prop - sporepediaName, blockName
+0x0ee3532d Scroll Grey
+
+# ep1_sg_lifescrolls_10.prop - sporepediaName, blockName
+0x0fe35497 Scroll Hot Pink
+
+# ep1_sg_rare_fossils_01.prop - sporepediaName, blockName
+0xa8469135 Fossil Flyswatter
+
+# ep1_sg_rare_fossils_02.prop - sporepediaName, blockName
+0xa8469136 Fossil Leaf
+
+# ep1_sg_rare_fossils_03.prop - sporepediaName, blockName
+0xa8469137 Fossil Treat
+
+# ep1_sg_rare_fossils_04.prop - sporepediaName, blockName
+0xa8469130 Fossil Badge
+
+# ep1_sg_rare_fossils_05.prop - sporepediaName, blockName
+0xa8469131 Fossil Paw
+
+# ep1_sg_rare_fossils_06.prop - sporepediaName, blockName
+0xa8469132 Fossil Shell
+
+# ep1_sg_rare_fossils_07.prop - sporepediaName, blockName
+0xa8469133 Fossil Fish
+
+# ep1_sg_rare_fossils_08.prop - sporepediaName, blockName
+0xa846913c Fossil Candy
+
+# ep1_sg_rare_fossils_09.prop - sporepediaName, blockName
+0xa846913d Fossil Fluffers
+
+# ep1_sg_rare_fossils_10.prop - sporepediaName, blockName
+0xa94692a7 Fossil Scary
+
+# ep1_sg_rare_relics_01.prop - sporepediaName, blockName
+0x95a56b30 Ancient Urn
+
+# ep1_sg_rare_relics_02.prop - sporepediaName, blockName
+0x95a56b33 Ancient Pot
+
+# ep1_sg_rare_relics_03.prop - sporepediaName, blockName
+0x95a56b32 Ancient Sword
+
+# ep1_sg_rare_relics_04.prop - sporepediaName, blockName
+0x95a56b35 Ancient Scrolls
+
+# ep1_sg_rare_relics_05.prop - sporepediaName, blockName
+0x95a56b34 Ancient Books
+
+# ep1_sg_rare_relics_06.prop - sporepediaName, blockName
+0x95a56b37 Ancient Tablet
+
+# ep1_sg_rare_relics_07.prop - sporepediaName, blockName
+0x95a56b36 Ancient Column
+
+# ep1_sg_rare_relics_08.prop - sporepediaName, blockName
+0x95a56b39 Ancient Sporehenge
+
+# ep1_sg_rare_relics_09.prop - sporepediaName, blockName
+0x95a56b38 Ancient Mask
+
+# ep1_sg_rare_relics_10.prop - sporepediaName, blockName
+0x94a5695e Ancient Chest
+
+# ep1_sg_rare_statues_01.prop - sporepediaName, blockName
+0xd69a3ec9 Statue Hand
+
+# ep1_sg_rare_statues_02.prop - sporepediaName, blockName
+0xd69a3eca Statue Bust
+
+# ep1_sg_rare_statues_03.prop - sporepediaName, blockName
+0xd69a3ecb Statue Head
+
+# ep1_sg_rare_statues_04.prop - sporepediaName, blockName
+0xd69a3ecc Statue Leg
+
+# ep1_sg_rare_statues_05.prop - sporepediaName, blockName
+0xd69a3ecd Statue Thinker
+
+# ep1_sg_rare_statues_06.prop - sporepediaName, blockName
+0xd69a3ece Statue Creature
+
+# ep1_sg_rare_statues_07.prop - sporepediaName, blockName
+0xd69a3ecf Statue Torch
+
+# ep1_sg_rare_statues_08.prop - sporepediaName, blockName
+0xd69a3ec0 Statue Torso
+
+# ep1_sg_rare_statues_09.prop - sporepediaName, blockName
+0xd69a3ec1 Statue Foot
+
+# ep1_sg_rare_statues_10.prop - sporepediaName, blockName
+0xd79a40bb Statue Oogie
+
+# ep1_sg_treasure_chest.prop - sporepediaName, blockName
+0x9c2e26da Treasured Chest
+
+# ep1_sg_treasure_crown.prop - sporepediaName, blockName
+0x4df2ad08 Treasured Crown
+
+# ep1_sg_treasure_gnome.prop - sporepediaName, blockName
+0xa39aa3f5 Treasured Gnome
+
+# ep1_sg_treasure_grail.prop - sporepediaName, blockName
+0x74b3943e Treasured Grail
+
+# ep1_sg_treasure_idol.prop - sporepediaName, blockName
+0x1082fa69 Treasured Idol
+
+# ep1_sg_treasure_llama.prop - sporepediaName, blockName
+0x7aeb9e7a Treasured Llama
+
+# ep1_sg_treasure_plate.prop - sporepediaName, blockName
+0xbe6c9839 Treasured Plate
+
+# ep1_sg_treasure_scepter.prop - sporepediaName, blockName
+0xad7a7883 Treasured Scepter
+
+# ep1_sg_treasure_snowglobe.prop - sporepediaName, blockName
+0xc1d8c43d Treasured Snowglobe
+
+# ep1_sg_treasure_trophy.prop - sporepediaName, blockName
+0xe8cf16dd Treasured Trophy
+
+# ep1_altar.prop - sporepediaName, blockName, interactableObjectName
+0xe16380ca Altar
+
+# ep1_cr_egg_01_base.prop - sporepediaName, blockName, interactableObjectName
+0xc6bda5d1 Egg Love
+
+# ep1_cr_egg_02_base.prop - sporepediaName, blockName, interactableObjectName
+0x2468c52c Egg Envy
+
+# ep1_cr_egg_03_base.prop - sporepediaName, blockName, interactableObjectName
+0xa20e73f7 Egg Groovy
+
+# ep1_cr_egg_04_base.prop - sporepediaName, blockName, interactableObjectName
+0xbea88252 Egg Solid
+
+# ep1_cr_egg_05_base.prop - sporepediaName, blockName, interactableObjectName
+0xeebcc585 Egg Happy
+
+# ep1_cr_egg_06_base.prop - sporepediaName, blockName, interactableObjectName
+0xeb03a930 Egg Alien
+
+# ep1_cr_egg_07_base.prop - sporepediaName, blockName, interactableObjectName
+0x227e2dbb Egg Quark
+
+# ep1_cr_egg_08_base.prop - sporepediaName, blockName, interactableObjectName
+0x3120fe36 Egg Sandy
+
+# ep1_cr_egg_09_base.prop - sporepediaName, blockName, interactableObjectName
+0x693ae6f9 Egg Stripe
+
+# ep1_cr_egg_10_base.prop - sporepediaName, blockName, interactableObjectName
+0x1e8a2fb3 Egg Sassy
+
+# ep1_egg_platter.prop - sporepediaName, blockName, interactableObjectName
+0x87443818 Egg Platter
+
+# ep1_eggpen.prop - sporepediaName, blockName, interactableObjectName
+0x00630922 Egg Pen
+
+# ep1_fishpile.prop - sporepediaName, blockName, interactableObjectName
+0xec494b94 Pile Fish
+
+# ep1_fruitpile.prop - sporepediaName, blockName, interactableObjectName
+0x20cbccf0 Pile Fruit
+
+# ep1_hh_axe.prop - sporepediaName, blockName, interactableObjectName
+0x6f0a60f3 Axe
+
+# ep1_hh_ball.prop - sporepediaName, blockName, interactableObjectName
+0x3af78586 Ball Leather
+
+# ep1_hh_didgeridoo.prop - sporepediaName, blockName, interactableObjectName
+0x62d4e39f Didgeridoo
+
+# ep1_hh_gift.prop - sporepediaName, blockName, interactableObjectName
+0x11c9460b Gift
+
+# ep1_hh_horn.prop - sporepediaName, blockName, interactableObjectName
+0xc6ff020a Horn
+
+# ep1_hh_horn2.prop - sporepediaName, blockName, interactableObjectName
+0x4d70358c Kazzoozle
+
+# ep1_hh_mallet.prop - sporepediaName, blockName, interactableObjectName
+0xc0970d14 Mallet
+
+# ep1_hh_maraca.prop - sporepediaName, blockName, interactableObjectName
+0xeb3cbc6c Maraca
+
+# ep1_hh_spear.prop - sporepediaName, blockName, interactableObjectName
+0xad2601ec Spear
+
+# ep1_hh_staff1.prop - sporepediaName, blockName, interactableObjectName
+0xc3ce19fa Wand
+
+# ep1_hh_staff2.prop - sporepediaName, blockName, interactableObjectName
+0xc3ce19f9 Staff
+
+# ep1_hh_staff3.prop - sporepediaName, blockName, interactableObjectName
+0xc3ce19f8 Scepter
+
+# ep1_hh_torch.prop - sporepediaName, blockName, interactableObjectName
+0x460969f9 Torch
+
+# ep1_hh_whiteflag.prop - sporepediaName, blockName, interactableObjectName
+0xbe6bac7e Flag
+
+# ep1_meatpile.prop - sporepediaName, blockName, interactableObjectName
+0xdc2066bf Pile Meat
+
+# ep1_tt_chieftain_staff.prop - sporepediaName, blockName, interactableObjectName
+0xc50ee997 Chieftain Staff
+
+# ep1_altarreligious.prop - sporepediaName, blockName, interactableObjectName
+0x01807b83 Altar Religious
+
+# ep1_cr_feature_easterhead.prop - sporepediaName, blockName, interactableObjectName
+0xc0e72519 Stone Head
+
+# ep1_cr_feature_obelisk.prop - sporepediaName, blockName, interactableObjectName
+0x2fabffa8 Stone Obelisk
+
+# ep1_cr_feature_temple.prop - sporepediaName, blockName, interactableObjectName
+0x4fb50bba Stone Temple
+
+# ep1_gmp_explosivebarrel.prop - sporepediaName, blockName
+0xa0ebd95a Explosive Barrel
+
+# ep1_gmp_keycardblue.prop - sporepediaName, blockName
+0xff562b48 Blue Key
+
+# ep1_gmp_keycardgreen.prop - sporepediaName, blockName
+0x293fc645 Green Key
+
+# ep1_gmp_keycardred.prop - sporepediaName, blockName
+0x35e79d51 Red Key
+
+# ep1_gmp_keycardwhite.prop - sporepediaName, blockName
+0xfd7178fb White Key
+
+# ep1_gmp_keycardyellow.prop - sporepediaName, blockName
+0x979592bc Yellow Key
+
+# ep1_gmp_keygold.prop - sporepediaName, blockName
+0xc8772dcc Key Gold
+
+# ep1_gmp_keysilver.prop - sporepediaName, blockName
+0x2aba2e61 Key Silver
+
+# ep1_gmp_mine.prop - sporepediaName, blockName  (This isn't being called)
+0xfc55ab1c Mine 2
+
+# ep1_hh_air_remote.prop - sporepediaName, blockName, interactableObjectName
+0x4b17dc40 Controller
+
+# ep1_hh_platter_fish_03.prop - sporepediaName, blockName, interactableObjectName
+0xe9f2d278 Fish Platter
+
+# ep1_hh_platter_fruit_03.prop - sporepediaName, blockName, interactableObjectName
+0xb0425064 Fruit Platter
+
+# ep1_hh_platter_meat_03.prop - sporepediaName, blockName, interactableObjectName
+0x43934059 Meat Platter
+
+# ep1_hh_sword.prop - sporepediaName, blockName, interactableObjectName
+0x3b63fb94 Sword
+
+# ep1_meteorite.prop - sporepediaName, blockName, interactableObjectName
+0x34fc8e92 Meteorite
+
+# ep1_powerup_armorboost.prop - sporepediaName, blockName
+0xa880f62b Power-Up Armor
+
+# ep1_powerup_damageboost.prop - sporepediaName, blockName
+0xa340633b Power-Up Damage
+
+# ep1_powerup_energykit.prop - sporepediaName, blockName
+0x56cce16b Power-Up Energy
+
+# ep1_powerup_jumppad.prop - sporepediaName, blockName
+0x3144b430 Jump Pad 
+
+# ep1_powerup_medkit.prop - sporepediaName, blockName
+0x71b5854f Power-Up Health
+
+# ep1_powerup_spawner.prop - sporepediaName, blockName
+0xa6df862b Spawner Single
+
+# ep1_powerup_speedboost.prop - sporepediaName, blockName
+0xb50bd5cf Power-Up Speed
+
+# ep1_powerup_teleporter.prop - sporepediaName, blockName
+0x90c48d09 Teleporter
+
+# ep1_sg_crate_spice_01.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d27 Spice Crate Pink
+
+# ep1_sg_crate_spice_02.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d24 Spice Crate Green
+
+# ep1_sg_crate_spice_03.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d25 Spice Crate Blue
+
+# ep1_sg_crate_spice_04.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d22 Spice Crate Yellow
+
+# ep1_sg_crate_spice_05.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d23 Spice Crate Purple
+
+# ep1_sg_crate_spice_06.prop - sporepediaName, blockName, interactableObjectName
+0xa3a49d20 Spice Crate Orange
+
+# ep1_gmp_bomb.prop - sporepediaName, blockName
+0xc7c9cc8d Bomb Medium
+
+# ep1_powerup_mine.prop - sporepediaName
+0xf70ab170 Mine
+
+# ep1_hh_flask.prop - sporepediaName, blockName, interactableObjectName
+0xd12a2dc6 Flask
+
+# ep1_powerup_jumppad_big.prop - sporepediaName
+0x43a3b2eb Jump Pad Large
+
+# ep1_powerup_jumppad_small.prop - sporepediaName
+0x505c14ec Jump Pad Small
+
+# ep1_gmp_grenade.prop - sporepediaName, blockName, interactableObjectName
+0x812057c5 Grenade
+
+# ep1_gmp_gateblue.prop - sporepediaName, blockName
+0x4117bf2c Blue Gate
+
+# ep1_gmp_gategreen.prop - sporepediaName, blockName
+0x7d14bb49 Green Gate
+
+# ep1_gmp_gatered.prop - sporepediaName, blockName
+0x8e83d305 Red Gate
+
+# ep1_gmp_gatewhite.prop - sporepediaName, blockName
+0x21329a37 White Gate
+
+# ep1_gmp_gateyellow.prop - sporepediaName, blockName
+0x34fb4ab0 Yellow Gate
+
+# ep1_powerup_spawnerfinite.prop - sporepediaName, blockName
+0xea5efae6 Spawner Fixed
+
+# ep1_powerup_spawnerreincarnate.prop - sporepediaName, blockName
+0x1d8d9eef Spawner Replace
+
+# ep1_epicegg.prop - sporepediaName, blockName, interactableObjectName
+0x8a66acc0 Epic Egg
+
+# ep1_hh_blaster.prop - sporepediaName, blockName, interactableObjectName
+0x10a38834 Blaster
+
+# ep1_hh_coppercoin.prop - sporepediaName, blockName, interactableObjectName
+0x070104b9 Coin
+
+# ep1_hh_feather.prop - sporepediaName, blockName, interactableObjectName
+0x09a1c742 Feather
+
+# ep1_hh_plainbag.prop - sporepediaName, blockName, interactableObjectName
+0x66a6d227 Plain Bag
+
+# ep1_hh_sampler.prop - sporepediaName, blockName, interactableObjectName
+0x5f5328ef Sampler
+
+# ep1_hh_swordblue.prop - sporepediaName, blockName, interactableObjectName
+0xce8c38d0 Sword Blue
+
+# ep1_hh_swordinflatable.prop - sporepediaName, blockName, interactableObjectName
+0x7a657424 Sword Play
+
+# ep1_hh_swordred.prop - sporepediaName, blockName, interactableObjectName
+0x3e1b3659 Sword Red
+
+# ep1_barrel.prop - sporepediaName, blockName, interactableObjectName
+0xe85e4fb6 Classic Barrel
+
+# ep1_beachball.prop - sporepediaName, blockName, interactableObjectName
+0x3b464a50 Ball Beach
+
+# ep1_cannonball.prop - sporepediaName, blockName, interactableObjectName
+0x365608f2 Ball Cannon
+
+# ep1_gmp_bomblong.prop - sporepediaName, blockName
+0xd41f216b Bomb Long
+
+# ep1_gmp_bombshort.prop - sporepediaName, blockName
+0x48b8e425 Bomb Short
+
+# ep1_gmp_destructiblecrate.prop - sporepediaName, blockName
+0x93512140 Crate Classic
+
+# ep1_hh_keygold.prop - sporepediaName, blockName, interactableObjectName
+0x7af4da7c Key Gold
+
+# ep1_hh_keysilver.prop - sporepediaName, blockName, interactableObjectName
+0x630509b1 Key Silver
+
+# ep1_opengate.prop - sporepediaName, blockName, interactableObjectName
+0xd520b83f Open Gate
+
+# ep1_spawner.prop - sporepediaName, blockName, interactableObjectName
+0xc7705a0e Tech Pad

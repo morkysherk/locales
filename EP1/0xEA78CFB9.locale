@@ -1,0 +1,62 @@
+0x07737316 Attack
+0x07737317 Idle 
+0x07737318 Patrol 
+0x07737319 Pickup 
+0x07737424 Give to 
+0x0773731a Shoot
+0x0773731b Wander 
+0x07737325 Track 
+0x07737326 Threaten
+0x0773731c Flee 
+0x0773731d Move to 
+0x0773731e Socialize
+0x0773731f Receive 
+0x07737320 Emote 
+0x07737321 Drop 
+0x07737322 Throw 
+0x07737323 Use 
+0x07737324 Follow 
+0x07df5fb4 All
+0x07df5fb5 Player
+            
+0x07f18d40 Always 
+0x07f18d41 Aware of
+0x07737327 Attacked by 
+0x07737328 I'm Carrying
+0x07737329 It's Holding
+0x07737330 First Sight 
+0x0773733a Timer 
+0x0773733b Health 
+0x0773733c Energy 
+            
+0x0773733e Angry 
+0x0773733f Cheer 
+0x07737340 Laugh 
+0x07737341 Dance 
+0x07737342 Scared 
+0x07737343 Sad 
+0x07737344 Sickened 
+0x07737345 Greet 
+0x07737346 Neutral 
+0x07737347 Talk Neutral
+0x07737348 Talk Angry
+0x07737349 Talk Happy
+0x07737350 Talk Scared
+0x0773735a Talk Sad
+
+0x07df05c5 Above 20%
+0x07df05cd Above 50%
+0x07df05d1 Above 75%
+0x07df05d6 Below 100%
+0x07df06da Below 75%
+0x07df05e4 Below 50%
+0x07df05ed Below 25%
+
+0x07fedf87 10 Sec
+0x07fedf88 30 sec
+0x07fedf89 60 sec
+
+0x0773735a Below ~Generic0~% 
+0x0773735b Above ~Generic0~% 
+            
+0x0773735c ~Generic0~ sec 

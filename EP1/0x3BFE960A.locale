@@ -1,0 +1,521 @@
+﻿# palette_crowd_awe.prop - sporepediaName
+0xbcbaee74 Awed Crowd
+
+# palette_crowd_cheer.prop - sporepediaName
+0x630fca5e Cheering Crowd
+
+# palette_crowd_indoor.prop - sporepediaName
+0x81ffb696 Indoor Crowd
+
+# palette_crowd_outdoor.prop - sporepediaName
+0x2a2ab25d Outdoor Crowd
+
+# palette_crowd_panic.prop - sporepediaName
+0x0a63ab0c Panicking Crowd
+
+# palette_crowd_protest.prop - sporepediaName
+0x8e39c044 Protesting Crowd
+
+# palette_crowd_stadium.prop - sporepediaName
+0xe6022af0 Stadium Crowd
+
+# palette_crowd_worship.prop - sporepediaName
+0xc3e07bab Worship Crowd
+
+# palette_music_african_percussion_loop.prop - sporepediaName
+0xb06dcb8a World Percussion
+
+# palette_music_ancient_kingdom_loopa.prop - sporepediaName
+0x4fc16b7f Ancient Kingdom 1
+
+# palette_music_ancient_kingdom_loopb.prop - sporepediaName
+0x4fc16b7c Ancient Kingdom 2
+
+# palette_music_angelic_dream_loop.prop - sporepediaName
+0x8a5e57e1 Angelic Dream
+
+# palette_music_bebop_jazz_loop.prop - sporepediaName
+0x6fa37af4 Bebop
+
+# palette_music_bigband_loopa.prop - sporepediaName
+0x5613be9e Big Band 1
+
+# palette_music_bigband_loopb.prop - sporepediaName
+0x5613be9d Big Band Part 2
+
+# palette_music_bollywood_loopsection.prop - sporepediaName
+0x726017e8 Bollywood
+
+# palette_music_country_bluegrass_loop.prop - sporepediaName
+0xdcf37f3f Bluegrass
+
+# palette_music_country_landscape_loop.prop - sporepediaName
+0x44fbbc98 Country Landscape
+
+# palette_music_creepy_action_loopa.prop - sporepediaName
+0xbcc4a88c Creepy Action 1
+
+# palette_music_creepy_action_loopb.prop - sporepediaName
+0xbcc4a88f Creepy Action 2
+
+# palette_music_egyptian_mystery_loop.prop - sporepediaName
+0xcaaaa8e9 Relic Mystery
+
+# palette_music_epic_adventure_loop.prop - sporepediaName
+0x974e8884 Epic Adventure
+
+# palette_music_haunted_loop.prop - sporepediaName
+0x1f3a7a25 Haunted
+
+# palette_music_horror_loop.prop - sporepediaName
+0xa1bdda86 Horror
+
+# palette_music_japanese_shakuhachi_loop.prop - sporepediaName
+0xe6911f3d Wooden Flutes
+
+# palette_music_klezmer_loop.prop - sporepediaName
+0x520c917c Klezmer
+
+# palette_music_latin_chacha_loop.prop - sporepediaName
+0x37bd9e75 Cha Cha
+
+# palette_music_metal_loop.prop - sporepediaName
+0xfb21f5eb Metal Madness
+
+# palette_music_moongarden_loop.prop - sporepediaName
+0x056d68a2 Psychedelic Moongarden
+
+# palette_music_raga_loop.prop - sporepediaName
+0x905e545b Raj Raga
+
+# palette_music_rockabilly_loop.prop - sporepediaName
+0x2556e7c6 Rockabilly
+
+# palette_music_smooth_city_night_loop.prop - sporepediaName
+0xeb810f91 Smooth City Night
+
+# palette_music_vaudville_loop.prop - sporepediaName
+0x8ce5c2ec Vaudeville
+
+# palette_music_victory_march_loop.prop - sporepediaName
+0xc4485d1e Victory March
+
+# palette_trigger_explosion.prop - sporepediaName
+0xa954ea2b Explosion
+
+# pallette_envir_abstract.prop - sporepediaName
+0x6561f4a8 Sci Fi Ambience 
+
+# pallette_envir_beach.prop - sporepediaName
+0x37b69643 Beach Ambience
+
+# pallette_envir_birds_a.prop - sporepediaName
+0x0db242ae Birds Ambience 
+
+# pallette_envir_birds_b.prop - sporepediaName
+0x0db242ad Crickets Ambience 
+
+# pallette_envir_birds_heavy.prop - sporepediaName
+0x13dd47e6 Forest Ambience
+
+# pallette_envir_birds_light.prop - sporepediaName
+0x3d6a27b3 Nestling Ambience
+
+# pallette_envir_cold_wind.prop - sporepediaName
+0x2ae9f2b9 Cold Wind
+
+# pallette_envir_desolate_wind.prop - sporepediaName
+0xd6ede306 Desolate Wind
+
+# pallette_envir_evil_whisper.prop - sporepediaName
+0x3225007b Evil Whispers
+
+# pallette_envir_farm.prop - sporepediaName
+0x55f883a2 Farm Ambience
+
+# pallette_envir_frog.prop - sporepediaName
+0x48d39e18 Frogs
+
+# pallette_envir_jungle_a.prop - sporepediaName
+0x6491d389 Jungle Ambience 1
+
+# pallette_envir_jungle_b.prop - sporepediaName
+0x6491d38a Jungle Ambience 2
+
+# pallette_envir_lake.prop - sporepediaName
+0x87384cfb Lake Ambience
+
+# pallette_envir_marsh.prop - sporepediaName
+0x59699e8b Marsh Ambience
+
+# pallette_envir_nightbeast.prop - sporepediaName
+0x6b998809 Night Beast
+
+# pallette_envir_space_wind.prop - sporepediaName
+0xf8109d71 Space Wind
+
+# pallette_envir_spooky_wind.prop - sporepediaName
+0x1f574dd2 Spooky Wind 
+
+# pallette_envir_the_tomb.prop - sporepediaName
+0xd40c1e44 The Tomb
+
+# pallette_envir_thunder.prop - sporepediaName
+0xcfed0328 Thunder
+
+# pallette_mech_comm_blip.prop - sporepediaName
+0xb14dfcc9 Communication Blips
+
+# pallette_mech_comm_morse.prop - sporepediaName
+0xc76cc89e Morse Code
+
+# pallette_mech_comm_radio.prop - sporepediaName
+0x1e688ab5 Radio Static 
+
+# pallette_mech_comm_static.prop - sporepediaName
+0x115ebe6e Static 1
+
+# pallette_mech_comm_static_b.prop - sporepediaName
+0x6278fd4d Static 2
+
+# pallette_mech_electric_current.prop - sporepediaName
+0x418cbb7a Electric Current
+
+# pallette_mech_factory_busy_a.prop - sporepediaName
+0x4b779deb Busy Factory 1
+
+# pallette_mech_factory_busy_b.prop - sporepediaName
+0x4b779de8 Busy Factory 2
+
+# pallette_mech_factory_busy_c.prop - sporepediaName
+0x4b779de9 Busy Factory 3
+
+# pallette_mech_factory_exhaust.prop - sporepediaName
+0x65075572 Factory Exhaust
+
+# pallette_mech_factory_rumble_a.prop - sporepediaName
+0x687f1373 Factory Rumble 1
+
+# pallette_mech_factory_rumble_b.prop - sporepediaName
+0x687f1370 Factory Rumble 2
+
+# pallette_mech_factory_steam.prop - sporepediaName
+0x8e828584 Factory Steam
+
+# pallette_mech_power_generator.prop - sporepediaName
+0x3071a036 Power Generator
+
+# pallette_mech_power_supply.prop - sporepediaName
+0xda14289a Power Supply
+
+# pallette_mech_tesla.prop - sporepediaName
+0x2c59df1a Laboratory
+
+# pallette_mech_traffic_a.prop - sporepediaName
+0xefa1a140 Traffic 1
+
+# pallette_mech_traffic_b.prop - sporepediaName
+0xefa1a143 Traffic 2
+
+# pallette_mech_traffic_c.prop - sporepediaName
+0xefa1a142 Traffic 3
+
+# pallette_mech_traffic_d.prop - sporepediaName
+0xefa1a145 Traffic 4
+
+# palette_music_wandering_loop.prop - sporepediaName
+0x820174a7 Wander
+
+# palette_note_bassguitar.prop - sporepediaName
+0x955c2773 Bass Guitar
+
+# palette_note_bell.prop - sporepediaName
+0xe76f4eff Bell
+
+# palette_note_guitar.prop - sporepediaName
+0x3712ecb2 Guitar 
+
+# palette_note_organ.prop - sporepediaName
+0x5ad8fc07 Organ
+
+# palette_note_piano.prop - sporepediaName
+0x5917edeb Dreamy Piano
+
+# palette_note_pluckstring.prop - sporepediaName
+0xc562e018 Plucked String
+
+# palette_note_puresynth.prop - sporepediaName
+0xc5555de4 Pure Synth
+
+# palette_note_synthsmooth.prop - sporepediaName
+0x93c3312c Smooth Synth
+
+# palette_note_synthstring.prop - sporepediaName
+0xdff91821 Synth String
+
+# palette_note_tangent.prop - sporepediaName
+0x8a69c57f Tangent
+
+# palette_note_wobblyguitar.prop - sporepediaName
+0x8f8f32cd Wobbly Guitar
+
+# palette_crowd_cheer_arena.prop - sporepediaName
+0x6de19bea Arena Cheer
+
+# palette_envir_battlefield_nam.prop - sporepediaName
+0x90dfdecd Battlefied Modern
+
+# palette_envir_battlefield_scifi.prop - sporepediaName
+0x7c458401 Battlefield Sci Fi
+
+# palette_envir_battlefield_worldwar.prop - sporepediaName
+0xc47ef955 Battlefield Classic
+
+# palette_envir_creepy_wolves.prop - sporepediaName
+0x4d7ec5b9 Creepy Wolves
+
+# palette_envir_drip.prop - sporepediaName
+0x507050b7 Water Drips
+
+# palette_envir_haunted.prop - sporepediaName
+0xecff8ce5 Haunted House
+
+# palette_envir_sewer.prop - sporepediaName
+0xd7e887d0 Sewer
+
+# palette_mech_bomb_armed_big.prop - sporepediaName
+0xf12a2e72 Self Destruct
+
+# palette_mech_bomb_armed_small.prop - sporepediaName
+0x3194d2e5 Detonation Timer
+
+# palette_music_boogaloo.prop - sporepediaName
+0x95a74027 Boogaloo
+
+# palette_music_hiphop_loop.prop - sporepediaName
+0x0febee8a California
+
+# palette_music_techno_loop.prop - sporepediaName
+0x2f000481 Pump-U-Up
+
+# palette_oneshot_alarm_burglar.prop - sporepediaName
+0x1e0b1f03 Alarm Ring
+
+# palette_oneshot_alarm_contamination.prop - sporepediaName
+0x98b44b9a Alarm Buzz
+
+# palette_oneshot_alarm_intruder.prop - sporepediaName
+0x30480cbd Alarm Intruder
+
+# palette_oneshot_alarm_klaxon.prop - sporepediaName
+0xf9957f5d Alarm Horn
+
+# palette_oneshot_alarm_maximum_security.prop - sporepediaName
+0x96796097 Alarm Rave
+
+# palette_oneshot_alarm_prison_break.prop - sporepediaName
+0x397b6191 Alarm Prison
+
+# palette_oneshot_alarm_self_destruct.prop - sporepediaName
+0x7fa7323f Alarm Car
+
+# palette_oneshot_applause.prop - sporepediaName
+0xe6bc7227 Applause Light
+
+# palette_oneshot_applause_arena.prop - sporepediaName
+0x10acd693 Applause Arena
+
+# palette_oneshot_crowd_boo.prop - sporepediaName
+0x50390e3c Crowd Boo
+
+# palette_oneshot_door_close_big.prop - sporepediaName
+0xd1c22d3c Door Close
+
+# palette_oneshot_door_open_big.prop - sporepediaName
+0xdb55294a Door Open
+
+# palette_oneshot_door_open_small.prop - sporepediaName
+0xacafdebd Door Creak
+
+# palette_oneshot_door_slam.prop - sporepediaName
+0x33763d62 Door Slam
+
+# palette_oneshot_explosion.prop - sporepediaName
+0x43fe4597 Explosion
+
+# palette_oneshot_fairy_wand.prop - sporepediaName
+0xda015f16 Fairy Wand
+
+# palette_oneshot_laugh.prop - sporepediaName
+0x3bdfb089 Crowd Laughs
+
+# palette_oneshot_lightning.prop - sporepediaName
+0x0e2e46c0 Lightning
+
+# palette_oneshot_scream_female.prop - sporepediaName
+0xad710320 Female Scream
+
+# palette_oneshot_scream_male.prop - sporepediaName
+0x6f3624cf Male Scream
+
+# palette_oneshot_starter_pistol.prop - sporepediaName
+0x2d041317 Starter Pistol
+
+# palette_oneshot_sting_angels.prop - sporepediaName
+0x6b710d2e Sting Angels
+
+# palette_oneshot_sting_badguy.prop - sporepediaName
+0x6a3b55ee Sting Villain
+
+# palette_oneshot_sting_bigcavedrum.prop - sporepediaName
+0xd9ff76b1 Sting Drum
+
+# palette_oneshot_sting_bigdrumhit.prop - sporepediaName
+0x8cef0f15 Sting Big Drum
+
+# palette_oneshot_sting_celestial.prop - sporepediaName
+0x6725e6de Sting Celestial
+
+# palette_oneshot_sting_comic.prop - sporepediaName
+0x110b567b Sting Barbershop
+
+# palette_oneshot_sting_currentaffair.prop - sporepediaName
+0xc0a7e920 Sting News
+
+# palette_oneshot_sting_deepdark.prop - sporepediaName
+0x15b99d2a Sting Mysterious
+
+# palette_oneshot_sting_dramatic.prop - sporepediaName
+0x58fc4587 Sting Inspiring
+
+# palette_oneshot_sting_fairytale.prop - sporepediaName
+0x7ca661cf Sting Fairy 
+
+# palette_oneshot_sting_fifties_death.prop - sporepediaName
+0x61c9e461 Sting Vertigo
+
+# palette_oneshot_sting_fifties_romance.prop - sporepediaName
+0xab8b89f8 Sting Romance
+
+# palette_oneshot_sting_happyending.prop - sporepediaName
+0xbf8df313 Sting Safe
+
+# palette_oneshot_sting_harpgliss.prop - sporepediaName
+0x46f585d9 Sting Harp
+
+# palette_oneshot_sting_hoedowna.prop - sporepediaName
+0x0457be21 Sting Hoedown 
+
+# palette_oneshot_sting_hoedownb.prop - sporepediaName
+0x0457be22 Sting Barnyard
+
+# palette_oneshot_sting_jazza.prop - sporepediaName
+0xed072628 Sting Jazz
+
+# palette_oneshot_sting_jazzb.prop - sporepediaName
+0xed07262b Sting Bigband
+
+# palette_oneshot_sting_jazzc.prop - sporepediaName
+0xed07262a Sting Horns
+
+# palette_oneshot_sting_jazzd.prop - sporepediaName
+0xed07262d Sting Jazz Finale
+
+# palette_oneshot_sting_magical.prop - sporepediaName
+0xa061fbde Sting Fun Park 
+
+# palette_oneshot_sting_magicalb.prop - sporepediaName
+0x583f7e18 Sting Magical
+
+# palette_oneshot_sting_orchestrahit.prop - sporepediaName
+0x142f2284 Sting Ta Da
+
+# palette_oneshot_sting_perfectending.prop - sporepediaName
+0xed52a8e6 Sting Ever After
+
+# palette_oneshot_sting_soap_operaa.prop - sporepediaName
+0xbd867f06 Sting Soaps
+
+# palette_oneshot_sting_soap_operab.prop - sporepediaName
+0xbd867f05 Sting Daytime 
+
+# palette_oneshot_sting_techno.prop - sporepediaName
+0x212ceaf9 Sting Night
+
+# palette_oneshot_sting_victorya.prop - sporepediaName
+0x7cb66fe3 Sting Victory Horns
+
+# palette_oneshot_sting_victoryb.prop - sporepediaName
+0x7cb66fe0 Sting Victory Classic 
+
+# palette_oneshot_sting_waves.prop - sporepediaName
+0x0d890296 Sting Newsflash
+
+# palette_oneshot_sting_westerna.prop - sporepediaName
+0x5ea67043 Sting Western
+
+# palette_oneshot_sting_westernb.prop - sporepediaName
+0x5ea67040 Sting Whip 
+
+# palette_oneshot_sting_westernc.prop - sporepediaName
+0x5ea67041 Sting Showdown
+
+# palette_oneshot_sting_wwii_victory.prop - sporepediaName
+0x070c2d47 Sting Victory Epic
+
+# palette_oneshot_toot.prop - sporepediaName
+0xccc2e92c Tootin'
+
+# palette_music_all_down_hill_loop.prop - sporepediaName
+0xb6afbaee Down Hill
+
+# palette_music_android_loop.prop - sporepediaName
+0x79867b8f Android
+
+# palette_music_electronic_loop.prop - sporepediaName
+0x56af0ae0 Electronic
+
+# palette_music_fresh_powder_loop.prop - sporepediaName
+0x8fe584a6 Fresh Powder
+
+# palette_music_mule_loop.prop - sporepediaName
+0xb58f7347 M.U.L.E.
+
+# palette_music_spaced_out_loop.prop - sporepediaName
+0x3fe56dc3 Spaced Out
+
+# palette_music_calm_world.prop - sporepediaName
+0x6202a2b1 Calm World
+
+# palette_music_peaceful.prop - sporepediaName
+0x223ffa5a Peaceful Universe
+
+# palette_music_ridges.prop - sporepediaName
+0xedd03ec1 Serenity
+
+# palette_music_waterworld.prop - sporepediaName
+0x3d1e1222 Echoes Underwater
+
+# palette_music_ambush.prop - sporepediaName
+0x61cfb965 Ambush!
+
+# palette_music_alien_abduction.prop - sporepediaName
+0x64a95186 Alien Abduction
+
+# palette_music_bronze_maiden.prop - sporepediaName
+0xf160707c Bards Song
+
+# palette_music_crank_up_the_lute.prop - sporepediaName
+0xe381dd29 Ye Olde Lute
+
+# palette_music_its_alive.prop - sporepediaName
+0x43b95f6b It's ALIVE!!!
+
+# palette_music_peasants_and_pitchforks.prop - sporepediaName
+0x8db3cfde Renaissance Fair
+
+# palette_music_space_marines.prop - sporepediaName
+0xf9e7b9e5 Space Warriors
+
+# palette_music_the_mole.prop - sporepediaName
+0xaa11884c The Show

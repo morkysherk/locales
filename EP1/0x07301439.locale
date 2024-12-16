@@ -1,0 +1,896 @@
+# WARNING: This is an assembled content string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the assembled content pipeline.
+# If you need to modify any of the text, please modify the appropriate assembled content manifest csv file.
+
+# Assembled Content Authors
+0x00000001 Maxis
+
+# Assembled Content Names
+0x000db50b Rock Pile
+0x0030c93b SecuriBoto
+0x003b1f93 Town Building
+0x007062d8 Warehouse Gate Left 
+0x007658a6 Prison Wall
+0x008c2a2c Moose Clan Warrior
+0x00bdeef9 Conqrix Commander
+0x00e2f7c3 Tobactus
+0x00ec3886 Sorprani
+0x00ecd80d Ferngal
+0x01024d83 Snowy Sprong
+0x0109b59c Big Evil Supertent
+0x01220cb7 Crag Mable
+0x014a2fe7 Mr Puzzle
+0x01d49b87 Base Building
+0x0222ab66 Dantius
+0x027c0c55 Phylantis
+0x02c232df The Citadel
+0x03074ce1 Fire Pit
+0x03336397 Heretic Gate Hinge
+0x03476968 Menebrae
+0x03a029fa Golden Fungoid
+0x03ac082e Big Sal's Market
+0x03ae30f2 Wolf
+0x03d94013 Honey Pot
+0x03d965e7 Spode Villa Gate Top
+0x048e1e0c Museum Door
+0x04babc1d Frozen Shwillow
+0x04c51349 Spaceport Clock Tower
+0x04e797d4 Oppraas't Armed
+0x04f81f91 Fountain
+0x0571aa24 Wolf Village Hut
+0x0583890f Big Sal's Pool
+0x05a36f9d Kurj Holy Man
+0x05a9543b Metal Arena Gate Top
+0x05fc6b39 Snorgon Citizen 1
+0x065e91c1 Montalette Wartime Soldier
+0x06d132da Walkway
+0x077198ef Spode Follower 1
+0x077eca1c Town Gate Top
+0x085564e9 Montalette Blacksmith
+0x087e60e1 Bovus Barn
+0x091bdd06 Hymacus
+0x09208839 Antali Reed
+0x097b8eef Garden Flowers
+0x09bc7083 Spode Statue
+0x09e6525f Neo Department Stores
+0x09f34a17 Warden
+0x0a531a40 Mofftus
+0x0a881d58 Squawk Box
+0x0aa50cbe Spode Transporter
+0x0ad13dae Launch Site D
+0x0bb69765 Shanty House
+0x0bcbac28 Kurj Male
+0x0c262adf Big Evil Store
+0x0cae0a8f Warehouse Worker
+0x0d3f1e39 Town Pasture Fence
+0x0d8ea32c Fairwood
+0x0da4682d Sentry Turret
+0x0daae73c Zealot Commando
+0x0ddd6e8f Research Gate Wall
+0x0e410cbc Arena Panel 2
+0x0eec1040 Tillakoodle
+0x0f0d2b14 Colony Dome
+0x0f2fde2f Oracle Gate Hinge
+0x0f58653f Coranaffle
+0x0f7277e0 Oppraas't
+0x0f75fed1 Ethereal Gates Hinge
+0x0fa09bd1 Crystal Garden
+0x0fa556ae Olde Broken House
+0x108320e4 FlooBiddy Citizen Female
+0x1088a9d2 Boy Teen 1
+0x10f137ba Bhagneri
+0x11a3bf1a Big Sal's Park Wall
+0x11d9ee1b Oracle Gate Top
+0x11dad7b2 Big Sal's Keep
+0x123b6d82 Simple Left Arrow
+0x127e4a14 Gratootle
+0x128a0e4e Spider 3
+0x12fda2e4 Generator Power Box
+0x13803771 Old Spode Priest
+0x13b49a72 Shabbol
+0x13cc36c8 Spode Wall
+0x13d38643 Shanky Dwellings
+0x14314e65 Toksik
+0x14f37399 Ancient Pyramid 3
+0x154ef365 Rope Bridge
+0x15748f63 Adventure Townie
+0x158c3078 Pontosha
+0x15b52caa Mothership Rocket Tower 1
+0x15cf2536 Research Gate Door
+0x15e7eeae Lyrochus
+0x161d56ab Shanty Gate Top
+0x165feee5 Beastmaster
+0x16cff47e Neo City Hall
+0x17483f1b Snafferdiddle
+0x17a44cea Ms Spoffit
+0x17dbe936 Spode Villa
+0x1837d689 Closed Wooden Doorway
+0x18850b38 Big Sal's Wall
+0x18c19edd Crystal Lamp
+0x18ec6e94 Billboard
+0x1926898d Coliseum Wall Main
+0x192a7866 Polygoshi
+0x198a7418 Mining Rocket
+0x19c98726 Tech Lights
+0x1a5a96ab Mining Perimeter
+0x1aa19d90 Big Sal's Gate Open
+0x1adf35a6 Circus Wagon
+0x1c4a99ae Backup Singer
+0x1c6538c1 Stacked Crates
+0x1cf18f8e Palmento
+0x1d7daa0a Tech Work Platform
+0x1df9ecbb Pen Wall
+0x1e1cd67b Supfort
+0x1e20125d Kurj Temple
+0x1e2477a3 Crystal Mine Crates
+0x1e3b08f9 Alien Skin
+0x1efeaf08 Big Sal's Hinge
+0x1f075106 Research Base Supplies
+0x1f2685fa Town Pier Stairs
+0x1f268b96 Weepillow
+0x1fbc944c Tibrosia
+0x2083449e Guard
+0x20dbcee5 Brish Manor
+0x20e4f127 Destroyed Fisherman House
+0x2138a09f Bulbocious
+0x21672695 Landing Pod
+0x21ccb114 Spaceport Tower
+0x220c5473 Gintily
+0x22249608 Horocus
+0x223fc2c5 Simple Right Arrow
+0x224a2bba Girl Teen 1
+0x22c0da76 Armory Column
+0x22f97b2e Maze Wall Rock Type
+0x230b8888 Neo Cinemas
+0x231860eb Boy Teen 2
+0x238516c7 Vorxena
+0x23960eb9 Kurj Oasis
+0x23a36c1f Research Gate Column
+0x241a11c6 Shanty Fence
+0x245708fe Brish Wall End
+0x24dca8e2 Shanky House
+0x25136603 Big Sal's Left Gate
+0x253d120e Colony Dome Walkway
+0x25c566b7 Thorn
+0x2601a0ab Puzzle Entry Pillar
+0x261b5b5c Heretic Wall
+0x264dbf86 Zaigromus
+0x267867ee FlooBiddy Citizen 1
+0x26930af0 Jomojojo
+0x26a3cada Snorgon Citizen Female
+0x27a8ab2a Spode Medium House
+0x2804bc4f Research Base Satellite
+0x28440970 Head Guard
+0x28809967 Oracle Gate
+0x28a4e20e Grygscens
+0x28fd0d60 Flaerie Coach
+0x2920e7b1 Warehouse Gate Left Open
+0x298e47fb Spode Wall End
+0x2997edd8 Brish Wall
+0x29abb0df Ancient Horror
+0x29cfff09 Spaceport Cooling Vents
+0x29e0b665 Wolf Village House
+0x29ebd109 Puzzle Entry Tent
+0x29f8e59b Mothership Interior Wall 3
+0x2a3d6715 Bystander 1
+0x2a497a5a Retainer Wall
+0x2aaba3fa Crystal Speeder
+0x2ab05760 Chalk Tile Curvy
+0x2abec8bd Conqrix Walker
+0x2b1e67ec Big Sal's Shack
+0x2b1f676b Biggulon Sniper
+0x2be5854b Town Hall
+0x2be85158 Kurj Female
+0x2c8d64c6 Montalette Wartime President
+0x2ce0e1e4 Spoffit House
+0x2cf143c6 Pier
+0x2db930ed Captain Sunny
+0x2e0724af Stacked Metal Crates
+0x2e5465ac Research Base Fence
+0x2f64e4aa Brish Dwellings
+0x2ff9ef33 Warehouse Gate Locked 
+0x3016c0cf Orb Light
+0x30173f34 Heretic Idle
+0x302ddf66 Fisherman Cottage
+0x305bafd4 Blue Soldier
+0x30fc0e3c Town Guard
+0x312f5d8f Shaved Spoffit
+0x32000506 Extraction Point
+0x32428d5b Spaceport Wall
+0x3293ed9c Big Sal's Pool House
+0x32c7b8a6 Wolf Village Dwellings
+0x32cb6a4c Signpost
+0x32dfbe7c Space Monkey
+0x33075bd1 Zenganii
+0x331ed401 Flengalnera
+0x33d347e6 Coraphylos
+0x34246419 Halinikovia
+0x34ba4b27 Mothership Walker
+0x358b8381 Baby Brontoth
+0x35c287ee Dismal Backdrop 3
+0x35e650f1 Museum Windows
+0x361efcb1 Blue Carpet
+0x36246571 Coliseum Wall Tunnel
+0x363b67d5 Keep Torches
+0x366c4131 Eftie
+0x372b46f0 Town Main Gate
+0x3768676a Mothership Radio Tower
+0x37dff26d Grankor
+0x3819cca4 Bepsonia
+0x38ff90d1 Smoker
+0x3909ffa2 Evil City Wall 1
+0x39171d2d Warehouse Fence End
+0x3927e8d0 Sick Claark
+0x39514d32 Bestadensis
+0x3a190cab Big Sal's Center Gate
+0x3ba0654a Moutrasii
+0x3ba5524f Guillophiloides
+0x3baebe4d Stonia
+0x3c075eaf Katsatosa
+0x3c36477e Ancient Stone
+0x3c417360 Garden Path Liner
+0x3cd55f19 Arena Pillar
+0x3cf7b3e3 Wood Crate Stacks
+0x3cf7e36a Research Base Habitat
+0x3d2a0c64 Garden Hedge Straight
+0x3d792d29 Tech Walkway
+0x3ebe14d1 Spode Gate Top
+0x3ef1ff2c Tech Walkway Corner
+0x3f43b578 Capague Soldier
+0x3fc728d5 The Playwright
+0x3fe88aaf Fake Tree
+0x4000fbcc Sunny Backdrop 2
+0x4087b83b Colony Dome Tower
+0x40b14e1d Olde Club
+0x40b2d4aa Khourii
+0x40b6a163 Heretic Wall End
+0x40ee2cc5 Capague Warlord
+0x410e4ac8 Mothership Blimp
+0x41367714 Brodensis
+0x41d29dce Wooden Doorway Left
+0x435e72f4 Spike
+0x43686979 Big Sal's Stronghold
+0x43f5c964 Renaulnera
+0x44530791 Prison Gate
+0x449c3f05 Neo Dual Storefront
+0x44c66315 Oracle Wall End
+0x44daac70 Concert Stage
+0x450a7158 Spode Gate
+0x45b2b063 Destroyed Fisherman Habitat
+0x45fcf2b1 Mr Mayor
+0x463ffd07 Town Wall Tower
+0x46aeeb38 Moose Clan Boy
+0x46c1fad4 Golden Ticket
+0x472e5c76 Museum Display Case
+0x47361338 Peckaphylos
+0x47b7d48f Stage Box
+0x480d667d Water Tower
+0x481364c6 Arena Tower
+0x4823e281 Fruit Market
+0x48254620 Fisherman Habitation
+0x4843e6d4 Spider 2
+0x485067de Goldump
+0x48688b17 Fshrog Pilgrim
+0x48a687c7 Arena Tower Detailed
+0x48b7898d Reactor Schedule
+0x48e30357 Mothership Interior Wall 1
+0x48f01c46 Ethereal Gates Top
+0x498a29cf Spider 4
+0x49c75aaf Ben Ning
+0x49d9d8e2 Spaceport Cantina
+0x49e64cb2 Crystal Mine Attacker
+0x4a0ad1e2 Ethereal Door
+0x4a57c32b Spode Medium Shop
+0x4a6af9e7 Big Sal's Tent
+0x4b22f373 Hex Crates Stack 2
+0x4b962ba9 Garden Bench 
+0x4bb916fc Leh'Ni
+0x4c5fd540 Big Sal's Gate Closed
+0x4ce8b15b Generator Core
+0x4d3d5f49 Aleelia
+0x4dabdaed Coliseum Wall Edge
+0x4dac5039 Good City Walls 3
+0x4e0fccf9 Carnival Floor
+0x4e52ad00 Spode Gate Hinge
+0x4e64c107 Swearculosa
+0x4ef3558d Corner Patio
+0x4f9ae945 Research Base Greeble
+0x5008aef8 Morginia
+0x50128680 Spoffit
+0x50356fcc Soldier Z-15
+0x504ca6c2 Sunny Backdrop 3
+0x50c7d710 Silo Wall
+0x5108c016 Spuck Stage
+0x51396edd Wrum Wreck
+0x519aaf36 Spode Large Shop
+0x5217d623 Armory Door Frame
+0x523e9aa4 Shanty Home
+0x52b33bc7 Bril Van
+0x52faa257 Butler
+0x5387820b Town Wharfs
+0x53d6fb8f Granite Light Open
+0x543df39e Crystal Reactor
+0x546cd9dd Gatesonia
+0x547cdc11 Spaceport Runway
+0x54c2c660 Lucilasii
+0x54d30b09 Kurj Desert Wall
+0x54ecb5f6 Puzzle Entry Building
+0x54fc2f91 Container Square
+0x5576c43a FlooBiddy Soldier
+0x55f1f6d7 Cyricea
+0x56244119 Wooden Crates Stack
+0x562656ee Sporelamp
+0x5641ff03 Bronk
+0x574b51f3 Comptishii
+0x5757bee8 Kid Girl
+0x58409f4e Parkavulnera
+0x5878a998 Rajergii
+0x58a868c2 Smythalupi
+0x59849443 Bystander 2
+0x59a3b938 Dock Pontoon
+0x59cb6478 Jungle Fence
+0x59ef7938 Armory Door Top
+0x5ae654ff Left Arrow
+0x5b0d8351 Wegian
+0x5b1976b8 Silo Wall Rim
+0x5b682805 Ancient Stone Gems
+0x5babb397 The Dictator
+0x5bb007fd Blue Banner
+0x5c7fad92 Montalette Soldier
+0x5c94e3e0 Robo Strobo
+0x5d1dd17d Olde Saloon
+0x5d2b5cc2 Renaulia
+0x5e265adb Tendril Link
+0x5e820bce Ciminestris
+0x5eb4c0f0 Kurj Simple Wall
+0x5eed83cb Mooscens
+0x5f35d65b Khoopacus
+0x5f71df8b Spaceport Runway Midsection
+0x5fc267e6 Town Bridge
+0x606be8d2 Ingrazureus
+0x6083eadd Mothership Base
+0x60f1d9ab Carnival Pie
+0x60f460d9 Fisherman Living Space
+0x614d488b Coliseum Gate
+0x6165ad8f Hover Light 2
+0x61da17b3 Colony Pods
+0x6245e731 Meat Market
+0x6256677c Crystal Giant
+0x62f29a75 Jollibidentis
+0x6303701b Greenhouse
+0x631c8053 Grahamorphus
+0x63599e44 Big Sal's Tower
+0x6373b2f8 Town Stage Stairs
+0x640705e1 Philibeatus
+0x6410fe76 Brontoth
+0x64e69cdc Bril Truck
+0x650c43ff Ancient Beast
+0x6536f98f Codebilis
+0x6547bc26 Kailadanifer
+0x655e40d1 Mothership Interior Wall 2
+0x65d665ec Blasted Wall
+0x66202424 Masaari Statue
+0x6628529b Research Base Lab
+0x666055d8 Moose Clan Lodge
+0x6694d5f9 Research Base
+0x6735928e Circus Flag Pole
+0x679b53ee Forklift
+0x685972f7 Big Evil Tower
+0x686ac15a Shipping Medium Warehouse
+0x6878bb28 Spider 1
+0x68fb3caa Mothership Tower Wall 3
+0x69157cb8 Circus Coach
+0x69fb6821 Abandonned Saucer
+0x6aaf75be Yeesaxum
+0x6b73c38b Skex
+0x6ba30332 Bilydebilis
+0x6ba4c22b Pretopacus
+0x6bf74fa6 Town Stone Wall
+0x6c13497a Mansion Gate Left
+0x6c550707 Carnival Clown Stand
+0x6c81e4bc Mine Generator Pod
+0x6ce2d441 Brish Leader
+0x6cea15e2 Shanky Shacks
+0x6d14bf64 Good City Walls 2
+0x6d3b8ff4 Ancient Monument
+0x6d6fd700 Capague Dweller
+0x6d93f53e Brownafer
+0x6d98f300 C'Servoid Trooper
+0x6e172200 Arena Panel 1
+0x6e251872 Black Claw Rowboat
+0x6e330480 Kurj Desert Straight Wall
+0x6e58463b Grundspurius
+0x6e772293 Milleximius
+0x6ee82933 Big Sal's Bridge
+0x6ef122e9 Fisherman Dwellings
+0x6f1595a1 Shanty Gate Hinge Square
+0x6f62afc0 Mothership Warehouse
+0x6f842725 Kurj Totem
+0x6f94d820 Kurj Desert Fort
+0x6faaf2c2 Doctor Zevet
+0x6fcb9e12 Neo Fifties Shops
+0x706cca5c Big Sal's Bakery
+0x70fba20b Zambinops
+0x7107bf65 Oracle Temple
+0x7109d131 Powerutilus
+0x716429f8 Fuchous
+0x7188ae76 Spode Small House
+0x718bfd27 Stone Cold
+0x718c878c Metal Arena Door
+0x718ed824 Deweezles
+0x719be13d Spaceport Main Launch Pad
+0x71fd12c8 Barbados
+0x7220ecb0 Buifugax
+0x72f99d03 Carnival Pie Stand
+0x72fa2dcc Big Sal's Bazaar
+0x7331aacf Spode Well
+0x73f84c0e Checkreticus
+0x7430048e Brish Follower 1
+0x74dcde47 Olde Jail
+0x74e3852a Launch Site B
+0x750dfe5b Crystal Mine Pump
+0x7513b2a3 Gardelobatus
+0x751da222 Strattovinus
+0x762dae5c Gourd Lamp
+0x76374414 Wooden Wall
+0x7649e457 Chubibullatus
+0x76a966e7 Wrecked Bril Van
+0x76b8a0b1 Kurtorus
+0x76efc9eb Ancient Altar
+0x77158803 Cheery Backrop 2
+0x774091a3 Bovus Gate
+0x778bbc50 Warehouse Gate Right Locked
+0x779ccaab Lotta Pipes
+0x77c67846 Big Evil Statue
+0x77ee4bf7 Montalette Merchant Female
+0x7838ff20 Big Evil Wall
+0x7863434c Wooden Crates Stack 2
+0x788d50f0 Heretic Simple Lookout
+0x78e1ceba Montgypsicola
+0x79608a80 Hover Light
+0x7995e1d0 Buechnutans
+0x79abe5ef Mothership Stilt
+0x79ac4915 Kurj Militia
+0x79ee6be6 Ethereal Gates
+0x7a7e2b3c Mothership UFO Section 1
+0x7acf9c99 Wide Open Curtain
+0x7b268f42 Brish Statue
+0x7b6740fc Big Sal's Castle Gate
+0x7c291248 Wooden Doorway Right
+0x7c447231 Mine Generator Main
+0x7ca92154 FlooBiddy Citizen 2
+0x7cf47b03 Snow Mobile
+0x7d1cb61b Head Bot
+0x7d659aa0 Shanty Wall
+0x7d71d468 Manitalicus
+0x7db537d3 Wooden Skull
+0x7dbe10e2 The Carny
+0x7dc81c61 Armstronii
+0x7dfb8a7b Fake Dragon
+0x7f074921 Montalette Townie Female
+0x7f3f7420 Halvoridus
+0x7f8b06b4 Metal Arena Gate
+0x80301e5e Dock Bot
+0x8053dae1 Oracle Wall
+0x80c13554 PRA Soldier
+0x80e60111 Thompoeticus
+0x81fea1c4 Capague Laborer
+0x8283841e Jungle Pier
+0x82dc6afe Mandion Gate Right
+0x832865e6 Big Sal's Heart
+0x83438ccf Bantuii
+0x83618f78 Spaceport Accumulator
+0x836aff89 Tunadustus
+0x838cae38 Modern Light
+0x83a18555 Coliseum Wall
+0x83e52993 Toadie
+0x83fe6ff8 Marbidentis
+0x84106deb Brish House
+0x84557646 Conqrix Hive
+0x845d1c36 Kurj Desert Gate
+0x845fffa2 Mothership Tower Wall 2
+0x8497d1e3 Olde Well
+0x84a32d5c Seifertia
+0x84b77c45 Speaker
+0x8517e074 Gem Collector
+0x8553371d Wrecked Building
+0x86c1920c Adventure Townie
+0x8769c628 Mothership Hangar
+0x877de7ba Museum Outside Door
+0x879ee15d Brish Lady
+0x88a5780d Lead Actor
+0x88e6c842 Steampunk Ship
+0x89ccae7f Curtain
+0x89f244fb Carnival Target
+0x8a7097a8 Olde Corral
+0x8ab6bf29 Snorgon Ship
+0x8ac20e54 Evil Fence
+0x8b26dc9e Chalk Tile Special
+0x8b61159e Cheery Backrop 3
+0x8bcd4826 Claark
+0x8cb8f37a Moose Clan Matriarch
+0x8d67fb10 Flaberumpens
+0x8e1d803e Alien Lamp
+0x8e54b6d7 Dismal Backdrop 1
+0x8e71f0a9 Puzzle Entry Top
+0x8eec4cd3 Voladmixtus
+0x8f07d290 Big Sal's Supertent
+0x9008f1d4 Solborealis
+0x906dee89 Kurj Child
+0x91148f19 Research Base Pile
+0x9150c9be Military Camp
+0x91795700 Mothership City Hall
+0x91d4bdc2 Golden Eagle Statue
+0x9296739a Broken Wall
+0x92cffcd6 Olde Hotel
+0x933c739d Fence Post
+0x936db8a7 Eftina
+0x9389f57e Chalk Tile Straight
+0x93e1261f Arena Gate Door
+0x941d34ab Armory Door
+0x943d5eee Pancymosus
+0x9499c46c Old Druid
+0x95347139 Zazafuscus
+0x95742e55 Space Clown Car
+0x958d1b18 Moose Clan Girl
+0x95b04425 Town Wall Section
+0x95b5ab07 Town Tower
+0x95e0168c Gramps
+0x96bf5866 Chibcaducus
+0x97b7bb08 Research Base Equipment
+0x97ecf5ac Spoffit Shaver
+0x98160ce7 Ethereal Wall
+0x98aef05c Bean
+0x98b2cdd4 Arena Gate Hinge
+0x98c5b45a Bubbabolinus
+0x990519c9 Rubble Fall
+0x991d2fa1 Fisherman House
+0x9965b66b Ace
+0x9a12821c Causeway Sides
+0x9a1e3645 Wolf Fence 2
+0x9abfafaa Avachras
+0x9ac2dbdd Spaceport Goods
+0x9ac74bdb Gatekeeper
+0x9add05d4 Steampunk Airship
+0x9af0a602 Finishing Line Gate
+0x9b6e0b7f Montalette President
+0x9c00d986 Coliseum Wall Arch
+0x9c164e6d Tortorii
+0x9ca7ab49 Aircraft Runway
+0x9cc571ba Mothership Jet
+0x9d66b1dc Shanty Gate
+0x9db503b7 Coliseum Flag
+0x9f29a708 Jambokei
+0xa04da086 Lapottsii
+0xa07cd7eb Gernapinum
+0xa0d79c93 Lavo-Lectric Filter
+0xa1637758 Container Long
+0xa18ea452 Tomb Hog
+0xa2666bc5 Shascopa
+0xa2fb1448 Trespinosus
+0xa36d419e Museum Simple Wall
+0xa37a8e6c Shipping Small Warehouse
+0xa3ab76aa Alien Light
+0xa40f7dd4 Traffic Sign
+0xa4a43916 Sunny Backdrop 1
+0xa4d1c779 Warehouse Gate Right Open
+0xa516534c Broken Rope Bridge
+0xa51744d2 Launch Site A
+0xa51b58d5 Black Claw Zealot 1
+0xa5c5b38f Kangoony
+0xa60a4223 Spaceport Hangar
+0xa6191acf Big Evil Blacksmith
+0xa63df4d7 Whistigma
+0xa6673956 Alien Sign
+0xa6996715 Montalette Townie Male
+0xa6cb9289 Zygoximus
+0xa6f77bdc Nature's Light
+0xa71f2ba5 Brish Follower
+0xa7360fd5 Mining Rig Conveyor
+0xa77b26bc Lavo-Lectric Dam
+0xa7fc4c0a DynaMite
+0xa803ab1a FlooBiddy Hero
+0xa8313807 Turret
+0xa8502545 Romiette Capague
+0xa8f70911 Sick N'orris
+0xa8fe4ec5 Base Warnstripe
+0xa91ebe76 Umbacca
+0xa9256085 Moose Clan Pens
+0xa9691710 Spode Follower 3
+0xa96b48e9 Mansion Wall
+0xa97f7a9c Kalsafy
+0xaa39c644 Chains
+0xaaaa63b1 Town Stage
+0xaadd6d24 Gurparb
+0xab6ef4d8 Black Claw Zealot 2
+0xabb3088b Bogacer
+0xac0b808e Ruined Chapel
+0xac0e1bb9 Haizopsis
+0xac0f4b59 Olde City Hall
+0xac37cf07 Insectrox Commander
+0xac667584 Floroya
+0xacc90fbf Coliseum Tower Tall
+0xad155855 Crucible Frame
+0xada3e4ea Urban Lamp
+0xae685330 Racer
+0xaeae731c Big Crate
+0xaefc06a0 Wolf Fence 1
+0xaf64320e Big Evil Tent
+0xaf7c41bf Male Travie
+0xaf81d8a7 Domoxycoccus
+0xaf99595f N'orris
+0xb016fe23 Kyyzamm
+0xb0f99bdb Flower Bed Lights
+0xb11b0db4 Xymursi
+0xb15647b5 Town Entry
+0xb1c3ae1c The Sol Heior
+0xb26e520b Lokulmus
+0xb2b3cc37 C'Servoid Soldier
+0xb2ceff04 Capague Subject
+0xb381c449 Big Sal's Sculpture
+0xb38bda84 Mothership Rocket Tower 2
+0xb3fa948c Armory
+0xb3fb1625 Tomb Spider
+0xb41e95b4 Shanty Dwellings
+0xb432931c Moose Clan Elder
+0xb4599a37 Spode Follower 2
+0xb45f9487 Blaster
+0xb542e305 Osgolt
+0xb54f8734 Hex Crates Stack 1
+0xb5ee7231 Launch Banner
+0xb5f219ed Research Gate Door Top
+0xb6097cbf Warehouse Fence
+0xb61ee423 Snorgon Elite
+0xb6a7198f Capague Guard Captain
+0xb6ac8118 Ionurbinia
+0xb6f9ac3e Posto Futuro
+0xb720cbca Bortoris
+0xb770e675 Pen Door
+0xb82b5d9c Chumly
+0xb83bdac2 Deciduous
+0xb87180ea Evil City Wall 3
+0xb8d91ed6 Mothership Tower Wall 1
+0xb93181bc Holoscreen
+0xb97594e3 Single Metal Crate
+0xb9858410 Big Evil Hut
+0xb98f95a0 Torches
+0xba1cd3d7 Tank Wreck
+0xba20fb6b Cheery Backrop 1
+0xba4b8107 Fancy Prancey Dancey Chancey
+0xbafc942c Moose Clan Weaver
+0xbb17da0b Kid Boy
+0xbb1a72ef Wrecked Bril Truck
+0xbb7854f9 The Gallery Owner
+0xbb7cf6fd Ancient Pyramid 2
+0xbb9d6818 Town Rotunda
+0xbbbf3737 Mining Perimeter Hinge
+0xbc13b288 Alien Tech Light
+0xbc46dea1 Conqrix Clone Pod
+0xbd95c407 Lolilopolis
+0xbe3659c7 Hydror
+0xbe45abe4 Black Claw Ship
+0xbedf9a26 Town Gate Torch
+0xbee695e4 Crucible Stage
+0xbf29fafc Metal Arena Tower
+0xbfdb22ce Barbecue
+0xc0230ad2 Pier Simple
+0xc08a2fb1 Junosper
+0xc0bb4373 Mothership Reactor
+0xc0c1a46c Bril Car
+0xc0d27169 Puzzle Entry Carpet
+0xc0e2904e Plutugola
+0xc1832831 Vorxis
+0xc1985763 Arena Greeble
+0xc2666904 Long Metal Crate
+0xc281d42f Gorbasht
+0xc2966bbd Biggulon Scientist
+0xc2b266fd Mansion Wall End
+0xc3034919 Arena Wall Low
+0xc3199482 Mr Puzzle Truck
+0xc42a77e8 Colonel Jim Farkus
+0xc4d236b7 Garden Hedge Left Corner
+0xc533fba6 Kurjintz
+0xc5853ec4 Wrecked Bril Car
+0xc7234eb3 Big Evil Gate Closed
+0xc7f3cd66 Big Evil Hinge
+0xc80db6c1 Steampunk Airship
+0xc830c9c0 The Spirited One
+0xc89fb34a Vid-Screen
+0xc8a0fc99 Tuuk
+0xc8cdbb75 Aircraft Runway Midsection
+0xc945c297 Red Banner
+0xca4ac4e2 Blaair
+0xca5fe75f Evil City Wall 2
+0xca68a001 Fake Small Tree
+0xcb044c92 Hex Crate
+0xcb4770e0 Starting Line Gate
+0xcc0f97e3 Wolf Clan Child
+0xcc2ddd8c Zealot Commando Leader
+0xcc527f68 Black Claw Zealot 3
+0xcc739f0e Moose Clan Medicine 
+0xcc839405 Insect Cave Hatch
+0xcca099b6 Dango
+0xccd7888a Town Factory
+0xcd08bbe7 Crystal Scavenger
+0xcd642c2d Olde Cabin
+0xcd6c7e02 Big Sal's Door
+0xce011cc7 Colony Gates
+0xcec64bde Quarrki
+0xcef900a6 Tiny
+0xcf0aba6f Research Base Stuff
+0xcf2572ae Bovus Fence
+0xcf8f4fa5 Montalette Presidential Guard
+0xcfd54163 Armored Litter
+0xcfddbcbf Mongtu
+0xcfde9aaf Crystal Mine Entrance
+0xcff1885a Oracle Altar
+0xd07786b7 Launch Site C
+0xd0c29aee Neortle
+0xd100dc6f Puzzley McPuzzleson
+0xd10a6e37 Kromils
+0xd15f84c1 Twardyllus
+0xd180b8e8 Destroyed Fisherman Dwellings
+0xd1f3893f Biggulon Commander
+0xd201a4a7 Wolf Clan Male
+0xd214893e Kingale
+0xd234053b Davian Captain
+0xd2927201 Conveyor Belt
+0xd33e05c7 Quercist
+0xd436892a Mayor's Assistant
+0xd43fd198 Moose Clan Adobe
+0xd4b4a9c5 Ancient Pyramid 1
+0xd4dbf5c1 Xanthorsta
+0xd4f44361 Right Arrow
+0xd5174538 Mototransport
+0xd57577b8 Captain Amazing
+0xd5aa762c Crystal Mine Gatherer
+0xd5bc1ab1 Shipping Large Warehouse
+0xd61db95f Girl Teen 2
+0xd6298c00 Big Evil Gate Open
+0xd638d49b Snorgon Soldier
+0xd6499406 Xeromia
+0xd65794a3 Kurj Big Tent
+0xd71d5b27 Ingoxylon
+0xd71f3e65 Wolf Clan Female
+0xd738cade Isoslaya
+0xd748b3c1 Mothership Landing Pod
+0xd7924f34 Carnival Wall
+0xd82f5744 Garden Hedge Circle
+0xd8694f39 Captain Lemesurier
+0xd89d0528 Granite Light
+0xd9b0a88a Shanty Gate Hinge Round
+0xd9c6a6aa Mothership Tank
+0xda52629a Hops
+0xda70eb93 Circus Tent
+0xdadb1d24 Zealot Commando Ja'Hal
+0xdadd988b Metal Arena Wall
+0xdbddc707 Warden Wall
+0xdcd0b176 Derrick
+0xdd3c7be9 Hedeokenia
+0xdd4479a2 Big Evil Keep
+0xdd8f43fb Research Base Grave
+0xddcca060 Single Gas Lamp
+0xde1ba83f Big Evil Banner
+0xdefa5b50 Open Wooden Doorway
+0xdf69a0ea Spoffit Herder
+0xdf712464 Kurj Tents
+0xdfd37fd4 Puzzle Entry Roof
+0xe02a6894 Research Gate Door Frame
+0xe0563ce2 Mansion Gate
+0xe094dc03 Mothership Tower Lights
+0xe0b2f14c Heliosy
+0xe0d8a618 Shmelvin
+0xe0e70bde Shanty Court
+0xe13504d9 Echocactus
+0xe1b72e45 Guard Tower
+0xe1ff58c0 Arena Gate Top
+0xe26d0d3e SecuriBot
+0xe27b4977 Capague Baker
+0xe2ad5c0c Epiphylo
+0xe2b900de Bunkhouse
+0xe2f36892 Spaceport Launch Pad
+0xe31f1694 Kurj Desert Tower
+0xe334c2bb Golden Llama
+0xe344ab2a Military Tent
+0xe351d277 Microphone
+0xe35d80cf Heretic Gate Top
+0xe3e3ea3d Captain Sunny's Ship
+0xe446df15 Bril Sculpture
+0xe44ceca6 Giant robot silver
+0xe4612e4a Saxioccus
+0xe473e493 Shipping Pier
+0xe4cb946b B G
+0xe520d370 Arena Cam
+0xe594f029 Base Wall
+0xe6adc33d Evil Street Light
+0xe6d3023b Spaceport Towers
+0xe6d79463 Mining Rig Excavator
+0xe6d8c1b0 Brish Home
+0xe78d900b Sapifragal
+0xe7dc8224 Vectix
+0xe7e3ab11 Female Travie
+0xe8267b36 Good City Walls 1
+0xe9370317 Garden Flower Pot
+0xe960d4f5 Stone Skull
+0xe9733fb2 Mansion Gate Top
+0xe98794e8 Schizactus
+0xe9ba21f7 Knitmea
+0xe9ba948c Phloxidia
+0xe9e7bbc9 Phieris
+0xea9d7ac3 Mining Rig Compressor
+0xeae7e0e2 Julio Montalette
+0xeb17cc5d Colony Dome Landing Pad
+0xeb5e6082 Psepostoa
+0xebc07ec8 Mining Rig Factory
+0xec58dfc0 Ancient Stone Open
+0xec745bb8 Dismal Backdrop 2
+0xeca1ee0c Sick Blaair
+0xecc68c77 Metal Arena Gate Hinge
+0xed98d5e2 Female Brontoth
+0xedc8c961 Conqrix Air Walker
+0xee2d237e Museum Wall
+0xee2fd8f6 Spode Tower
+0xee391462 Ligomeyus
+0xeef42210 Leptochloe
+0xef5d454e Fremixnus
+0xefc840ee Emergence Hole
+0xf07489ac Kurj Dog
+0xf0c7a8a5 Ruined Temple
+0xf0f9ac9d Docks Lights
+0xf1153465 Olde House
+0xf1414633 Oracle Statue
+0xf14a7560 Ancient Platform
+0xf1615b4e Dr Loctopus
+0xf177e41e Research Vessel
+0xf17a9353 Coliseum Wall Hinge
+0xf181b185 Security Bot
+0xf1b0eac5 Destroyed Fisherman Cottage
+0xf1d54c27 Ferogora
+0xf24fa935 Mitrodecca
+0xf424f0d5 Dual Gas Lamp
+0xf439263d Garden Hedge Right Corner
+0xf44a1093 Evil City Spire 
+0xf47baab4 Spode Church
+0xf55bc701 Olde Hardware Store
+0xf5770b12 Monomeria
+0xf5c33216 Barbaros
+0xf6df7a25 Buxocles
+0xf6e6a176 Wide Curtain
+0xf709ea4d Wild Cow
+0xf7b8ee79 Dregotheca
+0xf82e3c44 Conqrix Troop
+0xf8543351 Nupharbolus
+0xf884bd26 Rodingia
+0xf8a9fa1f Crystal Mine Generator
+0xf8b62281 Phyrus Farmer
+0xf915de3e Armory Wall
+0xf9475347 Shanty Door
+0xf965df20 Spaceport Pods Launcher
+0xfa10623b Crystal Beast
+0xfa17b927 Davian Soldier
+0xfa1acd12 Generator Hub
+0xfa4f9ffa Trithonia
+0xfa73bab5 Big Evil Gate
+0xfac8439f Cone Light
+0xfb2edd45 Space Clown
+0xfbd6a8bb Research Base House
+0xfc17415e Iron Work
+0xfc9e2a00 Crystal Generator Large
+0xfca843e6 Weapon Hand
+0xfcd1b31c Buddy
+0xfd089be5 Big Sal's Banner
+0xfd1619b4 Viturnum
+0xfd254510 Red Carpet
+0xfd509497 Coliseum Tower Small
+0xfd7d4973 Illuminus Tube
+0xfd8231eb Mothership Interior Ceiling
+0xfd99f6fd Oracle Door
+0xfda53219 Biggulon Soldier
+0xfe234b5f Heretic Gate
+0xfe677812 Shipping Control Tower
+0xfeae6da9 Big Sal's Right Gate
+0xfeb95f75 Wittinsia
+0xfec02afe Olde House Destroyed
+0xfef71423 Museum Column
+0xffb1b3fd Coliseum Awning
+0xffd3fd9a Crystal Hound

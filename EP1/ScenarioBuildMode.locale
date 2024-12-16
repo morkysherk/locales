@@ -1,0 +1,111 @@
+0x075e4c78 Drag Goal to Cast Member
+0x075e4c79 Set Goal Type
+0x0760b0f8 Act ~ep1_current_act~ Description & Music
+0x0760b0f9 Introduction:
+0x0760b0fa Winning Text:
+0x0760b0fb Losing Text:
+#introduction of the mission#
+0x0760b240 Intro
+#mission ending description#
+0x0760b241 Fin
+
+# posse ui
+0x0760b242 Crew
+
+# Deep Edit
+0x96a94d76 Act ~ep1_current_act~
+
+##Extended Rollovers
+#Cast Types (don't capitalize unless you capitalize the rest of the sentence):
+0x07981e90  creatures
+0x07981e91  vehicles
+0x07981e92  buildings
+0x07981e93  objects
+
+#Goals:
+0x07981764  Move near these ~ep1_current_cast~.
+0x0798176f  Destroy these ~ep1_current_cast~.
+0x07981773  Socialize with these ~ep1_current_cast~.
+0x07981777  Ally these ~ep1_current_cast~ to join your crew.
+0x0798177b  Talk with these ~ep1_current_cast~.
+0x0798177e  Hold these ~ep1_current_cast~.
+0x07981782  Give these ~ep1_current_cast~ to another cast member.
+0x07981785  Collect these ~ep1_current_cast~.
+0x07981789  Bring these ~ep1_current_cast~ to another cast member.
+0x0798178c  Prevent these ~ep1_current_cast~ from coming into contact with another cast member.
+0x07981798  Prevent these ~ep1_current_cast~ from being destroyed.
+
+#Stances:
+0x0798179d  These creatures attack enemy units on sight.
+0x079817a1  These creatures warn before attacking.
+0x079817a5  These creatures are never distracted from assigned behavior.
+0x079817a9  These creatures only defend themselves if attacked.
+0x079817ad  These creatures flee if attacked.
+0x079edf55  These vehicles attack enemy units on sight.
+0x079edf56	These vehicles warn before attacking.
+0x079edf57	These vehicles are never distracted from assigned behavior.
+0x079edf58	These vehicles only defend themselves if attacked.
+0x079edf59	These vehicles flee if attacked.
+
+#Movement:  
+0x079817b1  These creatures stand in place.
+0x079817b5  These creatures move around randomly about their starting location.
+0x079817ba  These creatures move back and forth between two points.
+0x079817be  These creatures follow another assigned cast member.
+0x079edf5a  These vehicles stand in place.
+0x079edf5b	These vehicles move around randomly about their starting location.
+0x079edf5c	These vehicles move back and forth between two points.
+0x079edf5d	These vehicles follow another assigned cast member.
+
+#Awareness:  
+0x07981de3  Determines how far these creatures can see.
+0x079edf5e	Determines how far these vehicles can see.
+
+#Pickup:
+0x079817c2  These creatures pick up any tool.
+0x079817c5  These creatures pick up the assigned tool.
+
+#Give:
+0x079817c9  These creatures give a tool to any cast member.
+0x079817ce  These creatures give a tool to assigned cast member.
+
+#Teams:
+0x07981e71  These creatures never attack other cast members on their team.
+0x079edf5f  These vehicles never attack other cast members on their team.
+0x07981e72  These buildings will be attacked by cast members on enemy teams.
+
+# Grass Effect Names
+0x56afce60 None
+0x56afce70 Arizona
+0x56afce71 Claymation
+0x56afce72 Conglomerate
+0x56afce73 Coral
+0x56afce74 Crystal
+0x56afce75 Granite
+0x56afce76 Organic
+0x56afce77 Spikes
+0x56afce78 Sandstone
+0x56afce79 Swiss
+0x56afce7a Ice Rocks
+0x56afce7b Regular Rocks
+0x56afce7c Lava Rocks
+0x56afce7d Shitaake
+
+# Cloud Names
+0x56afcf70 Default
+0x56afcf71 Curly
+0x56afcf72 Alien
+0x56afcf73 Web
+0x56afcf74 Pollen
+0x56afcf75 Sponge
+
+# Planet Paint
+0xb6afcfc0 Ground Cover
+0xb6afcfc1 Flowers
+0xb6afcfc2 Cloud Style
+
+# Validations
+0x07ab8aee This Adventure has an act with no goals. The Player will not be able to win the Adventure unless the Act has a goal or it is the last Act in the Adventure. Do you want to save it anyway?
+
+# new ban content string (todo: move?)
+0x07d8aabb Click on a creature, building or vehicle to remove it permanently from your game.~br~To remove the Adventure permanently from your game, quit the Adventure and open Sporepedia (press the "B" key).  In Sporepedia, find the Adventure you'd like to remove, select it and then click the Ban Creation button in the lower right hand corner.  This will remove the Adventure, but not the creations within it - you must remove those individually.~br~A report about the creation will be sent to the Spore Customer Service team.

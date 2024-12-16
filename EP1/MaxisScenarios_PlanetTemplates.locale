@@ -1,0 +1,59 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+0x29fe2ba7 Alpine Valley
+0x95321de6 Angular Flats
+0x0462d47e Branching Canyon
+0xcc5699af Busy Rivers
+0x5584a7f2 Chopped Arena
+0x02677527 Circle Islands
+0x3c367ab4 Circular Arena
+0x2c2c303e Circular Maze
+0x3f63b8b6 Crater Arena
+0x0462d477 Crater Canyon
+0xe0798797 Cube Flats
+0xbb6a4472 Cubed Crater
+0xa483e2c8 Deep Canyons
+0x6054672b Elevation
+0x58d9a58f Eroded Continents
+0x7dc6bbbd Eroded Maze
+0x0462d471 Geometric Canyon
+0x6c9d7c33 Geometric Causeways
+0x0462d473 Great Canyon
+0xcc5699ab Grooved Rivers
+0xe1798907 Grooves
+0xe0798796 Highlands
+0x9c5f65fb Island Chain
+0xcc5699a8 Jagged Rivers
+0x0d19b6da Large Islands
+0xcc5699aa Lazy Rivers
+0x0462d470 Lone Valley
+0xcc5699a9 Long River
+0xe0798795 Low Flats
+0x10fb89a5 Mesas
+0xfc4c1d97 Mesas and Valleys
+0xbb425fdd Multi-Soft Arena
+0x62b84f6c Multi-Square Arena
+0xdd36d234 Natural Arenas
+0x962ffce4 Natural Islands
+0xc01a1240 Rectangular
+0x0462d47f Ridged Canyon
+0xcc5699a5 Ridged Rivers
+0xcc5699a4 River Basin
+0xcc5699ae River Deltas
+0x17864c79 Rivers and Deserts
+0xe0798792 Rugged
+0xcc5699ac Shell Rivers
+0x9f9e15c4 Soft Flats
+0x58102924 Soft Islands
+0x209895b5 Square Canyons
+0x1e4563b9 Square Islands
+0x2ab6159f Squid Arena
+0xbdfd79f5 Tentacle Arena
+0xc935de0c Terraced Canyons
+0xafdac96b Terraced Platforms
+0xb3ca6438 Twisting Bridge
+0x0462d474 Wavy Canyon

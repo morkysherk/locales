@@ -1,0 +1,802 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Adventure Town
+
+# Adventure description
+0x00000003 Take a stroll through Adventure Town and meet some of its residents.
+
+# 'Adventure start' message
+0x00000010 Welcome Captain to Spore Galactic Adventures!  This introductory adventure will walk you through some of the wondrous  possibilities of the Adventure Creator. Proceed into Adventure Town and speak with Mr Mayor!
+
+# 'Adventure won' message
+0x00000011 Congratulations on completing your first Adventure! Your Captain is ready to take on more exciting Adventures!
+
+# 'Adventure lost' message
+0x00000012 Adventure Town is usually a friendly place... Please try again!
+
+# Act 1 name
+# Comments: The player starts in a place that looks like it's inside a white box
+0x00000020 Welcome to Adventure Town
+
+# Act 1 description
+0x00000021 Walk down the hill through the gates and into Adventure Town.
+
+# Act 2 name
+0x00000022 Meet the Mayor
+
+# Act 2 description
+0x00000023 Meet the Mayor of Adventure Town, he's standing by the fountain.
+
+# Act 3 name
+0xfb3518c2 Meet the Citizens
+
+# Act 3 description
+0x00000025 Talk to the Gallery Owner by the Museum, to the affable Playwright by the stage and to Ms Spoffit by the village on the other side of the river.
+
+# Act 4 name
+0xfb351929 Meet Captain Amazing!
+
+# Act 4 description
+0x00000027 Captain Amazing is in town and he's waiting for you! Find the ramp and find Captain Amazing. Oh, and say hello to the Carny on the way there.
+
+# Act 5 name
+0xfb3518c4 Leaving Town
+
+# Act 5 description
+0xfb3518c5 Explore Adventure Town at your leisure.  Visit  Mr Mayor when you're ready to leave.
+
+# Character name (Character: "actor", model: "Actor_@creature_editorModel!0x07e9f183.crt")
+0x311c5860 Actor
+
+# Character chatter (Character: "actor", model: "Actor_@creature_editorModel!0x07e9f183.crt"): Act 1, Variation 1
+0xfb3518c6 We've got your back!
+
+# Character chatter (Character: "actor", model: "Actor_@creature_editorModel!0x07e9f183.crt"): Act 1, Variation 2
+0xfb3518c7 We'll watch you from here!
+
+# Character name (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt")
+0xfb351943 Adventure Town Bunny
+
+# Character chatter (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt"): Act 1, Variation 1
+0xfb351949 Hi!
+
+# Character chatter (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt"): Act 1, Variation 2
+0xfb35194a Hello Captain!
+
+# Character chatter (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt"): Act 1, Variation 3
+0xfb35194b Welcome to our little town!
+
+# Character chatter (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt"): Act 1, Variation 4
+0xfb35194c Hi-de-ho, stranger!
+
+# Character chatter (Character: "adventure_town_bunny", model: "Bunny Froo Froo_@creature_editorModel!0x065cbe8a.crt"): Act 1, Variation 5
+0xfb35194d Hooray!  It's YOU!
+
+# Character name (Character: "adventure_town_guard", model: "Town Guard_@creature_editorModel!0x07e1a020.crt")
+0xfb35190e Adventure Town Guard
+
+# Character chatter (Character: "adventure_town_guard", model: "Town Guard_@creature_editorModel!0x07e1a020.crt"): Act 1, Variation 1
+0xfb351977 Welcome Captain!
+
+# Character chatter (Character: "adventure_town_guard", model: "Town Guard_@creature_editorModel!0x07e1a020.crt"): Act 1, Variation 2
+0xfb351978 GO ON IN!
+
+# Character chatter (Character: "adventure_town_guard", model: "Town Guard_@creature_editorModel!0x07e1a020.crt"): Act 1, Variation 3
+0xfb351979 Mr Mayor's waitin' for ya!
+
+# Character name (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt")
+0x705fa860 Adventure Townie Female
+
+# Character chatter (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt"): Act 1, Variation 1
+0xfb35192a Author!  Author!
+
+# Character chatter (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt"): Act 1, Variation 2
+0xfb35192b The dragon looks so real!
+
+# Character chatter (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt"): Act 1, Variation 3
+0xfb35192c What a beautiful day for an  outdoor play!
+
+# Character chatter (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt"): Act 1, Variation 4
+0xfb35192d Huzzah!
+
+# Character chatter (Character: "adventure_townie_female", model: "Adventure Townie_@creature_editorModel!0x07e9f18f.crt"): Act 1, Variation 5
+0xfb35192e The dragon actually breathes fire!
+
+# Character name (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt")
+0xfb3518e9 Adventure Townie Male
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 1, Variation 1
+0xfb35197d Bravo!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 1, Variation 2
+0xfb35197e Well done!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 1, Variation 3
+0xfb35197f Never have I witnessed a Thespian with such stage presence!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 1, Variation 4
+0xfb351980 The guy playing the dragon is really good!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 1, Variation 5
+0xfb351981 Where's that flute music coming from?
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 2, Variation 1
+0xfb351982 Bravo!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 2, Variation 2
+0xfb351983 Well done!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 2, Variation 3
+0xfb351984 Never have I witnessed a Thespian with such stage presence!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 2, Variation 4
+0xfb351985 The guy playing the dragon is really good!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 2, Variation 5
+0xfb351986 Where's that flute music coming from?
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 3, Variation 1
+0xfb351987 Bravo!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 3, Variation 2
+0xfb351988 Well done!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 3, Variation 3
+0xfb351989 Never have I witnessed a Thespian with such stage presence!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 3, Variation 4
+0xfb35198a The guy playing the dragon is really good!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 3, Variation 5
+0xfb35198b Where's that flute music coming from?
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 4, Variation 1
+0xfb35198c Bravo!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 4, Variation 2
+0xfb35198d Well done!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 4, Variation 3
+0xfb35198e Never have I witnessed a Thespian with such stage presence!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 4, Variation 4
+0xfb35198f The guy playing the dragon is really good!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 4, Variation 5
+0xfb351990 Where's that flute music coming from?
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 5, Variation 1
+0xfb351991 Bravo!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 5, Variation 2
+0xfb351992 Well done!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 5, Variation 3
+0xfb351993 Never have I witnessed a Thespian with such stage presence!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 5, Variation 4
+0xfb351994 The guy playing the dragon is really good!
+
+# Character chatter (Character: "adventure_townie_male", model: "Adventure Townie_@creature_editorModel!0x07e9f189.crt"): Act 5, Variation 5
+0xfb351995 Where's that flute music coming from?
+
+# Character name (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt")
+0xfb351aa3 Beekeeper
+
+# Character chatter (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt"): Act 1, Variation 1
+0x07ef1031 BEES!  THEY'RE EVERYWHERE!
+
+# Character chatter (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt"): Act 1, Variation 2
+0x07ef1032 OOOWWWW!   THEY STING!
+
+# Character chatter (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt"): Act 1, Variation 3
+0x07ef1033 I SHOULD HAVE LISTENED TO MOTHER AND BECOME A DENTIST!
+
+# Character chatter (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt"): Act 1, Variation 4
+0x07ef1034 THEY'RE USING ME AS A PINCUSHION!
+
+# Character chatter (Character: "beekeeper", model: "Gatekeeper_@creature_editorModel!0x077ae69a.crt"): Act 1, Variation 5
+0x07ef1035 THE PAIN... IT HURTS!
+
+# Character name (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt")
+0xfb351996 Blasto the Clown
+
+# Character chatter (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt"): Act 1, Variation 1
+0xfb35199c Come on, candy arm!  Hit me!
+
+# Character chatter (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt"): Act 1, Variation 2
+0xfb35199d I've seen you shadow box a couple of times and the shadow won twice!
+
+# Character chatter (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt"): Act 1, Variation 3
+0xfb35199e You couldn't hit the broad side of a Spice Mine!
+
+# Character chatter (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt"): Act 1, Variation 4
+0xfb35199f The only thing you can throw is an election!
+
+# Character chatter (Character: "blasto_the_clown", model: "Space Clown_@creature_editorModel!0x07e35abe.crt"): Act 1, Variation 5
+0xfb3519a0 I bet you were the best pitcher on your tee-ball team!
+
+# Character name (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt")
+0xf1cd3860 Captain Amazing
+
+# Character talk dialog (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt"): Act 4, Variation 1
+0xfb3519b0 Behold!  What do my eyes perceive?  It is a new Captain in my midst!
+
+# Character talk dialog (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt"): Act 4, Variation 2
+0xfb3519b1 Greetings, Plebian!  Welcome to the International Order of Galactic Captains!
+
+# Character talk dialog (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt"): Act 4, Variation 3
+0xfb3519b2 I am Captain Amazing!  You may have read about me in your history books at school!
+
+# Character talk dialog (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt"): Act 4, Variation 4
+0xfb3519b3 No?  No matter... Work hard, complete your missions, rise in rank and one day...
+
+# Character talk dialog (Character: "captain_amazing", model: "Captain Amazing_@creature_editorModel!0x07ec6891.crt"): Act 4, Variation 5
+0xfb3519b4 You may become as snazzy a dresser as I am! Just enter the Captain Outfitter anytime to change your gear. Good luck, Rookie!
+
+# Character name (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt")
+0xabb63860 Carnie
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 1, Variation 1
+0xfb3519b5 Step right up!  Step right up!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 1, Variation 2
+0xfb3519b6 Take your chance!  Throw a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 1, Variation 3
+0xfb3519b7 Hit Blasto the Clown with a pie and feel better about yourself!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 1, Variation 4
+0xfb3519b8 All ya gotta do is hit Blasto with a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 1, Variation 5
+0xfb3519b9 Only the best Throwin' Pies are used in this friendly test of skill!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 2, Variation 1
+0xfb3519ba Step right up!  Step right up!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 2, Variation 2
+0xfb3519bb Take your chance!  Throw a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 2, Variation 3
+0xfb3519bc Hit Blasto the Clown with a pie and feel better about yourself!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 2, Variation 4
+0xfb3519bd All ya gotta do is hit Blasto with a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 2, Variation 5
+0xfb3519be Only the best Throwin' Pies are used in this friendly test of skill!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 3, Variation 1
+0xfb3519bf Step right up!  Step right up!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 3, Variation 2
+0xfb3519c0 Take your chance!  Throw a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 3, Variation 3
+0xfb3519c1 Hit Blasto the Clown with a pie and feel better about yourself!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 3, Variation 4
+0xfb3519c2 All ya gotta do is hit Blasto with a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 3, Variation 5
+0xfb3519c3 Only the best Throwin' Pies are used in this friendly test of skill!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 4, Variation 1
+0xfb3519c4 Step right up!  Step right up!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 4, Variation 2
+0xfb3519c5 Take your chance!  Throw a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 4, Variation 3
+0xfb3519c6 Hit Blasto the Clown with a pie and feel better about yourself!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 4, Variation 4
+0xfb3519c7 All ya gotta do is hit Blasto with a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 4, Variation 5
+0xfb3519c8 Only the best Throwin' Pies are used in this friendly test of skill!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 5, Variation 1
+0xfb3519c9 Step right up!  Step right up!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 5, Variation 2
+0xfb3519ca Take your chance!  Throw a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 5, Variation 3
+0xfb3519cb Hit Blasto the Clown with a pie and feel better about yourself!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 5, Variation 4
+0xfb3519cc All ya gotta do is hit Blasto with a pie!
+
+# Character chatter (Character: "carnie", model: "Carnie_@creature_editorModel!0x07ec6883.crt"): Act 5, Variation 5
+0xfb3519cd Only the best Throwin' Pies are used in this friendly test of skill!
+
+# Character name (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop")
+0xfb3519ce Corpse of King Rocky the Rock
+
+# Character inspect text (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop"): Act 1, Variation 1
+0xfb3519cf The Corpse of King Rocky the Rock.
+
+# Character inspect text (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop"): Act 1, Variation 2
+0xfb3519d0 Here we have the preserved corpse of King Rocky the Rock, Rock King of Rocktopia.
+
+# Character inspect text (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop"): Act 1, Variation 3
+0xfb3519d1 King Rocky is seen in his final, dramatic death pose with the very implement which took his life still embedded in his abdomen.
+
+# Character inspect text (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop"): Act 1, Variation 4
+0xfb3519d2 King Rocky was a hard-headed yet firm stone-faced ruler.
+
+# Character inspect text (Character: "corpse_of_king_rocky_the_rock", model: "PaletteItems!0x95a56b32.prop"): Act 1, Variation 5
+0xfb3519d3 Rock On, King Rocky the Rock, Rock King of Rocktopia...Rock On.
+
+# Character name (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop")
+0xfb3519e8 Crown of King Bobbulon
+
+# Character inspect text (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop"): Act 1, Variation 1
+0xfb3519ee The Crown of King Bobbulon the 397th
+
+# Character inspect text (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop"): Act 1, Variation 2
+0xfb3519ef Not much is known of the brief and seemingly  uneventful rule of King Bobbulon the 397th
+
+# Character inspect text (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop"): Act 1, Variation 3
+0xfb3519f0 But from this crown found amongst the ruins of his papier mache castle on the water planet of Soggamor 5.
+
+# Character inspect text (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop"): Act 1, Variation 4
+0xfb3519f1 We know one thing for certain...
+
+# Character inspect text (Character: "crown_of_king_bobbulon", model: "PaletteItems!0x4df2ad08.prop"): Act 1, Variation 5
+0xfb3519f2 His head must have been HUGE.
+
+# Character name (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop")
+0xfb351a02 Golden Gnome
+
+# Character inspect text (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop"): Act 1, Variation 1
+0xfb351a03 Golden Gnome
+
+# Character inspect text (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop"): Act 1, Variation 2
+0xfb351a04 Little is known of this archaeological find.
+
+# Character inspect text (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop"): Act 1, Variation 3
+0xfb351a05 It was found on a planet completely covered in grass.
+
+# Character inspect text (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop"): Act 1, Variation 4
+0xfb351a06 It doesn't seem to serve any particular purpose...
+
+# Character inspect text (Character: "golden_gnome", model: "PaletteItems!0xa39aa3f5.prop"): Act 1, Variation 5
+0xfb351a07 ...but most are oddly attracted by it's alluring smile.
+
+# Character name (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt")
+0x91322860 Lead Actor
+
+# Character chatter (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt"): Act 1, Variation 1
+0xfb3518d0 Leave our lands!
+
+# Character chatter (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt"): Act 1, Variation 2
+0xfb3518d1 This time it's personal!
+
+# Character chatter (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt"): Act 1, Variation 3
+0x85ce9842 Prepare to die foul beast!
+
+# Character chatter (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt"): Act 1, Variation 4
+0x85ce9843 I eat dragons like you for breakfast.
+
+# Character chatter (Character: "lead_actor", model: "Lead Actor_@creature_editorModel!0x07e9f17c.crt"): Act 1, Variation 5
+0x85ce9844 I'm going to turn you into luggage.
+
+# Character name (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop")
+0xfb351a1c Lord Baldymoore's Cup
+
+# Character inspect text (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop"): Act 1, Variation 1
+0xfb351a1d Lord Baldymoore's Cup
+
+# Character inspect text (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop"): Act 1, Variation 2
+0xfb351a1e This cup was to be awarded as a trophy to the winner of an ancient sport played through the galaxy.
+
+# Character inspect text (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop"): Act 1, Variation 3
+0xfb351a1f The winner of the sport was the first player to navigate his or her water vessel across the desert planet of Parchia.
+
+# Character inspect text (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop"): Act 1, Variation 4
+0xfb351a20 No one ever succeeded.
+
+# Character inspect text (Character: "lord_baldymoore_s_cup", model: "PaletteItems!0xe8cf16dd.prop"): Act 1, Variation 5
+0xfb351a21 Hence, the pristine and minty-mint condition of this artifact
+
+# Character name (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt")
+0x6e6e3860 Mr Mayor
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 1, Variation 1
+0xfb351a80 Top of the mornin' Captain!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 1, Variation 2
+0xfb351a81 Happy citizens make for a happy Mr Mayor!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 1
+0xfb351a82 Top of the mornin' Captain!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 2
+0xfb351a83 Happy citizens make for a happy Mr Mayor!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 3, Variation 1
+0xfb351a84 Top of the mornin' Captain!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 3, Variation 2
+0xfb351a85 Happy citizens make for a happy Mr Mayor!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 4, Variation 1
+0xfb351a86 Top of the mornin' Captain!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 4, Variation 2
+0xfb351a87 Happy citizens make for a happy Mr Mayor!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 1
+0xfb351a88 Top of the mornin' Captain!
+
+# Character chatter (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 2
+0xfb351a89 Happy citizens make for a happy Mr Mayor!
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 1
+0x6e6e38a0 Good morning, oh fair and noble Captain! Welcome to my humble borough, Adventure Town!
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 2
+0x6e6e38a1 We have many things for you to do here! Talk to my dear citizens, they're scattered all around town.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 3
+0x6e6e38a2 Each time you talk to one of them, you'll complete a "Goal". Nifty, huh?
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 4
+0x6e6e38a3 That means in the next Act you will have three Goals! Just look at your minimap if you have troubles finding them.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 2, Variation 5
+0x6e6e38a4 While you are completing Acts and Goals, feel free to explore Adventure Town. There are many secrets to be found.  Have fun!
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 1
+0x6e6e39a1 I hope you liked my little town! This is just the beginning for you.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 2
+0x6e6e39a2 As a Captain, you can play more Adventures through Quick Play!  This will earn you more Spore Points for your Captains, unlocking more accessories and abilities.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 3
+0xc5dada22 The Adventure Creator is now unlocked.  You'll be able to create, edit and share your own Adventures.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 4
+0x6e6e39a3 And if you're so inclined, go into the Space Phase where your Empire will promote your Captain as you play Adventures and beam down to planets with your crew of allies.
+
+# Character talk dialog (Character: "mr_mayor", model: "Mr Mayor_@creature_editorModel!0x07ec6878.crt"): Act 5, Variation 5
+0x6e6e39a4 See you around and have fun!
+
+# Character name (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt")
+0xfb351860 Ms Spoffit
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 1, Variation 1
+0xfb351a39 My dear sweet Spoffits!  I love you all so very much!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 1, Variation 2
+0xfb351a3a Come to momma, my dear Spoffits!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 1, Variation 3
+0xfb351a3b Kootchie Coo, my dear Spoffit!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 1, Variation 4
+0xfb351a3c Baa Baa means "I Love You" in Spoffit.
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 1, Variation 5
+0xfb351a3d One can never have enough Spoffits...
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 2, Variation 1
+0xfb351a3e My dear sweet Spoffits!  I love you all so very much!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 2, Variation 2
+0xfb351a3f Come to momma, my dear Spoffits!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 2, Variation 3
+0xfb351a40 Kootchie Coo, my dear Spoffit!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 2, Variation 4
+0xfb351a41 Baa Baa means "I Love You" in Spoffit.
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 2, Variation 5
+0xfb351a42 One can never have enough Spoffits...
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 1
+0xfb351a43 My dear sweet Spoffits!  I love you all so very much!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 2
+0xfb351a44 Come to momma, my dear Spoffits!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 3
+0xfb351a45 Kootchie Coo, my dear Spoffit!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 4
+0xfb351a46 Baa Baa means "I Love You" in Spoffit.
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 5
+0xfb351a47 One can never have enough Spoffits...
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 4, Variation 1
+0xfb351a48 My dear sweet Spoffits!  I love you all so very much!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 4, Variation 2
+0xfb351a49 Come to momma, my dear Spoffits!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 4, Variation 3
+0xfb351a4a Kootchie Coo, my dear Spoffit!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 4, Variation 4
+0xfb351a4b Baa Baa means "I Love You" in Spoffit.
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 4, Variation 5
+0xfb351a4c One can never have enough Spoffits...
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 5, Variation 1
+0xfb351a4d My dear sweet Spoffits!  I love you all so very much!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 5, Variation 2
+0xfb351a4e Come to momma, my dear Spoffits!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 5, Variation 3
+0xfb351a4f Kootchie Coo, my dear Spoffit!
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 5, Variation 4
+0xfb351a50 Baa Baa means "I Love You" in Spoffit.
+
+# Character chatter (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 5, Variation 5
+0xfb351a51 One can never have enough Spoffits...
+
+# Character talk dialog (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 1
+0x8190c920 Oh hello there Captain!
+
+# Character talk dialog (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 2
+0x8190c921 How has your day been so far? Have you seen my Spoffits?
+
+# Character talk dialog (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 3
+0x8190c922 I've been losing some lately, but I heard they're just hopping around town...
+
+# Character talk dialog (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 4
+0x8190c923 I think they'd be much happier here with me and my other, more faithful Spoffits!
+
+# Character talk dialog (Character: "ms_spoffit", model: "Ms Spoffit_@creature_editorModel!0x07e9f161.crt"): Act 3, Variation 5
+0x8190c924 If you bring them back, then the machine can shave them and they'll be much, much happier!
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 1, Variation 1
+0xfb351ab3 Baaa...
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 1, Variation 2
+0xfb351ab4 Baaa..?
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 1, Variation 3
+0xfb351ab5 Baaa... Baaa..
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 2, Variation 1
+0xfb351ab6 Baaa...
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 2, Variation 2
+0xfb351ab7 Baaa..?
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 2, Variation 3
+0xfb351ab8 Baaa... Baaa..
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 3, Variation 1
+0xfb351ab9 Baaa...
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 3, Variation 2
+0xfb351aba Baaa..?
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 3, Variation 3
+0xfb351abb Baaa... Baaa..
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 4, Variation 1
+0xfb351abc Baaa...
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 4, Variation 2
+0xfb351abd Baaa..?
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 4, Variation 3
+0xfb351abe Baaa... Baaa..
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 5, Variation 1
+0xfb351abf Baaa...
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 5, Variation 2
+0xfb351ac0 Baaa..?
+
+# Character chatter (Character: "shaved_spoffit_2", model: "Shaved Spoffit_@creature_editorModel!0x07edb5d6.crt"): Act 5, Variation 3
+0xfb351ac1 Baaa... Baaa..
+
+# Character name (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+0x4868c860 Spoffit
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 1
+0xfb351a8a Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 2
+0xfb351a8b Baaaaaa... Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 1
+0xfb351a8c Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 2
+0xfb351a8d Baaaaaa... Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 3, Variation 1
+0xfb351a8e Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 3, Variation 2
+0xfb351a8f Baaaaaa... Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 1
+0xfb351a90 Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 2
+0xfb351a91 Baaaaaa... Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 1
+0xfb351a92 Baaa...
+
+# Character chatter (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 2
+0xfb351a93 Baaaaaa... Baaa...
+
+# Character name (Character: "statue_of_steve", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld")
+0xfb351a52 Statue of Steve
+
+# Character inspect text (Character: "statue_of_steve", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld"): Act 1, Variation 1
+0xfb351a53 Statue of Steve
+
+# Character inspect text (Character: "statue_of_steve", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld"): Act 1, Variation 2
+0xfb351a54 This is the only known image of Steve.
+
+# Character inspect text (Character: "statue_of_steve", model: "Masaari Statue_@building_editorModel!0x0755ea32.bld"): Act 1, Variation 3
+0xfb351a55 Steve was last seen selling time shares near the core.
+
+# Character name (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d")
+0xfb351920 The Gallery Owner
+
+# Character talk dialog (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d"): Act 3, Variation 1
+0xfb351921 Hello, Captain, how are you doing today?
+
+# Character talk dialog (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d"): Act 3, Variation 2
+0xfb351922 I am proprietor of this establishment, called "House of Stuff".  It is the only building of its kind in the galaxy.
+
+# Character talk dialog (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d"): Act 3, Variation 3
+0xfb351923 I collect and deal in ancient Art and Antiquities and have used this hall as my museum for the public to enjoy.
+
+# Character talk dialog (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d"): Act 3, Variation 4
+0xfb351924 Just walk into the red door to enter the building and have a look around.
+
+# Character talk dialog (Character: "the_gallery_owner", model: "The Gallery Owner_@creature_editorModel!0x07f0263d"): Act 3, Variation 5
+0xfb351925 Left Click onto the objects inside the museum to learn more about them.  Enjoy!
+
+# Character name (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt")
+0x72ba0860 The Playwright
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 1, Variation 1
+0xfb351a94 Come on guys, we'll never be ready in time!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 1, Variation 2
+0xfb351a95 Show me your best game face! Go! You're lean and mean!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 1, Variation 3
+0xfb351a96 Go go go!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 2, Variation 1
+0xfb351a97 Come on guys, we'll never be ready in time!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 2, Variation 2
+0xfb351a98 Show me your best game face! Go! You're lean and mean!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 2, Variation 3
+0xfb351a99 Go go go!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 1
+0xfb351a9a Come on guys, we'll never be ready in time!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 2
+0xfb351a9b Show me your best game face! Go! You're lean and mean!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 3
+0xfb351a9c Go go go!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 4, Variation 1
+0xfb351a9d Come on guys, we'll never be ready in time!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 4, Variation 2
+0xfb351a9e Show me your best game face! Go! You're lean and mean!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 4, Variation 3
+0xfb351a9f Go go go!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 5, Variation 1
+0xfb351aa0 Come on guys, we'll never be ready in time!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 5, Variation 2
+0xfb351aa1 Show me your best game face! Go! You're lean and mean!
+
+# Character chatter (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 5, Variation 3
+0xfb351aa2 Go go go!
+
+# Character talk dialog (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 1
+0xb8c2c920 Take five guys... Heyyyy Captain, welcome to my theater!
+
+# Character talk dialog (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 2
+0xb8c2c921 You're here for the play right? No? You're just a Captain and not an Author?
+
+# Character talk dialog (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 3
+0xb8c2c922 Well anyway, Authors are completely free to tell whatever story they want, however they want.
+
+# Character talk dialog (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 4
+0xb8c2c923 Like in this story we have a Knight trying to save his lands from an evil dragon.
+
+# Character talk dialog (Character: "the_playwright", model: "The Playwright_@creature_editorModel!0x07ec9d80.crt"): Act 3, Variation 5
+0xb8c2c924 You don't want to fight dragons? Fine. Now shoo, we have a play to finish.
+
+# Character name (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt")
+0xfb351928 Worker
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 1
+0xfb3518f5 Working hard for my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 2
+0xfb351a6c I love my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 3
+0xfb351a6d Honey makes the world go 'round!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 4
+0xfb351a6e I miss my honey...
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 5
+0xfb351a6f My honey is sweet on me!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 2
+0xfb351a70 I love my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 3
+0xfb351a71 Honey makes the world go 'round!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 4
+0xfb351a72 I miss my honey...
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 5
+0xfb351a73 My honey is sweet on me!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 2
+0xfb351a74 I love my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 3
+0xfb351a75 Honey makes the world go 'round!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 4
+0xfb351a76 I miss my honey...
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 5
+0xfb351a77 My honey is sweet on me!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 2
+0xfb351a78 I love my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 3
+0xfb351a79 Honey makes the world go 'round!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 4
+0xfb351a7a I miss my honey...
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 5
+0xfb351a7b My honey is sweet on me!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 5, Variation 2
+0xfb351a7c I love my honey!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 5, Variation 3
+0xfb351a7d Honey makes the world go 'round!
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 5, Variation 4
+0xfb351a7e I miss my honey...
+
+# Character chatter (Character: "worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 5, Variation 5
+0xfb351a7f My honey is sweet on me!

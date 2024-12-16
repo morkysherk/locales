@@ -1,0 +1,118 @@
+﻿
+
+#######################################
+# Category Names
+0x00000001 Adventure Objects
+
+#######################################
+# Category Names
+
+#######################################
+# Feed Item Names
+0x00000002 Objects
+
+#######################################
+# Filter Names
+
+0x07200107 Captain
+0x07200108 My Captains
+0x01020001 Adventures
+0x01020002 Playable Adventures
+
+# Genre filters
+0x01020003 No Genre
+0x01020004 Attack
+0x01020005 Defend
+0x01020006 Socialize
+0x01020007 Explore
+0x01020008 Quest
+0x01020009 Story
+0x0102000a Collect
+0x0102000b Puzzle
+0x0102000c Planets
+0x0102000d Template
+
+# Fixed object filters
+0x01021001 Fixed Objects
+0x01021002 Handheld Objects
+0x01021003 Gameplay Objects
+0x01021004 Rocks
+0x01021005 Static Ornaments
+
+# Audio filters
+0x01021006 Sound
+0x01021007 Crowd
+0x01021008 Environment
+0x01021009 Mechanical
+0x0102100a Music
+0x0102100b Note
+0x0102100c Oneshot
+
+# Effects filters
+0x01022001 Effects
+0x01022002 Light Effects
+0x01022003 Nature Effects
+0x01022004 SciFi Effects
+0x01022005 Whimsical Effects
+0x01022006 Oneshot Effects
+
+#######################################
+# Misc
+
+0x02000001 The selected item is currently being edited. You cannot remove it now.
+0x02000002 Selected ~num_selected_items~ item(s)
+
+#
+# Adventure large card
+#
+
+# Adventure statistics: Displays how many times an adventure has been played
+0x02100001 ~ep1_adventure_stats_num_plays~ plays
+
+# Adventure points
+0x02100002 ~ep1_adventure_stats_num_points~ pts
+
+# Download adventure
+0x02200001 Download Adventure
+0x02200002 Do you want to open this adventure?
+
+# Unpublish
+0x07d9cfb6 Stop Sharing
+0x07d9cfd7 Do you want to stop sharing this creation? It will be removed from the server.
+
+
+#######################################
+# Call To Action Messages
+
+0x072000e3 Create or Choose a Captain
+
+0x072925b0 Choose an Adventure
+0x072925b1 Choose a Planet
+0x072925b2 Create or Choose a Cast Member
+0x079edcd5 Create or Choose your Captain
+0x072925b3 Choose one or more Objects
+0x072925b4 Choose an Audio Object
+0x072925b5 Choose Flora
+0x072925b6 Choose your Adventure Cast
+0x072925b7 Choose one or more Creatures
+0x072925b8 Choose one or more Buildings
+0x072925b9 Choose one or more Vehicles
+0x072925ba Choose one or more Spaceships
+0x072925bb Choose one or more Effects
+0x072925bc Choose one or more Audio Objects
+0x072925bd Choose an Object
+0x07b67c69 Choose one or more Game Play Objects
+
+0x07b24b83 You need to be logged in to view the Leadboards and Ratings for this Adventure
+
+### Difficulty Descriptions
+0x07d86c49 Difficulty: ~ep1_adventure_difficulty~
+0x07d86c6a Very Easy
+0x07d86c7c Easy
+0x07d86c87 Moderate
+0x07d86c9f Hard
+0x07d86ca8 Very Hard
+
+### Ratings
+0xc7647889 Rating
+

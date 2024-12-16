@@ -1,0 +1,144 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 The Ruins of Doom
+
+# Adventure description
+0x00000003 Use your wits to navigate the ancient ruins and acquire The Golden Llama.  Once secured, make your way back to the extraction point. Beware!  Many have entered...none have returned.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 trader, collect, ruins
+
+# 'Adventure start' message
+0x00000010 You've beamed down to the Zha'ra Zha'ra Ruins. Legend states that there is a solid gold Llama hidden within the ruins. Secure the statue and make it back to the extraction point in one piece.
+
+# 'Adventure won' message
+0x00000011 Great work! You grabbed the Golden Llama. That's one more trophy to add to your collection of priceless artifacts.
+
+# 'Adventure lost' message
+0x00000012 Will you be trapped within the ruin walls for the rest of your days? Or are you going to try again?
+
+# Act 1 name
+0x00000020 Explore the Ruins
+
+# Act 1 description
+0x00000021 You know the Golden Llama is down here somewhere - so start looking for it!
+
+# Act 2 name
+0x00000022 The First Gate
+
+# Act 2 description
+0x00000027 Use the gems to open the ancient gate.
+
+# Act 3 name
+0x00000024 Collect Gems
+
+# Act 3 description
+0x00000025 Be careful! This area looks dangerous.
+
+# Act 4 name
+0x00000026 The Second Gate
+
+# Act 4 description
+0x00000023 Open the ancient gate to see what lies beyond.
+
+# Act 5 name
+0x00000028 The Temple
+
+# Act 5 description
+0x00000029 Search for the door to the temple.
+
+# Act 6 name
+0xf7f1ca4d The  Golden Llama
+
+# Act 6 description
+0x0000002b The treasure is yours! Pick it up, but watch out for the Guardian...
+
+# Act 7 name
+0xf7f1ca4e Run!
+
+# Act 7 description
+0x0000002d The Guardian wants its treasure back! Get out of here!
+
+# Act 8 name
+0xf7f1ca4f Extraction Point
+
+# Act 8 description
+0x0000002f Time to leave this planet. Return to the extraction point and beam back up to your ship.
+
+# Character name (Character: "broken_wall", model: "Broken Wall_@building_editorModel!0x077981f4.bld")
+0xf7f1ca50 Broken Wall
+
+# Character name (Character: "guardian", model: "Ancient Beast_@creature_editorModel!0x07ba6976.crt")
+0x00002001 Guardian
+
+# Character name (Character: "monument", model: "Ancient Monument_@building_editorModel!0x0779821e.bld")
+0xf7f1ca52 Monument
+
+# Character name (Character: "rubble", model: "Rubble Fall_@building_editorModel!0x077981c6.bld")
+0xf7f1ca53 Rubble
+
+# Character name (Character: "ruined_temple", model: "Ruined Temple_@building_editorModel!0x077981c4.bld")
+0xf7f1ca54 Ruined Temple
+
+# Character name (Character: "sacrificial_altar", model: "Ancient Altar_@building_editorModel!0x077981cd.bld")
+0xf7f1ca55 Sacrificial Altar
+
+# Character talk dialog (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 1
+0xf7f1ca56 A Spoffit? What's it doing over here?
+
+# Character talk dialog (Character: "spoffit", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 1
+0xf7f1ca5a A Spoffit? What's it doing over here?
+
+# Character name (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld")
+0xf7f1ca5e Stone Gate
+
+# Character talk dialog (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 3, Variation 1
+0x16d07920 Another ancient gate.
+
+# Character talk dialog (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 3, Variation 2
+0x16d07921 Collect more gems to open it and see where it leads.
+
+# Character talk dialog (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 4, Variation 1
+0xf7f1ca4a There's an inscription of some sort.  It appears to be a warning...it's difficult to decipher...
+
+# Character talk dialog (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 4, Variation 2
+0xf7f1ca4b ..."The Guardian Watches All"
+
+# Character talk dialog (Character: "stone_gate", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 4, Variation 3
+0xf7f1ca4c This is no time to be afraid. Keep exploring and find that Golden Llama!
+
+# Character talk dialog (Character: "stone_gate_2", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 1, Variation 1
+0x16d07820 An ancient stone gate.
+
+# Character talk dialog (Character: "stone_gate_2", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 1, Variation 2
+0x16d07821 The surface is covered by indentations. It looks like the gems could fit in to these.
+
+# Character talk dialog (Character: "stone_gate_2", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 2, Variation 1
+0xf7f1ca21 The gems are like keys and will fit into these indentations.
+
+# Character talk dialog (Character: "stone_gate_2", model: "Maya Stone_@building_editorModel!0x078ec543.bld"): Act 2, Variation 2
+0xf7f1ca22 Time to find out what's on the other side.
+
+# Character name (Character: "the_coliseum", model: "Coliseum Wall_@building_editorModel!0x0775a9e0.bld")
+0xf7f1ca61 The Coliseum
+
+# Character name (Character: "the_golden_llama!", model: "Golden Llama_@building_editorModel!0x0791ab7f.bld")
+0xf7f1ca63 The Golden Llama!
+
+# Character talk dialog (Character: "the_golden_llama!", model: "Golden Llama_@building_editorModel!0x0791ab7f.bld"): Act 6, Variation 1
+0xf7f1ca40 The GOLDEN LLAMA!
+
+# Character talk dialog (Character: "the_golden_llama!", model: "Golden Llama_@building_editorModel!0x0791ab7f.bld"): Act 6, Variation 2
+0xf7f1ca41 You found it! Now you just have to get it back to the extraction point.
+
+# Character name (Character: "wall", model: "Prison Wall_@building_editorModel!0x077981e0.bld")
+0xf7f1ca64 Wall
+
+# Character name (Character: "warden_s_area", model: "Warden Wall_@building_editorModel!0x077981fb.bld")
+0xf7f1ca68 Warden's Area

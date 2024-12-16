@@ -1,0 +1,45 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 The Arena of Oorama
+
+# Adventure description
+0x00000003 Step into the Arena, face the Trials of Combat, and bask in the adoration of the crowd.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 arena, fight, trials
+
+# 'Adventure start' message
+0x00000100 Survive the Trials of Combat and prove your skill as a great gladiator.
+
+# 'Adventure won' message
+0x00000101 Well done, gladiator! You have faced the Trials of Combat and have won the day!    
+
+# 'Adventure lost' message
+0x00000102 You have been bested in the Trials of Combat. The crowd calls out for the next champion to enter the Arena!
+
+# Act 1 name
+0x00000103 Trials of Combat
+
+# Act 1 description
+0x00000104 As you step into the Arena, you face a pack of Osgolts, hell-hounds from the Tartarus System. Defeat them!
+
+# Act 2 description
+0x00000106 Gates swing open and Skex and Thorns enter the fray. Defeat these desert-dwelling predators!
+
+# Act 3 description
+0x0000010d Weapon-toting mercenaries strut into the Arena. Your death is their payday.
+
+# Act 4 description
+0x00000108 A swarm of Tuuks blankets the floor of the Arena. Watch your toes as you stomp them into the dirt!
+
+# Act 5 description
+0x0000010a The Tuuks are joined by a massive Grankor, a terror from the swamp planet of Mildor. Bring down the Grankor to win the crowd! 
+
+# Act 6 description
+0x0000010b Fearsome Kroons slink from the Arena tunnels. Eliminate these brutal beasts before they tear you to pieces!

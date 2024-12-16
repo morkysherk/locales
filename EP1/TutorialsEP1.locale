@@ -1,0 +1,457 @@
+﻿# EP1-ActPanel
+0x0771E7DB Manage Goals and the Story in the Act Panel
+0x079a7ce1 Act Description
+0x079a7b8e Introduce the Act by typing it here. Players will see this at the beginning of the Act.
+
+# EP1-WinLoseText
+0x07763b90 Win/Lose Text
+0x0771E83A Enter Text for the Win and Lose messages for your Adventure.
+
+# EP1-AddSecondAct
+0x07763a67 Add Act
+0x0771EAC0 Left-Click here to add a Second Act. The current Act must have a Goal before you can add a new Act.
+
+0x0771EAE0 Let's give the Captain something to do next
+0x0771EAF8 Grab a stick from the Objects Cast Palette
+0x0771EB1C Place the stick on the ground near the Captain
+0x0771EB72 Drag a new Goal for Act II onto the Stick
+0x0771EC65 Set the Goal Type to Give
+0x0771EC85 Set the Second Give Marker on a Creature in the world
+0x0771ECB5 Enter Text for the Goal Card explaining the Give Goal to the Player
+0x07b4e966 Saving Adventures
+0x0771ED0B Save your work by left-clicking the Save button any time
+
+
+0x078db94a Fixed Objects
+0x078db94b Left-Click the Fixed Object Palette.
+
+0x078db6df Fixed Objects
+0x078db6e0 Left-Click and drag any Fixed Object into the world to get started.
+# New Join with Sword
+0x07a81511 Two Object Goals
+0x07a814d8 Bring to and Block Goals require two objects to be complete. One or both must be moveable or capable of moving independently. Bring to requires the Captain to bring them together. Block requires the Captain to keep them apart.
+0x07a81521 Grab a Goal Marker and drop it on the first of two objects you want to set to Bring together.
+0x078e92e3 Select the Bring to Goal type.
+0x07ba7cc2 Two Object Goals (Part 2)
+0x07ba7dae Find or place the second Object for this goal and drag the Second Goal Market onto it to complete the sentence.
+0x07a81620 Place the second Marker in the Bring to Goal on an Object or Creature that can come into contact with the first Object.
+
+
+# Checklist
+0x07912cd1 Checklist
+0x07912d11 Left-Click items in the Checklist to help guide you through creating an Adventure.~p~Tutorials unlock as you proceed down the list.~p~Open it and Left-Click any available item.
+0x07a3cfa7 You can re-enable the Tutorials in the Options Menu
+
+### Tutorial Checklist
+0x079c152c Welcome
+0x07c7abaa Introduction
+0x079c1531 Basic Controls
+0x0797355a Camera Controls
+0x079c1523 Saving
+0x07733140 Place A Captain
+0x079c1527 Create a World
+0x07733141 Select a Cast
+0x079c1550 Build a Village
+0x079c1565 Place a building
+0x079692e4 Add Sounds
+0x079c1570 Adding Personality
+0x07733144 Assign Behaviors
+0x0796b1e0 Set Vehicle Behaviors
+0x079c1586 Make a Game
+0x07733143 Assign a Goal to the Captain
+0x079712e5 Multi-Object Goals
+0x07970bd9 Act Panel
+
+##Terrain Mode items
+0x07919119 Terraform
+0x079c153a Terrain Colors
+0x0791911a Choosing a Theme
+0x0791911b Weather
+0x0791911c Flora
+
+0x0762143F Cast Available
+0x07621440 All the Cast Members added from the Sporepedia for use in your Adventure appear here.
+
+# EP1-FirstClickAtmoCategory
+
+0x076390FF Atmosphere
+0x07639100 Set the density of the Atmosphere. Heavy clouds produce lightning. Thin Atmosphere will cause meteor showers!
+
+# EP1-ClickGoalButton
+
+0x0762251C Goals Panel
+0x0762251D Assign Goals for the Captain. Each Act can have up to three Goals, that can be completed in any order.~p~Acts must have goals for Players to Win or Lose your Adventure.
+
+# EP1-TalkToGoal
+
+0x0771DCC4 Set the Goal to "Talk To" or "Examine." Characters, Vehicles, and Objects can have one Talk-To or Examine goal each, per act.
+
+# EP1-Vehicles
+
+0x0796b4ac Vehicle Palette
+0x0796b4ad Select the Vehicle Palette to add vehicles to your Adventure.
+
+0x0796b623 Add a Vehicle
+0x0771F293 Add a vehicle from the Sporepedia to the Cast. Then place it in the World by dragging it from the palette.
+
+0x0796c41e Vehicle Behavior
+0x0796c41f Move the cursor over the new Cast Member to reveal the Behavior button.
+0x0796c959 Select the Vehicle's Behavior Button
+
+
+0x0771F308 Set Vehicle Behavior
+0x0796cc7d Left-Click the Movement Button. Then Select Patrol.
+0x0771F399 Drag the Patrol Marker to set the second point in the Vehicle's patrol route. 
+0x07d6257a Alt-Drag on the marker to set another point beyond the first. The vehicle will move from one end of the patrol path to the other, and back.
+0x07d23877 Move-To is similar, except the character remains at the last marker.
+
+# EP1-FirstClickBehaviorUI
+
+0x07621DD7 Behaviors
+0x07621DD8 Give your Captain an Adversary using the Behavior Panel.  This is where you can set Personality, Movement, Awareness, and Teams.
+
+0x0775ce3e Add a Cast Member
+0x0775ce3f If you have not done so already, add a Creature to your Cast Palette here. Drag that Creature from its Cast Palette to place a new copy in the world.
+0x078d7b6f Once you have placed the Captain, Right-Click on the Hero Panel to re-center the Camera on the Captain in the world.
+0x0779b5e7 Behavior Panel
+0x0779b5e8 Move the cursor over the Cast Palette to reveal the Behavior Panel button. ~p~Left-Click the Behavior Panel button.
+0x0779c5b4 Left-Click the Behavior Panel button.
+0x0779d3ef Personalities
+0x0779d3f0 Set the Personality of a Cast Member by pressing the appropriate button.  Personalities range from Peaceful to Aggressive.
+0x0771E112 Set the Adversary's Personality to Aggressive.
+0x07d23c43 Good! You gave this Creature an Aggressive personality.
+0x0779db5e Movement
+0x0779db5f This button allows you to set the Cast Member's movement options.  Types of movement include, Wander, Patrol, Follow, and Stationary.
+0x0779db81 Select the Movement button, and then press the Follow button
+0x077ac9a1 Follow Marker
+0x077ac9a2 Place this marker on a Cast Member to follow.
+0x077ac9d4 Drag the Follow marker and place it on the Captain in the World.
+0x077ad163 Awareness Radius
+0x077ad164 This determines how far away this Cast Member senses and reacts to other objects.
+0x077ad33c Set the Adversary's Awareness to Maximum range so it can see the Captain.
+0x0797266c Try your changes by going into Test Mode
+0x07b4ec8d To copy any Cast Member in the world, hold ALT and Left-Click then drag the copy.
+0x07c743a7 Global Behaviors
+0x07c74109 Changes you make apply to all Acts. Left-Click the Global Mode button to disable it, and future changes to this Cast Member will apply only to the current Act.
+0x07c742c5 Left-Click the Apply-Global button and all the settings for this Cast member in the current Act will be applied to all Acts.
+
+# EP1-DragHero
+
+0x07577C95 Left-Click on the Hero Panel and Drag the Captain into the World.
+
+# EP1-FirstClickFloraCategory
+
+0x076390FD Flora Palette
+0x076390FE Select the Flora Palette to change the Flora on your Planet. Flora is only found on live terrain, and when the Temperature is favorable. There are large, medium, and small plant categories.
+
+# EP1-TerraMood
+0x0796dd5b Mood Palette
+0x0796de16 Select the Mood Palette to set the Time-Of-Day, Temperature, Atmosphere, and Planetary Water-Level.
+0x0771EFA4 Rotate the Time-Of-Day dial to your preference.
+0x079732d9 Time of Day
+0x07a0112b Lock Time
+0x0771F108 You can lock the time or let it advance normally.
+0x079732f0 Atmosphere
+0x0771F133 Move the Atmosphere Slider to set the cloud density. Low density Atmosphere causes Meteor Showers. High Density causes Lightning Storms.
+0x07957e9c Planetary Temperature
+0x07957ead Move the slider to set the temperature of your planet.
+
+### Checklist UI ###
+
+0x07735BDC Checklist ~ep1_tutorials_completed~/~ep1_tutorials_total~
+
+# EP1-FirstClickVehicleCategory
+
+0x07621437 Adventures can have Vehicles
+0x07621438 Vehicles are Cast Members. Like Creatures, they have Personalities and Behaviors you set.
+
+# EP1- ShowActUI
+
+0x07635ED1 Act Panel
+0x07635ED2 The Act Panel is where you go to name and describe the individual acts within your Adventure.~p~Adventures can have up to eight Acts.~p~You can also set the Act music for the Adventure here.
+
+0x07972865 Act Music
+0x07972881 Set your music for each Act here.
+
+#### CALLOUTS ####
+# EP1-BuildModeIntro
+
+0x0761D563 Welcome to the Adventure Creator
+0x0761D564 Create Adventures to challenge Spore Players everywhere. Take time to get familiar with the tools available to you. ~p~Design your World, populate it with Creatures of all varieties, make goals and tell a story for Spore Players to enjoy.
+
+# Hint
+
+0x0771D3CF Left-Click the name and describe box to give your Adventure a title.
+
+
+0x078d93da Talk To Text
+
+0x0771DE1F Enter the text here to set the Cast Member's speech, which will appear in the Adventure.
+
+# EP1-SelectHero
+
+0x07578A4F Place Captain
+0x07578A50 The Captain is the star of the Adventure.  This will be the player's character.
+
+# EP1-Audio
+
+
+0x0796a679 Audio Objects
+0x0796a67a If you have not done so, select an Audio Object from Sporepedia and then drag it into the world. Hover over it to hear its sound.
+
+
+# 0x0771F1BE You can place sounds and music from the Audio Palette in locations in the World. Hover over it to hear its sound.
+0x0771F1F1 Place the sound you selected in the World.
+0x0771F201 Change the range of the sound by moving the cursor over the object, holding Shift and scrolling the Middle Mousewheel.
+0x0795826c Change the pitch by selecting the object and sliding the rotation ring.
+0x07972c1c Change the volume by selecting the object and moving the volume handle.
+
+# EP1-FirstClickFixedObjectCategory
+
+0x0762143D Fixed Objects Palette
+0x0762143E Fixed objects can be used for decoration, to help players navigate. Tools and objects that can be picked up, moved, given as gifts, or knocked over, also appear here.
+
+# EP1-PaintModeIntro
+
+0x076756BA Terrain Mode
+0x076756BB Terrain Mode provides Themes and tools for coloring your Adventure Planet.
+
+# EP1-DragCreature
+
+0x075E4E54 Left-Click on the creature and Drag it to a place in the world close to the Captain
+
+#### HINTS ####
+# EP1-CamTranslate
+
+0x07563B29 Hold the Right Mouse Button and move the Mouse over the Planet to look around
+
+# EP1-Teams
+
+0x0771F3ED Set a Creature to Team A to assign it to the Captain's Team
+0x0771F410 Team B is always against the Captain
+0x0771F426 No team set means that character will be neutral
+
+# EP1-ShowMissionUI
+
+0x07634DAC Adventure Mission Cards
+0x07634DAD Mission Cards Tell the Player what the current goal is.
+
+# EP1-CamZoom
+
+0x07563B2B Use the Mouse Wheel to Zoom in and out
+
+# EP1-ClickTestModeButtonAgain
+0x07763c47 Test Mode Again
+0x0771E63F Now Test your Adventure again
+
+# EP1-ShowMinimap
+0x0775f221 Minimap
+0x0771E3F9 The Minimap is useful to navigate your Adventures.  The Captain's Position, Goals, and Starting Location all appear on the Minimap.
+
+#Test Mode Goal Cards
+0x07a805ed Skipping Goals
+0x07a80599 Test Mode permits you to Skip goals by left-clicking the Marker next to the goal.
+0x07a805f9 Skipping Acts
+0x07a805fe You can skip between Acts by left-clicking the Arrows at the top of the Goal Card
+
+# EP1-ShowSpeedButtons
+0x07763bb6 Speed Buttons
+0x0771E42C You can speed up the World by Left-Clicking these buttons
+
+0x0771E683 What you write about the Goal appears in the Goal Card
+0x0771E735 Left-Click the Build Mode button to continue editing.
+
+# EP1-Planetary Paint Palette
+
+0x076390FB Planetary Paint
+0x079731e7 Select the Planetary Paint palette
+0x07973230 Color-by-Elevation
+0x076390FC Terrain can be colored by elevation using the Terrain Elevation Colorizer. The current colors match the theme of your planet.  
+0x07d2278e Slide an Elevation Marker to the elevation you want to colorize.
+0x07db8058 Create a new color strata by left-clicking the Terrain Elevation Bar. 
+0x07d2274b Select a color for that marker from the Color Picker. You can delete it later by dragging it off the palette.
+
+0x07bbaf62 Cliffs, Beaches, Atmosphere, Water
+0x07bbaf6c To set color for Water, Atmosphere, Beaches and Cliffs, left-click its icon and select a color from the Color Picker.
+0x07bbaf80 Try changing the colors on the Planet to acheive the look you want.
+
+# EP1-TerraThemes
+
+0x0771EF15 Choose a Theme for your Planet.
+#CUT 0x0771EF42 Planets have mixtures of living and dead terrain
+0x0771EF59 Use the Sliders to change Living and Dead Terrain Colors. You may not always be able to see the difference.
+
+# EP1-ClickTestModeButton
+
+0x075F5A4E Test Mode
+0x075F5A4F Left-Click the Test Mode button to test your Adventure while you're creating.
+
+# EP1-ClickButtonAgain
+0x07763ad7 Build Mode Again
+0x07763ad8 Left-Click Build Mode button again
+
+# EP1-NameAdventure
+
+0x0771D3CE Adventure Name
+
+# EP1-FirstClickUsedCastCategory
+
+0x076214A0 This is the Used Cast Panel
+0x076214A1 Everything added to the Adventure appears here.
+
+# EP1-SelectCreatureCategory
+
+0x075E079D Creature Cast Palette
+0x075E079E Left-Click to Select the Creature Cast Palette.
+
+# EP1-FirstClickAdioCategory
+
+0x0762407A Audio Panel
+0x079694a7 Select this palette to add sounds and music to your Adventure.
+##End
+
+0x0762407B Place sounds in the Adventure by dragging them into the world. Adjust the handles to set how far the sound can be heard, and triggered to play.
+
+# EP1-TestModeIntro
+
+0x07632EEC Welcome to Test Mode
+0x07632EED Test Mode provides a way to troubleshoot and play the Adventure you're currently creating.~p~Return to Build Mode when you find something you want to change in the Adventure.
+
+# EP1-ClickBuildModeButton
+
+0x075F5A50 Build Mode
+0x075F5A51 Left-Click the Build Mode button to Return to Editing.
+
+# EP1-Flora
+
+0x0771F197 Choose new flora to place on your planet. Flora is found on live terrain, when the Temperature is favorable.
+
+# EP1-DragGoal
+0x07971d33 Assign a Goal
+0x07971e8d Goal markers are used to set goals for the Captain in an Adventure.  Goals include Talk To, Give Gift, Destroy, and Befriend.
+
+0x075F39B9 Place a Goal Marker onto a Cast Member in the world to set Goals for the Captain.
+
+# Goal Tutorial Started No Available Goals
+0x07bb8bdd Adding Goals
+0x07bb8bde Each Act supports a maximum of three Goals.  Please delete a Goal by left-clicking the trash can next to it, and restart this Tutorial from the Checklist.
+
+
+# EP1-FirstClickThemesCategory
+
+0x079207e3 Theme Palette
+0x076390F9 Select the Theme Palette.
+0x07920810 Themes
+0x076390FA Themes give your planet a whole new colorful style
+
+# EP1-SelectCreature
+
+
+0x075E2C84 Add a Creature
+0x075E2C85 Left-Click and Drag a creature to place into your Adventure.~p~Enter Sporepedia to select a creature if none is present.
+
+
+# EP1-FirstClickTerraCategory
+
+0x07639101 Welcome to the Terraform Mode.
+0x07639102 Here, you apply changes to the Terrain, choose the Flora and set the ambiance of the planet.
+0x0791f5b7 Terrain Palette
+0x07b3a935 Select the Terrain Palette to access the Terrain Stamps
+0x0791f5b8 Mountains
+0x07959720 Use these stamps to make the terrain mountainous and rugged.
+0x07958d39 Choose any Terrain Stamp and then drag and drop it onto the planet.
+#CUT 0x0771EE24 Drag the Stamp to a suitable location on the planet. Release the button to apply it.
+0x0771EEA4 Use the Stamp Handles to change its size, intensity, and orientation.
+#CUT 0x0795777f When a stamp is selected, you may press the [Delete] key to remove it
+
+# EP1-ScaleCreature
+
+0x07749011 Right-Click on the Adversary in the Cast Palette to center the Camera on it.
+0x075E5364 Hold the Shift Key and scroll the Middle Mousewheel over the Cast Member to scale.
+
+# Add a building
+0x079ac52f Add Buildings
+0x079ac545 To begin creating a village, choose the Building Palette
+0x07bb5926 Place Buildings
+0x079ac7ef If you have not already done so, select a Building from the Sporepedia. Drag it to a place in the World.
+0x07c7361c Working with Buildings
+0x07c73644 Hold the Tab key and mouse over the building to reveal handles to set rotation and pitch. Alt and Drag t copy.~p~Creatures and vehicles may not be able to pass between buildings that are set too close.
+
+
+# EP1-CamRotate
+
+0x07563B2A Click the Middle Mouse Button and move the Mouse to Rotate and Pitch the camera. The manual provides a list of keys you can use.
+
+# EP1-FirstClickBuildingCategory
+
+0x07621439 Buildings
+0x0762143A Your creations in the Building Creator make great additions to Adventures. Buildings can belong to a team, and speak messages to the Player. They can also be damaged by advanced weapons. Aggressive NPC's may attack a Building that is neutral or belonging to the other team.
+
+# Complexity Meter
+0x07957630 The Complexity Meter Says How Much More The Planet Can be Changed
+
+# Sporepedia
+# Need one for Sporepedia  "Select a Planet for your Adventure"
+
+0x079709bb Free Camera
+0x07970a15 Left-Click the Free Camera button to toggle in and out of free camera mode.
+
+## Outfitter ##
+# EP1-OutfitterEnergyMeter
+
+0x079e7d0e Energy Meter
+0x079e7d0f The Energy Meter tracks how much energy some of the abilities use, and how much is stored and recharged by the batteries and generators. ~p~If you run out of energy, you won't be able to use your abilities. ~p~Pull the Power Handle on any accessory that has one to increase its ability level and energy consumption.
+
+0x07a8f03a Captain Outfitter
+0x07a8f04b Welcome to the Captain Outfitter. ~p~Completing Adventures in Quick Play and Space Game unlocks new Accessories for your Captains. ~p~These appear on the Captain Accessories Tab.
+
+# EP1-PlayModeEnergy
+
+0x079e7e25 Energy
+0x079e7e26 Be careful to keep your Energy level high enough or you won't be able to use some of your abilities. ~p~Equip your Captain with batteries and generators to increase your energy.
+
+# EP1-PlayModeMinimap
+0x079e8123 Minimap
+0x079e8124 The minimap is useful for navigation on the planet. ~p~Your Captain's Position, Goals, and Starting Location all appear on the Minimap.
+
+# EP1-PlayModeProgressBar
+0x079e8180 Progress Bar
+0x079e8181 The Progress Bar tracks how many Goals have been accomplished, and how many you have left. ~p~Once the Bar is full, the Adventure is successfully completed.
+
+
+# EP1-PlayModeGoalCard
+
+0x079e8049 Mission Card
+0x079e804a The Mission Card tells you what the current Goals are. ~p~Complete all the Goals to move on to the next Act.
+
+##### Stuff added by Peter Just in Case
+0x07a02dd5 Handheld Object
+0x07a02e13 Handheld objects can be picked up, carried around, and given to creatures.
+0x07a02de0 Select a Handheld Object from the Sporepedia and drag it in the world.
+
+0x07a02ffc Adventure Cover Art
+0x07a0304f To create a cover for your Adventure for players to see in the Sporepedia, position the camera where you want it.~p~Then, open the Name and Describe Panel and left-click the Camera Button.~p~You can choose the one that best represents your Adventure.
+0x07a03553 Take a Cover Art photograph in the Test Mode by left-clicking on the Camera button.~p~It will appear in the Name and Describe Panel
+
+0x07a03149 Act Timer
+0x07a03155 To set a time limit on an Act, left-click the Act Timer button. Then, set the time you want to give players to accomplish the Goals in that Act.
+
+0x07a032fb Spawning
+0x07a0336d Use the Spawning Behavior to make creatures regenerate and multiply.
+0x07a03396 The Frequency sets how often a spawn occurs. The limit sets how many can be in the World at once.
+
+0x07a033e5 Gameplay Objects
+0x07a033ef Gameplay Objects can be used to make an Adventure more Challenging and Fun.~p~Pick one from the Sporepedia and place it in the world.
+0x07a034a1 Gameplay Objects should be tested. Be sure to use Test Mode often.
+
+## Captain ##
+# EP1-SporepediaCaptain
+
+0x07d087df Choose your Captain!
+0x07d087e0 Create a brand new Captain from scratch, or select any creature you’ve made by clicking on the "All" filter. ~p~Your Captain will gain experience (Adventure Points) each time you successfully complete an Adventure. ~p~Experienced Captains gain access to new equipment and accessories.~p~Pick a Captain to begin your journey.
+
+
+# EP1-FirstAdventure
+0x07d087e1 Welcome to your first Adventure!
+0x07d087e2 Your Captain will gain experience once you’ve successfully completed this Adventure. ~p~You may track your Captain’s progress in Sporepedia. ~p~When on the planet, you control your Captain the same way you controlled your Creature in the Creature Phase. ~p~Let’s look at what’s new...
+

@@ -1,0 +1,59 @@
+﻿
+0x0745031d Create and Outfit a Captain
+0x07a794b3 Choose a Captain
+0x074bdfb7 Play Adventure
+0x074bdfb8 Create Adventure
+0x074bdfb9 Captain Outfitter
+0x074bdfba Galactic Adventures
+0x074bdfbb Play
+0x074bdfbc Create
+0x074bdfbd Share
+0x074bdfbe Edit Adventure
+
+#######################################
+# Title Headers
+
+0x07551790 Equipment
+0x07551791 Crew
+0x07551792 Enter Outfitter
+0x07551793 Back
+0x07551794 Beam Down
+0x07551795 Make Card Cover
+0x07551796 Card Cover Art
+0x07551797 Choose an Adventure
+0x07551798 Choose or Create Your Captain
+0x07551799 Name Your Captain
+0x0755179a Choose A Crew Member
+0x0755179b Review Your Captain
+0x0755179c ---
+
+# Hub UI Descriptions
+0x07A7B089 Quick Play
+0x07A7A156 Take your Captain on an Adventure. Earn points to unlock new accessories and increase your Captain's rank.
+0x07a8dfe8 Create Adventure
+0x07a7a14c Create Adventures to challenge and entertain Spore Players and their Captains.
+0x07a8e03b Welcome to Spore Galactic Adventures
+0x07a8df18 Beam down on to planets and become the most powerful Captain in the Galaxy.
+0x07a93332 Edit Adventure
+0x07a93365 Edit an existing Adventure from Sporepedia.
+
+#new Space GGE text
+0x07a8dffe Space Stage
+0x07A7B627 Take on missions with new planetary adventures as you cruise the galaxy in your spaceship on your journey through the cosmos.
+0x07d257af Name Your Captain
+0x07d257b0 Okay
+
+#rollover for greyed-out options
+0x07eb5184 Play a Galactic Adventure in Space or Quickplay to unlock the Adventure Creator
+
+#######################################
+# Intro movie, copyright
+
+0x07902e20 © 2009 Electronic Arts Inc. All Rights Reserved.
+
+
+#######################################
+# Point feedback strings
+0x07ec9f8a This Captain
+0x07ec9f8b ~gge_captain_name~ has already earned points for this adventure.
+0x07ec9f8c ~gge_captain_name~ has earned the maximum points.

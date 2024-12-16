@@ -1,0 +1,384 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Delicate Negotiations
+
+# Adventure description
+0x00000003 Two powerful clans are on the brink of war! Can peace prevail?
+
+# 'Adventure start' message
+0x00000010 Accusations fly and sabers rattle. It's up to you to stop a battle.
+
+# 'Adventure won' message
+0x00000011 It is done! And what a performance from you! - the player of this piece - and indeed peace! Bravo! Bravissimo!
+
+# 'Adventure lost' message
+0x00000012 You merely play at diplomacy friend - that's why you didn't get to the end! Try once more to even the score...
+
+# Act 1 name
+0x00000103 The Ultimatum
+
+# Act 1 description
+0x00000104 Duke Montalette has a message for you. Deliver it to Baron Capague.
+
+# Act 2 name
+0x00000105 Tensions Build
+
+# Act 2 description
+0x00000106 Listen close to the Baron's threats.  His tale is different than Montalette's.
+
+# Act 3 name
+0x00000107 The Gentle Folks of Veronasburgh
+
+# Act 3 description
+0x00000108 Something's amiss, so seek out what's true. Search in the village and look for a clue.
+
+# Act 4 name
+0x00000109 Wherefore Art Those Two?
+
+# Act 4 description
+0x0000010a It's up to you to stop this war. Head out of town, it's time to explore. 
+
+# Act 5 name
+0x0000010b Veronasburgh is Going to War!
+
+# Act 5 description
+0x0000010c The battle is starting! The soldiers are armed! Hurry, act quickly! No one must be harmed!
+
+# Act 6 name
+0x0000010d All's Well That Ends Well
+
+# Act 6 description
+0x0000010e The son and the daughter are safely returned. The war was averted, no castles were burned.
+
+# Character name (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt")
+0x00010001 Baker Bobb
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 1, Variation 1
+0x60000026 There are many recipies I have learned...but they all end up crunchy and burned.
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 1, Variation 2
+0x60000027 War is approaching, it's almost begun. I hope that the fight doesn't blacken my buns.
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 3, Variation 1
+0x30000011 I have some news about Romiette's fate
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 3, Variation 2
+0x30000012 She rushed here this morning and said she was late.
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 3, Variation 3
+0x30000013 She was looking for sweets and purchased a cake
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 3, Variation 4
+0x30000014 Then she ran off on a trip to Forlorn Lover's Lake.
+
+# Character talk dialog (Character: "capague_baker", model: "Capague Baker_@creature_editorModel!0x07d33034.crt"): Act 3, Variation 5
+0x30000015 She hasn't been kidnapped! She's out on a date!
+
+# Character name (Character: "capague_dweller", model: "Capague Dweller_@creature_editorModel!0x07d3302f.crt")
+0x00010002 Villager
+
+# Character talk dialog (Character: "capague_dweller", model: "Capague Dweller_@creature_editorModel!0x07d3302f.crt"): Act 1, Variation 1
+0x600000b1 Welcome and greetings, my hand I extend. If you have money I'll be your best friend!
+
+# Character talk dialog (Character: "capague_dweller", model: "Capague Dweller_@creature_editorModel!0x07d3302f.crt"): Act 1, Variation 2
+0x600000b2 Buy me some gifts at this luxury store. I'll be your buddy until you are poor.
+
+# Character name (Character: "capague_guard_captain", model: "Capague Guard Captain_@creature_editorModel!0x07d33016.crt")
+0x00010003 Capague Guard Captain
+
+# Character name (Character: "capague_laborer", model: "Capague Laborer_@creature_editorModel!0x07d33020.crt")
+0x00010004 Worker
+
+# Character talk dialog (Character: "capague_laborer", model: "Capague Laborer_@creature_editorModel!0x07d33020.crt"): Act 1, Variation 1
+0x600000c2 I work and I slave. I'm rushed all the time. I've barely a moment to think of a rhyme!
+
+# Character talk dialog (Character: "capague_laborer", model: "Capague Laborer_@creature_editorModel!0x07d33020.crt"): Act 1, Variation 2
+0x600000c3 The sky is bright blue, the day's nice and sunny. My muscles are sore, my nose is quite runny.
+
+# Character talk dialog (Character: "capague_laborer_2", model: "Capague Laborer_@creature_editorModel!0x07d33020.crt"): Act 1, Variation 1
+0x600000ca I like selling stuff, it really is fun! But still I can't wait for this day to be done.
+
+# Character talk dialog (Character: "capague_laborer_2", model: "Capague Laborer_@creature_editorModel!0x07d33020.crt"): Act 1, Variation 2
+0x600000cb Give me your money and I'll give you a thing!  Could be a spider...could be a ring! (It's probably going to be a spider, though.)
+
+# Character name (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt")
+0x00010006 Capague Soldier
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 1, Variation 1
+0x60000083 I look to the left. I look to the right. I will keep lookout until it is night.
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 1, Variation 2
+0x60000084 Being a soldier is a dangerous job. I hope I don't fight against a large mob.
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 5, Variation 1
+0x60000099 This fighting business isn't much fun...if the battle heats up I'm going to run!
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 5, Variation 2
+0x6000009b 'War is for heroes,'' a wise man once said...so why are my heroes all beat up and dead?
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 6, Variation 1
+0x60000080 Romiette wasn't captured, she was out with her guy! Now we won't battle and no one will die.
+
+# Character talk dialog (Character: "capague_soldier", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt"): Act 6, Variation 2
+0x60000081 Sometimes we fight and sometimes we rest. Which times do you think that I like the best?
+
+# Character name (Character: "capague_soldier_2", model: "Capague Soldier_@creature_editorModel!0x07d3301b.crt")
+0x00010007 Capague Soldier
+
+# Character name (Character: "capague_subject", model: "Capague Subject_@creature_editorModel!0x07d33025.crt")
+0x00010008 Royal Subject
+
+# Character talk dialog (Character: "capague_subject", model: "Capague Subject_@creature_editorModel!0x07d33025.crt"): Act 1, Variation 1
+0x60000052 I work on a farm and am hearty and hale...come check out my goods, I'm having a sale!
+
+# Character talk dialog (Character: "capague_subject", model: "Capague Subject_@creature_editorModel!0x07d33025.crt"): Act 1, Variation 2
+0x60000053 Where did my wife go? This is no time to roam! I need her to carry this heavy stuff home!
+
+# Character name (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt")
+0x00010009 Baron Capague
+
+# Character talk dialog (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 2, Variation 1
+0x20000011 I have read these foul scribblings and I am displeased!
+
+# Character talk dialog (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 2, Variation 2
+0x20000012 My fair daughter Romiette is the one that's been seized!
+
+# Character talk dialog (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 2, Variation 3
+0x20000013 I have heard enough of the foolish Duke's lies!
+
+# Character talk dialog (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 2, Variation 4
+0x20000014 Gather my troops! Today the Duke dies!
+
+# Character talk dialog (Character: "capague_warlord", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 2, Variation 5
+0x20000015 My daughter must be returned to my side. The power of the Capagues cannot be denied!
+
+# Character talk dialog (Character: "capague_warlord_2", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 6, Variation 1
+0x60000011 Those crazy kids and their young lover's ways
+
+# Character talk dialog (Character: "capague_warlord_2", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 6, Variation 2
+0x60000012 Almost made me set Montalette's castle ablaze.
+
+# Character talk dialog (Character: "capague_warlord_2", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 6, Variation 3
+0x60000013 It was all just a silly little misunderstanding
+
+# Character talk dialog (Character: "capague_warlord_2", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 6, Variation 4
+0x60000014 But I learned my lesson, I won't be so demanding.
+
+# Character talk dialog (Character: "capague_warlord_2", model: "Capague Warlord_@creature_editorModel!0x07d3300c.crt"): Act 6, Variation 5
+0x60000015 My sweet Romiette only wanted to wed. Gosh I feel foolish...is my face all red?
+
+# Character name (Character: "captain_lemesurier", model: "Captain Lemesurier_@creature_editorModel!0x077ad943.crt")
+0x00010011 Capt. Lemesurier
+
+# Character name (Character: "flixxel", model: "Flixxel_@creature_editorModel!0x068057cb.crt")
+0x00010012 Flixxel
+
+# Character talk dialog (Character: "flixxel", model: "Flixxel_@creature_editorModel!0x068057cb.crt"): Act 1, Variation 1
+0x60000036 The hat that I wear is the finest of all!  It makes me look wealthy, handsome and tall!
+
+# Character talk dialog (Character: "flixxel", model: "Flixxel_@creature_editorModel!0x068057cb.crt"): Act 1, Variation 2
+0x60000037 As I walk around this glorious town, my hat always makes me a man of renown!
+
+# Character name (Character: "fshrog_pilgrim", model: "Fshrog Pilgrim_@creature_editorModel!0x074ca639.crt")
+0x00010013 Fshrog
+
+# Character talk dialog (Character: "fshrog_pilgrim", model: "Fshrog Pilgrim_@creature_editorModel!0x074ca639.crt"): Act 1, Variation 1
+0x6000003e I need to buy some bait for my hook... that's what it says in my 'Learn to Fish' book.
+
+# Character talk dialog (Character: "fshrog_pilgrim", model: "Fshrog Pilgrim_@creature_editorModel!0x074ca639.crt"): Act 1, Variation 2
+0x6000003f Last time I went fishing I made a mistake. My boat sprung a leak and then sunk in the lake.
+
+# Character name (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt")
+0x00010014 Julio Montalette
+
+# Character talk dialog (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt"): Act 4, Variation 1
+0x40000011 How did you find us? Can't you just let us be?
+
+# Character talk dialog (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt"): Act 4, Variation 2
+0x40000012 The lake's lovely with two, but it's crowded with three!
+
+# Character talk dialog (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt"): Act 4, Variation 3
+0x40000013 What's that you say? A battle draws near?
+
+# Character talk dialog (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt"): Act 4, Variation 4
+0x40000014 Father always gets angry when I disappear.
+
+# Character talk dialog (Character: "julio_montalette", model: "Julio Montalette_@creature_editorModel!0x07d32fec.crt"): Act 4, Variation 5
+0x40000015 If a war broke out I'd be filled with dismay. So I guess I'll return, though I'd much rather stay.
+
+# Character name (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt")
+0x00010015 Armstrong the Blacksmith
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 1, Variation 1
+0x6000002e I shape the metal by smacking it hard. I can't sing or dance so I'd make a bad Bard.
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 1, Variation 2
+0x6000002f The trick to getting a shoe on a horse...put it on quickly and hammer with force!
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 3, Variation 1
+0x30000021 Julio is not missing! Don't be such a dope!
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 3, Variation 2
+0x30000022 He was just here, then walked towards the slope.
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 3, Variation 3
+0x30000023 He had me forge him a pure golden band
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 3, Variation 4
+0x30000024 To give to his love and to place on her hand.
+
+# Character talk dialog (Character: "montalette_blacksmith", model: "Montalette Blacksmith_@creature_editorModel!0x07d32fdd.crt"): Act 3, Variation 5
+0x30000025 He hasn't been captured! He's going to elope!
+
+# Character name (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt")
+0x00010016 Shopkeeper Luci
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 1, Variation 1
+0x6000005a Sales are down and money I lack. This job is not worth my sore aching back!
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 1, Variation 2
+0x6000005b The sun is out, it's a beautiful day...I want to enjoy it but I need my pay!
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 3, Variation 1
+0x30000031 Where is Romiette? Let me whisper my tale...
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 3, Variation 2
+0x30000032 (If the Baron found out he would throw me in jail)
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 3, Variation 3
+0x30000033 His daughter just bought a fine bottle of red
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 3, Variation 4
+0x30000034 "To drink with my true love." Yes, that's what she said.
+
+# Character talk dialog (Character: "montalette_merchant_female", model: "Montalette Merchant Female_@creature_editorModel!0x07d32fd8.crt"): Act 3, Variation 5
+0x30000035 To find Romiette, follow the old dirt trail.
+
+# Character name (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt")
+0x00010017 Duke Montalette
+
+# Character talk dialog (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt"): Act 1, Variation 1
+0x10000011 What took you so long? There's work to be done!
+
+# Character talk dialog (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt"): Act 1, Variation 2
+0x10000012 The evil Baron has kidnapped Julio, my son!
+
+# Character talk dialog (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt"): Act 1, Variation 3
+0x10000013 I'm choking with rage! I'm ready to roar!
+
+# Character talk dialog (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt"): Act 1, Variation 4
+0x10000014 If my son's not returned then we're going to WAR!
+
+# Character talk dialog (Character: "montalette_president", model: "Montalette President_@creature_editorModel!0x07d32fc9.crt"): Act 1, Variation 5
+0x10000015 Take that scroll behind me and deliver it fast. If the Baron ignores it my troops will amass.
+
+# Character name (Character: "montalette_presidential_guard", model: "Montalette Presidential Guard_@creature_editorModel!0x07d32ff3.crt")
+0x00010018 Montalette Guard
+
+# Character name (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt")
+0x00010019 Montalette Soldier
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 1, Variation 1
+0x60000046 It's my job to look after the Duke. It's a tough job because he is a kook.
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 1, Variation 2
+0x60000047 I am the best, and quite a fine guard...but the Duke's crazy and works me too hard.
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 5, Variation 1
+0x60000079 My knees are trembling, my throat has gone dry. Going to war makes me whimper and cry.
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 5, Variation 2
+0x6000007a Soldiers are trained to be fierce and brave. But we're also the first to go into a grave.
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 6, Variation 1
+0x6000007e Julio is back! He arrived just in time. I'll live long enough to make a new rhyme.
+
+# Character talk dialog (Character: "montalette_soldier", model: "Montalette Soldier_@creature_editorModel!0x07d32fd3.crt"): Act 6, Variation 2
+0x6000007f The battle is over before it begins...this is the way that every side wins!
+
+# Character talk dialog (Character: "montalette_townie_female", model: "Montalette Townie Female_@creature_editorModel!0x07d32fe7.crt"): Act 1, Variation 1
+0x600000a9 It's hard work picking veggies to sell for the day...when I get done I am too tired to play!
+
+# Character talk dialog (Character: "montalette_townie_female", model: "Montalette Townie Female_@creature_editorModel!0x07d32fe7.crt"): Act 1, Variation 2
+0x600000aa I'm selling all day out here on the street.I want to go home and rest my aching feet.
+
+# Character talk dialog (Character: "montalette_townie_male", model: "Montalette Townie Male_@creature_editorModel!0x07d32fe2.crt"): Act 1, Variation 1
+0x600000a1 I love money, it is my best friend. Too bad I earn less than I usually spend!
+
+# Character talk dialog (Character: "montalette_townie_male", model: "Montalette Townie Male_@creature_editorModel!0x07d32fe2.crt"): Act 1, Variation 2
+0x600000a2 Ka-ching go the coins made of gold. A beautiful sound that never grows old!
+
+# Character talk dialog (Character: "montalette_wartime_president", model: "Montalette Wartime President_@creature_editorModel!0x07d32ffd.crt"): Act 6, Variation 1
+0x60000021 Well, well! I suppose that I made a little mistake
+
+# Character talk dialog (Character: "montalette_wartime_president", model: "Montalette Wartime President_@creature_editorModel!0x07d32ffd.crt"): Act 6, Variation 2
+0x60000022 Julio was not kidnapped, he snuck out to the lake.
+
+# Character talk dialog (Character: "montalette_wartime_president", model: "Montalette Wartime President_@creature_editorModel!0x07d32ffd.crt"): Act 6, Variation 3
+0x60000023 Oops! I was ready to wipe all the Capagues out
+
+# Character talk dialog (Character: "montalette_wartime_president", model: "Montalette Wartime President_@creature_editorModel!0x07d32ffd.crt"): Act 6, Variation 4
+0x60000024 Good thing he showed up and prevented this rout.
+
+# Character talk dialog (Character: "montalette_wartime_president", model: "Montalette Wartime President_@creature_editorModel!0x07d32ffd.crt"): Act 6, Variation 5
+0x60000025 Here's to our children and love most divine. Roast up a spofitt, tonight we will dine!
+
+# Character name (Character: "montalette_wartime_soldier", model: "Montalette Wartime Soldier_@creature_editorModel!0x07d33002.crt")
+0x00010023 Montalette Soldier
+
+# Character name (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt")
+0x00010024 Romiette Capague
+
+# Character talk dialog (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt"): Act 4, Variation 1
+0x40000021 I thought we were hidden, far from all danger
+
+# Character talk dialog (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt"): Act 4, Variation 2
+0x40000022 But our romantic party's been crashed by this stranger.
+
+# Character talk dialog (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt"): Act 4, Variation 3
+0x40000023 Oh dear! You say fighting's about to begin?
+
+# Character talk dialog (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt"): Act 4, Variation 4
+0x40000024 Then I must head back to protect all my kin.
+
+# Character talk dialog (Character: "romiette_capague", model: "Romiette Capague_@creature_editorModel!0x07d33007.crt"): Act 4, Variation 5
+0x40000025 Hiding my true love is making me sad. It's time to go home and confess to my dad.
+
+# Character name (Character: "sir_stabbalot", model: "Sir Stabbalot_@creature_editorModel!0x06805735.crt")
+0x00010025 Sir Stabbalot
+
+# Character talk dialog (Character: "sir_stabbalot", model: "Sir Stabbalot_@creature_editorModel!0x06805735.crt"): Act 1, Variation 1
+0x60000062 Too many folks are crowding the town. Get out of my way or I'll push you all down!
+
+# Character talk dialog (Character: "sir_stabbalot", model: "Sir Stabbalot_@creature_editorModel!0x06805735.crt"): Act 1, Variation 2
+0x60000063 Too many creatures are out in the street. Move out of my way or I'll stomp on your feet!
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+0xfce10860 Spoffitt
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 1
+0xfce109c1 A Spoffitt? What is it and what does it do?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 2
+0xfce109c2 Is it a pet or is it for stew?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 3
+0xfce109c3 If you had a Spoffitt, what would you do?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 4
+0xfce109c4 Baaah!
+
+# Character talk dialog (Character: "wolf_clan_female", model: "Wolf Clan Female_@creature_editorModel!0x07634760.crt"): Act 1, Variation 1
+0x600000b9 A beautiful day here in the bazaar. The breeze is refreshing, the walk was not far.
+
+# Character talk dialog (Character: "wolf_clan_female", model: "Wolf Clan Female_@creature_editorModel!0x07634760.crt"): Act 1, Variation 2
+0x600000ba I need to purchase a bell and a hat. The bell's for my husband, the hat's for my cat!
+
+# Character name (Character: "wooden_crates_stack_hideable", model: "Wooden Crates Stack 2_@building_editorModel!0x074e43fd.bld")
+0x00020001 Crates

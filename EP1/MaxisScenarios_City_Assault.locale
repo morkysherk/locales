@@ -1,0 +1,93 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 City Assault
+
+# Adventure description
+0x00000003 You are a member of the FlooBiddy Flob Nation.  Your sworn enemy, the Snorgons have invaded your city.  They have sent swarms of troops and powerful ships. ~br~~br~Destroy their city, before yours is destroyed.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 battle, defend, destroy, war
+
+# 'Adventure start' message
+0x00000100 The Snorgons have mounted an attack against your Nation.  Destroy their city, before they destroy yours.  There can be only one...
+
+# 'Adventure won' message
+0x00000101 The 1000 year war is finally over.  Although no one can remember why it started...you remain victorious.  Long live the FlooBiddy Flobs!
+
+# 'Adventure lost' message
+0x00000102 The Snorgons have turned your city into a strip mall and forced what's left of your race to hand out frowny face stickers to patrons of the mall.
+
+# Act 1 name
+0x00000103 Invasion!
+
+# Act 1 description
+0x00000104 Destroy all buildings inside Snorgon City.
+
+# Character chatter (Character: "ancient_mask", model: "PaletteItems!0x95a56b38.prop"): Act 1, Variation 1
+0x00000105 This way to Popper Village.
+
+# Character name (Character: "dizzy_s_horn", model: "PaletteItems!0xc6ff020a.prop")
+0x00000106 Dizzy's Horn
+
+# Character name (Character: "floobiddy_citizen", model: "FlooBiddy Citizen 3_@creature_editorModel!0x07db9911.crt")
+0x00000107 FlooBiddy Citizen
+
+# Character name (Character: "floobiddy_citizen_", model: "FlooBiddy Citizen Female_@creature_editorModel!0x07db991b.crt")
+0x00000108 FlooBiddy Citizen
+
+# Character name (Character: "floobiddy_cryer", model: "FlooBiddy Citizen 1_@creature_editorModel!0x07db9920.crt")
+0x00000109 FlooBiddy Crier
+
+# Character chatter (Character: "floobiddy_cryer", model: "FlooBiddy Citizen 1_@creature_editorModel!0x07db9920.crt"): Act 1, Variation 1
+0x0000010a The Snorgons are attacking!
+
+# Character chatter (Character: "floobiddy_cryer", model: "FlooBiddy Citizen 1_@creature_editorModel!0x07db9920.crt"): Act 1, Variation 2
+0x0000010b It's time to destroy them!
+
+# Character chatter (Character: "floobiddy_cryer", model: "FlooBiddy Citizen 1_@creature_editorModel!0x07db9920.crt"): Act 1, Variation 3
+0x0000010c Destroy them before they destroy us!
+
+# Character chatter (Character: "floobiddy_cryer", model: "FlooBiddy Citizen 1_@creature_editorModel!0x07db9920.crt"): Act 1, Variation 4
+0x0000010d Their ships are attacking!
+
+# Character name (Character: "snorgon_champion", model: "Snorgon Elite_@creature_editorModel!0x07db9907.crt")
+0x0000010e Snorgon Champion
+
+# Character name (Character: "snorgon_citizen", model: "Snorgon Citizen Female_@creature_editorModel!0x07db9925.crt")
+0x0000010f Snorgon Citizen
+
+# Character name (Character: "snorgon_citizen_", model: "Snorgon Citizen 1_@creature_editorModel!0x07db9916.crt")
+0x00000110 Snorgon Citizen
+
+# Character chatter (Character: "snorgon_citizen_", model: "Snorgon Citizen 1_@creature_editorModel!0x07db9916.crt"): Act 1, Variation 1
+0x00000111 Stinkin' FlooBiddy Flobs!
+
+# Character chatter (Character: "snorgon_citizen_", model: "Snorgon Citizen 1_@creature_editorModel!0x07db9916.crt"): Act 1, Variation 2
+0x00000112 They're in our City!!!  Run!!!
+
+# Character chatter (Character: "snorgon_citizen_", model: "Snorgon Citizen 1_@creature_editorModel!0x07db9916.crt"): Act 1, Variation 3
+0x00000113 We're under attack!
+
+# Character chatter (Character: "snorgon_citizen_", model: "Snorgon Citizen 1_@creature_editorModel!0x07db9916.crt"): Act 1, Variation 4
+0x00000114 Our ships should take care of 'em!
+
+# Character talk dialog (Character: "totem_pole", model: "PaletteItems!0xc1bf7296.prop"): Act 1, Variation 1
+0x00000115 The Popper Hero Dizzy Cheeks left the village with Horn in hand...
+
+# Character talk dialog (Character: "totem_pole", model: "PaletteItems!0xc1bf7296.prop"): Act 1, Variation 2
+0x00000116 With hope of peace, he went to play his music near the docks of Snorgon Bay...
+
+# Character talk dialog (Character: "totem_pole", model: "PaletteItems!0xc1bf7296.prop"): Act 1, Variation 3
+0x00000117 Peace never came, nor Dizzy ever return...
+
+# Character talk dialog (Character: "totem_pole", model: "PaletteItems!0xc1bf7296.prop"): Act 1, Variation 4
+0x00000118 Find Dizzy's Horn and place it before this totem.
+
+# Character talk dialog (Character: "totem_pole", model: "PaletteItems!0xc1bf7296.prop"): Act 1, Variation 5
+0x00000119 A Popper Ally you will become.

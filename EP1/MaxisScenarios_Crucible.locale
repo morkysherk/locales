@@ -1,0 +1,483 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 TX-5000 Super Weapon
+
+# Adventure description
+0x00000003 The C'Servoid are building the ultimate weapon. Infiltrate their research base and disable the reactors.  This is a covert mission...employ stealth and work with the resistance to destroy the TX-5000.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 scientist,stealth,giant robot
+
+# 'Adventure start' message
+0x00000010 The enemy's research facility has been located. Find a way in and meet with your contact, Bantuii.
+
+# 'Adventure won' message
+# Comments: TBD depending on how the Mission Ends
+0x00000011 The TX-5000 has been destroyed and you have put a serious dent in the C'Servoid battle plans. Congratulations Captain!
+
+# 'Adventure lost' message
+0x00000012 With the TX-5000 online the C'Servoids will quickly take over this sector...that is, unless you feel like trying again?
+
+# Act 1 name
+0x00000020 Infiltrate
+
+# Act 1 description
+0x00000021 Bantuii, the leader of the resistance, has been notified of your arrival. Infiltrate the base and make contact with him.
+
+# Act 2 name
+0x00000022 Power Down
+
+# Act 2 description
+0x00000023 Locate the Reactor Control panel and shut down the first Reactor.
+
+# Act 3 name
+0x00000024 Power Down
+
+# Act 3 description
+0x00000025 Shut down the second Reactor.
+
+# Act 4 name
+0x00000026 The Favor
+
+# Act 4 description
+0x00000027 Return to Bantuii for your next assignment.
+
+# Act 5 name
+0x00000028 The Armory
+
+# Act 5 description
+0x00000029 Avoid the enemy soldiers and lead the Workers to the Armory.
+
+# Act 6 name
+0xfce109c5 Destruction!
+
+# Act 6 description
+0xfce109c6 Destroy the TX-5000!
+
+# Act 7 name
+0xfce109c7 Success!
+
+# Act 7 description
+0xfce109c8 Return to Bantuii in the Worker's quarters.
+
+# Character name (Character: "armory", model: "Armory_@building_editorModel!0x07744579.bld")
+# Comments: A small building, more like a wall, shows rows of weapons
+0x88bef860 Armory
+
+# Character inspect text (Character: "armory", model: "Armory_@building_editorModel!0x07744579.bld"): Act 5, Variation 1
+0x88bef9c0 The Armory!
+
+# Character inspect text (Character: "armory", model: "Armory_@building_editorModel!0x07744579.bld"): Act 5, Variation 2
+0x88bef9c1 The force field is down.
+
+# Character inspect text (Character: "armory", model: "Armory_@building_editorModel!0x07744579.bld"): Act 5, Variation 3
+0x88bef9c2 Time to arm the Workers and fight back!
+
+# Character name (Character: "armory_gate", model: "Armory Door_@building_editorModel!0x078feae1.bld")
+# Comments: A gate that can be opened by being destroyed by the alien_Weapon
+0x76063860 Armory Gate
+
+# Character name (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt")
+# Comments: A more important looking version of a slave, same race
+0xe3702860 Bantuii
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 2, Variation 1
+0xe37028a1 I hope this 'expert' is as good as they told me.
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 2, Variation 2
+0xe37028a0 We have to shut down those Reactors!
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 2, Variation 3
+0xe37028a4 Getting to a Reactor without being seen is half the battle.
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 2, Variation 4
+0xe37028a2 There is a control panel connected directly to each Reactor.
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 2, Variation 5
+0xe37028a3 We must stop the C'Servoid from completing the TX-5000!
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 6, Variation 1
+0xe3702a40 The revolt begins!
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 6, Variation 2
+0xe3702a41 Today is our day of freedom.
+
+# Character chatter (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 6, Variation 3
+0xe3702a42 The C'Servoid oppression ends now!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 1, Variation 1
+0xe3702840 Hey! Over here! I hope no one saw you sneaking in.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 1, Variation 2
+0xe3702841 My contacts told me you were an expert on Reactor technology. You'll need that expertise to disable the two main Reactors.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 1, Variation 3
+0xe3702842 The first Reactor is located right outside our compound. Head out the side door and shut it down using the Reactor Control panel.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 1, Variation 4
+0xe3702843 The second Reactor is across the base. It won't be as easy so be careful.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 1, Variation 5
+0xe3702844 Try to stay hidden! Shut down both Reactors and get back here as fast as you can!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 4, Variation 1
+0xe3702940 Excellent job!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 4, Variation 2
+0xe3702941 The base is on high alert, but we can't give up!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 4, Variation 3
+0xe37029a2 Now that the power is down, the Armory's force field will be off.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 4, Variation 4
+0xe37029a3 Lead a group of my men to the Armory, grab some weapons and attack!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 4, Variation 5
+0xe37029a4 Go now! We need those weapons if we want to take out the TX-5000!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 7, Variation 1
+0xfce109c9 The TX-5000 is destroyed! You did it!
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 7, Variation 2
+0xce109c10 Without their super weapon the C'Servoid are nothing.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 7, Variation 3
+0xce109c11 Our race will rise up against the tyrannical rule of the C'Servoid Empire.
+
+# Character talk dialog (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 7, Variation 4
+0xce109c12 Thank you! My entire race owes you our gratitude.
+
+# Character inspect text (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 5, Variation 1
+0xe37029a0 Don't delay! Get to the Armory!
+
+# Character inspect text (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 5, Variation 2
+0xe37029a1 The enemy has been alerted! We don't have much time!
+
+# Character inspect text (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 5, Variation 3
+0xe3702942 Beware of the Troopers! They are more dangerous than the Soldiers...and bigger!
+
+# Character inspect text (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 5, Variation 4
+0xe3702943 The TX-5000 must not launch!
+
+# Character inspect text (Character: "bantuii", model: "Bantuii_@creature_editorModel!0x07743bf0.crt"): Act 5, Variation 5
+0xe3702944 My people will be free...
+
+# Character name (Character: "c_servoid_patroller", model: "Security Bot_@vehicle_editorModel!0x078d518a.vcl")
+# Comments: Patrol the perimeter – these are machines, but they look just like big yucky centipedes with an ‘alien’ like sheen. 
+0x7d569860 C'Servoid Patroller
+
+# Character name (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt")
+# Comments: Weird looking but intelligent, not goofy but incredibly menacing. Multiple tendrils / arms and eyes if possible. Like large fleas that just stood up…Carry weapons.
+0x5fefb860 C'Servoid Soldier
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 1, Variation 1
+0x5fefb843 ...Quiet out tonight...
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 1, Variation 2
+0x5fefb844 ...Must find something to kill...
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 2, Variation 1
+0x9eb4a8c0 What was that..!?
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 2, Variation 2
+0x9eb4a8c1 I thought I heard something...
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 2, Variation 3
+0x9eb4a8c3 I wish we would see some action.
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 2, Variation 4
+0x9eb4a8c4 The TX-5000 must be protected.
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 3, Variation 3
+0x9eb4a8c2 Don't mess with me...I've got a migraine.
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 4, Variation 1
+0x9eb4a940 I hope the Troopers arrive soon.
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 4, Variation 2
+0x9eb4a941 What's happening? Why is the power down?
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 4, Variation 3
+0x9eb4a942 Are we under attack?
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 4, Variation 4
+0x9eb4a943 All units! Report in!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 4, Variation 5
+0x9eb4a944 I'm ready to kill. Just give me a target!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 5, Variation 1
+0x9eb4a9c0 Over here!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 5, Variation 2
+0x9eb4a9c1 ALERT! ALERT! KILL the ENEMY!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 5, Variation 3
+0x9eb4a9c2 ALERT! There! Over there!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 5, Variation 4
+0x9eb4a9c3 I wish I was guarding something quiet - like the Armory.
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 5, Variation 5
+0x9eb4a9c4 STAY BACK! I'm DANGEROUS!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 6, Variation 1
+0x5fefba40 HELP! It's a REVOLT!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 6, Variation 2
+0x5fefba41 The workers ARE REVOLTING!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 6, Variation 3
+0x5fefba42 I'll never see my sweet Spoffitt again!
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 6, Variation 4
+0x5fefba43 Stay back, let the Troopers deal with it...
+
+# Character chatter (Character: "c_servoid_soldier", model: "C'Servoid Soldier_@creature_editorModel!0x07732e71.crt"): Act 6, Variation 5
+0x5fefba44 DON'T kill ME!
+
+# Character name (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt")
+# Comments: Tougher looking Alien in Armor. Predator hair…
+0x8ce0f860 C'Servoid Trooper
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 4, Variation 1
+0x886e1940 Intruder alert!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 4, Variation 2
+0x886e1941 Protect the TX-5000!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 4, Variation 3
+0x886e1942 Over there, near the Reactor!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 4, Variation 4
+0x886e1943 We need back up! Call in Squad 2!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 4, Variation 5
+0x886e1944 Who's guarding the Armory?
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 5, Variation 1
+0x886e19c0 Where are the backups?
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 5, Variation 2
+0x886e19c1 HALT!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 5, Variation 3
+0x886e19c2 Protect the TX-5000!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 5, Variation 4
+0x886e19c3 Kill anything that moves!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 5, Variation 5
+0x886e19c4 The Workers have escaped! Stop them!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 6, Variation 1
+0x8ce0fa40 KILL!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 6, Variation 2
+0x8ce0fa41 PROTECT THE TX-5000!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 6, Variation 3
+0x8ce0fa42 WASTE THE WORKERS!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 6, Variation 4
+0x8ce0fa43 TO BATTLE, FELLOW TROOPERS!
+
+# Character chatter (Character: "c_servoid_trooper", model: "C'Servoid Trooper_@creature_editorModel!0x07732e25.crt"): Act 6, Variation 5
+0x8ce0fa44 All this shouting is hurting my throat...
+
+# Character talk dialog (Character: "generator_power_box", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 2, Variation 1
+0xfce109cc The Reactors can be controlled through this interface panel.~br~
+
+# Character talk dialog (Character: "generator_power_box", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 2, Variation 2
+0xfce109cd The C'Servoid security software is primitive.~br~
+
+# Character talk dialog (Character: "generator_power_box", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 2, Variation 3
+0xfce109ce Deactivation Sequence Initiated...~br~
+
+# Character talk dialog (Character: "generator_power_box", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 2, Variation 4
+0xfce109cf Reactor Offline.~br~
+
+# Character talk dialog (Character: "generator_power_box_2", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 3, Variation 1
+0xfce109d0 Deactivation Sequence Initiated...~br~
+
+# Character talk dialog (Character: "generator_power_box_2", model: "generator power box_@building_editorModel!0x07e77e9b.bld"): Act 3, Variation 2
+0xfce109d1 Reactor Offline.~br~
+
+# Character name (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt")
+# Comments: Superior alien being, colors are camoflagued with local terrain. Lots more tendrils now, she's let her hair down! Different outfit.
+0xdcfda860 Loctopus
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 5, Variation 1
+0xe26ee9c0 Guard the TX-5000!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 5, Variation 2
+0xe26ee9c2 TROOPERS! Find the SPIES!!!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 5, Variation 3
+0xe26ee9c3 Protect the TX-5000! KILL any Worker that gets near!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 6, Variation 1
+0xe26eea40 I command you to ATTACK!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 6, Variation 2
+0xe26eea41 Protect the TX-5000!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 6, Variation 3
+0xe26eea42 You will never escape!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 6, Variation 4
+0xe26eea43 Surrender now and I promise you quick deaths!
+
+# Character chatter (Character: "loctopus", model: "Dr Loctopus_@creature_editorModel!0x0770bb0e.crt"): Act 6, Variation 5
+0xe26eea44 I hope my escape shuttle is ready...
+
+# Character name (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt")
+# Comments: A much inferior race, in rags, doing all the work. Stooped and cow-eyed like JarJar Binks. They’d be cute if they weren’t so oppressed.
+0xfce109cb Oppraas't
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 1, Variation 1
+0xaad22840 They worked us too hard today.
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 1, Variation 2
+0xaad22841 We have to find a way out of here.
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 1, Variation 3
+0xaad22842 When will they feed us...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 1, Variation 4
+0xaad22843 Down with the C'Servoid oppressors!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 1, Variation 5
+0xaad22844 Heck...I used to be a scientist...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 2, Variation 1
+0xa436a8c0 So much work...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 2, Variation 2
+0xa436a8c1 ...so little rest...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 2, Variation 3
+0xa436a8c2 When will we be free again?
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 2, Variation 4
+0xa436a8c3 We were a proud race. Now we are treated like dirt.
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 2, Variation 5
+0xa436a8c4 Work...work...work...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 4, Variation 1
+0xa436a940 Now's our chance to revolt!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 4, Variation 2
+0xa436a941 This would be a lot easier with weapons...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 4, Variation 3
+0xa436a942 Time to fight back!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 4, Variation 4
+0xa436a943 Destroy the C'Servoids!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 4, Variation 5
+0xa436a944 I'm a lover, not a fighter...
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 5, Variation 1
+0xa436a9c0 REVOLT!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 5, Variation 2
+0xa436a9c1 We need weapons or we are doomed!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 5, Variation 3
+0xa436a9c2 To the Armory!
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 5, Variation 4
+0xa436a9c3 Has the Revolt begun?
+
+# Character chatter (Character: "oppraas_t", model: "Oppraas't_@creature_editorModel!0x07743bf7.crt"): Act 5, Variation 5
+0xa436a9c4 Am I revolting?
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+# Comments: The most mystical of beings
+0xfce10860 Spoffitt
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 1
+0xfce109d2 A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 2
+0xfce109d3 Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 3
+0xfce109d4 Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 1
+0xfce109d5 A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 2
+0xfce109d6 Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 2, Variation 3
+0xfce109d7 Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 3, Variation 1
+0xfce109d8 A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 3, Variation 2
+0xfce109d9 Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 3, Variation 3
+0xfce109da Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 1
+0xfce109db A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 2
+0xfce109dc Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 3
+0xfce109dd Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 1
+0xfce109de A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 2
+0xfce109df Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 5, Variation 3
+0xfce109e0 Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 6, Variation 1
+0xfce109e1 A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 6, Variation 2
+0xfce109e2 Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 6, Variation 3
+0xfce109e3 Baaah!~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 7, Variation 1
+0xfce109e4 A Spoffitt? What is it doing over here?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 7, Variation 2
+0xfce109e5 Baaaah?~br~
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 7, Variation 3
+0xfce109e6 Baaah!~br~
+
+# Character name (Character: "weapon_crate", model: "Single Metal Crate_@building_editorModel!0x074e6ad0.bld")
+# Comments: Arm the slaves by touching one of these
+0x1063e861 Weapon Crate
+
+# Character inspect text (Character: "weapon_crate", model: "Single Metal Crate_@building_editorModel!0x074e6ad0.bld"): Act 5, Variation 1
+0x0b8299c0 Crates of Plasma Pulsers!
+
+# Character inspect text (Character: "weapon_crate", model: "Single Metal Crate_@building_editorModel!0x074e6ad0.bld"): Act 5, Variation 2
+0x0b8299c1 These should help even the odds.
+
+# Character name (Character: "workers_quarters", model: "Bunkhouse_@building_editorModel!0x07744577.bld")
+# Comments: Small hovels or tents lined up for the slaves
+0x04d35860 Workers Quarters

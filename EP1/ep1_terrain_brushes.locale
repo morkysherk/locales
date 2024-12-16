@@ -1,0 +1,513 @@
+﻿#Brush_Basic_Level.prop - spaceToolDescription
+0x102b6ee3 Level Round Terrain
+
+#Brush_Basic_Level_square.prop - spaceToolDescription
+0x079ec0bb Level Square Terrain
+
+#Brush_Basic_Lower_square.prop - spaceToolDescription
+0x079ec0bc Lower Square Terrain
+
+#Brush_Basic_Raise_square.prop - spaceToolDescription
+0x079ec0bd Raise Square Terrain
+
+#Brush_Basic_LevelPlatform.prop - spaceToolDescription
+0xe258499a Level Platform
+
+#Brush_Basic_Berm_arc.prop - spaceToolDescription
+0x07b2b4c5 Curved Berm
+
+#Brush_Basic_Berm_straight.prop - spaceToolDescription
+0x07b2b4c4 Straight Berm
+
+#Brush_Basic_Ditch_arc.prop - spaceToolDescription
+0x07b2b4c7 Curved Ditch
+
+#Brush_Basic_Ditch_straight.prop - spaceToolDescription
+0x07b2b4c6 Straight Ditch
+
+#Brush_Basic_Lower.prop - spaceToolDescription
+0xae03e0fa Lower Round Terrain
+
+#Brush_Basic_Raise.prop - spaceToolDescription
+0xc87ef365 Raise Round Terrain
+
+#Brush_Basic_Smooth.prop - spaceToolDescription
+0xe63f8329 Smooth Round Terrain
+
+#Brush_basic_ramp.prop - spaceToolDescription
+0x07b16e6c Ramp Terrain
+
+#Brush_Basic_chisled_berm_straight.prop - spaceToolDescription
+0x07be6138 Chisled Straight Berm
+
+#Brush_Basic_chisled_berm_arc.prop - spaceToolDescription
+0x07be6139 Chisled Arc Berm
+
+#Brush_Basic_chisled_berm_zigzag.prop - spaceToolDescription
+0x07be613A Chisled Zig Zag Berm
+
+#Brush_Basic_chisled_berm_round.prop - spaceToolDescription
+0x07be613B Chisled Round Berm
+
+#Brush_Basic_chisled_berm_cross.prop - spaceToolDescription
+0x07be613C Chisled Cross Berm
+
+#Brush_Basic_chisled_berm_bend.prop - spaceToolDescription
+0x07be613D Chisled Bend Berm
+
+#Brush_Basic_chisled_ditch_straight.prop - spaceToolDescription
+0x07be6148 Chisled Straight Ditch
+
+#Brush_Basic_chisled_ditch_arc.prop - spaceToolDescription
+0x07be6149 Chisled Arc Ditch
+
+#Brush_Basic_chisled_ditch_zigzag.prop - spaceToolDescription
+0x07be614A Chisled Zig Zag Ditch
+
+#Brush_Basic_chisled_ditch_round.prop - spaceToolDescription
+0x07be614B Chisled Round Ditch
+
+#Brush_Basic_chisled_ditch_cross.prop - spaceToolDescription
+0x07be614C Chisled Cross Ditch
+
+#Brush_Basic_chisled_ditch_bend.prop - spaceToolDescription
+0x07be614D Chisled Bend Ditch
+
+#Brush_Basic_Level Chisled_level_straight.prop - spaceToolDescription
+0x07be6158 Level Chisled Straight
+#Brush_Basic_Level Chisled_level_arc.prop - spaceToolDescription
+0x07be6159 Level Chisled Arc
+
+#Brush_Basic_Level Chisled_level_zigzag.prop - spaceToolDescription
+0x07be615A Level Chisled Zig Zag
+
+#Brush_Basic_Level Chisled_level_round.prop - spaceToolDescription
+0x07be615B Level Chisled Round
+
+#Brush_Basic_Level Chisled_level_cross.prop - spaceToolDescription
+0x07be615C Level Chisled Cross
+
+#Brush_Basic_Level Chisled_level_bend.prop - spaceToolDescription
+0x07be615D Level Chisled Bend
+
+#Brush_hills_dunes.prop - spaceToolDescription
+0x07bfa110 Dunes
+
+#Brush_hills_dunesCrystal.prop - spaceToolDescription
+0x07bfa118 Crystal Dunes
+
+#Brush_hills_gear.prop - spaceToolDescription
+0x07bfa111 Gear Hill
+
+#Brush_hills_hexPlateau.prop - spaceToolDescription
+0x07bfa112 Hex Plateau
+
+#Brush_hills_lavaMound.prop - spaceToolDescription
+0x07bfa113 Swirled Mound
+
+#Brush_hills_marshmallow1.prop - spaceToolDescription
+0x07bfa114 Small Layer Pile
+
+#Brush_hills_rampedZiggurat.prop - spaceToolDescription
+0x07bfa115 Ramped Ziggurat
+
+#Brush_hills_rampart.prop - spaceToolDescription
+0x07bfa116 Rampart Hill
+
+#Brush_hills_temple.prop - spaceToolDescription
+0x07bfa117 Temple Hill
+
+#Brush_hills_pentaRamp.prop - spaceToolDescription
+0x07bfa119 Pentagon Ramp
+
+#Brush_hills_coralNub.prop - spaceToolDescription
+0x07bfa11A Crustacian Hill
+
+#Brush_hills_barnacle.prop - spaceToolDescription
+0x07bfa11B Barnacle Hill
+
+
+#Brush_hills_suckerfeet.prop - spaceToolDescription
+0x07c3d0e0 Sucker Feet Hills
+
+#Brush_hills_thorny.prop - spaceToolDescription
+0x07c3d0e1  Thorny Ridges
+
+#Brush_hills_mouthCluster.prop - spaceToolDescription
+0x07c3d0e2  Mouth Cluster
+
+#Brush_hills_shitake.prop - spaceToolDescription
+0x07c3d0e3  Nerve Roots Hills
+
+#Brush_hills_chisled.prop - spaceToolDescription
+0x07c3d0e4  Wedge Hills
+
+#Brush_hills_swirled.prop - spaceToolDescription
+0x07c3d0e5  Swirled Ridges
+
+#Brush_hills_swiss.prop - spaceToolDescription
+0x07c3d0e6  Cheese Hills
+
+#Brush_hills_barnacleClump.prop - spaceToolDescription
+0x07c3d0e7  Barnacle Clusters
+
+#Brush_continent_blob.prop - spaceToolDescription
+0x016dc328 Blobby Continent
+
+#Brush_continent_cute.prop - spaceToolDescription
+0x9f9c9f50 Flower Continent
+
+#Brush_continent_hilly.prop - spaceToolDescription
+0x31b1b3a5 Hilly Continent
+
+#Brush_continent_landmass.prop - spaceToolDescription
+0x939ccb36 Fingerling Continent
+
+#Brush_continent_nibbled.prop - spaceToolDescription
+0xb6c5d429 Nibbled Continent
+
+#Brush_continent_pebbled.prop - spaceToolDescription
+0x7fbbfb03 Pebble Continent
+
+#Brush_continent_striated.prop - spaceToolDescription
+0xf3b4f50b Eroded Continent
+
+#Brush_continent_techMesa.prop - spaceToolDescription
+0x93b0047f Tech Continent
+
+#Brush_continent_terra.prop - spaceToolDescription
+0x004d0999 Terra Continent
+
+#Brush_mountain_domes.prop - spaceToolDescription
+0x815e1826 Dome Hills
+
+#Brush_mountain_mesa_cluster.prop - spaceToolDescription
+0xf18d192b Mesa Cluster
+
+#Brush_mountain_pyramid.prop - spaceToolDescription
+0xd1345556 Pyramid Mountain
+
+#Brush_mountain_ridges.prop - spaceToolDescription
+0x52822116 Ridge Mountain
+
+#Brush_mountain_squiggles.prop - spaceToolDescription
+0xf2f6473e Squiggle Hills
+
+#Brush_mountain_striated.prop - spaceToolDescription
+0xc3d88e24 Eroded Mountain
+
+#Brush_mountain_terra.prop - spaceToolDescription
+0x466a4868 Tiny Mountain
+
+#Brush_mountain_terra2.prop - spaceToolDescription
+0x414ffb8a Trecherous Mountain
+
+#Brush_mountain_terra3.prop - spaceToolDescription
+0x414ffb8b Silent Mountain
+
+#Brush_mountain_wrinkledNubs.prop - spaceToolDescription
+0x07cf7330 Wrinkled Mountain Range
+
+#Brush_mountain_caterpillar.prop - spaceToolDescription
+0x07cf7331 Caterpillar Mountain Range
+
+#Brush_mountain_cylinders.prop - spaceToolDescription
+0x07cf7332 Cylinder Mountain Range
+
+#Brush_mountain_ramps.prop - spaceToolDescription
+0x07cf7333 Ramped Mountain Range
+
+#Brush_mountain_razorBack.prop - spaceToolDescription
+0x07cf7334 Razorback Mountain Range
+
+#Brush_ocean_alpine.prop - spaceToolDescription
+0x293fd846 Alpine Ocean
+
+#Brush_ocean_crater.prop - spaceToolDescription
+0xd5ba0826 Ocean Crater
+
+#Brush_ocean_landmass.prop - spaceToolDescription
+0x5feac940 Fingerling Ocean
+
+#Brush_ocean_pebbled.prop - spaceToolDescription
+0xcbd7b725 Pebbled Ocean
+
+#Brush_ocean_ramped.prop - spaceToolDescription
+0xf30669cc Ramped Ocean
+
+#Brush_ocean_rift.prop - spaceToolDescription
+0xf435e116 Rift Ocean
+
+#Brush_ocean_soft.prop - spaceToolDescription
+0x796ce4c3 Soft Ocean
+
+#Brush_ocean_spiral.prop - spaceToolDescription
+0x7c7021c4 Spiral Ocean
+
+#Brush_ocean_terra.prop - spaceToolDescription
+0x5e7e1ad3 Terra Ocean
+
+#Brush_River.prop - spaceToolDescription
+0xf9b40108 Sweet River
+
+#Brush_River2.prop - spaceToolDescription
+0x1e5d9faa Rolling River
+
+#Brush_River_aquaduct.prop - spaceToolDescription
+0x2b7a4327 Aquaduct
+
+#Brush_River_delta.prop - spaceToolDescription
+0x19d6dc7b River Delta
+
+#Brush_River_gorge.prop - spaceToolDescription
+0x8f7034b1 River Gorge
+
+#Brush_River_short.prop - spaceToolDescription
+0x1823ce77 Short River Segment
+
+#Brush_River_valley.prop - spaceToolDescription
+0x0babc936 Layered River
+
+#Brush_River_serpentine.prop -spaceToolDescription
+0x07d23f20 Serpentine River
+
+#Brush_River_basic_arc.prop -spaceToolDescription
+0x07d23f21 Arc River Segment
+
+#Brush_River_basic_fork.prop -spaceToolDescription
+0x07d23f22 Fork River Segment
+
+#Brush_River_basic_zigzag.prop -spaceToolDescription
+0x07d23f23 Zigzag River Segment
+
+#Brush_River_caterpillar.prop -spaceToolDescription
+0x07d23f24 Caterpillar River
+
+#Brush_River_crystal.prop -spaceToolDescription
+0x07d23f25 Crystal River
+
+#Brush_River_pools.prop -spaceToolDescription
+0x07d23f26 River Pools
+
+#Brush_Road_Cobbled_4way.prop - spaceToolDescription
+0x324ab4aa Cobbled Road 4-Way
+
+#Brush_Road_Cobbled_Curve.prop - spaceToolDescription
+0xa5ce20a8 Cobbled Road Curve
+
+#Brush_Road_Cobbled_End.prop - spaceToolDescription
+0x415d188a Cobbled Road Dead End
+
+#Brush_Road_Cobbled_Plaza.prop - spaceToolDescription
+0x7bf4e823 Cobbled Plaza
+
+#Brush_Road_Cobbled_Right.prop - spaceToolDescription
+0x753c343b Cobbled Road Corner
+
+#Brush_Road_Cobbled_Straight.prop - spaceToolDescription
+0x129ffee1 Cobbled Road Straight
+
+#Brush_Road_Cobbled_Straight2x.prop - spaceToolDescription
+0x07984c03 Cobbled Road Long Straight
+
+#Brush_Road_Cobbled_Tee.prop - spaceToolDescription
+0x3c384053 Cobbled Road Tee
+
+#Brush_Road_Cobbled_Uturn.prop - spaceToolDescription
+0x100fac19 Cobbled Road U-Turn
+
+#Brush_Road_Paved_4way.prop - spaceToolDescription
+0xab6500ab Paved Road 4-Way
+
+#Brush_Road_Paved_Curve.prop - spaceToolDescription
+0x72e4db3f Paved Road Curve
+
+#Brush_Road_Paved_End.prop - spaceToolDescription
+0x7e1fd4bd Paved Road Dead End
+
+#Brush_Road_Paved_Plaza.prop - spaceToolDescription
+0x476e66dc Paved Plaza
+
+#Brush_Road_Paved_Right.prop - spaceToolDescription
+0x19e2d298 Paved Road Corner
+
+#Brush_Road_Paved_Straight.prop - spaceToolDescription
+0x317f3e3c Paved Road Straight
+
+#Brush_Road_Paved_Straight2x.prop - spaceToolDescription
+0x07984c02 Paved Road Long Straight
+
+#Brush_Road_Paved_Tee.prop - spaceToolDescription
+0x86f50198 Paved Road Tee
+
+#Brush_Road_Paved_Uturn.prop - spaceToolDescription
+0xbc2bcd96 Paved Road U-Turn
+
+#Brush_Road_Tech_4way.prop - spaceToolDescription
+0xbdd6ff3f Tech Road 4-Way
+
+#Brush_Road_Tech_Curve.prop - spaceToolDescription
+0x2b06bf43 Tech Road Curve
+
+#Brush_Road_Tech_End.prop - spaceToolDescription
+0x136bcda1 Tech Road Dead End
+
+#Brush_Road_Tech_Plaza.prop - spaceToolDescription
+0xee453540 Tech Plaza
+
+#Brush_Road_Tech_Right.prop - spaceToolDescription
+0x8a656894 Tech Road Corner
+
+#Brush_Road_Tech_Straight.prop - spaceToolDescription
+0x7b7ae8c8 Tech Road Straight
+
+#Brush_Road_Tech_Straight2x.prop - spaceToolDescription
+0x07984c05 Tech Road Long Straight
+
+#Brush_Road_Tech_Tee.prop - spaceToolDescription
+0x0c40e1dc Tech Road Tee
+
+#Brush_Road_Tech_Uturn.prop - spaceToolDescription
+0x148f06d2 Tech Road U-Turn
+
+#Brush_Plaza_Decorative_01.prop - spaceToolDescription
+0x07c64000 Decorative Plaza
+
+#Brush_Plaza_Decorative_02.prop - spaceToolDescription
+0x07c64001 Elaborate Plaza
+
+#Brush_Plaza_Decorative_03.prop - spaceToolDescription
+0x07c64002 Rustic Plaza
+
+#Brush_Plaza_flagstone_01.prop - spaceToolDescription
+0x07c64003 Flagstone Plaza
+
+#Brush_Plaza_flagstone_02.prop - spaceToolDescription
+0x07c64004 Rough Brick Plaza
+
+#Brush_Plaza_flagstone_03.prop - spaceToolDescription
+0x07c64005 Masonic Plaza
+
+#Brush_Plaza_old_01.prop - spaceToolDescription
+0x07c64006 Old Plaza
+
+#Brush_Plaza_old_02.prop - spaceToolDescription
+0x07c64007 Broken Plaza
+
+#Brush_Plaza_old_03.prop - spaceToolDescription
+0x07c64008 Acheological Plaza
+
+#Brush_Plaza_tech_01.prop - spaceToolDescription
+0x07c64009 Artificial Plaza
+
+#Brush_Plaza_tech_02.prop - spaceToolDescription
+0x07c6400A Metric Plaza
+
+#Brush_Plaza_tech_03.prop - spaceToolDescription
+0x07c6400B Interlocking Plaza
+
+#Brush_Special_lavaPit.prop - spaceToolDescription
+0xdbabbbe7 Lava Pit
+
+#Brush_Special_volcano.prop - spaceToolDescription
+0x1a29cb70 Volcano
+
+#Brush_Special_crater.prop - spaceToolDescription
+0x07a7edaf Round Crater
+
+#Brush_Special_crater.prop - spaceToolDescription
+0x07a7edae Tech Crater 
+
+#Brush_Special_clearFlora.prop - spaceToolDescription
+0x0796c891 Flora Removal
+
+#Brush_Special_trueFlat.prop - spaceToolDescription
+0x07d75219 True Flat
+
+#Brush_Special_beachifier.prop - spaceToolDescription
+0x07d7521A Enlarge Beach
+
+
+#Brush_Valley_alpine.prop - spaceToolDescription
+0x8a856b4b Alpine Valley
+
+#Brush_Valley_crystal.prop - spaceToolDescription
+0xb862b18c Crystal Valley
+
+#Brush_Valley_pebble.prop - spaceToolDescription
+0xbb59dcc2 Pebble Valley
+
+#Brush_Valley_soft.prop - spaceToolDescription
+0x8868967a Soft Valley
+
+#Brush_valley_ramped.prop - spaceToolDescription
+0x07b16e6b Ramped Valley
+
+#Brush_Valley_layered.prop - spaceToolDescription
+0x07cca260 Layered Valley
+
+#Brush_Valley_gorge.prop - spaceToolDescription
+0x07cca261 Alpine Gorge
+
+#Brush_Valley_tech.prop - spaceToolDescription
+0x07cca262 Artificial Valley
+
+#Brush_Valley_HexRamp.prop - spaceToolDescription
+0x07cca263 Hex Ramp Valley
+
+#Brush_Valley_Smooth.prop - spaceToolDescription
+0x07cca264 Smooth Valley
+
+#Brush_Valley_Cylinders.prop - spaceToolDescription
+0x07cca265 Postpile Valley
+
+#Brush_Valley_Cracked.prop - spaceToolDescription
+0x07cca266 Cracked Gorge
+
+#Brush_Valley_Swirl.prop - spaceToolDescription
+0x07cca267 Swirled Valley
+
+#EP1_Brush_Road_Dirt_4way.prop - spaceToolDescription
+0x994aa91d Dirt Road 4-way
+
+#EP1_Brush_Road_Dirt_Curve.prop - spaceToolDescription
+0xa5601f7d Dirt Road Curve
+
+#EP1_Brush_Road_Dirt_Elbow.prop - spaceToolDescription
+0x3284f0c9 Dirt Road Elbow
+
+#EP1_Brush_Road_Dirt_Plaza.prop - spaceToolDescription
+0xb10fc2e2 Dirt Plaza
+
+#EP1_Brush_Road_Dirt_Straight.prop - spaceToolDescription
+0xdc7bc1ee Dirt Road Straight
+
+#EP1_Brush_Road_Dirt_Straight2x.prop - spaceToolDescription
+0x07984c04 Dirt Road Long Straight
+
+#EP1_Brush_Road_Dirt_Tee.prop - spaceToolDescription
+0x7f839fb2 Dirt Road Tee
+
+#EP1_Brush_Road_Dirt_Uturn.prop - spaceToolDescription
+0x468feb30 Dirt Road U-Turn
+
+#EP1_Special_barrier_object_test.prop - spaceToolDescription
+0x61be29be Barrier Object
+
+#Global_Basic_Land2Sea.prop - spaceToolDescription
+0xce0946ee Convert All Land to Sea
+
+#Global_Basic_Level.prop - spaceToolDescription
+0xbb76b428 Level All Terrain
+
+#Global_Basic_Lower.prop - spaceToolDescription
+0x3921d44d Lower All Terrain
+
+#Global_Basic_Raise.prop - spaceToolDescription
+0x18458dda Raise All Terrain
+
+#Global_Basic_Sea2Land.prop - spaceToolDescription
+0x63631228 Convert All Sea to Land
+
+#Global_Basic_Smooth.prop - spaceToolDescription
+0x2bfa59ec Smooth All Terrain

@@ -1,0 +1,99 @@
+﻿# This file is generated automatically.  You can change strings in this file, but don't add new guids.
+# Or if you do add new guids, take the SPID of the the filename without the extension.
+
+#sa_warrior_01.prop - blockName
+0x478a0094 Bladed Knuckles
+
+#sa_warrior_02.prop - blockName
+0x478a0097 Missile Flinger
+
+#sa_warrior_03.prop - blockName
+0x478a0096 Plasma Pulser
+
+#sa_warrior_04.prop - blockName
+0x478a0091 Lightning Striker
+
+#sa_trader_01.prop - blockName
+0xca09bb92 Sprint Pack
+
+#sa_trader_02.prop - blockName
+0xca09bb91 Glider Pack
+
+#sa_trader_03.prop - blockName
+0xca09bb90 Stealth Helmet
+
+#sa_trader_04.prop - blockName
+0xca09bb97 Jump Jet
+
+#sa_scientist_01.prop - blockName
+0x6181ec28 Compact Generator
+
+#sa_scientist_02.prop - blockName
+0x6181ec2b Compact Battery
+
+#sa_scientist_03.prop - blockName
+0x6181ec2a Power Generator
+
+#sa_scientist_04.prop - blockName
+0x6181ec2d Power Battery
+
+#sa_diplomat_01.prop - blockName
+0x7a9cc2c8 Princely Pad
+
+#sa_diplomat_02.prop - blockName
+0x7a9cc2cb Ducal Cape
+
+#sa_diplomat_03.prop - blockName
+0x7a9cc2ca Regal Ring
+
+#sa_diplomat_04.prop - blockName
+0x7a9cc2cd Imperial Robe
+
+#sa_zealot_01.prop - blockName
+0xf2102f51 Protecto-Shell
+
+#sa_zealot_02.prop - blockName
+0xf2102f52 Danger Reductor
+
+#sa_zealot_03.prop - blockName
+0xf2102f53 Power Shield
+
+#sa_zealot_04.prop - blockName
+0xf2102f54 Regen-Deflector
+
+#sa_shaman_01.prop - blockName
+0x03ba5d9c Icy Band
+
+#sa_shaman_02.prop - blockName
+0x03ba5d9f Toxic Crystal
+
+#sa_shaman_03.prop - blockName
+0x03ba5d9e Swarm Magnet
+
+#sa_shaman_04.prop - blockName
+0x03ba5d99 Hypnomelder
+
+#sa_ecologist_01.prop - blockName
+0x28fbd835 Invigorator
+
+#sa_ecologist_02.prop - blockName
+0x28fbd836 Stam-Booster
+
+#sa_ecologist_03.prop - blockName
+0x28fbd837 Super Invigorator
+
+#sa_ecologist_04.prop - blockName
+0x28fbd830 Mega Stam-Magnifier
+
+#sa_bard_01.prop - blockName
+0xeb80753d Synergizer
+
+#sa_bard_02.prop - blockName
+0xeb80753e Harpolizer
+
+#sa_bard_03.prop - blockName
+0xeb80753f Hop Gogs
+
+#sa_bard_04.prop - blockName
+0xeb807538 Fettipopper
+

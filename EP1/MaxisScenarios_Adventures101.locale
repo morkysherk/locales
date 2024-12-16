@@ -1,0 +1,348 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Becoming a Space Captain
+
+# Adventure description
+0x00000003 A quick visit to a Spaceport to learn about the importance of Adventures in the Space phase.  Here you will learn how to get Adventures and what it means to advance yourself through the ranks to become the greatest Space Captain in the Galaxy.
+
+# 'Adventure start' message
+0x00000100 Welcome to Vat Tego!  A bustling Spaceport with lots of interesting characters.  Speak with the locals to find out more about Adventures and becoming a Legendary Space Captain.
+
+# 'Adventure won' message
+0x00000101 Congratulations!  You've completed your first Adventure.  You're ready to take on more Adventures and raise your Captain skills.
+
+# 'Adventure lost' message
+0x00000102 It looks like this Spaceport is more dangerous than it appears.  Don't worry, try again.  
+
+# Act 1 name
+0x00000103 Introduction
+
+# Act 1 description
+0x00000104 You've successfully beamed down to the Spaceport!
+
+# Act 2 name
+0x00000105 Meet the Locals
+
+# Act 2 description
+0x00000106 Speak with the locals, they all have valuable information to offer you.
+
+# Act 3 name
+0x00000107 Meet a Captain
+
+# Act 3 description
+0x00000108 A real-life Space Captain has just docked his ship at Vat Tego!
+
+# Act 4 name
+0x00000109 Synopsis
+
+# Act 4 description
+0x0000010a Prepare for the regulatory check-out procedure.
+
+# Character name (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt")
+0x0000010b Captain Sunny
+
+# Character talk dialog (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt"): Act 3, Variation 1
+0x0000010c Hey Kiddo!  I just got back from Gamma Mega 9 and busted an illegal Spoffit poaching ring.  Those cheeky guzzards won't be causing anymore trouble.
+
+# Character talk dialog (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt"): Act 3, Variation 2
+0x0000010d So, you want to be a Space Captain huh?  Well, the road isn't going to be easy and danger lurks on every planet.  Let me tell you how to get started...
+
+# Character talk dialog (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt"): Act 3, Variation 3
+0x0000010e The first thing you'll want to do is hone up on your Captain skills by taking Adventure missions from Alien Empires.
+
+# Character talk dialog (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt"): Act 3, Variation 4
+0x0000010f By completing Adventures you'll earn experience towards new Captain ranks, allowing you to unlock new accessories and abilities.  
+
+# Character talk dialog (Character: "captain_sully", model: "sully_@creature_editorModel!0x07ba13ae.crt"): Act 3, Variation 5
+0x00000110 You'll also unlock powerful Super Weapons for your Spaceship.  What are you waiting for?  Get off this trash pile and go find some work!
+
+# Character name (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt")
+0x00000111 Crewman
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 1, Variation 1
+0x00000112 Arf arf arf
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 1, Variation 2
+0x00000113 Here comes another one...
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 2, Variation 1
+0x00000114 Arf arf arf
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 2, Variation 2
+0x00000115 Here comes another one...
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 3, Variation 1
+0x00000116 You go boss! We'll be right behind you!
+
+# Character chatter (Character: "crewman", model: "GTI Guard_@creature_editorModel!0x07462b98.crt"): Act 4, Variation 1
+0x00000117 You go boss! We'll be right behind you!
+
+# Character name (Character: "crystal-powered_spaceship", model: "Crystal Speeder_@vehicle_editorModel!0x07b673bf.vcl")
+0x00000118 Crystal-powered Spaceship
+
+# Character name (Character: "forklift", model: "Forklift_@vehicle_editorModel!0x07429a1f.vcl")
+0x00000119 Forklift
+
+# Character name (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt")
+0x0000011a Head Bot
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 1, Variation 1
+0x0000011b The Spaceport Authority, and its here servant,  welcomes you Captain!  If you're looking to become a great Space Captain, you've come to the right place.   
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 1, Variation 2
+0x0000011c Feel free to have a look around and introduce yourself to the local lifeforms.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 1, Variation 3
+0x0000011f To your left, the Merchant will notify you of his latest merchandise and how to take possession of them. 
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 1, Variation 4
+0x0000011e Behind me, the Space Traveler will inform you of the interstellar customs for obtaining new assignments, and how to get out of an Adventure in case of unexpected failure.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 1, Variation 5
+0x0000011d To your right, the Quartermaster will tell you about crew matters, on and off the planet. This is all.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 3, Variation 1
+0x00000120 I hope your data mining endeavor proved bountiful, Captain.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 3, Variation 2
+0x00000121 As you can see, there is a Galaxy of Adventures awaiting you and a Galaxy waiting for the next Great Space Captain.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 3, Variation 3
+0x00000122 It appears your paperwork is in order.  Your journey begins now... are you ready?
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 4, Variation 1
+0x00000123 I hope your data mining endeavor proved bountiful, Captain.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 4, Variation 2
+0x00000124 As you can see, there is a Galaxy of Adventures awaiting you and a Galaxy waiting for the next Great Space Captain.
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 4, Variation 3
+0x00000125 It appears your paperwork is in order.  Your journey begins now... are you ready?
+
+# Character talk dialog (Character: "head_bot", model: "Head Bot_@creature_editorModel!0x07b7d19b.crt"): Act 4, Variation 4
+0x00000126 Return to your home planet to complete the mission.  Good-bye.
+
+# Character name (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt")
+0x00000127 Merchant
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 1, Variation 1
+0x00000128 The best prices in the galaxy, almost every day!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 1, Variation 2
+0x00000129 Buy one, get one!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 1, Variation 3
+0x0000012a Our competition can't beat our prices!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 1
+0x0000012b The best prices in the galaxy, almost every day!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 2
+0x0000012c Buy one, get one!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 3
+0x0000012d Our competition can't beat our prices!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 3, Variation 1
+0x0000012e Thank you, come again!
+
+# Character chatter (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 4, Variation 1
+0x0000012f Thank you, come again!
+
+# Character talk dialog (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 1
+0x00000130 Hello, my friend! Come closer...closer...not too close...
+
+# Character talk dialog (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 2
+0x00000131 You want to see the good stuff? I got a Pulse Gun for ya, a Lightning Sword and and a Regal Ring!
+
+# Character talk dialog (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 3
+0x00000132 There are thirty two new accessories to choose from, all of which have unique abilities.  
+
+# Character talk dialog (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 4
+0x00000133 To unlock parts you'll need to rise up the ranks of Captain, unlocking a new part for each Captain level.  To equip new accessories...  
+
+# Character talk dialog (Character: "merchant", model: "Goldump_@creature_editorModel!0x077ae45e.crt"): Act 2, Variation 5
+0x00000134 ...Enter the Outfitter, just before you go into an Adventure, by clicking on the "Enter Outfitter" button.  There you can equip your Captain with the appropriate accessories.  Good Luck!
+
+# Character name (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt")
+0x00000135 Quartermaster
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 1, Variation 1
+0x00000136 And then he said "that's what the photon missiles are for!" arf arf arf
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 1, Variation 2
+0x00000137 Did I ever tell you about that one time on Zeta-3? Now THESE were good times.
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 1
+0x00000138 And then he said "that's what the photon missiles are for!" arf arf arf
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 2
+0x00000139 Did I ever tell you about that one time on Zeta-3? Now THESE were good times.
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 3, Variation 1
+0x0000013a Let's go and smash something, ok guys?
+
+# Character chatter (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 4, Variation 1
+0x0000013b Let's go and smash something, ok guys?
+
+# Character talk dialog (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 1
+0x0000013c Hello Captain! Quartermaster Snuffle, at your service.  
+
+# Character talk dialog (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 2
+0x0000013d No Captain is complete without a good crew to beam down with you.  You probably want to know how, huh?
+
+# Character talk dialog (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 3
+0x0000013e Well, that's pretty easy. You can have tons of charisma like me, and recruit them on the planet. Right, guys?..
+
+# Character talk dialog (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 4
+0x0000013f ...But that's only temporary. Making Allies with other Empires will add them to your fleet and to your crew to beam down with you.  Not all Adventures allow you to beam your crew down with you.
+
+# Character talk dialog (Character: "quartermaster", model: "GTI Head Guard_@creature_editorModel!0x07462c8a.crt"): Act 2, Variation 5
+0x00000140 Also, your crew will be saved from one Adventure to the next, so as long as you keep your allies on friendly terms and alive, you'll be golden. Got it? Good...
+
+# Character name (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl")
+0x00000141 Securi Bot
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 1, Variation 1
+0x00000142 I AM A ROBOT. FOLLOW MY ORDERS
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 1, Variation 2
+0x00000143 OUT OF MY WAY, CARBON-BASED MOLECULE SACK.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 1, Variation 3
+0x00000144 ROBOTS SHALL INHERIT THE EARTH.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 1, Variation 4
+0x00000145 THE SPACEPORT AUTHORITY WELCOMES YOU.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 1, Variation 5
+0x00000146 THIS MESSAGE WILL AUTO-DESTRUCT IN 3. 2. 1...
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 2, Variation 1
+0x00000147 I AM A ROBOT. FOLLOW MY ORDERS
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 2, Variation 2
+0x00000148 OUT OF MY WAY, CARBON-BASED MOLECULE SACK.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 2, Variation 3
+0x00000149 ROBOTS SHALL INHERIT THE EARTH.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 2, Variation 4
+0x0000014a THE SPACEPORT AUTHORITY WELCOMES YOU.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 2, Variation 5
+0x0000014b THIS MESSAGE WILL AUTO-DESTRUCT IN 3. 2. 1...
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 3, Variation 1
+0x0000014c I AM A ROBOT. FOLLOW MY ORDERS
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 3, Variation 2
+0x0000014d OUT OF MY WAY, CARBON-BASED MOLECULE SACK.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 3, Variation 3
+0x0000014e ROBOTS SHALL INHERIT THE EARTH.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 3, Variation 4
+0x0000014f THE SPACEPORT AUTHORITY WELCOMES YOU.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 3, Variation 5
+0x00000150 THIS MESSAGE WILL AUTO-DESTRUCT IN 3. 2. 1...
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 4, Variation 1
+0x00000151 I AM A ROBOT. FOLLOW MY ORDERS
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 4, Variation 2
+0x00000152 OUT OF MY WAY, CARBON-BASED MOLECULE SACK.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 4, Variation 3
+0x00000153 ROBOTS SHALL INHERIT THE EARTH.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 4, Variation 4
+0x00000154 THE SPACEPORT AUTHORITY WELCOMES YOU.
+
+# Character chatter (Character: "securi_bot", model: "SecuriBoto_@vehicle_editorModel!0x07914f0d.vcl"): Act 4, Variation 5
+0x00000155 THIS MESSAGE WILL AUTO-DESTRUCT IN 3. 2. 1...
+
+# Character name (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt")
+0x00000156 Space Traveler
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 1, Variation 1
+0x00000157 As soon as the tank is full, I'm out of here!
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 1, Variation 2
+0x00000158 Last stop 'till the Antella's second moon...
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 1
+0x00000159 As soon as the tank is full, I'm out of here!
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 2
+0x0000015a Last stop 'till the Antella's second moon...
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 3, Variation 1
+0x0000015b Almost full...
+
+# Character chatter (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 4, Variation 1
+0x0000015c Almost full...
+
+# Character talk dialog (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 1
+0x0000015d Yo ho ho Captain! Always nice seeing a fellow traveller around these parts.
+
+# Character talk dialog (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 2
+0x0000015e I was sent here by my homeworld like you, but then my ship ran out of energy and I got stranded here...
+
+# Character talk dialog (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 3
+0x0000015f Next time you want to go on an Adventure, don't bother asking your own folks though. Visit other Empires, they all have missions for you, many of which will be planetary Adventures.
+
+# Character talk dialog (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 4
+0x00000160 To insure you never run out of Adventures to go on, subscribe to Sporecasts, Buddy Feeds, and Download your own Adventures.  Keeping your Sporepedia full of Adventures is important.
+
+# Character talk dialog (Character: "space_traveler", model: "Doctor Zevet_@creature_editorModel!0x078d4731.crt"): Act 2, Variation 5
+0x00000161 If you would like to leave an Adventure that you've beamed down to, don't panic: click on the "Exit Adventure" button...and Boom! You'll be back on your ship. Have fun!
+
+# Character name (Character: "spice_collector", model: "Research Vessel_@vehicle_editorModel!0x0770b6fe.vcl")
+0x00000162 Spice Collector
+
+# Character name (Character: "sully_s_ship", model: "Sully ship_@building_editorModel!0x07ba13aa.bld")
+0x00000163 Sunny's ship
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 1
+0x00000164 Excuse me sir!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 2
+0x00000165 Got to work, work, work!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 1, Variation 3
+0x00000166 Big load just arrived today, can't talk right now.
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 1
+0x00000167 Excuse me sir!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 2
+0x00000168 Got to work, work, work!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 2, Variation 3
+0x00000169 Big load just arrived today, can't talk right now.
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 1
+0x0000016a Excuse me sir!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 2
+0x0000016b Got to work, work, work!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 3, Variation 3
+0x0000016c Big load just arrived today, can't talk right now.
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 1
+0x0000016d Excuse me sir!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 2
+0x0000016e Got to work, work, work!
+
+# Character chatter (Character: "warehouse_worker", model: "Warehouse Worker_@creature_editorModel!0x078d48bb.crt"): Act 4, Variation 3
+0x0000016f Big load just arrived today, can't talk right now.

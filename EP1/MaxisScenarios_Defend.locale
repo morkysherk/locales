@@ -1,0 +1,84 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Defend the Crystal Mine
+
+# Adventure description
+0x00000003 Crystal Monsters are attacking! How long can you survive?
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 defend, ice base, monsters
+
+# 'Adventure start' message
+0x00000100 Ice Station Zebu, a remote crystal mining operation, is under attack! Defend the Primary Generator or the base will be lost!
+
+# 'Adventure won' message
+0x00000101 Good work soldier! The Crystal Monsters have been defeated...for now.
+
+# 'Adventure lost' message
+0x00000102 Your Generator has been destroyed. The Crystal Monsters have overrun the base.
+
+# Act 1 name
+0x00000103 Crystal Hounds
+
+# Act 1 description
+0x00000021 The energy from the base drives the Crystal Hounds mad. Beware the razor sharp claws of these foul beasts.
+
+# Act 2 name
+0x00000104 Ice Stalkers
+
+# Act 2 description
+0x00000023 Crystal-armored brutes, the Ice Stalkers will fight to the death.
+
+# Act 3 name
+0x00000105 Scavengers
+
+# Act 3 description
+0x00000025 The Scavengers steal technology and graft it onto their bodies. Be sure to keep your distance!
+
+# Act 4 name
+0x00000106 Blitz!
+
+# Act 4 description
+0x00000027 United in fury, the Crystal Monsters re-group for a another charge.
+
+# Act 5 name
+0x00000107 Crystal Golem
+
+# Act 5 description
+0x00000029 From deep in the ice cave, the Crystal Golem awakes! 
+
+# Character name (Character: "crates", model: "Crystal Mine Crates_@building_editorModel!0x07c8a468.bld")
+0x0000010a Crates
+
+# Character name (Character: "crystal_golem", model: "Crystal Giant_@creature_editorModel!0x07c8a6ec.crt")
+0x0000010b Crystal Golem
+
+# Character name (Character: "crystal_processor", model: "Crystal Mine Generator_@building_editorModel!0x07c8a467.bld")
+0x0000010c Crystal Processor
+
+# Character name (Character: "generator", model: "crystal generator Large_@building_editorModel!0x07cf2cab.bld")
+0x0000010d Primary Generator
+
+# Character name (Character: "ice_miner", model: "Crystal Mine Gatherer_@vehicle_editorModel!0x07c8a441.vcl")
+0x00000109 Ice Miner
+
+# Character name (Character: "ice_stalker", model: "Crystal Beast_@creature_editorModel!0x07c8a6d1.crt")
+0x0000010e Ice Stalker
+
+# Character name (Character: "mine_entrance", model: "Crystal Mine Entrance_@building_editorModel!0x07c8a469.bld")
+0x00000110 Mine Entrance
+
+# Character name (Character: "miner", model: "posse1_@creature_editorModel!0x07ccc68d.crt")
+0x00000111 Miner
+
+# Character name (Character: "pump", model: "Crystal Mine Pump_@building_editorModel!0x07c8a466.bld")
+0x00000113 Pump
+
+# Character name (Character: "scavenger", model: "Crystal Scavenger_@creature_editorModel!0x07c8a6c7.crt")
+0x00000114 Scavenger

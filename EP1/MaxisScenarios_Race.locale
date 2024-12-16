@@ -1,0 +1,72 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Bahaha 500 Time Trials
+
+# Adventure description
+0x00000003 Hotfoot it across the desert and try to get the best time.
+
+# 'Adventure start' message
+0x00000100 You have entered the Bahaha 500 Desert Time Trials. Find the quickest route to the finish line. Keep an eye out for short cuts.
+
+# 'Adventure won' message
+0x00000101 Congratulations!  You crossed the finish line. Check the Leaderboard to see how you did.
+
+# 'Adventure lost' message
+0x00000102 The desert terrain can be tough. Better luck next time.
+
+# Act 1 name
+0x00000020 Time Trial
+
+# Act 1 description
+0x00000021 Find the quickest route to the finish line. Keep an eye out for shortcuts.
+
+# Act 2 name
+0xe41a1861 Time Trial
+
+# Act 2 description
+0xe41a1862 Find the quickest route to the finish line. Keep an eye out for shortcuts.
+
+# Character name (Character: "merchant", model: "Bystander 1_@creature_editorModel!0x07e1d03d.crt")
+0x41661860 Merchant
+
+# Character chatter (Character: "merchant", model: "Bystander 1_@creature_editorModel!0x07e1d03d.crt"): Act 1, Variation 1
+0x00000109 Watch out!
+
+# Character chatter (Character: "merchant", model: "Bystander 1_@creature_editorModel!0x07e1d03d.crt"): Act 1, Variation 2
+0x00000110 Hey!
+
+# Character chatter (Character: "merchant", model: "Bystander 1_@creature_editorModel!0x07e1d03d.crt"): Act 1, Variation 3
+0x00000111 Be careful!
+
+# Character chatter (Character: "merchant", model: "Bystander 1_@creature_editorModel!0x07e1d03d.crt"): Act 1, Variation 4
+0x00000112 Watch out for the runner!
+
+# Character name (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt")
+0xa9fc1860 Spectator
+
+# Character chatter (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt"): Act 1, Variation 1
+0x00000103 Go! Go! Go! Go!
+
+# Character chatter (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt"): Act 1, Variation 2
+0x00000104 Hurry! Hurry!
+
+# Character chatter (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt"): Act 1, Variation 3
+0x00000106 You can do it!
+
+# Character chatter (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt"): Act 1, Variation 4
+0x00000107 Go Runner! Go!
+
+# Character chatter (Character: "spectator", model: "Bystander 2_@creature_editorModel!0x07e1d042.crt"): Act 1, Variation 5
+0x00000108 Come on!
+
+# Character name (Character: "spofherd", model: "Spoffit Herder_@creature_editorModel!0x07e1d053.crt")
+0xe41a1860 Spofherd
+
+# Character chatter (Character: "spofherd", model: "Spoffit Herder_@creature_editorModel!0x07e1d053.crt"): Act 1, Variation 1
+0xa9fc1861 Watch out for my Spoffits!

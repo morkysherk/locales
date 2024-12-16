@@ -1,0 +1,201 @@
+﻿# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+0xFADED001 I'd like to ask you something else...
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# mission_complete -do action_mission_complete -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+0xFADED002 One more thing...
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+0xFADED003 Also...
+
+# mission_accept -do action_mission_accept -> do continue
+# mission_reject -do action_mission_reject -> do continue
+# abort -do action_mission_abort -> do continue
+0xFADED004 Before I go, I have other questions.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+0xFADED005 Got it. See ya.
+
+# mission_complete -do action_mission_complete -> do continue
+# mission_incomplete -> do continue
+# dynamic_response_to_source -> do continue
+0xFADED006 Before I go, I have other questions...
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+0xFADED007 Understood. Bye
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+0xFADED008 Very sorry to have bothered you. So long.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+0xFADED009 Perhaps another time. So long.
+
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+0xFADED00A I can see you need a moment. Farewell.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+# mission_reject -do action_mission_reject -> do exit
+0xFADED00B I can see you are busy. We'll speak later.
+
+# mission_accept -do action_mission_accept -> do exit
+# mission_incomplete -> do exit
+0xFADED00C Will do! Take it easy!
+
+# mission_incomplete -> goto mission_reject
+0xFADED00D I don't work for 'The Man'! No deal!
+
+# mission_complete -do action_mission_complete -> do continue
+0xFADED00E Another assignment may be the right thing.
+
+# mission_incomplete -> goto mission_reject
+0xFADED00F This just doesn't feel right. No.
+
+# mission_incomplete -> do exit
+0xFADED010 I see. I'll be back soon.
+
+# mission_complete -do action_mission_complete -> do exit
+0xFADED011 Anytime. See you later.
+
+# mission_incomplete -> goto mission_reject
+0xFADED012 No. The whole thing feels... unsporting.
+
+# mission_incomplete -> goto mission_reject
+# mission_assign -> goto mission_reject
+0xFADED013 I'm not going to do this, for several reasons.
+
+# mission_incomplete -> goto mission_reject
+0xFADED014 Never! Clearly, I abhor violence.
+
+# mission_complete -do action_mission_complete -> do exit
+0xFADED015 A pleasure to help. So long.
+
+# mission_complete -do action_mission_complete -> do exit
+0xFADED016 No trouble at all. Farewell.
+
+# mission_assign -> goto mission_more
+0xFADED017 ?
+
+# mission_assign -> goto mission_reject
+0xFADED018 I appreciate the offer, but have to decline.
+
+# mission_assign -> goto mission_accept
+0xFADED019 I'm always up for an Adventure!
+
+# mission_assign -> goto mission_accept
+0xFADED01A Sounds like an interesting Adventure.  I'm in.
+
+# mission_assign -> goto mission_accept
+0xFADED01B Count me in, I love Adventures.
+
+# mission_assign -> goto mission_reject
+0xFADED01C I must decline, but I can't tell you why.
+
+# mission_assign2 -> goto mission_reject
+# mission_assign3 -> goto mission_reject
+# mission_assign -> goto mission_reject
+0xFADED01D I'm not interested right now. Maybe later.
+
+# dynamic_response_to_source -> do exit
+# abort -do action_mission_abort -> do exit
+0xFADED01E I beg your understanding. 
+
+# dynamic_response_to_source -> goto mission_incomplete
+0xFADED01F I need a little refresher on the mission...
+
+# dynamic_response_to_source -> goto abort
+0xFADED020 I need to decline this task.
+
+# dynamic_response_to_source -> goto abort
+0xFADED021 This task no longer fits into my schedule.
+
+# dynamic_response_to_source -> goto abort
+0xFADED022 I'd rather do something else.
+
+# dynamic_response_to_source
+0xFADED023 ...
+
+# dynamic_response_to_source -> goto mission_incomplete
+0xFADED024 I forgot what I doing. What's my mission?
+
+# dynamic_response_to_source -> goto mission_incomplete
+0xFADED025 Can you remind me of my mission?
+
+# dynamic_response_to_source -> do continue
+0xFADED026 Ah, of course! The mission log. I will look there!
+
+# dynamic_response_to_source -> goto mission_incomplete
+0xFADED027 Uhh... What am I supposed to do again?
+
+# dynamic_response_to_source -> goto mission_incomplete
+0xFADED028 I spaced on my mission. What is it again?
+
+# dynamic_response_to_source -> goto abort
+0xFADED029 I beg to be released from this task.
+
+# dynamic_response_to_source -> do exit
+0xFADED02A Until we speak again. So long.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED02B Interesting choice ~player_title~ ~player_creature_name~. Perhaps you have some information we do not, although that seems unlikely.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED02C Oooh... okay... Yes, that's alright. ~p~If your heart is not in it, we wouldn't want you interacting with another life form... ~p~
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED02D Of course, of course. I knew it was hopeless to bring such a trivial matter to so glorious a one as yourself. Perhaps you could console me by spending money in the boutique?
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED02E Looks like you'll have to find out how to be a legendary Space Captain on your own...the hard way.~p~Good luck with that.  
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED02F Quit is not something ~race~ understand. ~player_creature_name~ is not ~race~.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED030 The ~race~ questions your indecision. It is clear you lack a strong force guiding your direction. How unfortunate.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED031 You dare to go back on your word to the Grox! Insolent fool!
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED032 You must follow your own path.~p~Be well my friend.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED033 FINE...be THAT way.  It won't hurt our feelings.~p~OK...it hurt a little.
+
+# abort -do action_mission_abort
+# mission_reject -do action_mission_reject
+0xFADED034 Understood, ~player_title~ ~player_creature_name~. We appreciate your decorum.~p~It will actually save us a bit of paperwork. The sub-contract approval process for interplanetary creature transport requires only three hundred and sixty-two separate forms signed and stamped in triplicate. ~p~Of course, this is well below the guidelines established in the Standard Operating Procedure... You should see the required forms for transporting fermented spices. 
+
+# mission_complete -do action_mission_complete -> do exit
+# mission_accept -do action_mission_accept -> do exit
+0xFADED035 Roger that Mission Control.  

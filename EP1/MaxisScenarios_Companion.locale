@@ -1,0 +1,324 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 The Temple of Spode
+
+# Adventure description
+0x00000003 Protect the old Priest on his journey to the Temple of Spode.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 defend, protect, battle, spode
+
+# 'Adventure start' message
+0x00000010 Priest Falloha awaits your arrival. He needs your protection as he journeys to the Temple of Spode.
+
+# 'Adventure won' message
+0x00000011 All hail the power of Spode! The Temple has been saved! Head back to your ship and report your success.
+
+# 'Adventure lost' message
+0x00000012 Don't give up. Relax and let the power of Spode guide you to victory.
+
+# Act 1 name
+0x00000020 The Meeting
+
+# Act 1 description
+0x00000021 Find the Priest of Spode and speak with him.
+
+# Act 2 name
+0x00000022 The Journey
+
+# Act 2 description
+0x00000023 Escort the Priest and protect him from all dangers.
+
+# Act 3 name
+0x00000024 Ambush!
+
+# Act 3 description
+0x00000025 The Black Claw are attacking! Don't let them get to the Priest!
+
+# Act 4 name
+0x00000026 The Temple of Spode
+
+# Act 4 description
+0x00000027 The Black Claw are attacking the Temple! Hurry, get there before it is too late!
+
+# Act 6 name
+0x00000028 Faith and Prayers
+
+# Act 6 description
+0x00000029 Protect Priest Falloha while he prays for divine help.
+
+# Act 7 name
+0xebf22a45 Divine Retribution
+
+# Act 7 description
+0x0000002b Priest Falloha's prayers have been answered! The Black Claw are fleeing!
+
+# Act 8 name
+0xebf22a46 The Glory of Spode
+
+# Act 8 description
+0x0000002d The Temple is safe. Priest Falloha and the villagers are in your debt.
+
+# Character name (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt")
+0xebf22a53 Black Claw Fanatic
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 6, Variation 1
+0x91cdaa42 Stop the Priest!
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 6, Variation 2
+0x91cdaa43 Attack!
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 6, Variation 3
+0x91cdaa44 Get him!
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 6, Variation 4
+0x91cdaa45 Destroy!
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 7, Variation 1
+0x91cdaa46 Nooo...!
+
+# Character chatter (Character: "black_claw_fanatic", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 7, Variation 2
+0x91cdaa47 Arghh!
+
+# Character name (Character: "black_claw_fanatic_2", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt")
+0xebf22a54 Black Claw Fanatic
+
+# Character chatter (Character: "black_claw_fanatic_2", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 4, Variation 1
+0x86f569ce Get the Priest!
+
+# Character chatter (Character: "black_claw_fanatic_2", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 4, Variation 2
+0x86f569cf Stop them!
+
+# Character chatter (Character: "black_claw_fanatic_2", model: "Black Claw Zealot 2_@creature_editorModel!0x07bce789.crt"): Act 4, Variation 3
+0x86f569d0 These lands belong to the Black Claw!
+
+# Character name (Character: "black_claw_scout", model: "Black Claw Zealot 3_@creature_editorModel!0x07bce782.crt")
+0xebf22a52 Black Claw Scout
+
+# Character chatter (Character: "black_claw_scout", model: "Black Claw Zealot 3_@creature_editorModel!0x07bce782.crt"): Act 4, Variation 1
+0x86f569ca Leave our lands!
+
+# Character chatter (Character: "black_claw_scout", model: "Black Claw Zealot 3_@creature_editorModel!0x07bce782.crt"): Act 4, Variation 2
+0x86f569cb Burn!
+
+# Character chatter (Character: "black_claw_scout", model: "Black Claw Zealot 3_@creature_editorModel!0x07bce782.crt"): Act 4, Variation 3
+0x86f569cc Death to the strangers!
+
+# Character chatter (Character: "black_claw_scout", model: "Black Claw Zealot 3_@creature_editorModel!0x07bce782.crt"): Act 4, Variation 4
+0x86f569cd Die!
+
+# Character name (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt")
+0xebf22a51 Black Claw Zealot
+
+# Character chatter (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 3, Variation 1
+0x86f56925 Kill the Priest!
+
+# Character chatter (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 3, Variation 2
+0x86f56926 Death to the followers of Spode!
+
+# Character chatter (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 3, Variation 3
+0x86f56927 Stop him!
+
+# Character chatter (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 3, Variation 4
+0x86f56928 These lands belong to us!
+
+# Character chatter (Character: "black_claw_zealot", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 3, Variation 5
+0x86f56929 Die!
+
+# Character name (Character: "black_claw_zealot_2", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt")
+0xebf22a55 Black Claw Zealot
+
+# Character chatter (Character: "black_claw_zealot_2", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 4, Variation 1
+0x86f569d1 Attack!
+
+# Character chatter (Character: "black_claw_zealot_2", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 4, Variation 2
+0x86f569d2 The Black Claw will triumph!
+
+# Character chatter (Character: "black_claw_zealot_2", model: "Black Claw Zealot 1_@creature_editorModel!0x07bce785.crt"): Act 4, Variation 3
+0x86f569d3 Burn the Temple!
+
+# Character name (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt")
+0xebf22a4f Blaharan Defender
+
+# Character chatter (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt"): Act 8, Variation 1
+0x86f56a75 We did it!
+
+# Character chatter (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt"): Act 8, Variation 2
+0x86f56a76 Praise be to Spode!
+
+# Character chatter (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt"): Act 8, Variation 3
+0x86f56a77 The stranger has saved us!
+
+# Character chatter (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt"): Act 8, Variation 4
+0x86f56a78 Thank you!
+
+# Character chatter (Character: "blaharan_defender", model: "Spode Follower 2_@creature_editorModel!0x0742247b.crt"): Act 8, Variation 5
+0x86f56a79 Spode is watching over us!
+
+# Character name (Character: "blaharan_villager_1", model: "Spode Follower 1_@creature_editorModel!0x074ca6e0.crt")
+0xebf22a47 Blaharan Villager
+
+# Character talk dialog (Character: "blaharan_villager_1", model: "Spode Follower 1_@creature_editorModel!0x074ca6e0.crt"): Act 2, Variation 1
+0x86f568c5 This villager died recently.
+
+# Character talk dialog (Character: "blaharan_villager_1", model: "Spode Follower 1_@creature_editorModel!0x074ca6e0.crt"): Act 2, Variation 2
+0x86f568c6 It doesn't look like an accident.
+
+# Character talk dialog (Character: "blaharan_villager_1", model: "Spode Follower 1_@creature_editorModel!0x074ca6e0.crt"): Act 2, Variation 3
+0x86f568c7 Danger must be near.
+
+# Character chatter (Character: "blaharan_villager_2", model: "Spode Follower 3_@creature_editorModel!0x07422429.crt"): Act 4, Variation 1
+0x86f569c5 Hurry!
+
+# Character chatter (Character: "blaharan_villager_2", model: "Spode Follower 3_@creature_editorModel!0x07422429.crt"): Act 4, Variation 2
+0x86f569c6 We need your help at the Temple!
+
+# Character chatter (Character: "blaharan_villager_2", model: "Spode Follower 3_@creature_editorModel!0x07422429.crt"): Act 4, Variation 3
+0x86f569c7 The Black Claw are attacking!
+
+# Character chatter (Character: "blaharan_villager_2", model: "Spode Follower 3_@creature_editorModel!0x07422429.crt"): Act 4, Variation 4
+0x86f569c8 Spode help us!
+
+# Character chatter (Character: "blaharan_villager_2", model: "Spode Follower 3_@creature_editorModel!0x07422429.crt"): Act 4, Variation 5
+0x86f569c9 The Temple must not fall!
+
+# Character name (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt")
+0xebf22a48 Priest Falloha
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 2, Variation 1
+0x86f568c1 Let's go! It's not far...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 2, Variation 2
+0x86f568c0 Oh my! This stranger seems far too weak for the task ahead...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 2, Variation 3
+0x86f568c2 Vile creatures are everywhere. Keep them away from me!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 2, Variation 4
+0x86f568c3 I hope 'My Hero' actually knows what to do...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 2, Variation 5
+0x86f568c4 Spode's work is never done!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 3, Variation 1
+0x86f56920 May Spode curse these disbelievers!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 3, Variation 2
+0x86f56921 We must reach the Temple of Spode soon. I sense it is in danger.
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 3, Variation 3
+0x86f56922 The Black Claw are hiding all over these hills.
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 3, Variation 4
+0x86f56923 Help me!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 3, Variation 5
+0x86f56924 Spode protect me!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 4, Variation 1
+0x86f569c0 My faith will pull me through.
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 4, Variation 2
+0x86f569c1 The Temple is near! We are almost there!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 4, Variation 3
+0x86f569c2 You must not let them destroy the Temple!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 4, Variation 4
+0x86f569c3 I pray we are not already too late...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 4, Variation 5
+0x86f569c4 Glory to Spode!
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 6, Variation 1
+0x86f56a20 Glorious Spode, I pray that You listen to your humble servant...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 6, Variation 2
+0x86f56a21 Our enemies, the disbelievers, are numerous...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 6, Variation 3
+0x86f56a22 I beseech thee, Mighty Spode, to aid your people in our time of need...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 6, Variation 4
+0x86f56a23 We ask for your power...
+
+# Character chatter (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 6, Variation 5
+0x86f56a24 Help us strike down our foes!
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 1, Variation 1
+0x86f56820 Another inexperienced innocent! By Spode, is this best protector they could find for me?!
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 1, Variation 2
+0x86f56822 Praise be to Spode. You have come to assist me in my journey?
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 1, Variation 3
+0x86f56821 Let us be careful. I have lost many a companion on this dangerous trail.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 1, Variation 4
+0x86f56823 There are many around here who oppose the way of Spode...
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 1, Variation 5
+0x86f56824 Come! Let us follow the path. It will lead us to the temple.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 8, Variation 1
+0x86f56a70 Thank you, stranger.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 8, Variation 2
+0x86f56a71 I must admit, I did not think you had the strength to defend us.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 8, Variation 3
+0x86f56a72 But now it is clear why Spode sent you to us on this day.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 8, Variation 4
+0x86f56a73 Your valiant deeds will not soon be forgotten.
+
+# Character talk dialog (Character: "priest_falloha", model: "Old Spode Priest_@creature_editorModel!0x07523ac9.crt"): Act 8, Variation 5
+0x86f56a74 Farewell. May Spode's presence continue to protect you in your travels.
+
+# Character name (Character: "sign_of_spode", model: "Spode Statue_@building_editorModel!0x07c4a2af.bld")
+0xebf22a4d Sign of Spode
+
+# Character talk dialog (Character: "sign_of_spode", model: "Spode Statue_@building_editorModel!0x07c4a2af.bld"): Act 1, Variation 1
+0xc42e7842 The holy symbol of Spode.
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+0xfce10860 Spoffitt
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 1
+0xfce109c1 A Spoffitt? What is it doing over here?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 2
+0xfce109c2 Baaaah?
+
+# Character talk dialog (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 1, Variation 3
+0xfce109c3 Baaah!
+
+# Character name (Character: "temple_of_spode", model: "Ruined Holy Chapel_@building_editorModel!0x0747cef6.bld")
+0xebf22a4a Temple of Spode
+
+# Character talk dialog (Character: "temple_of_spode", model: "Ruined Holy Chapel_@building_editorModel!0x0747cef6.bld"): Act 6, Variation 1
+0x91cdaa40 The Temple of Spode is the cornerstone of this small village.
+
+# Character talk dialog (Character: "temple_of_spode", model: "Ruined Holy Chapel_@building_editorModel!0x0747cef6.bld"): Act 6, Variation 2
+0x91cdaa41 Do not let the Black Claw destroy it.
+
+# Character name (Character: "the_serenia", model: "Spode Transporter_@vehicle_editorModel!0x074365c6.vcl")
+0xebf22a49 The Serenia
+
+# Character talk dialog (Character: "the_serenia", model: "Spode Transporter_@vehicle_editorModel!0x074365c6.vcl"): Act 1, Variation 1
+0xc42e7840 The good ship Serenia has safely delivered the Priest to these shores.
+
+# Character talk dialog (Character: "the_serenia", model: "Spode Transporter_@vehicle_editorModel!0x074365c6.vcl"): Act 1, Variation 2
+0xc42e7841 The Serenia, lovingly crafted by the hand of Spode (and many, many workers).
+
+# Character name (Character: "village_hut", model: "Fisherman House_@building_editorModel!0x07422178.bld")
+0xebf22a4b Village hut
+
+# Character name (Character: "village_hut_2", model: "Fisherman House_@building_editorModel!0x07422178.bld")
+0xebf22a4c Village hut

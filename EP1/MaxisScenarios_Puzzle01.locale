@@ -1,0 +1,87 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 Mr Puzzle's Magical Gates
+
+# Adventure description
+0x00000003 Mr. Puzzle challenges you to a test of wits. Can you retrieve his Mystery Key?
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 puzzle, Mr. Puzzle, gates, keys
+
+# 'Adventure start' message
+0x00000010 Mr. Puzzle wanders the galaxy, perplexing the young and old alike. What challenge does he bring to this barren planet?
+
+# 'Adventure won' message
+0x00000011 Congratulations! Mr. Puzzle is impressed with your wonderful brain. He looks forward to puzzling you again.
+
+# 'Adventure lost' message
+0x00000012 Don't give up. Did you try using both your hands?
+
+# Act 1 name
+0x00000020 Meet Mr. Puzzle
+
+# Act 1 description
+0x00000021 You never know what Mr. Puzzle will show. What's inside his Mystery Tent today?
+
+# Act 2 name
+0x00000100 The Mystery Key
+
+# Act 2 description
+0x00000101 Each colored card opens a matching door. Only one door leads to the Mystery Key.
+
+# Act 3 name
+0x00000024 Found it!
+
+# Act 3 description
+0x00000025 You found the key! Now use the magical teleporter to give it to Mr Puzzle.
+
+# Act 4 name
+0x00000102 Superlative Job!
+
+# Act 4 description
+0x00000103 Mr. Puzzle is quite impressed!
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 1
+0x20000001 This puzzle doesn't make demands...
+
+# Character talk dialog (Character: "ancient_tablet", model: "PaletteItems!0x95a56b37.prop"): Act 2, Variation 2
+0x20000002 If you are stuck use both your hands.
+
+# Character name (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt")
+0x07c7afee Mr. Puzzle
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 1
+0x10000001 Greetings and a big hello! Welcome to my travelling show.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 2
+0x10000002 Mr. Puzzle is my name. Puzzling visitors is my game.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 3
+0x10000003 My Mystery Tent is the best it gets. Step inside and test your wits.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 4
+0x10000004 If you're smart you'll find my Key. If you're not...let's wait and see.
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 1, Variation 5
+0x10000005 Don't get stuck. I wish you luck!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 1
+0x30000001 My Key! My Key! I do decree...
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 2
+0x30000002 That you are one Big-Brained Smarty!
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 3
+0x30000003 (I'm sure you wouldn't disagree.)
+
+# Character talk dialog (Character: "mr._puzzle", model: "Mr Puzzle_@creature_editorModel!0x07c7afee.crt"): Act 4, Variation 4
+0x30000004 We'll meet again, I guarantee!
+
+# Character name (Character: "mr._puzzle_s_key", model: "PaletteItems!0x7af4da7c.prop")
+0x30000005 Mystery Key

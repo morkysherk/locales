@@ -1,0 +1,299 @@
+﻿# WARNING: This is a Maxis scenario string table. It is auto-generated.
+# Any change you would do in this file will be overwritten by the Maxis scenario pipeline.
+# If you need to modify any of the text, please modify the scenario template CSV file.
+
+# Author
+0x00000001 Maxis
+
+# Adventure name
+0x00000002 The Spirits are Restless
+
+# Adventure description
+0x00000003 Horrible Shabbols are attacking a small village. Walk the Spirit Path and attempt to restore harmony to the land.
+
+# Adventure tags (for searching, comma-separated)
+0x00000004 shaman, druid, harmony
+
+# 'Adventure start' message
+0x00000010 Last night the small town of Whaales was attacked by vicious Shabbols. Find out why the Shabbols are attacking and put an end to it.
+
+# 'Adventure won' message
+0x00000011 Harmony has been restored! The Shabbols will no longer attack the town of Whaales.
+
+# 'Adventure lost' message
+0x00000012 You've fallen off the one true path. But don't let the harmony go. Take a deep breath, relax, and try again!
+
+# Act 1 name
+0x00000020 A Town in Whaales
+
+# Act 1 description
+0x00000021 Gather more information about the recent disturbances.
+
+# Act 2 name
+0x00000022 Sacred Stones
+
+# Act 2 description
+0x00000023 Follow the Druid to the Circle of Harmony.
+
+# Act 3 name
+0x00000024 The Circle of Harmony!
+
+# Act 3 description
+0x00000025 Ask, and listen...you shall find out what to do...
+
+# Act 4 name
+0x00000026 Walk the Line!
+
+# Act 4 description
+0x00000027 Stay on the path and don't drop the Staff.
+
+# Act 5 name
+0x50000001 Banish!
+
+# Act 5 description
+0x50000002 The Altar has been destroyed!
+
+# Act 6 name
+0x00000028 Harmony Restored
+
+# Act 6 description
+0x00000029 The Horror has been banished. Return to the Druid.
+
+# Character name (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld")
+# Comments: Evil altar used to summon monster
+0x00003003 Altar of Horror
+
+# Character inspect text (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld"): Act 4, Variation 1
+0x40004001 The Horror seems to draw its power from this altar.
+
+# Character inspect text (Character: "altar_of_horror", model: "Heretic Idle_@building_editorModel!0x074d1235.bld"): Act 4, Variation 2
+0x40004002 Use the Druid's staff to destroy it!
+
+# Character name (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt")
+# Comments: At the end of the path
+0x953bc861 Ancient Horror
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 1
+0x953bc9c5 An ancient horror has awoken!
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 2
+0x953bc9c6 It is disrupting the natural harmony of the forest.
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 3
+0x953bc9c7 No wonder the Shabbols have been driven to madness.
+
+# Character inspect text (Character: "ancient_horror", model: "Ancient Horror_@creature_editorModel!0x07df5fab.crt"): Act 4, Variation 4
+0x953bc9c9 Use the Staff to destroy the altar and banish this Horror!
+
+# Character name (Character: "cross", model: "Brish Statue_@building_editorModel!0x076b3035.bld")
+# Comments: OR similar shape, a religious-ish icon like a statue
+0x8efec860 Cross
+
+# Character name (Character: "large_house", model: "Brish Manor_@building_editorModel!0x076c4842.bld")
+# Comments: Larger house - centerpiece of village
+0x15377860 Large House
+
+# Character inspect text (Character: "large_house", model: "Brish Manor_@building_editorModel!0x076c4842.bld"): Act 1, Variation 1
+0x15377840 This looks like the Town Leader's home.
+
+# Character name (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt")
+# Comments: The Player's old guide. Robes, trinkets, the whole druid bit. Wears a bit of wolf here and there (like a headpiece?) from #3. will become a stone
+0x6ba6c860 Old Druid
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 1
+0x6ba6c8a0 Follow me. This part of the journey isn't really spiritual...
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 2
+0x6ba6c8a1 We will walk briskly, because of the chill...
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 3
+0x6ba6c8a2 This way to the Circle of Harmony!
+
+# Character chatter (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 2, Variation 4
+0x6ba6c8a4 It's so flipping cold. I wish the stranger would hurry up!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 1
+0x6ba6c820 Stranger. Hello. I hear the townsfolk are in a panic. They should be.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 2
+0x6ba6c821 Something evil is stirring up on the hill.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 3
+0x6ba6c822 But I can sense that you have the inner harmony needed to restore the balance.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 1, Variation 4
+0x6ba6c824 Follow me to the Circle and I'll tell you more.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 1
+0x6ba6c920 Stranger, you must walk the Spirit Path.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 2
+0x6ba6c823 Here...take my Staff of Spirit. Use it channel your inner energy and it will keep you safe.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 3, Variation 3
+0x6ba6c924 Go now, stranger. There is no need to fear. There is no need to fight. Trust your inner harmony.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 1
+0x953bc9d0 The stranger lives?
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 2
+0x953bc9d1 You've done it! You've cleansed the forest!
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 3
+0x953bc9d2 I knew your inner spirit was strong.
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 4
+0x953bc9d3 Good-bye for now, stranger. Remember to keep the faith, follow the path...
+
+# Character talk dialog (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 7, Variation 5
+0x953bc9d4 ...and find your one true way! So long!
+
+# Character inspect text (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 4, Variation 1
+0x6ba6c9c2 I cannot travel with you. You must complete this quest alone.
+
+# Character inspect text (Character: "old_druid", model: "Old Druid_@creature_editorModel!0x07634747.crt"): Act 4, Variation 2
+0x6ba6c9c3 Go on, go on...
+
+# Character name (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld")
+# Comments: Markers along the path
+0xfefe2861 Path Ruins
+
+# Character inspect text (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld"): Act 3, Variation 1
+0xfefe2941 This looks like the beginning of the path.
+
+# Character inspect text (Character: "path_ruins", model: "Rubble Fall_@building_editorModel!0x077981c6.bld"): Act 4, Variation 1
+0xfefe2942 The path continues...
+
+# Character name (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt")
+# Comments: Shabbols - Dangerous shaggy creatures near the path, like Yeti…
+0x953bc860 Shabbol
+
+# Character inspect text (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt"): Act 4, Variation 1
+0x953bc9c1 These are the monsters that have been terrifying the town.
+
+# Character inspect text (Character: "shabbol", model: "Shabbol_@creature_editorModel!0x078d2837.crt"): Act 4, Variation 2
+0x953bc9c4 Better keep away from them...
+
+# Character name (Character: "small_house", model: "Brish House_@building_editorModel!0x076c4841.bld")
+# Comments: Small whitewashed houses
+0x3f290860 Small House
+
+# Character name (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt")
+# Comments: More Spoffitt. The most mystical of beings
+0xfce10860 Spoffitt
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 1
+0xfce109c1 A Spoffitt? What is it doing up here?
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 2
+0xfce109c2 Baaaah?
+
+# Character inspect text (Character: "spoffitt", model: "Spoffit_@creature_editorModel!0x0761f7b6.crt"): Act 4, Variation 3
+0xfce109c4 Baaah!
+
+# Character name (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld")
+# Comments: Easter Island Head
+0x9abf1860 Stone God
+
+# Character inspect text (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld"): Act 2, Variation 1
+0x9fd428c0 These stone statues look like they have been here for thousands of years.
+
+# Character inspect text (Character: "stone_god", model: "Stone Cold_@building_editorModel!0x0771f370.bld"): Act 3, Variation 1
+0x9fd42940 An icy aura surrounds this stone.
+
+# Character name (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt")
+# Comments: He who 'pours the pints' - the followers follow him around. Think the Hermit from Monty python
+0x2b1e7860 Town Leader
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 1
+0x2b1e78c0 Please help us, stranger.
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 2
+0x2b1e78c1 The sun will be setting soon.
+
+# Character chatter (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 2, Variation 3
+0x2b1e78c2 I don't know if we'll survive another night.
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 1
+0x2b1e7820 Thank the Elders! You have arrived!
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 2
+0x2b1e7821 Each night our town is being attacked by Shabbols from the hill. The people are in a panic.
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 3
+0x2b1e7822 I'm sure it has something to do with the crazy Druid that wanders around outside our village.
+
+# Character talk dialog (Character: "town_leader", model: "Brish Leader_@creature_editorModel!0x076b3179.crt"): Act 1, Variation 4
+0x2b1e7824 We don't know anything about the Shabbols. Can you please help us?
+
+# Character name (Character: "villager", model: "Brish Follower_@creature_editorModel!0x076c485e.crt")
+0xfefe2943 Villager
+
+# Character name (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt")
+# Comments: Hags. Spout nonsense. Probably witches…
+0x97104860 Villager
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 1
+0x97104840 The END is NIGH!!!
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 2
+0x97104841 What was that thing I saw last night?
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 3
+0x97104842 This town is doomed.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 4
+0x97104843 Things were fine until that crazy Druid appeared.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 1, Variation 5
+0x97104844 We're all doomed!
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 1
+0x971048c0 The hour of judgement approaches.
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 2
+0x971048c1 If the sun sets we are doomed!
+
+# Character chatter (Character: "villager_2", model: "Brish Lady_@creature_editorModel!0x076b3202.crt"): Act 2, Variation 3
+0x971048c3 Wha..what was that over there in the shadows?
+
+# Character name (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt")
+0x07df5fa5 Villager
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 1
+0xa468e840 Why do they keep attacking?
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 2
+0xa468e841 We need help!
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 3
+0xa468e842 Why me?
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 4
+0xa468e843 I need a place to hide!
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 1, Variation 5
+0xa468e844 They'll attack as soon as the sun sets.
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 1
+0xa468e8c0 A Sign! A SIGN!
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 2
+0xa468e8c1 GIVE US A SIGN!
+
+# Character chatter (Character: "villager_3", model: "Brish Follower 1_@creature_editorModel!0x07df5fa5.crt"): Act 2, Variation 3
+0xa468e8c2 Leader...what should we do?
+
+# Character name (Character: "wall", model: "Brish Wall_@building_editorModel!0x076c9d7b.bld")
+# Comments: town wall
+0x41428860 Wall
+
+# Character name (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop")
+# Comments: Completed Staff. From #3 PICKUP
+0x40ddc860 Wolf Staff
+
+# Character inspect text (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop"): Act 1, Variation 1
+0x40ddc840 The Staff of Spirit!
+
+# Character inspect text (Character: "wolf_staff", model: "PaletteItems!0xc3ce19f8.prop"): Act 1, Variation 2
+0x40ddc841 Energy seems to radiate from its core.

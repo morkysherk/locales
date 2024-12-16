@@ -1,0 +1,302 @@
+﻿##############################
+# Scenario mode.
+
+0x07186066 ~ep1_adventure_lose~ ~br~ score: ~ep1_score~ ~br~ time: ~ep1_time~
+0x070B17F3 Author-Generated ADVENTURE LOST text goes here.
+0x070B1800 Exit
+0x070B1805 Restart
+0x0757671A Start
+0x071877AD ~ep1_adventure_win~ ~br~ score: ~ep1_score~ ~br~ time: ~ep1_time~
+0x071877BA Author-Generated ADVENTURE WON text goes here.
+0x071877BD ~ep1_adventure_intro~
+0x071877C1 The Author of this Adventure has not given this Adventure an Introduction yet.~p~In the Adventure Creator, click the Intro button in the Act Panel to add an Introduction.
+0x071877C5 ~ep1_adventure_name~ saved.
+0x07959a07 The Adventure needs a Captain in the World, in a valid location, before it can be saved.
+0x07b4dd6e The Adventure needs a Captain in the World, in a valid location, before it can be played.
+0x07cceefc Crew
+
+# Cinematics
+
+0x07454F0D ~ep1_current_talk_to_text~
+
+# Goal strings used for mission cards
+
+0x0727D37F Error: Goal Not Set
+# First, for creatures
+0x0727D384 Move to ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ completed)
+0x0727D387 Talk to ~ep1_goal_target_name~
+0x0727D389 Kill ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ killed)
+0x0727D38B Befriend ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ befriended)
+0x0727D38E Ally with ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ added)
+0x0727D391 Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x072AA963 Collect ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ collected)
+0x072AA965 Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07311C6E Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07311C75 Defend ~ep1_goal_total~ ~ep1_goal_target_name~
+# Second, for buildings and vehicles
+0x07b5505d Move to ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ completed)
+0x07b55060 Examine ~ep1_goal_target_name~
+0x07b55063 Destroy ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ destroyed)
+0x07b5506a Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b5506c Collect ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ collected)
+0x07b55073 Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b55076 Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07b55079 Defend ~ep1_goal_total~ ~ep1_goal_target_name~
+# Third, for all other (tools)
+0x07b5507b Move to ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ completed)
+0x07b5507e Examine ~ep1_goal_target_name~
+0x07b55088 Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b5508a Collect ~ep1_goal_target_name~ (~ep1_goal_progress~ of ~ep1_goal_total~ collected)
+0x07b5508d Hold ~ep1_goal_target_name~
+0x07b5508f Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b55092 Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07b55095 Defend ~ep1_goal_total~ ~ep1_goal_target_name~
+
+0x07968de4 [Target Unset]
+# Special first half of give goal:
+0x079e8291 Find ~ep1_goal_target_name~
+
+# Goal strings used in editor for pie menu tool tips:
+# First, for creatures
+0x073C19AE Move To
+0x073C19AF Talk To
+0x073C19B0 Kill
+0x073C19B1 Befriend
+0x073C19B2 Ally With...
+0x073C19B3 Bring...
+0x073C19B4 Collect
+0x073C19B6 Give...
+0x073C19B7 Block...
+0x073C19B8 Defend
+# Second, for buildings and vehicles
+0x07b51549 Move To
+0x07b5154c Examine
+0x07b5154f Destroy
+0x07b51559 Bring...
+0x07b5155c Collect
+0x07b51562 Give...
+0x07b51564 Block...
+0x07b51567 Defend
+# Third, for all other (tools)
+0x07b5160c Move To
+0x07b51611 Examine
+0x07b51628 Bring To...
+0x07b5162d Collect
+0x07b51633 Hold
+0x07b51637 Give...
+0x07b5163f Block...
+0x07b51644 Defend
+
+# Goal string for goal count combo box:
+0x07c53729 All
+
+# Goal strings used in editor for GOAL tool tips:
+0x07b53a1f All
+# First, for creatures
+0x07b52a21 Move To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a25 Talk To ~ep1_goal_target_name~
+0x07b52a28 Kill ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a2a Befriend ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a2c Ally ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a2e Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a31 Collect ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a34 Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a36 Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07b52a38 Defend ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+# Second, for buildings and vehicles
+0x07b52a3a Move To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a41 Examine ~ep1_goal_target_name~
+0x07b52a44 Destroy ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a47 Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a49 Collect ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a4c Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a4e Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07b52a50 Defend ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+# Third, for all other (tools)
+0x07b52a52 Move To ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a56 Examine ~ep1_goal_target_name~
+0x07b52a59 Bring ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a5e Collect ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+0x07b52a61 Hold ~ep1_goal_target_name~
+0x07b52a63 Give ~ep1_goal_target_name~ to ~ep1_goal2_target_name~
+0x07b52a65 Block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~
+0x07b52a68 Defend ~ep1_goal_total_or_all~ ~ep1_goal_target_name~
+
+# Sculpt panel UI
+
+0x07316C00 Terrain
+0x07316C01 Planetary Themes
+0x07316C02 Atmosphere
+0x07316C03 Themes
+0x07316C04 Water
+0x07316C05 Terraform
+0x07316C06 Mountains
+0X07B280CB Hills
+0x07316C07 Flora
+0x07316C08 Flora
+0x07316C09 Weather
+0x07316C0A Planet Colors
+0x07316C0B Terrain Colors
+0x07316C0C Rivers
+0X07B2739C Valleys
+0x0768A3E9 Continents & Islands
+0x0768A339 Oceans & Lakes
+0x07316C0D Basic Tools
+0x07316C0E Roads
+0X07B278FD Dirt Paths
+0X07B278FE Cobbled Roads
+0X07B278FF Paved Roads
+0X07B27900 Tech Roads
+0X07B27901 Plazas
+0x079edfb9 Special
+0x07316C0F Canyons      #REMOVED?
+0x07316C10 Beaches      #REMOVED?
+
+# Author cheat ui buttons:  inluding some tool tips
+
+0x074BB7EC Act ~ep1_current_act~ of ~ep1_total_acts~
+0x07290AF0 Goal 1 Increment
+0x07290AF5 Goal 2 Increment
+0x07290AF8 Goal 3 Increment
+0x07292A8D Goal 1 Complete
+0x07292A91 Goal 2 Complete
+0x07292A93 Goal 3 Complete
+
+# Used for palette
+
+0x07103106 Buildings
+0x07103107 Vehicles
+0x07103108 Creatures
+0x07103109 Fixed Objects
+0x0710310A Audio
+0x0710310B Effects
+0x0710310C Cast In Use
+0x079c4769 Gameplay Objects
+
+# Name and Describe
+
+0x075E40EC ~Generic0~
+0x075E40ED Scenario Transition Subheading 1
+0x075E40EE Scenario Transition Subheading 2
+0x075E40EF Scenario Transition Subheading 3
+0x07312E6E Name Your Adventure
+
+# Explain to user/author why the adventure was lost
+
+0x0796cee4 You died.
+0x0796cfdd You ran out of time.
+0x0796cfe1 You failed to block ~ep1_goal_target_name~ from ~ep1_goal2_target_name~.
+0x0796cfe5 You failed to defend ~ep1_goal_total~ ~ep1_goal_target_name~.
+0x0796d599 You can no longer complete this goal: ~ep1_goal_description~
+0x0796d59a You violated this goal: ~ep1_goal_description~
+0x07c50b5f This act has a duplicate goal.
+
+# Following is the special "Japan style no text symbol" (HAL have mercy don't delete this)
+0x075f8fc0 . . . . .
+
+# for win/lose cinematic text
+0x07be2d40 ~ep1_adventure_win~
+0x07be2d41 ~ep1_adventure_lose~
+
+# Editor object placement hints
+
+0x07d8b21e Land vehicles cannot be placed on water
+0x07d8c64c Water vehicles cannot be placed on land
+0x07d8c654 Creatures cannot be placed on water
+0x07d8c658 Object is too far above the planet's surface
+
+# Editor object intersection hints
+
+0x07d8fa6f These objects cannot be too close to each other
+
+0x07d8fa72 Creatures cannot be too close to vehicles
+0x07d8fa75 Epic creatures cannot be on buildings
+0x07d8fa77 Creatures cannot be too close to each other
+0x07d8fa79 Creatures cannot be too close to static ornaments
+0x07d8fa7c Creatures cannot be too close to rocks
+0x07d8fa7f Creatures cannot be too close to flora
+
+0x07d8fa82 Buildings cannot be placed under epic creatures
+0x07d8fa85 Buildings cannot be too close to vehicles
+
+0x07d8fa87 Vehicles cannot be too close to each other
+0x07d8fa8d Vehicles cannot be too close to buildings
+0x07d8fa90 Vehicles cannot be too close to creatures
+0x07d8fa93 Vehicles cannot be too close to static ornaments
+0x07d8fa97 Vehicles cannot be too close to handheld objects
+0x07d8fa99 Vehicles cannot be too close to rocks
+0x07d8fa9c Vehicles cannot be too close to flora
+0x07d8fa9e Vehicles cannot be too close to game play objects
+
+0x07d8faa1 Static ornaments cannot be too close to vehicles
+0x07d8faa3 Static ornaments cannot be too close to creatures
+
+0x07d8faa5 Handheld objects cannot be too close to vehicles
+0x07d8faa8 Handheld objects cannot be too close to each other
+0x07d8faaa Handheld objects cannot be too close to rocks
+
+0x07d8faad Rocks cannot be too close to vehicles
+0x07d8faaf Rocks cannot be too close to creatures
+0x07d8fab2 Rocks cannot be too close to handheld objects
+0x07ecc0ab Rocks cannot be too close to each other
+
+0x07d8fab5 Flora cannot be too close to creatures
+0x07d8fab8 Flora cannot be too close to vehicles
+
+0x07d8fabb Game play objects cannot be too close to vehicles
+
+0x07da2a90 Objects are too close to each other now that they are both visible in act ~ep1_visibility_intersect_act~
+
+
+# Editor goal text for invalid goals (for goal rollovers and goal pie menu items)
+
+# general
+0x07d91073 Goal has an undefined parameter
+0x07d91076 Goal is invalid
+
+# class checks
+0x07d910c0 Target is set to invisible for this act
+0x07d910c4 Target health is set to zero for this act
+0x07d910c6 Target health is set to invulnerable for this act
+0x07d910cb Goal does not apply to creatures
+0x07d910cd Goal does not apply to vehicles
+0x07d910cf Goal does not apply to buildings
+0x07d910d3 Goal does not apply to fixed objects
+0x07d910d5 Goal does not apply to non-handheld objects
+0x07d910d8 Goal does not apply to game play objects
+0x07d910da Goal does not apply to avatar
+0x07d910dd At least one of the targets must be moveable
+
+# instance checks
+0x07d910e1 Target is in an invalid location
+0x07d910e4 Goal cannot apply to a target set to territorial or aggressive for the act
+0x07d910e6 Goal cannot apply to epic creatures
+0x07d910e8 Goal cannot apply to a target that will be hostile for the act
+
+# goal count checks
+0x07d91122 Target count is more than the number of applicable targets in the world
+0x07d91125 There must be at least one applicable target in the world
+0x07d91128 There must be at least two applicable targets in the world
+0x07d9112b Target count is "all" but there are no applicable targets in the world
+0x07d9112e Insufficient number of open posse slots
+
+# inter-act checks
+0x07d91130 Goal is a duplicate of another goal in the act
+0x07d91132 Goal target count conflicts with that of another goal in the act
+0x07d91134 Bring and Block goals in the same act cannot have the same targets
+
+# other
+0x07d91137 ~ep1_goal_error_str1~~br~~ep1_goal_error_str2~
+0x07d91139 ~ep1_goal_error_str2~
+0x07d9113b Reserved for remedial hint 3
+0x07d9113e Reserved for remedial hint 4
+0x07d91140 Reserved for remedial hint 5
+
+# Timeline
+0x076b2670 ~timelinePartName~
+0x076b2671 ~timelineMySpeciesName~ discovered the ~timelinePartName~ part.
+0x076b2672 ~timelinePlanetName~
+0x076b2673 Adventure ~timelinePlanetName~ completed.
+0x076b2674 Promoted
+0x076b2675 ~ep1_captain_name~ has been promoted to ~ep1_captain_primary_title~.
+
