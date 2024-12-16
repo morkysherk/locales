@@ -1,0 +1,129 @@
+﻿#################################################
+# Don't ever remove any strings from this file or
+# change their location inside the file !!!
+#################################################
+
+0x00000000 Out of Range
+0x00000001 Saved Game
+0x00000002 Not Visited
+0x00000003 Wildlife Sanctuary
+0x00000005 Upgrade Your Outpost to a Colony
+0x00000006 Toward Next Level
+
+######## SPACE GUI TOOL TIPS ###############
+
+0x03e81c5b Spaceship Options
+0x03e81c5d Open Communication
+0x03e81c61 Toggle Sporepedia
+0x03e81c62 Edit Spaceship
+0x04359b05 Terraforming
+0x04359b0f Minimap
+0x045ffe85 Options
+0x045ffe89 Help
+0x045ffe8e Pause/Unpause
+0x048662b4 Starmap Filters
+0x04e81c5  Terraforming/Minimap
+0x04e81c6  Health
+0x04e81c7  Energy
+
+# comm screen buttons
+0x0627eb7c Trade
+0x0644ef2a Repair
+0x0644ef2b Recharge
+0x0627eb7d Diplomacy
+0x0627eb7e Goodbye
+0x0627eb7f Decline
+0x0627eb80 Accept
+
+
+0x06038627 Missions
+0x06038551 Badges
+0x06038566 Artifacts
+0x060383cf Tools
+0x05dc03c8 Achievements
+
+0x0655144f Earn badges to receive galactic promotions.
+
+0x06034698 There are more rare sets to be found. Explore the universe and collect them all!
+
+######## Tool Pallettes #########
+0x03e81c60 Main Tools
+0x03e81c5f Weapons
+0x03e81c6e Socialization
+0x05f4dd01 Colonization
+0x03e81c6d Planet Coloring Tools
+0x03e81c6a Planet Atmospheric Tools
+0x03e81c5c Planet Sculpting Tools
+0x03e81c6f Favorites
+0x03e81c5e Cargo
+0x03e81c70 Spaceship Abilities
+
+########### Filters #############
+0x060ecc91 My Empire
+0x060ecc92 Allies and Enemies
+0x060ecc93 Empires
+0x060ecc94 Missions
+0x060ecc95 Travel Trail
+0x060ecc96 Visited
+
+########### T scores ############
+0x03eac681 T0
+0x03eac682 T1
+0x03eac683 T2
+0x03eac684 T3
+
+########### Foodweb #############
+0x0473cb1a Plants
+0x0473cb1f Herbivores
+0x0473cb22 Carnivores
+0x0473cb26 Dense Atmosphere
+0x0473cb2a No Atmosphere
+0x0473cb2e Low Temperature
+0x0473cb32 High Temperature
+0x061deff3 Improve Terraform Score to Unlock
+0xbfc94be5 Small Plant
+0xdeb67517 Medium Plant
+0x90cd1821 Large Plant
+0x2dfe315f Colony Limit
+
+########### Hologram ############
+0x03e81c6b Pickup Scout
+
+############ Color ##############
+0x0636a260 Color Atmosphere
+0x0636a261 Color Land
+0x0636a262 Color Water
+
+########### Sculpt ##############
+0x0636a280 Basic
+0x0636a281 Terra
+0x0636a282 Gear
+0x0636a283 Crystal
+0x0636a284 Cute
+0x0636a285 Tentacle
+0x0636a286 Chocolate
+
+########### Other ##############
+0x05d268d4 Get Master Badge
+0x05e3c035 Upgrade Spaceship
+
+0x0644ef33 Buy Item
+0x0644ef34 Sell Item
+0x0644ef35 Add Many
+0x0644ef36 Add One
+0x0644ef37 Remove Many
+0x0644ef38 Remove One
+
+0x0654c917 Capture System
+0x0654c91f Purchase System
+
+0x0654c92f Tools Unlocked
+
+0x0666618d All Badges
+
+0x066dde72 Angle: ~player_angle~°, Distance: ~player_distance~(pc)
+
+0xf248a9af Contributors
+
+########### Spice node rollover ##############
+0x06a6f65d /min

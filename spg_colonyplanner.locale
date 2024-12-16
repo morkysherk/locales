@@ -1,0 +1,252 @@
+﻿0x00000011 ~guide: -h1~ Welcome to the Colony Planner
+
+0x00000021 ~guide: -h2~ Open the Colony Planner by clicking on the Colony Planner button that appears over the City Hall of any colony within your Empire.  Your building and vehicle choices will affect only the colonies on the planet you are currently visiting. However, each colony will need to be laid out individually.
+
+0x00000031 ~guide: -bullet~ Jump to other colonies on the same planet, without closing the Colony Planner, by clicking on the arrow keys next to the Colony Name in the lower bar of the Colony Planner.
+
+0x00000041 ~guide: -h3~ Here you gain access to all of the following:
+
+0x00000051 ~guide: -bullet~ Create and Buy Buildings
+
+0x00000061 ~guide: -bullet~ Buy Turrets to enhance your colony's defensive means
+
+0x00000071 ~guide: -bullet~ Buy Colony Decorations to enhance the appeal of your colony
+
+0x00000081 ~guide: -bullet~ Create Vehicles for your colonies.  Each colony manages its own fleet, buying and replacing the vehicles you create or choose for them when they need them.
+
+0x00000082 ~guide: -bullet~ Create, or modify your Spaceship.
+
+0x00000091 ~guide: -bullet~ Outfit your colonists
+
+0x000000a1 ~guide: -bullet~ Create your own Anthem
+
+0x000000b1 ~guide: -bullet~ Lay Out your colony and get feedback on the happiness and productivity of your colonists.
+
+0x000000c1 ~guide: -h1~ Some Essentials
+
+0x000000d1 ~guide: -h2~ The tabs along the Planner panel on the left give you access to the various features of the Colony Planner.
+
+0x000000d2 ~guide: -bullet~ Click on the tab to open the appropriate panel: Buildings, Vehicles, City Decorations, Colony Outfitter or Anthem.
+
+0x000000e1 ~guide: -h3~ Camera Controls
+
+0x000000f1 ~guide: -h2~ The camera controls are the same for all modes of the Colony Planner except the Colony Outfitter which is addressed in its own section in the Spore Guide.
+
+0x000000f2 ~guide: -h4~ Camera Rotate
+
+0x000000f4 ~guide: -bullet~ Hold down the right mouse button and drag the city to rotate the camera around the city; On the Mac, hold Command, Option and left mouse button.
+
+0x000000f5 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera.
+
+0x000000f6 ~guide: -h4~ Camera Zoom
+
+0x000000f8 ~guide: -bullet~ The + and - keys also zoom in and out.
+
+# 0x000000f9 ~guide: -h4~ Camera Pan
+
+# 0x00000181 ~guide: -bullet~ Hold down the right mouse button or press the arrow keys to pan the camera.
+
+0x00000182 ~guide: -h3~ Sporebucks
+
+0x00000191 ~guide: -h2~ Now that you are a space faring race, you will mine Spice, trade spice and rare objects, and complete missions for other empires to raise Sporebucks.  Sporebucks allow you to expand your Empire. Your Empire must earn enough Sporebucks to invest in buildings, vehicles, decorations, and defenses, and energy to fly your spaceship.
+
+0x000001a1 ~guide: -bullet~ Your expendable Sporebucks budget is shown in the lower left hand corner of the Colony Planner.
+
+0x000001b1 ~guide: -h3~ Empire Information
+
+0x000001c1 ~guide: -bullet~ Your Empire Information appears along the top bar of the Colony Planner.
+
+0x000001d1 ~guide: -bullet~ Your Empire's Name, Color and Number of Colonies on the planet your are visiting appear here, as well as the TerraScore.  Fully terraformed planets are more hospitable to colonies.  T1 planets will support a single colony, T2 planets will support two colonies and T3 planets will support three colonies.
+
+0x00000201 ~guide: -h3~ Colony Information
+
+0x00000211 ~guide: -h2~ The colony information for the colony you are visiting is found in the upper right corner of the Colony Planner, under your Empire Information.
+
+0x00000221 ~guide: -bullet~ Colony name and identity color
+
+0x00000231 ~guide: -bullet~ Population
+
+0x00000241 ~guide: -bullet~ Happiness - unhappy citizens are less productive
+
+0x00000251 ~guide: -bullet~ Income in Spice/minute
+
+0x00000261 ~guide: -bullet~ Defense - the more turrets you have, the stronger your defenses
+
+0x00000271 ~guide: -h3~ Name and describe your Colony
+
+0x00000281 ~guide: -h2~ Don't let your colony go without a name!  Click "Name Your Colony" to give it a name and fill in the description box below.
+
+0x00000291 ~guide: -h1~ Creating, Buying and Placing Buildings
+
+0x000002a1 ~guide: -h3~ There are five types of buildings for use in your colony:
+
+0x000002b1 ~guide: -bullet~ City Hall - each colony can have only one city hall, and the colonies on each planet share the same city hall design.
+
+0x000002c1 ~guide: -bullet~ Homes
+
+0x000002d1 ~guide: -bullet~ Entertainment
+
+0x000002e1 ~guide: -bullet~ Factories
+
+0x000002f1 ~guide: -bullet~ Turrets - turrets provide defense for your colony and will automatically respond to any threats until damaged beyond function.
+
+0x00000301 ~guide: -h3~ Your City Hall
+
+0x00000311 ~guide: -h2~ Your City Hall will show up at the top of the Building List.  You can elect to edit this City Hall or create a new one at any time.  You can only have one City Hall for each Colony.
+
+0x00000321 ~guide: -h3~ Buying Buildings
+
+0x00000331 ~guide: -h2~ To buy any building type for your colony:
+
+0x00000341 ~guide: -bullet~ Roll over the type of building you'd like to purchase.
+
+0x00000351 ~guide: -bullet~ Decide if you want to select a building from the Sporepedia or Create Your Own
+
+0x00000372 ~guide: -bullet~ When you have created or selected a building it will show up in the Building List.
+
+0x00000381 ~guide: -bullet~ Click on the building and then drag it from the Building List into your Colony.
+
+0x00000391 ~guide: -bullet~ Place it on one of the glowing placement rings in your colony.
+
+0x000003a1 ~guide: -bullet~ Placement is important, see the section on Colony Layout for more information.
+
+0x000003b1 ~guide: -bullet~ The cost of the building will be deducted from your available Sporebucks.
+
+0x000003c1 ~guide: -h2~ Note: See the Spore Guide section on The Building Creator for more information on creating your own building.
+
+0x000003e1 ~guide: -h1~ Colony Layout
+
+0x000003f1 ~guide: -h2~ Building a successful colony requires you to place the different types of buildings in good locations.
+
+0x00000401 ~guide: -h3~ Building Links
+
+0x00000411 ~guide: -h2~ As you place buildings in your colony, a glowing link will appear between buildings.  Green links indicate a good placement, white is neutral and red is bad.
+
+0x00000421 ~guide: -bullet~ Houses not only increase your population and your potential vehicle count, but they also create locations which can link to Entertainment Buildings and Factories to boost the productivity and happiness of your colony. The City Hall counts as a house.
+
+0x00000431 ~guide: -bullet~ Entertainment buildings increase the happiness of your colony if they are placed beside houses - unhappy colonies produce less cash and can cause rioting.
+
+0x00000441 ~guide: -bullet~ Factories increase the income of your colony if placed beside houses, but will also produce unhappy citizens. Nobody likes to work all day!
+
+0x00000451 ~guide: -bullet~ Turrets will help defend your city from hostile takeover by automatically attacking oncoming units.  They do not link to any other building, and must be placed along your colony walls.
+
+0x00000461 ~guide: -h3~ Moving Buildings
+
+0x00000471 ~guide: -bullet~ You can move any building that you place in your colony, during this visit to the Colony Planner
+
+0x00000491 ~guide: -h3~ Selling Back Buildings
+
+0x000004a1 ~guide: -bullet~ You can sell back a building at any time by clicking on it and dragging it back into the Building Panel.
+
+0x000004b1 ~guide: -h3~ Damage and Destroyed Buildings
+
+0x000004c1 ~guide: -bullet~ Repairing Buildings - Damaged buildings will be repaired over time by your colonists.  You can elect to replace the damaged building in the Colony Planner by clicking on it and dragging it back into the Building Panel.
+
+0x000004d1 ~guide: -bullet~ Destroyed Buildings - These will be removed over time, however, you can purchase a new building and simply place it on top of the rubble to replace damaged buildings faster.
+
+0x000004e1 ~guide: -h1~ Creating Vehicles
+
+0x000004f1 ~guide: -h2~ Click on the vehicle tab to open the Vehicles Panel.
+
+0x00000501 ~guide: -h3~ There are three types of vehicles:
+
+0x00000511 ~guide: -bullet~ Land
+
+0x00000521 ~guide: -bullet~ Sea
+
+0x00000531 ~guide: -bullet~ Air
+
+0x00000541 ~guide: -bullet~ You can also soup up your ride here in the Colony Planner.  Click on the Spaceship icon to modify your ship.
+
+0x00000551 ~guide: -h2~ The vehicles you select or create will be purchased by your colonists as they grow and need them.  Larger colonies can support a larger fleet of vehicles.
+
+0x00000561 ~guide: -h2~ See the Spore Guide section on The Vehicle Creator or Spaceship Creator for more information on creating your own.
+
+0x00000571 ~guide: -h1~ Colony Decorations
+
+0x00000581 ~guide: -h2~ These are purely decorative embellishments that you can add to your colony.
+
+0x00000591 ~guide: -bullet~ Open the Decorations tab.
+
+0x000005a1 ~guide: -bullet~ Select the decoration you wish to place in your city.
+
+0x000005b1 ~guide: -bullet~ Click and drag the decoration into your city and place it on one of the glowing placement rings.
+
+0x000005c1 ~guide: -bullet~ The cost of the decoration will be deducted from your available Sporebucks.
+
+0x000005d1 ~guide: -h1~ Empire Music
+
+0x000005e1 ~guide: -h2~ Your Empire's music is made up of several parts: A beat, a theme (a melody and instrument) and planetary ambience.  You can select the beat and main instrument, set their individual volume levels, as well as create your own customized melody in the melody composer section.
+
+0x000005f1 ~guide: -h2~ As you conquer, convert or buy other colonies they will adopt your Empire Music.  This music represents an aspect of your Empire.
+
+0x00000601 ~guide: -h3~ Colony Beat
+
+0x00000611 ~guide: -h2~ Just click on a button, each represents a different beat track.  Listen for a few moments since these change over time.  If you want to isolate just the beat, simply turn the volume down for the other music components.  Once you have a beat you like, move on to the Anthem component.
+
+0x00000621 ~guide: -h2~ You can also turn off the beat by clicking on the selected beat button.
+
+0x00000631 ~guide: -h3~ Anthem
+
+0x00000641 ~guide: -h2~ The anthem is made up of an instrument and melody.
+
+0x00000651 ~guide: -h3~ Instruments
+
+0x00000661 ~guide: -h2~ To select an instrument, just click on one of the blue buttons.  Try them out until you find one you like.
+
+0x00000671 ~guide: -h3~ Melody
+
+0x00000681 ~guide: -h2~ There are a number of ways to create your own melody.
+
+0x00000691 ~guide: -bullet~ Click on the die in the melody composer section to generate a random melody.
+
+0x000006a1 ~guide: -bullet~ Add or remove notes by clicking on the add or remove note buttons in the lower right corner.
+
+0x000006b1 ~guide: -bullet~ Once notes are positioned in the melody you can adjust their scale by click and dragging them up and down or adjust their order by click and dragging them left and right.
+
+0x000006c1 ~guide: -bullet~ You can lengthen the duration of any individual note by hovering over it and scrolling the mouse wheel or using the up and down arrow on your keyboard.
+
+0x000006d1 ~guide: -bullet~ You can remove notes from the melody by click and dragging them off of the melody composer section.
+
+0x000006e1 ~guide: -bullet~ You can play your melody back at any time by clicking on the melody composer section background.
+
+0x000006f1 ~guide: -bullet~ You can toggle the melody autoplay by clicking on the autoplay button.
+
+0x00000701 ~guide: -h3~ Ambience
+
+0x00000711 ~guide: -h2~ The ambience will play across the entire planet, even as you zoom out into space.  When you near another Empire's planet, you will also hear their Empire's music. To select an ambience, just click up to four of the ambience layer buttons.  Combine them in any way you wish.
+
+0x00000721 ~guide: -h3~ Undo and Redo
+
+0x00000731 ~guide: -h2~ Simply click on either of these to undo or redo your last series of actions.
+
+0x00000741 ~guide: -h3~ Load
+
+0x00000751 ~guide: -h2~ Clicking on the load button takes you to the Sporepedia with your music section open.  Just select a music card and click on the green check mark.  The selected Empire Music will now play when you return to the Colony Planner.   To preview a music selection, double click on its Sporepedia card.
+
+0x00000761 ~guide: -h3~ Sharing Music
+
+0x00000771 ~guide: -h2~ Empire Music is not automatically shared.  To share your Empire Music with your friends, find the individual file in the following directory: ~save_path~CityMusic~mac_save_append~ .  You can email the .png file to your friends.
+
+0x00000781 ~guide: -h2~ To import Empire music .pngs from friends, just place the .png file into the following directory: ~save_path~CityMusic~mac_save_append~, while Spore is not playing.  You can then access these files in your Sporepedia.
+
+0x00000791 ~guide: -h3~ Save
+
+0x000007a1 ~guide: -h2~ Once you have finished creating your Empire Music you can save it by clicking on the save button.  The save dialog will prompt you to name and describe your creation.  You can then find each composition in your Sporepedia music tab.
+
+0x000007b1 ~guide: -h3~ Random
+
+0x000007c1 ~guide: -h2~ As a shortcut or if you're feeling experimental, click on the random button at the bottom of the City Music Creator.
+
+0x000007d1 ~guide: -h1~ The Colony Outfitter
+
+0x000007e1 ~guide: -h2~ The latest in space faring fashion can be found in the Colony Outfitter.  Give your colonists some style by outfitting them.
+
+0x00000801 ~guide: -bullet~ Click on the Colony Outfitter tab in the Colony Planner.
+
+0x00000811 ~guide: -bullet~ Click on the portrait of your Colonist in the Outfit Palette and Click the Edit Outfit button.
+
+0x00000812 ~guide: -h2~ You will now enter the Colony Outfitter.  The outfit that you create for this colonists will be shared with all of the colonists of your empire.
+
+0x00000821 ~guide: -h3~ Check out the Spore Guide section on The Outfitters to learn more about outfitting your colonists.
+

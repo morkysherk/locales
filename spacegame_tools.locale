@@ -1,0 +1,1467 @@
+﻿
+# abduct.prop - spaceToolDescription
+0x59c7b725 Abduction Beam
+
+# abduct.prop - spaceToolDetailDescription
+0xf509a6a4 Use to abduct plants, animals or rares and add them to your cargo bay.
+
+# allylaser1.prop - spaceToolDescription
+0xc17a9892 Ally Laser
+
+# allylaser2.prop - spaceToolDescription
+
+# allylaser3.prop - spaceToolDescription
+
+# allyminipulse1.prop - spaceToolDescription
+0xd4795323 Ally Mini Pulse
+
+# allyminipulse2.prop - spaceToolDescription
+
+# allyminipulse3.prop - spaceToolDescription
+
+# allytorpedogalaxy1.prop - spaceToolDescription
+0xadd5370e Mini Galactic Torpedo
+
+# allytorpedogalaxy2.prop - spaceToolDescription
+0xb71c33eb Galactic Torpedo
+
+# allytorpedogalaxy3.prop - spaceToolDescription
+0x26e247fc Mega Galactic Torpedo
+
+# allytorpedosolar1.prop - spaceToolDescription
+
+# allytorpedosolar2.prop - spaceToolDescription
+
+# allytorpedosolar3.prop - spaceToolDescription
+
+# antimatterbomb.prop - spaceToolDescription
+0x3478653f Anti-Matter Bomb
+
+# antimatterbomb.prop - spaceToolDetailDescription
+0xc2b26356 A very powerful weapon, capable of destroying entire cities.
+
+# antimatterbomb.prop - spaceToolLockedDescription
+0xa0bb7099 Requires ~commodity_requirements~
+
+# aoe_repair.prop - spaceToolDescription
+0xb9121d2b AOE Repair
+
+# aoe_repair.prop - spaceToolDetailDescription
+0xfda6c622 Repairs all friendly units near you.
+
+# aoe_repair.prop - spaceToolLockedDescription
+
+# artillery.prop - spaceToolDescription
+0xc801cb3e Artillery
+
+# asteroid.prop - spaceToolDescription
+0x782c4e6f Asteroid Call Button
+
+# asteroid.prop - spaceToolDetailDescription
+0x6b0d4ae6 Use on a planet to summon an asteroid, raising the temperature and lowering the atmosphere level.
+
+# asteroid.prop - spaceToolLockedDescription
+
+# atmospheregenerator.prop - spaceToolDescription
+0xda2c0fb1 Atmosphere Generator
+
+# atmospheregenerator.prop - spaceToolDetailDescription
+0x3e1f0150 Place on a planet to raise its atmosphere level.
+
+# atmospheregenerator.prop - spaceToolLockedDescription
+
+# bribe.prop - spaceToolDescription
+0xb5b2991e Bribe
+
+# callforbackup.prop - spaceToolDescription
+0x0601aa7b Summon Mini-U
+
+# callforbackup.prop - spaceToolDetailDescription
+0x0601aa80 Summon a miniature clone of your spaceship to help you in your travels.
+
+# cargoupgrade1.prop - spaceToolDescription
+0x52145143 Basic Cargo Hold
+
+# cargoupgrade1.prop - spaceToolDetailDescription
+0x813233da Increase your spaceship's cargo capacity, so you can fit more loot in your boot.
+
+# cargoupgrade1.prop - spaceToolLockedDescription
+
+# cargoupgrade2.prop - spaceToolDescription
+0xf87f7426 Medium Cargo Hold
+
+# cargoupgrade2.prop - spaceToolDetailDescription
+0x0d904f3f Increase your spaceship's cargo capacity.
+
+# cargoupgrade2.prop - spaceToolLockedDescription
+
+# cargoupgrade3.prop - spaceToolDescription
+0xeba16d0d Large Cargo Hold
+
+# cargoupgrade3.prop - spaceToolDetailDescription
+0x4cc4dccc Increase your spaceship's cargo capacity.
+
+# cargoupgrade3.prop - spaceToolLockedDescription
+
+# cashinfusion.prop - spaceToolDescription
+0x05fb7f80 Cash Infusion
+
+# cashinfusion.prop - spaceToolDetailDescription
+0x05fb7f84 Instantly take over systems where you have established trade routes.
+
+# cloak.prop - spaceToolDescription
+0x1a266b7c Cloaking Device
+
+# cloak.prop - spaceToolDetailDescription
+0xb62407bd Cloak your spaceship, making you invisible to others.
+
+# cloak.prop - spaceToolLockedDescription
+
+# cloudray.prop - spaceToolDescription
+0x914b2b09 Cloud Accumulator
+
+# cloudray.prop - spaceToolDetailDescription
+0xc3574828 Use on a planet to raise its atmosphere level.
+
+# cloudray.prop - spaceToolLockedDescription
+
+# cloudvacuum.prop - spaceToolDescription
+0x1812cfee Cloud Vacuum
+
+# cloudvacuum.prop - spaceToolDetailDescription
+0x58f17547 Use on a planet to lower its atmosphere level.
+
+# cloudvacuum.prop - spaceToolLockedDescription
+
+# coldcloudray.prop - spaceToolDescription
+0xebdd0e97 Air Conditioning
+
+# coldcloudray.prop - spaceToolDetailDescription
+0x0734b94e Use on a planet to lower its temperature and raise its atmosphere level.
+
+# coldcloudray.prop - spaceToolLockedDescription
+
+# coldcloudvacuum.prop - spaceToolDescription
+0x2ee4f934 Cold Cloud Vacuum
+
+# coldcloudvacuum.prop - spaceToolDetailDescription
+0xa2d36535 Use on a planet to lower both its temperature and its atmosphere level.
+
+# coldcloudvacuum.prop - spaceToolLockedDescription
+
+# coldray.prop - spaceToolDescription
+0x4f0badd2 Refrigeration Ray
+
+# coldray.prop - spaceToolDetailDescription
+0x8641e41b Use on a planet to lower the temperature.
+
+# coldray.prop - spaceToolLockedDescription
+
+# coloratmoblue.prop - spaceToolDescription
+0x0379d01a Sky Blueinator
+
+# coloratmoblue.prop - spaceToolDetailDescription
+0x80326dc3 Changes the atmosphere color of the planet to blue.
+
+# coloratmocyan.prop - spaceToolDescription
+0xe5671f75 Sky Cyaninator
+
+# coloratmocyan.prop - spaceToolDetailDescription
+0x23400f14 Changes the atmosphere color of the planet to cyan.
+
+# coloratmogreen.prop - spaceToolDescription
+0x1657ca1f Sky Greeninator
+
+# coloratmogreen.prop - spaceToolDetailDescription
+0xbf0dc136 Changes the atmosphere color of the planet to green.
+
+# coloratmoorange.prop - spaceToolDescription
+0x1d57b204 Sky Orangizer
+
+# coloratmoorange.prop - spaceToolDetailDescription
+0x8118d7e5 Changes the atmosphere color of the planet to orange.
+
+# coloratmopink.prop - spaceToolDescription
+0x637c64ae Sky Pinkinator
+
+# coloratmopink.prop - spaceToolDetailDescription
+0xab570e07 Changes the atmosphere color of the planet to pink.
+
+# coloratmopurple.prop - spaceToolDescription
+0x22770d44 Grape Flavored Sky
+
+# coloratmopurple.prop - spaceToolDetailDescription
+0x6c54e325 Changes the color of the planet's atmosphere to purple.
+
+# coloratmored.prop - spaceToolDescription
+0xac0e9eaf Skies of Red
+
+# coloratmored.prop - spaceToolDetailDescription
+0x5dc28226 Changes the color of the planet's atmosphere to red.
+
+# coloratmoyellow.prop - spaceToolDescription
+0xe849437a Sky Lemonizer
+
+# coloratmoyellow.prop - spaceToolDetailDescription
+0xea93be23 Changes the color of the planet's atmosphere to yellow.
+
+# colorreset.prop - spaceToolDescription
+0x5adbc090 Planet Color Reset
+
+# colorreset.prop - spaceToolDetailDescription
+0xf61e6831 Restores the planet to its original colors.
+
+# colorterrainblue.prop - spaceToolDescription
+0xfade51d2 Blue Terra-Coloring
+
+# colorterrainblue.prop - spaceToolDetailDescription
+0x565f681b Changes the color of the planet's terrain to blue.
+
+# colorterraincyan.prop - spaceToolDescription
+0x4f4c2edd Cyan Terra-Coloring
+
+# colorterraincyan.prop - spaceToolDetailDescription
+0xb6d7ba7c Changes the color of the planet's terrain to cyan.
+
+# colorterraingreen.prop - spaceToolDescription
+0xafb4f707 Green Terra-Coloring
+
+# colorterraingreen.prop - spaceToolDetailDescription
+0x6858a61e Changes the color of the planet's terrain to green.
+
+# colorterrainorange.prop - spaceToolDescription
+0x9a0cb36c Orange Terra-Coloring
+
+# colorterrainorange.prop - spaceToolDetailDescription
+0x0d775c0d Changes the color of the planet's terrain to orange.
+
+# colorterrainpink.prop - spaceToolDescription
+0x565ca906 Pink Terra-Coloring
+
+# colorterrainpink.prop - spaceToolDetailDescription
+0x930bed1f Changes the color of the planet's terrain to pink.
+
+# colorterrainpurple.prop - spaceToolDescription
+0xeb0e341c Purple Terra-Coloring
+
+# colorterrainpurple.prop - spaceToolDetailDescription
+0x30ad9f5d Changes the color of the planet's terrain to purple.
+
+# colorterrainred.prop - spaceToolDescription
+0x47944327 Red Terra-Coloring
+
+# colorterrainred.prop - spaceToolDetailDescription
+0x76ed393e Changes the color of the planet's terrain to red.
+
+# colorterrainyellow.prop - spaceToolDescription
+0xfda80542 Yellow Terra-Coloring
+
+# colorterrainyellow.prop - spaceToolDetailDescription
+0x249781eb Changes the color of the planet's terrain to yellow.
+
+# colorwaterblue.prop - spaceToolDescription
+0x04868768 Deep Blue Sea
+
+# colorwaterblue.prop - spaceToolDetailDescription
+0x75dcc909 Changes the color of the planet's water to blue.
+
+# colorwatercyan.prop - spaceToolDescription
+0x42f9f1d7 Cyan Sea
+
+# colorwatercyan.prop - spaceToolDetailDescription
+0x3401798e Changes the water color of the planet to cyan.
+
+# colorwatergreen.prop - spaceToolDescription
+0xfe6cf7a9 Sea of Green
+
+# colorwatergreen.prop - spaceToolDetailDescription
+0x279bf3c8 Changes the color of the planet's water to green.
+
+# colorwaterorange.prop - spaceToolDescription
+0x2d389fbe Orange Flavor Crystals
+
+# colorwaterorange.prop - spaceToolDetailDescription
+0xea6db0f7 Changes the color of the planet's water to orange.
+
+# colorwaterpink.prop - spaceToolDescription
+0xe65f9298 Sweetheart Sea
+
+# colorwaterpink.prop - spaceToolDetailDescription
+0xa2173559 Changes the color of the planet's water to pink.
+
+# colorwaterpurple.prop - spaceToolDescription
+0x3a2c7d32 Grape Juice Ocean
+
+# colorwaterpurple.prop - spaceToolDetailDescription
+0xc895ed7b Changes the color of the planet's water to purple.
+
+# colorwaterred.prop - spaceToolDescription
+0x20660959 Crimson Sea
+
+# colorwaterred.prop - spaceToolDetailDescription
+0xb9ac2498 Changes the color of the planet's water to red.
+
+# colorwateryellow.prop - spaceToolDescription
+0x7b9471bc Lemonade Sea
+
+# colorwateryellow.prop - spaceToolDetailDescription
+0x92544bfd Changes the color of the planet's water to yellow.
+
+# creaturecreate.prop - spaceToolDescription
+0x3e295ee3 Create Creature
+
+# creaturecreate.prop - spaceToolDetailDescription
+0xd974877a Make a creature and collect five specimens of it in your cargo hold.
+
+# creaturecreate.prop - spaceToolLockedDescription
+
+# creatureedit.prop - spaceToolDescription
+0x0dc3bacb Creature Tweaker
+
+# creatureedit.prop - spaceToolDetailDescription
+0x4f4d0bc2 Select this tool and click on a planet creature to modify it.
+
+# creatureedit.prop - spaceToolLockedDescription
+
+# cropcircles.prop - spaceToolDescription
+0x14be5fdf Crop Circles
+
+# cropcircles.prop - spaceToolDetailDescription
+0x40052af6 Draw crop circles near cities and tribes to interact with them.
+
+# cropcircles.prop - spaceToolLockedDescription
+
+# cultureshocker.prop - spaceToolDescription
+0xaca3549d Culture Shocker
+
+# defenderlaser1.prop - spaceToolDescription
+0xc5c6da6f Laser
+
+# defenderlaser2.prop - spaceToolDescription
+
+# defenderlaser3.prop - spaceToolDescription
+
+# dropcargo.prop - spaceToolDescription
+0xf5cff647 Drop Cargo
+
+# dropcargo.prop - spaceToolDetailDescription
+0xd46d8b5e Eject items from your cargo bay onto a planet. Hold to drop creatures gently.
+
+# droughtgenerator.prop - spaceToolDescription
+0xc1b1adb6 Drought Generator
+
+# droughtgenerator.prop - spaceToolDetailDescription
+0x5eeb2eef Place on the planet to lower the atmosphere level.
+
+# droughtgenerator.prop - spaceToolLockedDescription
+
+# dryice.prop - spaceToolDescription
+0xdab82a46 Ice Storm
+
+# dryice.prop - spaceToolDetailDescription
+0x4aeae75f Place on the planet to lower the temperature.
+
+# dryice.prop - spaceToolLockedDescription
+
+# dumbbomblevel1.prop - spaceToolDescription
+0xe27e0c2f Mini Bomb
+
+# dumbbomblevel1.prop - spaceToolDetailDescription
+0x2e4a83a6 A weak bomb, capable of damaging vehicles and buildings.
+
+# dumbbomblevel1.prop - spaceToolLockedDescription
+
+# dumbbomblevel2.prop - spaceToolDescription
+0x6aa2f972 Justa Bomb
+
+# dumbbomblevel2.prop - spaceToolDetailDescription
+0x8c775dbb A medium-powered bomb, capable of destroying vehicles and buildings.
+
+# dumbbomblevel2.prop - spaceToolLockedDescription
+
+# dumbbomblevel3.prop - spaceToolDescription
+0x39f568f9 Mega Bomb
+
+# dumbbomblevel3.prop - spaceToolDetailDescription
+0x8898dc38 A powerful bomb, capable of destroying many vehicles and buildings.
+
+# dumbbomblevel3.prop - spaceToolLockedDescription
+
+# enemylaser1.prop - spaceToolDescription
+
+# enemylaser2.prop - spaceToolDescription
+
+# enemylaser3.prop - spaceToolDescription
+
+# enemyminipulse1.prop - spaceToolDescription
+0x8bc5af07 Enemy Mini Pulse
+
+# enemyminipulse2.prop - spaceToolDescription
+
+# enemyminipulse3.prop - spaceToolDescription
+
+# enemypulse1.prop - spaceToolDescription
+0x20c6731c Enemy Pulse
+
+# enemypulse2.prop - spaceToolDescription
+
+# enemypulse3.prop - spaceToolDescription
+
+# enemytorpedogalaxy1.prop - spaceToolDescription
+
+# enemytorpedogalaxy2.prop - spaceToolDescription
+
+# enemytorpedogalaxy3.prop - spaceToolDescription
+
+# enemytorpedosolar1.prop - spaceToolDescription
+
+# enemytorpedosolar2.prop - spaceToolDescription
+
+# enemytorpedosolar3.prop - spaceToolDescription
+
+# energymegapotion.prop - spaceToolDescription
+0xdd6d2133 Energy Mega Pack
+
+# energymegapotion.prop - spaceToolDetailDescription
+0x51ce942a Recharges your spaceship's energy to full.
+
+# energymegapotion.prop - spaceToolLockedDescription
+
+# energypotion.prop - spaceToolDescription
+0x5209643d Energy Pack
+
+# energypotion.prop - spaceToolDetailDescription
+0x1834b2dc Recharge a portion of your spaceship's energy.
+
+# energypotion.prop - spaceToolLockedDescription
+
+# energyupgrade1.prop - spaceToolDescription
+0x3f3c2a71 Basic Energy Storage
+
+# energyupgrade1.prop - spaceToolDetailDescription
+0xf62c8310 Increase your spaceship's energy capacity.
+
+# energyupgrade2.prop - spaceToolDescription
+0xaaf21ee8 Small Energy Storage
+
+# energyupgrade2.prop - spaceToolDetailDescription
+
+# energyupgrade2.prop - spaceToolLockedDescription
+
+# energyupgrade3.prop - spaceToolDescription
+0x539b1ac7 Medium Energy Storage
+
+# energyupgrade3.prop - spaceToolDetailDescription
+
+# energyupgrade3.prop - spaceToolLockedDescription
+
+# energyupgrade4.prop - spaceToolDescription
+0xb14cb70e Large Energy Storage
+
+# energyupgrade4.prop - spaceToolDetailDescription
+
+# energyupgrade4.prop - spaceToolLockedDescription
+
+# energyupgrade5.prop - spaceToolDescription
+0x2384dc15 Extreme Energy Storage
+
+# energyupgrade5.prop - spaceToolDetailDescription
+0x577558b4 Increase your spaceship's energy to maximum capacity.
+
+# energyupgrade5.prop - spaceToolLockedDescription
+
+# epicize.prop - spaceToolDescription
+0xd2936cb9 Supersizer
+
+# epicize.prop - spaceToolDetailDescription
+0x7472d9f8 Enlarges a creature to epic proportions.
+
+# epicize.prop - spaceToolLockedDescription
+
+# eradicate.prop - spaceToolDescription
+0xcc7cdde2 Species Eradicator
+
+# eradicate.prop - spaceToolDetailDescription
+0x8efb418b Eradicate an entire creature species to make way for something new.
+
+# eradicate.prop - spaceToolLockedDescription
+
+# fireworks.prop - spaceToolDescription
+0x8b0b75de Fireworks
+
+# fireworks.prop - spaceToolDetailDescription
+0x28484917 Use near colonies to make them happier.
+
+# fireworks.prop - spaceToolLockedDescription
+
+# genesisdevice.prop - spaceToolDescription
+0x0c7c683c Staff of Life
+
+# genesisdevice.prop - spaceToolDetailDescription
+0x2b488e7d Use on planet to completely terraform it in an instant.
+
+# genesisdevice.prop - spaceToolLockedDescription
+
+# getoutofufo.prop - spaceToolDescription
+0xd51719a7 Hologram Scout
+
+# getoutofufo.prop - spaceToolDetailDescription
+0x90a55bbe Send a hologram to the planet for an up-close examination.
+
+# getoutofufo.prop - spaceToolLockedDescription
+
+# globalminderase.prop - spaceToolDescription
+0xbe68817f Global Mind Erase
+
+# globalminderase.prop - spaceToolDetailDescription
+0xd4f93796 Subdues all the inhabitants of a planet; they will not attack.
+
+# globalminderase.prop - spaceToolLockedDescription
+
+# gravitationwave.prop - spaceToolDescription
+0x06036020 Gravitation Wave
+
+# gravitationwave.prop - spaceToolDetailDescription
+0x06036023 Destroys all structures on the planet.
+
+# happyraylevel1.prop - spaceToolDescription
+0x134e9479 Mini Happy Ray
+
+# happyraylevel1.prop - spaceToolDetailDescription
+0x6accabb8 Improves your relations with the alien race inhabiting the planet.
+
+# happyraylevel1.prop - spaceToolLockedDescription
+
+# happyraylevel2.prop - spaceToolDescription
+0x9baeb0b0 Medium Happy Ray
+
+# happyraylevel2.prop - spaceToolDetailDescription
+
+# happyraylevel2.prop - spaceToolLockedDescription
+
+# happyraylevel3.prop - spaceToolDescription
+0xbbd737af Super Happy Ray
+
+# happyraylevel3.prop - spaceToolDetailDescription
+
+# happyraylevel3.prop - spaceToolLockedDescription
+
+# healthupgrade1.prop - spaceToolDescription
+0xea7290f7 Basic Health
+
+# healthupgrade1.prop - spaceToolDetailDescription
+0x852c73ae Increase your spaceship's health capacity.
+
+# healthupgrade2.prop - spaceToolDescription
+0x9172205a Small Health
+
+# healthupgrade2.prop - spaceToolDetailDescription
+
+# healthupgrade2.prop - spaceToolLockedDescription
+
+# healthupgrade3.prop - spaceToolDescription
+0xd770f4a1 Medium Health
+
+# healthupgrade3.prop - spaceToolDetailDescription
+
+# healthupgrade3.prop - spaceToolLockedDescription
+
+# healthupgrade4.prop - spaceToolDescription
+0x49bbd1ac Large Health
+
+# healthupgrade4.prop - spaceToolDetailDescription
+
+# healthupgrade4.prop - spaceToolLockedDescription
+
+# healthupgrade5.prop - spaceToolDescription
+0xa7f72a5b Extreme Health
+
+# healthupgrade5.prop - spaceToolDetailDescription
+0xbe9c35b2 Increase your spaceship's health to maximum capacity.
+
+# healthupgrade5.prop - spaceToolLockedDescription
+
+# heatray.prop - spaceToolDescription
+0x5f83f79e Heat Ray
+
+# heatray.prop - spaceToolDetailDescription
+0x63ee95d7 Use on a planet to raise the temperature.
+
+# heatray.prop - spaceToolLockedDescription
+
+# hotcloudray.prop - spaceToolDescription
+0xf1c68bac Hot Cloud Seeder
+
+# hotcloudray.prop - spaceToolDetailDescription
+0x8d982d4d Use on a planet to raise both the temperature and the atmosphere level.
+
+# hotcloudray.prop - spaceToolLockedDescription
+
+# hotcloudvacuum.prop - spaceToolDescription
+0x3250fa19 Hot Cloud Vacuum
+
+# hotcloudvacuum.prop - spaceToolDetailDescription
+0xbbf76458 Use on a planet to raise the temperature and lower the atmosphere level.
+
+# hotcloudvacuum.prop - spaceToolLockedDescription
+
+# icecapseeder.prop - spaceToolDescription
+0x3a437b21 Atmosphere Freezer
+
+# icecapseeder.prop - spaceToolDetailDescription
+0x9d67c0a0 Place on the planet to lower both the temperature and the atmosphere level.
+
+# icecapseeder.prop - spaceToolLockedDescription
+
+# icecomet.prop - spaceToolDescription
+0x50016b43 Ice Comet
+
+# icecomet.prop - spaceToolDetailDescription
+0xe2e67dda Use on a planet to hurl an ice comet at it. Lowers the temperature and raises the atmosphere level.
+
+# icecomet.prop - spaceToolLockedDescription
+
+# interplanetarydrive.prop - spaceToolDescription
+0x6514f8ee Interplanetary Drive
+
+# interplanetarydrive.prop - spaceToolDetailDescription
+0xf29a5647 Your basic interplanetary drive, allows you to leave your planet's orbit.
+
+# interstellardrive.prop - spaceToolDescription
+0x5cde78a9 Interstellar Drive 1
+
+# interstellardrive.prop - spaceToolDetailDescription
+0x5c796cc8 Your basic interstellar drive, allows you to leave your solar system.
+
+# interstellardrive_upgrade1.prop - spaceToolDescription
+0xda5d06eb Interstellar Drive 2
+
+# interstellardrive_upgrade1.prop - spaceToolDetailDescription
+0x9f22e5e2 Increases your spaceship's travel range.
+
+# interstellardrive_upgrade1.prop - spaceToolLockedDescription
+
+# interstellardrive_upgrade2.prop - spaceToolDescription
+0xd1160a0e Interstellar Drive 3
+
+# interstellardrive_upgrade2.prop - spaceToolDetailDescription
+
+# interstellardrive_upgrade2.prop - spaceToolLockedDescription
+
+# interstellardrive_upgrade3.prop - spaceToolDescription
+0x434e2f15 Interstellar Drive 4
+
+# interstellardrive_upgrade3.prop - spaceToolDetailDescription
+
+# interstellardrive_upgrade3.prop - spaceToolLockedDescription
+
+# interstellardrive_upgrade4.prop - spaceToolDescription
+0xcabb71e8 Interstellar Drive 5
+
+# interstellardrive_upgrade4.prop - spaceToolDetailDescription
+0x2a165f89 Increases your spaceship's travel range to the maximum.
+
+# interstellardrive_upgrade4.prop - spaceToolLockedDescription
+
+# laserlevel1.prop - spaceToolDescription
+0x0cfc7432 Mini Laser
+
+# laserlevel1.prop - spaceToolDetailDescription
+0x7f2e2c7b Use on ground targets. A weak, but precise weapon.
+
+# laserlevel2.prop - spaceToolDescription
+
+# laserlevel2.prop - spaceToolDetailDescription
+0xf561b166 Use on ground targets. A medium strength, precision weapon.
+
+# laserlevel2.prop - spaceToolLockedDescription
+
+# laserlevel3.prop - spaceToolDescription
+0xb745c2f0 Mega Laser
+
+# laserlevel3.prop - spaceToolDetailDescription
+0xc1bff091 Use on ground targets. A strong, precision weapon.
+
+# laserlevel3.prop - spaceToolLockedDescription
+
+# minderase.prop - spaceToolDescription
+0x8b3edf92 Mind Erase
+
+# minderase.prop - spaceToolDetailDescription
+0xaf7570db Use on panicked citizens to subdue them, and forestall attack.
+
+# minderase.prop - spaceToolLockedDescription
+
+# monolith.prop - spaceToolDescription
+0xcf45829a Monolith
+
+# monolith.prop - spaceToolDetailDescription
+0x870c8c43 Place on a tribal or civilized planet to uplift the species on that planet.
+
+# monolith.prop - spaceToolLockedDescription
+
+# mutation.prop - spaceToolDescription
+0x06006ce8 Species Shuffler
+
+# mutation.prop - spaceToolDetailDescription
+0x06006ceb Randomizes the species on a planet.
+
+# peacebomb.prop - spaceToolDescription
+0x0602facc Static Cling
+
+# peacebomb.prop - spaceToolDetailDescription
+0x0602fad1 Stuns all other spaceships and turrets on the planet.
+
+# placebioprotector.prop - spaceToolDescription
+0xe5b083ef Bio Protector
+
+# placebioprotector.prop - spaceToolDetailDescription
+0x43c3d466 Place on a planet to slow down the rate of Eco Disasters.
+
+# placebioprotector.prop - spaceToolLockedDescription
+
+# placebiostabilizer.prop - spaceToolDescription
+0xe45cd1bc Bio Stabilizer
+
+# placebiostabilizer.prop - spaceToolDetailDescription
+0xb1d9abfd Place on a planet to reduce the likelihood of Eco Disasters.
+
+# placebiostabilizer.prop - spaceToolLockedDescription
+
+# placecolony.prop - spaceToolDescription
+0x6569486d Colony Incredi-Pak
+
+# placecolony.prop - spaceToolDetailDescription
+0x567e312c Places a colony on a planet.
+
+# placeembassy.prop - spaceToolDescription
+0xff2ba023 Embassy
+
+# placeembassy.prop - spaceToolDetailDescription
+0x5134bcba Places an embassy on an alien race's planet. Increases your relationship with their empire over time.
+
+# placeembassy.prop - spaceToolLockedDescription
+
+# placehappinessbooster.prop - spaceToolDescription
+0x56cd9990 Happiness Booster
+
+# placehappinessbooster.prop - spaceToolDetailDescription
+0x69b97931 Place on a planet to keep its inhabitants happy.
+
+# placehappinessbooster.prop - spaceToolLockedDescription
+
+# placeloyaltybooster.prop - spaceToolDescription
+0x8c4fb895 Loyalty Booster
+
+# placeloyaltybooster.prop - spaceToolDetailDescription
+0x36055134 Place on a planet to ensure maximum loyalty.
+
+# placeloyaltybooster.prop - spaceToolLockedDescription
+
+# placespicestorage.prop - spaceToolDescription
+0x2a366760 Spice Storage
+
+# placespicestorage.prop - spaceToolDetailDescription
+0x4c23a6e1 Place on a planet to increase the amount of spice that can be stored there.
+
+# placespicestorage.prop - spaceToolLockedDescription
+
+# placeuberturret.prop - spaceToolDescription
+0x01d75d45 Uber Turret
+
+# placeuberturret.prop - spaceToolDetailDescription
+0x90acd0c4 Place on a planet to provide the ultimate defense for its colonies.
+
+# placeuberturret.prop - spaceToolLockedDescription
+
+# planetbusterbomb.prop - spaceToolDescription
+0xdcf0cdb9 Planet Buster
+
+# planetbusterbomb.prop - spaceToolDetailDescription
+0xd6dd32f8 Destroys an entire planet. Feared by all.  BIG BADDA BOOM.
+
+# planetbusterbomb.prop - spaceToolLockedDescription
+
+# planetconversion.prop - spaceToolDescription
+0x06089937 Fanatical Frenzy
+
+# planetconversion.prop - spaceToolDetailDescription
+0x0608993b Use on a planet to convert its inhabitants to the one true way.
+
+# planetscan.prop - spaceToolDescription
+0xc9433e6d Planet Scan
+
+# planetscan.prop - spaceToolDetailDescription
+0x6fd8772c Use on a planet to scan all the plants and animals.
+
+# planetscan.prop - spaceToolLockedDescription
+
+# portal.prop - spaceToolDescription
+0x06005e75 Return Ticket
+
+# portal.prop - spaceToolDetailDescription
+0x06005e79 Returns you to your home system in a single jump.
+
+# protonmissile.prop - spaceToolDescription
+0x2b48b650 Proton Missile
+
+# protonmissile.prop - spaceToolDetailDescription
+0x8555d2f1 Fires a homing Proton Missile at its target.  Great against other spaceships.
+
+# protonmissile.prop - spaceToolLockedDescription
+
+# pulselevel1.prop - spaceToolDescription
+0xd0eb46b4 Mini Pulse
+
+# pulselevel1.prop - spaceToolDetailDescription
+0x0b3b46b5 Fires a weak burst in a straight line.  Good against ground targets.
+
+# pulselevel1.prop - spaceToolLockedDescription
+
+# pulselevel2.prop - spaceToolDescription
+0xc9e33aed Pulse
+
+# pulselevel2.prop - spaceToolDetailDescription
+0x3e948fac Fires a medium-powered burst in a straight line.  Good against ground targets.
+
+# pulselevel2.prop - spaceToolLockedDescription
+
+# pulselevel3.prop - spaceToolDescription
+0x8b2a3706 Mega Pulse
+
+# pulselevel3.prop - spaceToolDetailDescription
+0x68fd0b1f Fires a powerful burst in a straight line.  Good against ground targets.
+
+# pulselevel3.prop - spaceToolLockedDescription
+
+# radar.prop - spaceToolDescription
+0x5a4c5cd0 Radar
+
+# radar.prop - spaceToolDetailDescription
+0x0e084571 Signals when you are near important planetside targets.  Toggles on and off.
+
+# raiderrally.prop - spaceToolDescription
+0x06087e97 Raider Rally
+
+# raiderrally.prop - spaceToolDetailDescription
+0x06087e9e Entices pirates to attack the planet.
+
+# rainoffire.prop - spaceToolDescription
+0xf696a88d Meteor Shower
+
+# rainoffire.prop - spaceToolDetailDescription
+0x53343c4c Use to hurl meteors at a planet to raise its temperature.
+
+# rainoffire.prop - spaceToolLockedDescription
+
+# rallycall.prop - spaceToolDescription
+0xad6c6eec Rally Call
+
+# rallycall.prop - spaceToolDetailDescription
+0x84fd3b8d Rallies your ally spaceships, and increases the damage they inflict for a short time.
+
+
+# rallycall.prop - spaceToolLockedDescription
+
+# repairmegapotion.prop - spaceToolDescription
+0xad0aa50e Repair Mega Pack
+
+# repairmegapotion.prop - spaceToolDetailDescription
+0xe956db67 Instantly restores your spaceship to pristine condition.
+
+# repairmegapotion.prop - spaceToolLockedDescription
+
+# repairpotion.prop - spaceToolDescription
+0x6208f338 Repair Pack
+
+# repairpotion.prop - spaceToolDetailDescription
+0x013131f9 Restores some of your spaceship's health.
+
+# repairpotion.prop - spaceToolLockedDescription
+
+# safarivacuum.prop - spaceToolDescription
+0x05ff2f99 Safari Vacuum
+
+# safarivacuum.prop - spaceToolDetailDescription
+0x05ff2f9f Use on a planet to instantly abduct several specimens of various species on the planet.
+
+# scan.prop - spaceToolDescription
+0xf30993c7 Scan
+
+# scan.prop - spaceToolDetailDescription
+0x03ee3cde Click on plants or animals to get more information about them.
+
+# sculpt_basic_level_large.prop - spaceToolDescription
+0x1f00a761 Level Terrain (Large)
+
+# sculpt_basic_level_large.prop - spaceToolDetailDescription
+0x8827b2e0 Use on a planet to level its surface.
+
+# sculpt_basic_level_large.prop - spaceToolLockedDescription
+
+# sculpt_basic_level_medium.prop - spaceToolDescription
+0xe3be7553 Level Terrain (Medium)
+
+# sculpt_basic_level_medium.prop - spaceToolDetailDescription
+
+# sculpt_basic_level_medium.prop - spaceToolLockedDescription
+
+# sculpt_basic_level_small.prop - spaceToolDescription
+0xf4bfdb49 Level Terrain (Small)
+
+# sculpt_basic_level_small.prop - spaceToolDetailDescription
+
+# sculpt_basic_level_small.prop - spaceToolLockedDescription
+
+# sculpt_basic_lower_large.prop - spaceToolDescription
+0xbe26caf2 Lower Terrain (Large)
+
+# sculpt_basic_lower_large.prop - spaceToolDetailDescription
+0x8650a33b Use on planet to lower its surface.
+
+# sculpt_basic_lower_large.prop - spaceToolLockedDescription
+
+# sculpt_basic_lower_medium.prop - spaceToolDescription
+0x8f215d1a Lower Terrain (Medium)
+
+# sculpt_basic_lower_medium.prop - spaceToolDetailDescription
+0xd03592c3 Use on a planet to lower the planet's surface.
+
+# sculpt_basic_lower_medium.prop - spaceToolLockedDescription
+
+# sculpt_basic_lower_small.prop - spaceToolDescription
+0xe90e8bea Lower Terrain (Small)
+
+# sculpt_basic_lower_small.prop - spaceToolDetailDescription
+
+# sculpt_basic_lower_small.prop - spaceToolLockedDescription
+
+# sculpt_basic_raise_large.prop - spaceToolDescription
+0xbe9e44c3 Raise Terrain (Large)
+
+# sculpt_basic_raise_large.prop - spaceToolDetailDescription
+0x06d08b5a Use on a planet to raise its surface.
+
+# sculpt_basic_raise_large.prop - spaceToolLockedDescription
+
+# sculpt_basic_raise_medium.prop - spaceToolDescription
+0x5a121151 Raise Terrain (Medium)
+
+# sculpt_basic_raise_medium.prop - spaceToolDetailDescription
+
+# sculpt_basic_raise_medium.prop - spaceToolLockedDescription
+
+# sculpt_basic_raise_small.prop - spaceToolDescription
+0xa7a60ebf Raise Terrain (Small)
+
+# sculpt_basic_raise_small.prop - spaceToolDetailDescription
+
+# sculpt_basic_raise_small.prop - spaceToolLockedDescription
+
+# sculpt_chocolate_beads.prop - spaceToolDescription
+0xe301cb02 Chocolate Strand
+
+# sculpt_chocolate_beads.prop - spaceToolDetailDescription
+0x421261ab Click and drag on planet to set the start point and direction of a chocolate strand.
+
+# sculpt_chocolate_hill.prop - spaceToolDescription
+0x06cfa173 Chocolate Hill
+
+# sculpt_chocolate_hill.prop - spaceToolDetailDescription
+0x5b72e9cd Use on a planet to terrasculpt a chocolate hill.
+
+# sculpt_chocolate_pond.prop - spaceToolDescription
+0x1c9426e0 Chocolate Swirl Pond
+
+# sculpt_chocolate_pond.prop - spaceToolDetailDescription
+0x12976a61 Use on a planet to terrasculpt a chocolate swirl pond.
+
+# sculpt_chocolate_river.prop - spaceToolDescription
+0x866b92b5 Chocolate Swirl River
+
+# sculpt_chocolate_river.prop - spaceToolDetailDescription
+0x6a5b2854 Click and drag on planet to set the start point and direction of a chocolate swirl river
+
+# sculpt_chocolate_seas.prop - spaceToolDescription
+0xab531e0f Chocolate Swirl Seas
+
+# sculpt_chocolate_seas.prop - spaceToolDetailDescription
+0x042c3086 Use on a planet to terrasculpt chocolate swirl seas.
+
+# sculpt_chocolate_spirals.prop - spaceToolDescription
+0xc0fb0c49 Chocolate Swirl Spirals
+
+# sculpt_chocolate_spirals.prop - spaceToolDetailDescription
+0x8bb57e68 Click and drag on planet to set the start point and direction of chocolate swirl spirals.
+
+# sculpt_chocolate_squares.prop - spaceToolDescription
+0x68a2d1a7 Chocolate Squares
+
+# sculpt_chocolate_squares.prop - spaceToolDetailDescription
+0xfa1353be Use on a planet to terrasculpt chocolate squares.
+
+# sculpt_chocolate_truffles.prop - spaceToolDescription
+0xc2cb4c2c Chocolate Truffle
+
+# sculpt_chocolate_truffles.prop - spaceToolDetailDescription
+0x2e3bbdd5 Use on a planet to terrasculpt a chocolate truffle formation
+
+# sculpt_chocolate_valley.prop - spaceToolDescription
+0xaee738c4 Swirly Valley
+
+# sculpt_chocolate_valley.prop - spaceToolDetailDescription
+0xb0e7b2a5 Click and drag on planet to set the start point and direction of a chocolate box.
+
+# sculpt_crystal_canyon.prop - spaceToolDescription
+0x860e0a6f Crystal Canyon
+
+# sculpt_crystal_canyon.prop - spaceToolDetailDescription
+0x240126e6 Click and drag on planet to set the start point and direction of a crystal canyon.
+
+# sculpt_crystal_crack.prop - spaceToolDescription
+0xc4b0fe45 Crystal Chasm
+
+# sculpt_crystal_crack.prop - spaceToolDetailDescription
+0x85b169c4 Click and drag on planet to set the start point and direction of a crystal chasm.
+
+# sculpt_crystal_hills.prop - spaceToolDescription
+0x1a33de3b Crystal Hills
+
+# sculpt_crystal_hills.prop - spaceToolDetailDescription
+0x511c7392 Use on a planet to terrasculpt crystal hills.
+
+# sculpt_crystal_holes.prop - spaceToolDescription
+0x7784ed60 Crystal Holes
+
+# sculpt_crystal_holes.prop - spaceToolDetailDescription
+0xbecdfce1 Use on a planet to terrasculpt crystal holes.
+
+# sculpt_crystal_mesas.prop - spaceToolDescription
+0xffa1ffe8 Crystal Mesas
+
+# sculpt_crystal_mesas.prop - spaceToolDetailDescription
+0x37587d89 Use on a planet to terrasculpt crystal mesas.
+
+# sculpt_crystal_mountains.prop - spaceToolDescription
+0xdae9c56f Crystal Mountains
+
+# sculpt_crystal_mountains.prop - spaceToolDetailDescription
+0xc62709e6 Click and drag on planet to set the start point and direction of a crystal mountain.
+
+# sculpt_crystal_plateau.prop - spaceToolDescription
+0x1f26a005 Crystal Plateau
+
+# sculpt_crystal_plateau.prop - spaceToolDetailDescription
+0x127a7c84 Use on a planet to terrasculpt crystal plateau
+
+# sculpt_crystal_river.prop - spaceToolDescription
+0x745907c5 Crystal River
+
+# sculpt_crystal_river.prop - spaceToolDetailDescription
+0xa8cd2744 Click and drag on planet to set the start point and direction of a crystal river.
+
+# sculpt_crystal_seas.prop - spaceToolDescription
+0x58d2f45f Crystal Seas
+
+# sculpt_crystal_seas.prop - spaceToolDetailDescription
+0xa1d11b76 Use on a planet to terrasculpt crystal seas.
+
+# sculpt_cute_canyon.prop - spaceToolDescription
+0x7ef722ae Cute Canyon
+
+# sculpt_cute_canyon.prop - spaceToolDetailDescription
+0xe90bdc07 Click and drag on planet to set the start point and direction of a cute canyon.
+
+# sculpt_cute_hills.prop - spaceToolDescription
+0x3f34bbdc Cute Hills
+
+# sculpt_cute_hills.prop - spaceToolDetailDescription
+0xd4738a1d Use on a planet to terrasculpt cute hills.
+
+# sculpt_cute_holes.prop - spaceToolDescription
+0x25609c87 Cute Stamps
+
+# sculpt_cute_holes.prop - spaceToolDetailDescription
+0x6c7b1f9e Use on a planet to terrasculpt cute stamps.
+
+# sculpt_cute_mesas.prop - spaceToolDescription
+0x4d29a8cb Cute Mesas
+
+# sculpt_cute_mesas.prop - spaceToolDetailDescription
+0x581389c2 Use on a planet to terrasculpt cute mesas
+
+# sculpt_cute_mountains.prop - spaceToolDescription
+0x018123c8 Cute Mountains
+
+# sculpt_cute_mountains.prop - spaceToolDetailDescription
+0x33441b69 Click and drag on planet to set the start point and direction of a cute mountain.
+
+# sculpt_cute_plateau.prop - spaceToolDescription
+0x42e6cf2e Cute Plateaus
+
+# sculpt_cute_plateau.prop - spaceToolDetailDescription
+0x031a2487 Use on a planet to terrasculpt cute plateaus.
+
+# sculpt_cute_river.prop - spaceToolDescription
+0x178d4372 Cute Rivers
+
+# sculpt_cute_river.prop - spaceToolDetailDescription
+0x5bbf57bb Click and drag on planet to set the start point and direction of a cute river.
+
+# sculpt_cute_seas.prop - spaceToolDescription
+0x483a5096 Cute Seas
+
+# sculpt_cute_seas.prop - spaceToolDetailDescription
+0xe06b17cf Use on a planet to terrasculpt cute seas.
+
+# sculpt_cute_wall.prop - spaceToolDescription
+0x62e92afa Cute Walls
+
+# sculpt_cute_wall.prop - spaceToolDetailDescription
+0x55f869a3 Click and drag on planet to set the start point and direction of a cute wall.
+
+# sculpt_gear_canyon.prop - spaceToolDescription
+0xe56a9d5a Gear Canyons
+
+# sculpt_gear_canyon.prop - spaceToolDetailDescription
+0x4e6f3b03 Click and drag on planet to set the start point and direction of a gear canyon.
+
+# sculpt_gear_craters.prop - spaceToolDescription
+0x96b6b5d8 Gear Craters
+
+# sculpt_gear_craters.prop - spaceToolDetailDescription
+0xf0d70899 Use on a planet to terrasculpt gear craters.
+
+# sculpt_gear_fissure.prop - spaceToolDescription
+0x4bf5b267 Gear Fissure
+
+# sculpt_gear_fissure.prop - spaceToolDetailDescription
+0x26f6797e Click and drag on planet to set the start point and direction of a gear fissure.
+
+# sculpt_gear_hills.prop - spaceToolDescription
+0x8551f9c8 Gear Hills
+
+# sculpt_gear_hills.prop - spaceToolDetailDescription
+0xf5de4169 Use on a planet to terrasculpt gear hills.
+
+# sculpt_gear_mesas.prop - spaceToolDescription
+0x293e7c57 Gear Mesas
+
+# sculpt_gear_mesas.prop - spaceToolDetailDescription
+0x4acdb00e Use on a planet to terrasculpt gear mesas.
+
+# sculpt_gear_mountains.prop - spaceToolDescription
+0x12fb4124 Gear Mountains
+
+# sculpt_gear_mountains.prop - spaceToolDetailDescription
+0x440bec05 Click and drag on planet to set the start point and direction of gear mountains.
+
+# sculpt_gear_plateau.prop - spaceToolDescription
+0x96a9315a Gear Plateaus
+
+# sculpt_gear_plateau.prop - spaceToolDetailDescription
+0x39192f03 Use on a planet to terrasculpt gear plateaus.
+
+# sculpt_gear_river.prop - spaceToolDescription
+0x3b39e3ee Gear Rivers
+
+# sculpt_gear_river.prop - spaceToolDetailDescription
+0xe23fe947 Click and drag on planet to set the start point and direction of a gear river.
+
+# sculpt_gear_seas.prop - spaceToolDescription
+0x34b2ea82 Gear Seas
+
+# sculpt_gear_seas.prop - spaceToolDetailDescription
+0x123e852b Use on a planet to terrasculpt gear seas.
+
+# sculpt_gear_walls.prop - spaceToolDescription
+0x8e6adbf5 Gear Walls
+
+# sculpt_gear_walls.prop - spaceToolDetailDescription
+0xb941e794 Click and drag on planet to set the start point and direction of a gear wall.
+
+# sculpt_gears.prop - spaceToolDescription
+0xc5033606 Create Gear
+
+# sculpt_gears.prop - spaceToolDetailDescription
+0xb616121f Use on a planet to terrasculpt a gear.
+
+# sculpt_tentacle_arm.prop - spaceToolDescription
+0x9af94daf Tentacle Arm
+
+# sculpt_tentacle_arm.prop - spaceToolDetailDescription
+0x49dfb926 Click and drag on planet to set the start point and direction of a Tentacle Arm.
+
+# sculpt_tentacle_canyon.prop - spaceToolDescription
+0x89608849 Tentacle Canyon
+
+# sculpt_tentacle_canyon.prop - spaceToolDetailDescription
+0x8d0f1a68 Click and drag on planet to set the start point and direction of a Tentacle Canyon.
+
+# sculpt_tentacle_hills.prop - spaceToolDescription
+0x0e49d3f5 Tentacle Hills
+
+# sculpt_tentacle_hills.prop - spaceToolDetailDescription
+0x92691f94 Use on a planet to terrasculpt tentacle hills.
+
+# sculpt_tentacle_mountains.prop - spaceToolDescription
+0x9a5735cd Tentacle Mountains
+
+# sculpt_tentacle_mountains.prop - spaceToolDetailDescription
+0x1e7acc8c Click and drag on planet to set the start point and direction of tentacle mountains.
+
+# sculpt_tentacle_mouth.prop - spaceToolDescription
+0xaaac5a5e Tentacle Mouth Hole
+
+# sculpt_tentacle_mouth.prop - spaceToolDetailDescription
+0x06be0997 Use on a planet to terrasculpt a tentacle mouth hole.
+
+# sculpt_tentacle_plateau.prop - spaceToolDescription
+0x481ca11b Create Tentacle Plateau
+
+# sculpt_tentacle_plateau.prop - spaceToolDetailDescription
+0x305d0b72 Use on a planet to terrasculpt a tentacle plateau
+
+# sculpt_tentacle_river.prop - spaceToolDescription
+0x0b88d097 Tentacle River
+
+# sculpt_tentacle_river.prop - spaceToolDetailDescription
+0xf7726b4e Click and drag on planet to set the start point and direction of a tentacle river.
+
+# sculpt_tentacle_seas.prop - spaceToolDescription
+0x08f51d41 Tentacle Seas
+
+# sculpt_tentacle_seas.prop - spaceToolDetailDescription
+0x60af5ec0 Use on a planet to terrasculpt tentacle seas.
+
+# sculpt_tentacle_suckers.prop - spaceToolDescription
+0xaffa4857 Tentacle Suckers
+
+# sculpt_tentacle_suckers.prop - spaceToolDetailDescription
+0x454b1c0e Use on a planet to terrasculpt tentacle suckers.
+
+# sculpt_terra_canyon.prop - spaceToolDescription
+0x7621817b Terra Canyon
+
+# sculpt_terra_canyon.prop - spaceToolDetailDescription
+0xcc7bc8d2 Click and drag on planet to set the start point and direction of a terra canyon.
+
+# sculpt_terra_canyon.prop - spaceToolLockedDescription
+
+# sculpt_terra_craters.prop - spaceToolDescription
+0xd5c29a43 Terra Craters
+
+# sculpt_terra_craters.prop - spaceToolDetailDescription
+0xfb2634da Use on a planet to terrasculpt terra craters.
+
+# sculpt_terra_craters.prop - spaceToolLockedDescription
+
+# sculpt_terra_hills.prop - spaceToolDescription
+0xd0edfcb7 Terra Hills
+
+# sculpt_terra_hills.prop - spaceToolDetailDescription
+0xccf5236e Use on a planet to terrasculpt terra hills.
+
+# sculpt_terra_hills.prop - spaceToolLockedDescription
+
+# sculpt_terra_lavaflow.prop - spaceToolDescription
+0x63d11771 Terra Lava Flows
+
+# sculpt_terra_lavaflow.prop - spaceToolDetailDescription
+0xecb20810 Use on a planet to terrasculpt terra lava flows.
+
+# sculpt_terra_lavaflow.prop - spaceToolLockedDescription
+
+# sculpt_terra_mesas.prop - spaceToolDescription
+0x6a34e8e4 Terra Mesas
+
+# sculpt_terra_mesas.prop - spaceToolDetailDescription
+0xb0f79fc5 Use on a planet to terrasculpt terra mesas.
+
+# sculpt_terra_mesas.prop - spaceToolLockedDescription
+
+# sculpt_terra_mountains.prop - spaceToolDescription
+0xdcbd610b Terra Mountain
+
+# sculpt_terra_mountains.prop - spaceToolDetailDescription
+0x1e8c7b02 Click and drag on planet to set the start point and direction of a terra mountain.
+
+# sculpt_terra_mountains.prop - spaceToolLockedDescription
+
+# sculpt_terra_plateau.prop - spaceToolDescription
+0x473606d1 Terra Plateaus
+
+# sculpt_terra_plateau.prop - spaceToolDetailDescription
+0xcb4d3f70 Use on a planet to terrasculpt terra plateaus.
+
+# sculpt_terra_plateau.prop - spaceToolLockedDescription
+
+# sculpt_terra_river.prop - spaceToolDescription
+0x15dbafb1 Terra River
+
+# sculpt_terra_river.prop - spaceToolDetailDescription
+0xdf51a150 Click and drag on planet to set the start point and direction of a terra river.
+
+# sculpt_terra_river.prop - spaceToolLockedDescription
+
+# sculpt_terra_seas.prop - spaceToolDescription
+0xc814c0fb Terra Seas
+
+# sculpt_terra_seas.prop - spaceToolDetailDescription
+0x49d90c52 Use on a planet to terrasculpt terra seas.
+
+# sculpt_terra_seas.prop - spaceToolLockedDescription
+
+# seti.prop - spaceToolDescription
+0xd90bafcd SETI
+
+# seti.prop - spaceToolDetailDescription
+0x04ebc561 Automatically detects intelligent life in other star systems.  Look for the radio lines in the galactic view.
+
+# shield.prop - spaceToolDescription
+0xdab0ae3f Shield
+
+# shield.prop - spaceToolDetailDescription
+0xfae06456 Protects your ship from damage for a short period.
+
+# shield.prop - spaceToolLockedDescription
+
+# soothingsong.prop - spaceToolDescription
+0x0601fd86 Soothing Song
+
+# soothingsong.prop - spaceToolDetailDescription
+0x0600b62e Has a calming effect on the other empires.
+
+# tooltemplate.prop - spaceToolDetailDescription
+0xe90e6027 I need a tool description!
+
+# torpedogalaxy1.prop - spaceToolDescription
+0x12673eb4 Mini Auto Blaster
+
+# torpedogalaxy1.prop - spaceToolDetailDescription
+0xb1177eb5 A defensive weapon that automatically fires on enemy turrets and spaceships when attacked. Can be toggled on and off.
+
+# torpedogalaxy1.prop - spaceToolLockedDescription
+
+# torpedogalaxy2.prop - spaceToolDescription
+0x0b5f32ed Auto Blaster
+
+# torpedogalaxy2.prop - spaceToolDetailDescription
+0xe470c7ac Automatically fires on enemy turrets and spaceships when attacked. Can be toggled on and off.
+
+# torpedogalaxy2.prop - spaceToolLockedDescription
+
+# torpedogalaxy3.prop - spaceToolDescription
+0xcca62f06 Mega Auto Blaster
+
+# torpedogalaxy3.prop - spaceToolDetailDescription
+0x0ed9431f A defensive weapon that will automatically fire on enemy turrets and spaceships when attacked. Can be toggled on and off.
+
+# torpedogalaxy3.prop - spaceToolLockedDescription
+
+# torpedosolar1.prop - spaceToolDescription
+
+# torpedosolar1.prop - spaceToolDetailDescription
+
+# torpedosolar1.prop - spaceToolLockedDescription
+
+# torpedosolar2.prop - spaceToolDescription
+
+# torpedosolar2.prop - spaceToolDetailDescription
+
+# torpedosolar2.prop - spaceToolLockedDescription
+
+# torpedosolar3.prop - spaceToolDescription
+
+# torpedosolar3.prop - spaceToolDetailDescription
+
+# torpedosolar3.prop - spaceToolLockedDescription
+
+# turret_at_ecn.prop - spaceToolDescription
+0x5446f467 Anti-Tank Turret
+
+# turret_at_mil.prop - spaceToolDescription
+
+# turret_at_rel.prop - spaceToolDescription
+
+# turretlaser1.prop - spaceToolDescription
+
+# turretlaser2.prop - spaceToolDescription
+
+# turretlaser3.prop - spaceToolDescription
+
+# volcano.prop - spaceToolDescription
+0x2f61fcb6 Volcano
+
+# volcano.prop - spaceToolDetailDescription
+0x66a105ef Place on the planet to raise both the temperature and the atmosphere level.
+
+# volcano.prop - spaceToolLockedDescription
+
+# wormhole.prop - spaceToolDescription
+0xc304de3b Wormhole Key
+
+# wormhole.prop - spaceToolDetailDescription
+0x2b657392 Allows you to fly through a black hole unharmed.
+
+# wormhole.prop - spaceToolLockedDescription
+
+# zoo.prop - spaceToolDescription
+0x0f6556a4 Wildlife Sanctuary
+
+# zoo.prop - spaceToolDetailDescription
+0x45795585 Use on a planet to designate it as a wildlife sanctuary, allowing you to place a variety of abducted creatures to live in safety.
+
+# zoo.prop - spaceToolLockedDescription
+
+# autoblaster.prop - spaceToolDescription
+
+# autoblaster.prop - spaceToolDetailDescription
+0x061c69fe Defends your ship against incoming threats.
+
+# asteroid.prop - toolTargetFlagsFailMessage
+0xfdd8cc2a You must choose a valid ground target to use this tool.
+
+# creatureedit.prop - toolTargetFlagsFailMessage
+0x385928de The targeting capability of this weapon is limited to creatures.
+
+# pulselevel1.prop - toolTargetFlagsFailMessage
+0xb5f45e41 The targeting capability of this weapon is limited to spaceships, turrets and vehicles.
+
+#######################################
+# Tool target fail messages
+0x05e62de4 You can only target creatures with this weapon.
+0x061ab566 You must choose a valid ground target to fire this weapon.
+0x061af4b2 This weapon can only be fired at spaceships and vehicles.
+# protonmissilelevel1.prop - spaceToolDescription
+0x79813159 Minor Proton Missile
+
+# protonmissilelevel1.prop - spaceToolDetailDescription
+0xe0ae0c98 Fires a small homing Proton Missile at its target.  Effective against enemy spaceships.
+
+# protonmissilelevel1.prop - spaceToolLockedDescription
+
+# protonmissilelevel3.prop - spaceToolDescription
+0x29c9e40f Mega Proton Missile
+
+# protonmissilelevel3.prop - spaceToolDetailDescription
+0x5cbcc686 Fires a powerful homing Proton Missile at its target.  Effective against enemy spaceships.
+
+# protonmissilelevel2.prop - spaceToolLockedDescription
+
+# protonmissilelevel3.prop - spaceToolLockedDescription
+
+# antimattermissile.prop - spaceToolDescription
+0x84e3b697 Anti-Matter Missile
+
+# antimattermissile.prop - spaceToolDetailDescription
+0x12c6214e Fires a very powerful homing missile at its target. Capable of destroying multiple aircraft.
+
+# antimattermissile.prop - spaceToolLockedDescription
+
+# laserlevel1.prop - toolTargetFlagsFailMessage
+0x7df2eccf You must choose a valid target to use this tool.
+
+# laserlevel2.prop - toolTargetFlagsFailMessage
+
+# laserlevel3.prop - toolTargetFlagsFailMessage

@@ -1,0 +1,94 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Build Mode
+
+0x00000021 ~guide: -h3~ The Parts Palette
+
+0x00000031 ~guide: -h2~ In Build Mode the Parts Palette is open on the left of the Vehicle Creator Screen.
+
+0x00000041 ~guide: -h3~ Parts Categories
+
+0x00000051 ~guide: -h2~ Along the top of the Parts Palette are the Parts Categories you can choose from; bodies, cockpits, locomotion, specialty weapons, effects and details. To select a category, click on its tab.
+
+0x00000061 ~guide: -h3~ Which way is my vehicle facing?
+
+0x00000071 ~guide: -h2~ Your vehicle faces the arrow on the vehicle dais.
+
+0x00000081 ~guide: -h3~ Selecting and Adding Parts
+
+0x00000091 ~guide: -h2~ To select a part, click on it in the parts palette and then drag it from the palette onto the dais or onto your vehicle.
+
+0x000000a1 ~guide: -h2~ To select a part once it is on your vehicle, click on it until it is highlighted in blue.
+
+0x000000b1 ~guide: -h3~ Center Symmetry
+
+0x000000c1 ~guide: -h2~ Vehicle Body and Cockpit parts align to the center of the dais automatically.
+
+0x000000d1 ~guide: -h3~ Intersecting Parts
+
+0x000000e1 ~guide: -h2~ Vehicle parts can intersect. Place them as you wish.
+
+0x000000f1 ~guide: -h3~ Vehicle Diameter and Height
+
+0x00000101 ~guide: -h2~ There are limits to the diameter and height that your vehicle can be.  If you exceed these limits, as you try to place a part, the part won't lock on. It will remain highlighted red (even if it looks like it should attach).  You will not be charged for parts that can not be placed.
+
+0x00000102 ~guide: -h3~ Removing Parts
+
+0x00000103 ~guide: -h2~ To remove a part, either select the part and press Delete or click and drag it off the vehicle or dais.
+
+0x00000111 ~guide: -h1~ Editing Parts With Handles
+
+0x00000121 ~guide: -h2~ Once you have added a part to your vehicle, use its edit handles to modify it.
+
+0x00000131 ~guide: -bullet~ Select the part you wish to edit by clicking on it.  It's part handles will appear.
+
+0x00000141 ~guide: -h3~ The parts handles:
+
+0x00000151 ~guide: -bullet~ Adjustment Arrow:  Changes a part's height, width, length, or curl.
+
+0x00000161 ~guide: -bullet~ Rotation Ring:  Rotates the direction of parts.
+
+0x00000171 ~guide: -bullet~ Position Ball:  Adjusts the orientation of a part.
+
+0x000001a1 ~guide: -h1~ Complexity and Budget
+
+0x000001b1 ~guide: -h3~ The Part Budget
+
+0x000001c1 ~guide: -h2~ Your part budget appears in the lower left corner of the Vehicle Creator.
+
+0x000001d1 ~guide: -h2~ Each part you put on your vehicle costs parts points. Once you run out of points to spend, you will not be able to add any more parts.
+
+0x000001e1 ~guide: -h3~ Complexity Meter
+
+0x000001f1 ~guide: -image-left 0x05556b31!complexitymeter.png~ 
+
+0x00000201 ~guide: -h2~ The complexity meter measures the structural complexity of your vehicle.
+
+0x00000211 ~guide: -h2~ If your vehicle becomes overly complex, you will not be able to add any more parts.
+
+0x00000221 ~guide: -h1~ Vehicles Capabilities
+
+0x00000231 ~guide: -h2~ Each part you add to your vehicle enhances its Speed, Health, or Power. Spend your vehicle part budget effectively, to achieve the distribution of capabilities you desire.
+
+0x00000241 ~guide: -h3~ Vehicle Stats Summary
+
+0x00000251 ~guide: -h2~ Your vehicle stats summary can be found in the upper right corner of the Vehicle Creator Build Mode screen.
+
+0x00000261 ~guide: -bullet~ Health - the higher the number the more damage your vehicle can take in battle.
+
+0x00000271 ~guide: -bullet~ Power - the higher the number, the more damage your vehicle can inflict in battle.
+
+0x00000281 ~guide: -bullet~ Speed - the higher the number, the faster your vehicles can move.
+
+0x00000291 ~guide: -h1~ Advanced Features
+
+0x000002a1 ~guide: -h3~ Advance Part Handles
+
+0x000002b1 ~guide: -bullet~ Hold down the Tab key while selecting a part on your vehicle and additional part handles appear for additional positioning control.
+
+0x000002c1 ~guide: -h3~ Copying Parts
+
+0x000002d1 ~guide: -bullet~ To copy a part that you already have on your vehicle, hold down the ALT key then click on the part you wish to copy, then drag the copy to another spot on your vehicle.
+
+0x000002e1 ~guide: -h3~ Directional Placement
+
+0x000002f1 ~guide: -bullet~ To move the entire vehicle hold down Shift key, click on your vehicle and move it in the direction you desire.
+

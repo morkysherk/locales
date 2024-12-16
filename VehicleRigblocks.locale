@@ -1,0 +1,976 @@
+﻿# VE_Aircraft_01.prop
+0xda30a3fb Spin-Twister
+
+# VE_Aircraft_02.prop
+0xda30a3f8 Downward Spiral
+
+# VE_Aircraft_03.prop
+0xda30a3f9 Pb Zeppelin
+
+# VE_Aircraft_04.prop
+0xda30a3fe Phileas Fogger
+
+# VE_Aircraft_05.prop
+0xda30a3ff Duo-Prop
+
+# VE_Aircraft_07.prop
+0xda30a3fd The Propmaster
+
+# VE_Aircraft_09.prop
+0xda30a3f3 Scramjet
+
+# VE_Aircraft_10.prop
+0xdb30a56d Turbojet
+
+# VE_Aircraft_11.prop
+0xdb30a56c Ramjet
+
+# VE_Aircraft_12.prop
+0xdb30a56f Thermojet
+
+# VE_Aircraft_13.prop
+0xdb30a56e Harrier Wing
+
+# VE_Aircraft_14.prop
+0xdb30a569 Mech-Wing
+
+# VE_Aircraft_15.prop
+0xdb30a568 Armored Flight
+
+# VE_Aircraft_16.prop
+0xdb30a56b Jet-Setter
+
+# VE_Aircraft_17.prop
+0xdb30a56a Commercial Jet
+
+# VE_Aircraft_18.prop
+0xdb30a565 Star Sailor
+
+# VE_Aircraft_19.prop
+0xdb30a564 Wright Stuff
+
+# VE_Aircraft_20.prop
+0xd830a094 Tongue Wing
+
+# VE_Aircraft_21.prop
+0xd830a095 Air Shark
+
+# VE_Aircraft_22.prop
+0xd830a096 Bling Wing
+
+# VE_Aircraft_23.prop
+0xd830a097 Downward Drag
+
+# VE_Aircraft_24.prop
+0xd830a090 Tiered Wing
+
+# VE_Aircraft_25.prop
+0xd830a091 Helix Wing
+
+# VE_Aircraft_26.prop
+0xd830a092 Spoar
+
+# VE_Aircraft_27.prop
+0xd830a093 Ornithopteryx
+
+# VE_Aircraft_28.prop
+0xd830a09c Air Cutter
+
+# VE_Aircraft_29.prop
+0xd830a09d Urvogel
+
+# VE_Aircraft_30.prop
+0xd930a207 Montgolfier
+
+# VE_Aircraft_31.prop
+0xd930a206 Cushioned Drop
+
+# VE_bodies_01.prop
+0xb800afe1 Lander Capsule
+
+# VE_bodies_02.prop
+0xb800afe2 Chill Bubble
+
+# VE_bodies_03.prop
+0xb800afe3 Viewing Pod
+
+# VE_bodies_04.prop
+0xb800afe4 Fly Cuspid
+
+# VE_bodies_06.prop
+0xb800afe6 Clipped Cone
+
+# VE_bodies_07.prop
+0xb800afe7 Gondola
+
+# VE_bodies_08.prop
+0xb800afe8 Inscrutable Eye
+
+# VE_bodies_09.prop
+0xb800afe9 Utility Cockpit
+
+# VE_bodies_10.prop
+0xb900b153 Blue Thunder
+
+# VE_bodies_11.prop
+0xb900b152 Sleek Fighter
+
+# VE_bodies_12.prop
+0xb900b151 Recessed Bay
+
+# VE_bodies_13.prop
+0xb900b150 Exsporatorium
+# VE_bodies_14.prop
+0xb900b157 The Sightseer
+
+# VE_bodies_15.prop
+0xb900b156 Advance Scout
+
+# VE_bodies_16.prop
+0xb900b155 Colonial Camper
+
+# VE_bodies_17.prop
+0xb900b154 Moon Men
+
+# VE_bodies_18.prop
+0xb900b15b Conning Tower
+
+# VE_bodies_19.prop
+0xb900b15a Glass Elevator
+
+# VE_bodies_20.prop
+0xba00b2c6 Split Cabin
+
+# VE_bodies_23.prop
+0xba00b2c5 Bubblecraft
+
+# VE_bodies_24.prop
+0xba00b2c2 Executive Suite
+
+# VE_bodies_29.prop
+0xba00b2cf Flying Car
+
+# VE_bodies_30.prop
+0xbb00b4b9 Flarestream
+
+# VE_bodies_31.prop
+0xbb00b4b8 Mid-Life Crisis
+
+# VE_chassis_air_01.prop
+0x553886fc Stubbybubble
+
+# VE_chassis_air_02.prop
+0x553886ff The Stapeler
+
+# VE_chassis_air_03.prop
+0x553886fe Wyrm Ryder
+
+# VE_chassis_air_04.prop
+0x553886f9 Airbreather
+
+# VE_chassis_air_06.prop
+0x553886fb Strutter
+
+# VE_chassis_air_07.prop
+0x553886fa Jet Stream
+
+# VE_chassis_air_08.prop
+0x553886f5 Aft Bluster
+
+# VE_chassis_air_09.prop
+0x553886f4 Nulldragger
+
+# basic_chassis_01.prop
+0x33541ab1 Smooth Lozenge
+
+# basic_chassis_02.prop
+0x33541ab2 Tipped Plug
+
+# basic_chassis_03.prop
+0x33541ab3 Pointed Node
+
+# basic_chassis_04.prop
+0x33541ab4 Astro Kernel
+
+# basic_chassis_05.prop
+0x33541ab5 Void Chaser
+
+# basic_chassis_06.prop
+0x33541ab6 Crying Onion
+
+# basic_chassis_07.prop
+0x33541ab7 Comet Wasp
+
+# basic_chassis_08.prop
+0x33541ab8 Cosmic Flare
+
+# basic_chassis_09.prop
+0x33541ab9 Tapered Bulge
+
+# basic_chassis_10.prop
+0x34541c23 Shellbeak
+
+# basic_chassis_11.prop
+0x34541c22 Bird of Prey
+
+# basic_chassis_12.prop
+0x34541c21 Ridged Cabin
+
+# basic_chassis_13.prop
+0x34541c20 Cargo Hold
+
+# basic_chassis_14.prop
+0x34541c27 Tapered Brick
+
+# basic_chassis_15.prop
+0x34541c26 Beveled Lozenge
+
+# basic_chassis_16.prop
+0x34541c25 Kessel Runner
+
+# basic_chassis_17.prop
+0x34541c24 Breadboxen
+
+# basic_chassis_18.prop
+0x34541c2b The Cowbell
+
+# basic_chassis_19.prop
+0x34541c2a More Cowbell
+
+# basic_chassis_20.prop
+0x35541d96 Sapphire Body
+
+# basic_chassis_21.prop
+0x35541d97 Flying Toaster
+
+# basic_chassis_22.prop
+0x35541d94 Event Horizon
+
+# basic_chassis_23.prop
+0x35541d95 Wimp
+
+# basic_chassis_24.prop
+0x35541d92 Macho
+
+# VE_chassis_land_03.prop
+0xab10c9b3 The Sleekstream
+
+# VE_chassis_land_04.prop
+0xab10c9b4 Battle Ready
+
+# VE_chassis_land_05.prop
+0xab10c9b5 The Hotdogger
+
+# VE_chassis_land_06.prop
+0xab10c9b6 Slow and Low
+
+# VE_chassis_land_07.prop
+0xab10c9b7 Bubble Rider
+
+# VE_chassis_land_08.prop
+0xab10c9b8 Trailfin
+
+# VE_chassis_land_09.prop
+0xab10c9b9 Roadstah
+
+# VE_chassis_land_10.prop
+0xac10cb23 Flying Anvil
+
+# VE_chassis_spacecraft_01.prop
+0x8d53a9dc Light Venom
+
+# VE_chassis_spacecraft_02.prop
+0x8d53a9df Vetted
+
+# VE_chassis_spacecraft_03.prop
+0x8d53a9de Ghost Rocket
+
+# VE_chassis_spacecraft_04.prop
+0x8d53a9d9 Girded Saucer
+
+# VE_chassis_spacecraft_05.prop
+0x8d53a9d8 Astro-Rocket
+
+# VE_chassis_spacecraft_06.prop
+0x8d53a9db Star Deployer
+
+# VE_chassis_spacecraft_07.prop
+0x8d53a9da The Lozengator
+
+# VE_chassis_spacecraft_08.prop
+0x8d53a9d5 Horseshoe Flyer
+
+# VE_cockpit_01.prop
+0x94cfea87 TheSar
+
+# VE_cockpit_02.prop
+0x94cfea84 Speed Eraser
+
+# VE_cockpit_03.prop
+0x94cfea85 The Viewfinder
+
+# VE_cockpit_04.prop
+0x94cfea82 Bubblerider
+
+# VE_cockpit_05.prop
+0x94cfea83 Starseed
+
+# VE_cockpit_06.prop
+0x94cfea80 Star Whisp
+
+# VE_cockpit_07.prop
+0x94cfea81 Viewmaster
+
+# VE_cockpit_08.prop
+0x94cfea8e The Viewkeeper
+
+# VE_Cultural_01.prop
+0xea105d1b Goes to 11
+
+# VE_Cultural_02.prop
+0xea105d18 Sousaphone
+
+# VE_Cultural_03.prop
+0xea105d19 Charisma Nest
+
+# VE_Cultural_04.prop
+0xea105d1e Squawk Box
+
+# VE_Cultural_05.prop
+0xea105d1f Shofar Victrola
+
+# VE_Cultural_06.prop
+0xea105d1c Gammaphone
+
+# VE_Cultural_07.prop
+0xea105d1d Crazaphone
+
+# VE_Cultural_08.prop
+0xea105d12 Pi Piper
+
+# VE_Cultural_09.prop
+0xea105d13 Note of Accord
+
+# VE_Cultural_10.prop
+0xeb105e8d Sensual Harp
+
+# VE_Cultural_11.prop
+0xeb105e8c The Harmonium
+
+# VE_Cultural_12.prop
+0xeb105e8f Harp's Accord
+
+# VE_Cultural_13.prop
+0xeb105e8e Cymbal Crasher
+
+# VE_Cultural_14.prop
+0xeb105e89 Kick-Thumper
+
+# VE_Cultural_15.prop
+0xeb105e88 Clarion Bell
+
+# VE_Cultural_16.prop
+0xeb105e8b Bombastic Gong
+
+# VE_Details_01.prop
+0x2825a8f9 Trellis
+
+# VE_Details_02.prop
+0x2825a8fa Die-cut Plate
+
+# VE_Details_03.prop
+0x2825a8fb Sturdy Strut
+
+# VE_Details_04.prop
+0x2825a8fc Coaster Harness
+
+# VE_Details_05.prop
+0x2825a8fd Gas Sublimator
+
+# VE_Details_06.prop
+0x2825a8fe Plasma Duct
+
+# VE_Details_07.prop
+0x2825a8ff Quantum Jet
+
+# VE_Details_08.prop
+0x2825a8f0 NOS Combustor
+
+# VE_Details_12.prop
+0x2925aa69 Sporeman Grill
+
+# VE_Details_15.prop
+0x2925aa6e Spore Spoiler
+
+# VE_Details_17.prop
+0x2925aa6c Hermes
+
+# VE_Details_18.prop
+0x2925aa63 Mercurial
+
+# VE_Details_19.prop
+0x2925aa62 Bat-Borne
+
+# VE_Details_20.prop
+0x2a25abde Zoomerang
+
+# VE_Details_21.prop
+0x2a25abdf Flower Power
+
+# VE_Details_22.prop
+0x2a25abdc Spazzberry
+
+# VE_Details_23.prop
+0x2a25abdd Deedly-Bopper
+
+# VE_Details_24.prop
+0x2a25abda Wunderstar
+
+# VE_Details_25.prop
+0x2a25abdb Bendy Band
+
+# VE_Details_26.prop
+0x2a25abd8 Classin' It Up
+
+# VE_Details_27.prop
+0x2a25abd9 Brood Ornament
+
+# VE_Details_28.prop
+0x2a25abd6 The Coat Hook
+
+# VE_Details_29.prop
+0x2a25abd7 Steampunk'd
+
+# VE_Details_30.prop
+0x2b25adb1 Roadsterama
+
+# VE_Details_31.prop
+0x2b25adb0 Spacetime Grill
+
+# VE_Details_32.prop
+0x2b25adb3 Space-burner
+
+# VE_Details_33.prop
+0x2b25adb2 Spoiled Rotten
+
+# VE_Details_34.prop
+0x2b25adb5 Whale Tailed
+
+# VE_Details_35.prop
+0x2b25adb4 Hedge-Row
+
+# VE_Details_38.prop
+0x2b25adb9 Crescent Phase
+
+# VE_Details_39.prop
+0x2b25adb8 Space of Ades
+
+# VE_Details_40.prop
+0x2c25af24 Clam Shell
+
+# VE_Details_41.prop
+0x2c25af25 Craft Beanie
+
+# VE_Details_42.prop
+0x2c25af26 Space Whiskers
+
+# VE_Details_43.prop
+0x2c25af27 The Horns
+
+# VE_Details_44.prop
+0x2c25af20 Ultra Wide-Band
+
+# VE_Diplomatic_01.prop
+0x6a79e1d7 Stacked
+
+# VE_Diplomatic_02.prop
+0x6a79e1d4 Grab Bag
+
+# VE_Diplomatic_03.prop
+0x6a79e1d5 Bully Bullion
+
+# VE_Diplomatic_04.prop
+0x6a79e1d2 Overcompensator
+
+# VE_Diplomatic_05.prop
+0x6a79e1d3 Coin-siderate
+
+# VE_Diplomatic_06.prop
+0x6a79e1d0 Merit Badge
+
+# VE_Diplomatic_07.prop
+0x6a79e1d1 High Roller
+
+# VE_Diplomatic_08.prop
+0x6a79e1de Charmed Quark
+
+# VE_Diplomatic_09.prop
+0x6a79e1df Ho Hum Heraldry
+
+# VE_Diplomatic_10.prop
+0x6b79e349 Banner Day
+
+# VE_Diplomatic_11.prop
+0x6b79e348 Standard Bearer
+
+# VE_Diplomatic_12.prop
+0x6b79e34b Vexillum Verus
+
+# VE_Diplomatic_13.prop
+0x6b79e34a Apogee
+
+# VE_Diplomatic_14.prop
+0x6b79e34d Binary Suns
+
+# VE_Diplomatic_15.prop
+0x6b79e34c Wings of Flame
+
+# VE_Diplomatic_16.prop
+0x6b79e34f Hanging Crests
+
+# VE_Effects_02.prop
+0xca253cc6 Singularitron
+
+# VE_Effects_03.prop
+0xca253cc7 Premium Service
+
+# VE_Effects_04.prop
+0xca253cc0 Wide-band
+
+# VE_Effects_05.prop
+0xca253cc1 Roving Spot
+
+# VE_Effects_06.prop
+0xca253cc2 Glow Slats
+
+# VE_Effects_07.prop
+0xca253cc3 Authority
+
+# VE_Effects_08.prop
+0xca253ccc Smog Light
+
+# VE_Effects_11.prop
+0xcb253eb6 Shaft of Light
+
+# VE_Effects_12.prop
+0xcb253eb5 Holding Pattern
+
+# VE_Effects_14.prop
+0xcb253eb3 Ring of Light
+
+# VE_Effects_15.prop
+0xcb253eb2 Plasma Vent
+
+# VE_Effects_18.prop
+0xcb253ebf Nemo Peeper
+
+# VE_Effects_19.prop
+0xcb253ebe Port Hole
+
+# VE_Effects_20.prop
+0xcc25402a The Looktangle
+
+# VE_Effects_21.prop
+0xcc25402b Side View
+
+# VE_Effects_22.prop
+0xcc254028 Anthropomorph
+
+# VE_Effects_23.prop
+0xcc254029 The Glowcone
+
+# VE_Effects_24.prop
+0xcc25402e The Glowport
+
+# VE_Effects_25.prop
+0xcc25402f Portal of Light
+
+# VE_Effects_26.prop
+0xcc25402c Klaxxon
+
+# VE_Effects_27.prop
+0xcc25402d Night Light
+
+# VE_Effects_28.prop
+0xcc254022 Glowing Nose
+
+# VE_Effects_29.prop
+0xcc254023 Camping Torch
+
+# VE_Effects_30.prop
+0xcd25419d Halcyon Days
+
+# VE_Effects_31.prop
+0xcd25419c Photon Cover
+
+# VE_Effects_32.prop
+0xcd25419f Glowbubble
+
+# VE_Effects_33.prop
+0xcd25419e Shine Lozenge
+
+# VE_Effects_34.prop
+0xcd254199 Old 57
+
+# VE_Effects_35.prop
+0xcd254198 Tri-Beams
+
+# VE_Effects_36.prop
+0xcd25419b Crystal Ball
+
+# VE_Effects_37.prop
+0xcd25419a Plasma Lathe
+
+# VE_Effects_38.prop
+0xcd254195 Photo Deco
+
+# VE_Landcraft_03.prop
+0x33acb9e8 Cart Wheel
+
+# VE_Landcraft_07.prop
+0x33acb9ec Swamp Heater
+
+# VE_Landcraft_08.prop
+0x33acb9e3 Carbon Belcher
+
+# VE_Landcraft_09.prop
+0x33acb9e2 Spinmill
+
+# VE_Landcraft_10.prop
+0x32acb878 Rocket Keg
+
+# VE_Landcraft_11.prop
+0x32acb879 Making Tracks
+
+# VE_Landcraft_12.prop
+0x32acb87a Tread Smartly
+
+# VE_Landcraft_18.prop
+0x32acb870 Track Marker
+
+# VE_Landcraft_19.prop
+0x32acb871 Dust Eater
+
+# VE_Landcraft_21.prop
+0x35acbd30 Wagon Wheel
+
+# VE_Landcraft_22.prop
+0x35acbd33 Dune Buggy
+
+# VE_Landcraft_23.prop
+0x35acbd32 Slip Gripper
+
+# VE_Landcraft_24.prop
+0x35acbd35 Drag Eraser
+
+# VE_Landcraft_25.prop
+0x35acbd34 Bat Flapper
+
+# VE_Landcraft_26.prop
+0x35acbd37 Archaeopteryx
+
+# VE_Landcraft_27.prop
+0x35acbd36 Dorsal Crest
+
+# VE_Landcraft_40.prop
+0x37acc017 The Go-ped
+
+# VE_Landcraft_41.prop
+0x37acc016 Wheel Well
+
+# VE_Landcraft_42.prop
+0x37acc015 The Chariot
+
+# VE_Landcraft_43.prop
+0x37acc014 Formula Won
+
+# VE_Landcraft_44.prop
+0x37acc013 Burn Rubber
+
+# VE_Landcraft_45.prop
+0x37acc012 Fly Wheel
+
+# VE_Landcraft_95.prop
+0x2aacab85 Weft Coil
+
+# VE_Landcraft_96.prop
+0x2aacab86 Red Rover
+
+# VE_Landcraft_97.prop
+0x2aacab87 Batterpillar
+
+# VE_Landcraft_98.prop
+0x2aacab88 Bespoked
+
+# VE_Landcraft_99.prop
+0x2aacab89 Sunday X3
+
+# VE_Spacecraft_05.prop
+0x9209bc75 Astrograbber
+
+# VE_Spacecraft_08.prop
+0x9209bc78 Guided Thrust
+
+# VE_Spacecraft_09.prop
+0x9209bc79 Plasma Jet
+
+# VE_Spacecraft_10.prop
+0x9309bde3 Particle Drive
+
+# VE_Spacecraft_11.prop
+0x9309bde2 Fusion Coil
+
+# VE_Spacecraft_13.prop
+0x9309bde0 Function Plate
+
+# VE_Spacecraft_14.prop
+0x9309bde7 Rabbit Ears
+
+# VE_Spacecraft_18.prop
+0x9309bdeb Vacuum Spatula
+
+# VE_Spacecraft_19.prop
+0x9309bdea Utility Clasper
+
+# VE_texture_sample_cube.prop
+0x30c16ee5 sample cube
+
+# VE_texture_sample_cylinder.prop
+0x6debf684 sample cube
+
+# VE_Watercraft_01.prop
+0xeeedeb26 Bilateral Oars
+
+# VE_Watercraft_02.prop
+0xeeedeb25 Voidstroker
+
+# VE_Watercraft_03.prop
+0xeeedeb24 Aquatic Fan
+
+# VE_Watercraft_05.prop
+0xeeedeb22 Hooded Turbine
+
+# VE_Watercraft_07.prop
+0xeeedeb20 Rivahboat
+
+# VE_Watercraft_08.prop
+0xeeedeb2f Fluid Turbine
+
+# VE_Watercraft_09.prop
+0xeeedeb2e Propeller Box
+
+# VE_Watercraft_10.prop
+0xedede9b4 Jet Propulsion
+
+# VE_Watercraft_12.prop
+0xedede9b6 Craft Propeller
+
+# VE_Watercraft_14.prop
+0xedede9b0 Mainsail Ahoy
+
+# VE_Watercraft_15.prop
+0xedede9b1 Fine Junk
+
+# VE_Watercraft_16.prop
+0xedede9b2 Scurvy Canine
+
+# VE_Watercraft_17.prop
+0xedede9b3 Hydroplane
+
+# VE_Watercraft_18.prop
+0xedede9bc Water Skis
+
+# VE_Watercraft_19.prop
+0xedede9bd Water Wings
+
+# VE_Watercraft_22.prop
+0xf0edee0f Tippy Canoe
+
+# VE_Watercraft_23.prop
+0xf0edee0e Roe Boat
+
+# VE_Watercraft_24.prop
+0xf0edee09 Caviar Cruiser
+
+# VE_Watercraft_25.prop
+0xf0edee08 The Hawt Tub
+
+# VE_Watercraft_26.prop
+0xf0edee0b Tear Drop-ship
+
+# VE_Watercraft_28.prop
+0xf0edee05 Catchamaran
+
+# VE_Watercraft_29.prop
+0xf0edee04 Skiffy Skiff
+
+# VE_Watercraft_30.prop
+0xefedec9a Grobby Paddle
+
+# VE_Watercraft_31.prop
+0xefedec9b YoHoHoBoat
+
+# VE_Watercraft_32.prop
+0xefedec98 Antimatter Fan
+
+# VE_Watercraft_33.prop
+0xefedec99 Hydraulic Oar
+
+# VE_Watercraft_34.prop
+0xefedec9e Aqua Sled
+
+# VE_Watercraft_35.prop
+0xefedec9f Spinnaker
+
+# VE_Weapons_01.prop
+0x4c84b9c2 The Nebulizer
+
+# VE_Weapons_04.prop
+0x4c84b9c7 Uranium Gun
+
+# VE_Weapons_05.prop
+0x4c84b9c6 Astro-Ray
+
+# VE_Weapons_06.prop
+0x4c84b9c5 Space Modulator
+
+# VE_Weapons_07.prop
+0x4c84b9c4 The Cauterizer
+
+# VE_Weapons_08.prop
+0x4c84b9cb Trident Ray
+
+# VE_Weapons_13.prop
+0x4b84b853 Bombardier
+
+# VE_Weapons_14.prop
+0x4b84b854 Ye Olde Cannon
+
+# VE_Weapons_15.prop
+0x4b84b855 Boom Rocket
+
+# VE_Weapons_16.prop
+0x4b84b856 Undue Force
+
+# VE_Weapons_17.prop
+0x4b84b857 Fortune Hunter
+
+# VE_Weapons_18.prop
+0x4b84b858 Planet Sniper
+
+# VE_Weapons_19.prop
+0x4b84b859 War Crime
+
+# VE_Weapons_20.prop
+0x4e84bd29 Comet Duster
+
+# VE_Weapons_21.prop
+0x4e84bd28 Meteor Mister
+
+# VE_Weapons_22.prop
+0x4e84bd2b Asteroid Belter
+
+# VE_Spacecraft_06.prop
+0x9209bc76 Exo-Arm
+
+# VE_Spacecraft_07.prop
+0x9209bc77 Vaccum Cups
+
+# VE_Spacecraft_12.prop
+0x9309bde1 SETI Jammer
+
+# VE_Spacecraft_15.prop
+0x9309bde6 Rocket Facade
+
+# VE_Spacecraft_16.prop
+0x9309bde5 Crustaceanaut
+
+# VE_Spacecraft_17.prop
+0x9309bde4 Sonic Reducer
+
+# VE_Spacecraft_20.prop
+0x9409bf56 Blast Wings
+
+# VE_Spacecraft_21.prop
+0x9409bf57 Landing Gear
+
+# VE_Spacecraft_22.prop
+0x9409bf54 Landing Cushion
+
+# VE_Spacecraft_23.prop
+0x9409bf55 Tread Lightly
+
+# VE_Spacecraft_24.prop
+0x9409bf52 Hard Landing
+
+# VE_Legs_01.prop
+0xc66a14b8 Locomoleg
+
+# VE_Legs_02.prop
+0xc66a14bb Mechpedal
+
+# VE_Legs_03.prop
+0xc66a14ba Leggsy
+
+# VE_Legs_04.prop
+0xc66a14bd Crawler
+
+# ve_chassis_generic_25.prop
+0x35541d93 Cubby
+
+# ve_chassis_generic_26.prop
+0x35541d90 Tubed
+
+# ve_chassis_generic_27.prop
+0x35541d91 Dunce Cap
+
+# ve_chassis_generic_28.prop
+0x35541d9e Orbed
+
+# VE_Details_Shapes_01.prop
+0xf6ff2e7c Ice Cubed
+
+# VE_Details_Shapes_02.prop
+0xf6ff2e7f Sillynder
+
+# VE_Details_Shapes_03.prop
+0xf6ff2e7e Snow Cone
+
+# VE_Details_Shapes_04.prop
+0xf6ff2e79 Celestial Orb
+
+# VE_Details_Shapes_05.prop
+0xf6ff2e78 Bicycle Seat
+
+# VE_Details_Shapes_06.prop
+0xf6ff2e7b Back Tooth
+
+# VE_Details_Shapes_07.prop
+0xf6ff2e7a Duck Bill
+
+# VE_Details_Shapes_08.prop
+0xf6ff2e75 Tear Drop
+
+# VE_Details_Shapes_09.prop
+0xf6ff2e74 Storm Chaser
+
+# VE_Details_Shapes_10.prop
+0xf5ff2c8a Eraser
+
+# VE_Details_Shapes_11.prop
+0xf5ff2c8b Buoy o Buoy
+
+# VE_Details_Shapes_12.prop
+0xf5ff2c88 Chapeau
+
+# VE_Weapons_23.prop
+0x4e84bd2a Spinfire
+
+# VE_Weapons_24.prop
+0x4e84bd2d Paddleshot 
+
+# VE_Weapons_25.prop
+0x4e84bd2c Tuber Gun
+
+# VE_Weapons_26.prop
+0x4e84bd2f Duo Blaster

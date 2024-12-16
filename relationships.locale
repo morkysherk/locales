@@ -1,0 +1,100 @@
+﻿#######################################
+# Relationship Event Descriptions
+
+# civ
+0x0526e60d Your nation is too big
+0x0526e617 Your boundaries are too close
+0x05663bc8 You're a threat to us
+0x0526e4d6 You're a military nation    
+0x0526e4db You're an economic nation   
+0x0526e4e1 You're a religious nation   
+0x0526e4e5 Your compliments   
+0x0526e4ee Our trade routes   
+0x0526e4f2 Your generous gifts         
+0x0526e4f5 Your generous bid  
+0x0526e4f8 You assisted us       
+0x0526e4fb Took over our Spice derrick
+0x0526e4fe Your insults       
+0x0526e501 You attacked us    
+0x0526e504 Your religion      
+0x0526e50a You lowballed us   
+0x0526e50e You denied us      
+0x0526e512 You declared war   
+0x05adb0aa You broke a deal   
+0x05776d99 You used nuclear weapons
+0x05da8036 You fought our enemy
+
+# space
+0x0601a074 Soothing song
+0x0526e519 You completed missions     
+0x0526e51c You failed missions  
+0x0526e51d You rejected missions 
+0x0526e51e You aborted missions
+0x0526e51f Your gifts                 
+0x0526e521 You broke our alliance     
+0x0526e524 We created an alliance
+0x05f8a1ad War
+0x0526e527 Your trading               
+0x0667af08 Our trade route
+0x0526e52a Declining our trade        
+0x0526e52d Scaring our citizens       
+0x0526e531 Hurting our planet         
+0x0526e535 Helping our planet         
+0x0526e537 Causing extinction         
+0x0526e53c Destroying our buildings
+0x0591f833 Destroying our spaceships
+0x0526e542 Not protecting allied spaceships 
+0x0526e545 Using harmful tools        
+0x0526e56a Using friendly tools       
+0x0526e570 Earning our worship        
+0x0526e5ca Trying to make us worship  
+0x0526e5cf Flooded our cities         
+0x0526e5d4 Abducted our citizens      
+0x0526e5d8 Stole our resources        
+0x0526e5dc Positive cheat             
+0x0526e5f3 Negative cheat
+0x055165f5 You uplifted us
+0x05590199 You were cheap
+0x055901b3 You were generous
+0x05661a77 A weak peace offering
+0x05661a7c A generous peace offering
+0x057b9100 Captured one of our systems
+0x057e4fe3 We were at war
+0x0577909a NPC tried to improve relationship
+0x0577909b NPC decreased relationship
+0x057b4514 You pushed us too far
+0x0580e23b Your embassy
+0x0594afff You refused to pay us tribute
+# the player accepted a gift from the NPC... what is the fiction here?
+0x0594b017 We value your friendship
+0x05b942d0 You avoided contact
+0x05b6cf09 You introduced yourself
+0x05f62736 You introduced yourself
+0x05b6ce81 You agreed to help Us
+0x05b6fcc9 We like new acquaintances
+0x05b6fcd4 We distrust strangers
+0x0526e5f4 [NPC only]
+0x05ff85b2 We think alike
+0x05ff85b3 Your presence disturbs us
+0x0601df2a Gracious greeter super power
+0x068b2938 Allied with Grox
+0x068b2971 Broke Galactic Code
+
+
+
+# tribe stuff  
+0x0530cf00 You attacked Us
+0x0530cf01 You killed some of us
+0x0530cf02 You raided food
+0x0530cf03 You kidnapped babies
+0x0530cf04 You attacked tool huts
+0x0530cf05 You destroyed tool huts
+0x0530cf06 Your gifts
+0x0530cf07 Your performances
+0x0530cf08 You recruited some of us [NOT IN USE]
+0x0530cf09 You converted some of us 
+0x0530cf0a Relationship cheat+
+0x0530cf0b Relationship cheat-
+0x54eab4b3 Your fireworks
+
+

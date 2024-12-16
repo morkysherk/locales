@@ -1,0 +1,490 @@
+﻿0x00000011 ~guide: -image-left-h1 0x02e9a2ca!butn-trg-norm.png~ Welcome to the Tribal Stage
+
+0x00000021 ~guide: -h2~ Your species is now sentient and has formed a small tribe! On the continent around you other species are also advancing and forming tribes. Soon they will be your competition. You must overcome these tribes in order to advance and become the first civilized society on your planet.
+
+0x00000031 ~guide: -h2~ With your new found intelligence comes mastery of fire,  tools and outfits. These are critical to your tribe's success.  Food is your currency in the Tribal Stage.
+
+0x00000041 ~guide: -h2~ Along with tools comes the bounty of the seas.  Now your tribe can forage the seas for food; seaweed for the herbivores, fish for the carnivores and omnivores.
+
+0x00000051 ~guide: -h2~ It's still a wild world out there.  Wild creatures lurk about, you can befriend and ultimately domesticate them, or hunt them for dinner.
+
+0x00000061 ~guide: -h1~ Getting Started
+
+0x00000071 ~guide: -h3~ Directly from the Galaxy
+
+0x00000081 ~guide: -h2~ From your home galaxy, choose a planet to play. Then, create or choose your starting tribal creature.  Mouth type is very important here. You can choose to be an herbivore, carnivore or omnivore.  Your choice determines your tribe's diet that dramatically impacts its approach to life once on the planet.  Which will you choose?
+
+0x00000091 ~guide: -h3~ From the Creature Stage
+
+0x000000a1 ~guide: -h2~ From the Creature Stage, your newly sentient creature has mastered fire and formed a small tribal village of three.  The consequences of your evolutionary history have set in stone a few key characteristics of your tribe; your diet, the initial tribal tools available to you and your unique consequence abilities.
+
+0x000000a2 ~guide: -h3~ You Now Command a Tribe
+
+0x000000a3 ~guide: -h2~ You now control a tribe of three creatures. You can command them individually or as a group.  You also have the freedom to move the camera about to keep track on individuals or groups that you have sent on different tasks.
+
+0x000000b1 ~guide: -h2~ Your tribe's most immediate need is food.  You will need to gather or hunt to provide sustenance for your tribe.
+
+0x000000c1 ~guide: -h2~ Eventually, your tribe's interest will be in interacting with the other tribes that form on this continent.
+
+0x000000d1 ~guide: -h2~ Your tribal population increases if you reach new stature in the world by conquering or allying with other tribes.
+
+0x000000e1 ~guide: -h2~ Your tribe's village is its home base. This is where your tribe rests, regains health, and stockpiles food. There is even a pen for domestic animals should you choose to keep any.
+
+0x000000f1 ~guide: -h2~ When you collect food beyond your immediate needs for sustenance, you will be able improve the village, buying tools or outfitting your tribe members, to take on the challenges of their new existence.
+
+0x00000101 ~guide: -h1~ Your Goal
+
+0x00000111 ~guide: -h2~ Your goal in the Tribal Stage is to conquer or ally with the competing tribes on the continent to grow large enough to create a city and form a civilization.
+
+0x00000121 ~guide: -h2~ To do this you must use gifting and your social performing skills to build an alliance with another tribe or wipe other tribes off the map by destroying their tools and huts.
+
+0x00000125 ~guide: -h3~ Each tribe you ally or conquer will share their tools and outfits with you.  You can access these in your Tribal Planner.
+
+0x00000131 ~guide: -h2~ After allying with or conquering your first, third and fifth tribes, your tribe grows in stature, increasing in population and making technical advancements to the point where you may choose to build a City Hall and advance to the Civilization Stage.
+
+0x00000141 ~guide: -h1~ Your Tribe
+
+0x00000151 ~guide: -h3~ Tribal Identity Color
+
+0x00000161 ~guide: -h2~ Your tribal identity is based on the color of your creature's coat.  Competing tribes' colors are blazoned on their hides, buildings, tools, and the Mini-Map.  These colors distinguish the tribes from the wild animals still stalking the planet.
+
+0x00000171 ~guide: -h3~ Consequence Abilities
+
+0x00000181 ~guide: -h2~ Your evolutionary history since life as a cell has established traits that have led to unique abilities that your tribe can use in the Tribal Stage.
+
+0x00000191 ~guide: -bullet~ Your Tribe's consequence abilities are available above the Combat and Social Stance buttons.
+
+0x000001a1 ~guide: -h3~ The Tribe
+
+0x000001b1 ~guide: -h4~ The Chieftain
+
+0x000001c1 ~guide: -h2~ When you begin the Tribal Stage, your creature from the Creature Stage is promoted to Chieftain of the village!
+
+0x000001d1 ~guide: -h2~ The Chieftain, identified by a staff , is more powerful than other members of your tribe. The chieftain needs no tool other than a staff, which has the capabilities of any tool your tribe acquires.
+
+0x000001d2 ~guide: -h2~ If your Chieftain dies in battle, he will mysteriously regenerate back at your village.
+
+0x000001e1 ~guide: -h4~ Tribe Members
+
+0x000001f1 ~guide: -h2~ All tribe members appear as portraits along the right side of the screen in the Tribal List.
+
+0x00000201 ~guide: -h2~ Each portrait shows:
+
+0x00000211 ~guide: -bullet~ The current tool that tribe member is equipped with
+
+0x00000221 ~guide: -bullet~ The health of that tribe member
+
+0x00000231 ~guide: -bullet~ The hunger level of that tribe member
+
+0x00000241 ~guide: -h2~ If a tribe member is selected in the world, the portrait will have a yellow border.
+
+0x00000251 ~guide: -h3~ Hunger
+
+0x00000261 ~guide: -h2~ Your tribe member's immediate concern is hunger, which appears as an orange bar in their portraits, in the Tribal List.
+
+0x00000271 ~guide: -h2~ As it falls, the tribe members become hungry, and must eventually eat.
+
+0x00000281 ~guide: -h2~ When they are very hungry they will think about nothing but food, so feed them quickly!
+
+0x00000291 ~guide: -h2~ If tribe members are not fed, they will eventually starve, lose health, and die.
+
+0x000002a1 ~guide: -bullet~ Select a hungry tribe member and then click on the Tribal Food Stash, near the totem pole to command that tribe member to eat.
+
+0x000002b1 ~guide: -h3~ Health
+
+0x000002c1 ~guide: -h2~ Tribe members can lose health in battle.  To keep them in tip top shape, direct them to the tribal village where they can rest and heal.
+
+0x000002d1 ~guide: -h2~ You can purchase tribal tools in the Tribal Planner that will help your tribe members heal faster.
+
+0x000002e1 ~guide: -h3~ Tribal Demise
+
+0x000002f1 ~guide: -h2~ If your hut is razed by an opposing tribe you will need to restart the Tribal Stage and try again.  If you have saved, you will restart at the point of your last saved game.  If you have not saved, you will restart with a village of three.
+
+0x00000301 ~guide: -h1~ Tribal Village
+
+0x00000311 ~guide: -h3~ Tribal Hut
+
+0x00000321 ~guide: -h2~ The Tribal Hut is in the center of your village and displays your tribal identity color.  As your tribe grows in stature by conquering or allying with other tribes, your hut and village grow.
+
+0x00000331 ~guide: -h3~ Fire Pit
+
+0x00000341 ~guide: -h2~ Your tribe's mastery of fire is evidenced by the tribal Fire Pit.  This, too,  upgrades as your tribe's stature increases.  When your tribe is not too busy, select some tribe members and click on the fire to initiate a tribal dance to raise their spirits.
+
+0x00000351 ~guide: -h3~ Tribal Food Stash
+
+0x00000361 ~guide: -h2~ As you gather food, be it meat, fruit, fish or seaweed, your tribe members will collect it and stockpile it in the Tribal Food Stash next to your totem pole.
+
+0x00000371 ~guide: -h2~ Wild animals love to raid food stashes.  If you leave your village unattended with a large enough amount of food, wild animals are bound to attempt to raid.  The Event Log and the sound of a hunting horn will alert you to raids.
+
+0x00000381 ~guide: -h3~ Totem Pole
+
+0x00000391 ~guide: -h2~ Your Tribal Totem Pole is a symbol of stature and accomplishment.
+
+0x000003a1 ~guide: -h2~ Each victorious destruction of or alliance with another tribe adds a piece to your Totem Pole. When you have accumulated five of them, your tribe has enough prestige to form a city!
+
+0x000003b1 ~guide: -h3~ Tool Shacks
+
+0x000003c1 ~guide: -h2~ A variety of Tool Shacks are available during the Tribal Stage.  Each costs food to purchase.  Each tool provides your tribe with new tools to help them succeed in their quest to become the dominant tribe on the planet.
+
+0x000003d1 ~guide: -h3~ Domesticated Animals
+
+0x000003e1 ~guide: -h2~ Your tribe can domesticate wild animals.  Domesticated beasts reside outside the Tribal Hut.   They lay eggs for your tribe to harvest and add to the food stockpile.
+
+0x000003e2 ~guide: -h1~ History and Consequence
+
+0x000003e3 ~guide: -h2~ As you progress through the Tribal Stage, a history of your tribe's actions is tracked.  Press the History button at the end of the Progress Bar to check how your actions and accomplishments are tracking.
+
+0x000003e5 ~guide: -h2~ Your tribe's approach to survival; industrious hunters or gatherers, combative or social neighbor, will determine a trait for your burgeoning civilization.  This trait will be attributed as your tribe advances to a fully civilized stage.  This trait, as well as those that your species has earned through its history to this point, will determine unique abilities that it has as in future generations.
+
+0x000003f1 ~guide: -h1~ Tracking Your Progress
+
+0x00000401 ~guide: -h2~ Measure your progress in the Tribal Stage by looking at the Progress Bar at the bottom of the screen.
+
+0x00000411 ~guide: -h2~ Each segment of the bar marks another tribe you have destroyed or allied with.  You must conquer or ally all five nearby tribes to succeed in the Tribe Stage.
+
+0x00000421 ~guide: -h2~ When you form an alliance or achieve a  military victory, your tribe commemorates the achievement by adding a piece to the Totem Pole in your village area.
+
+0x00000431 ~guide: -h1~ Controls
+
+0x00000441 ~guide: -h3~ Camera
+
+0x00000451 ~guide: -h4~ Rotate the Camera
+
+0x00000461 ~guide: -bullet~ Hold both the right and left mouse buttons down and move the mouse left or right; on the Mac, hold Command, Option and Left Mouse Button.
+
+0x00000471 ~guide: -bullet~ Or, hold the middle mouse button down and move the mouse left or right.
+
+0x00000481 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera.
+
+0x00000491 ~guide: -h4~ Pitch the Camera
+
+0x000004a1 ~guide: -bullet~ Hold both the right and left mouse buttons down and move the mouse up and down. On the Mac, hold Command,Option and left mouse button.
+
+0x000004b1 ~guide: -bullet~ Or, hold the middle mouse button down and move the mouse up and down.
+
+0x000004c1 ~guide: -h4~ Pan the Camera
+
+0x000004d1 ~guide: -bullet~ Move the mouse cursor to the edge of the screen to pan the camera in that direction (edge scroll must be ON in game settings under game and capture settings).
+
+0x000004e1 ~guide: -bullet~ Or, hold the  right mouse button down and move the mouse.
+
+0x000004f1 ~guide: -bullet~ The W,A,S,D or Arrow keys on the keyboard also pan the camera.
+
+0x00000501 ~guide: -h4~ Zoom the Camera
+
+0x00000511 ~guide: -bullet~ Scroll the mouse wheel to zoom the camera in and out.
+
+0x00000521 ~guide: -bullet~ Or, use the + and - keys to zoom the camera in and out
+
+0x00000531 ~guide: -h4~ Follow Camera
+
+0x00000541 ~guide: -bullet~ The spacebar directs the camera to follow tribe members.
+
+0x00000551 ~guide: -bullet~ Continue to press the spacebar to toggle between tribe members until you are following the individual or group you want.
+
+0x00000561 ~guide: -h1~ Controlling Tribe Members
+
+0x00000571 ~guide: -h3~ Selecting Tribe Members
+
+0x00000575 ~guide: -h4~ Selecting Individuals
+
+0x00000581 ~guide: -h2~ Select your tribe members by clicking on them individually, or by clicking on their portraits in the Tribal List on the right of the screen using the Left Mouse Button
+
+0x00000591 ~guide: -h2~ When a tribe member is selected they will have a yellow selection circle around them and they will respond to commands.
+
+0x000005a1 ~guide: -h4~ Selecting Groups
+
+0x000005b1 ~guide: -h2~ To select multiple tribe members use one of these methods:
+
+0x000005c1 ~guide: -bullet~ Hold down the Left Mouse Button and drag a selection box around the group of tribe members you wish to select.
+
+0x000005d1 ~guide: -bullet~ Hold down the CTRL key and Left Mouse click on individual tribe members in the world that you wish to add to the group.
+
+0x000005e1 ~guide: -bullet~ Or, Hold down the CTRL key and Left Mouse click on more than one portrait in the Tribal List.
+
+0x000005f1 ~guide: -h4~ De-selecting Tribe Members
+
+0x00000601 ~guide: -bullet~ Hold the CTRL key and left mouse click on the tribe member in the world or a portrait in the Tribal List to deselect.
+
+0x00000611 ~guide: -h4~ Using the Tribal List
+
+0x00000621 ~guide: -h2~ The portrait of each tribe member in the Tribal List shows what that member of your tribe is currently doing.  If they have a tool, an icon of this tool appears instead of the individual portrait.  This way you can keep track of your gatherers, hunters as well as their individual health and hunger status.  This helps you to choose the best tribe members to accomplish your goals.
+
+0x00000625 ~guide: -bullet~ Right click on one of your tribe member's portraits to position the camera on that tribe member.
+
+0x00000631 ~guide: -h1~ Giving Commands
+
+0x00000641 ~guide: -h2~ Once you have a tribe member or members selected, you can give them commands, using the Right Mouse Button
+
+0x00000642 ~guide: -h3~ Interacting with Objects
+
+0x00000651 ~guide: -bullet~ Objects that you can interact with in the world will highlight or the cursor will change to indicate that you can act on it.
+
+0x00000661 ~guide: -bullet~ With tribe members selected, click the right mouse button on any actionable object to command the tribe to take action.  For example, click on a fruit tree to gather fruit or click on the shoreline where fish are jumping to fish.
+
+0x00000671 ~guide: -bullet~ To send selected tribe members to a spot in the world, right mouse button click on the ground where you want them to go.
+
+0x00000681 ~guide: -h2~ Your tribe members will continue repeating the commanded action until the resource has depleted, the action is no longer possible, or they are interrupted.
+
+0x00000691 ~guide: -h3~ Setting Combat and Social Stances
+
+0x000006a1 ~guide: -h2~ Your tribe members will act differently depending on their Stance.
+
+0x000006b1 ~guide: -h2~ Set their Stance by clicking on the Stance Buttons at the bottom center of the screen.
+
+0x000006c1 ~guide: -h2~ The Combat Stance will set your tribe members to perform aggressive actions if you direct them to interact with other villagers, their tool shacks or wild creatures.
+
+0x000006d1 ~guide: -h2~ The Social Stance will direct your tribe members to perform social and friendly actions on other tribes or wild creatures.
+
+0x000006e1 ~guide: -h2~ The best idea is to set the stance before you target a neighboring tribe member or wild creature.
+
+0x000006f1 ~guide: -h3~ Interacting with Wild Animals
+
+0x00000701 ~guide: -h2~ To interact with wild animals:
+
+0x00000711 ~guide: -bullet~ Select a tribe member or group
+
+0x00000721 ~guide: -bullet~ Select the stance you wish to take, social or combat.
+
+0x00000731 ~guide: -bullet~ Right Mouse Button click on the wild creature you wish to interact with.
+
+0x00000741 ~guide: -bullet~ Your selected tribe members will attack or attempt to domesticate the wild creature you have selected based on the stance you have set.
+
+0x00000751 ~guide: -h2~ If you are domesticating, each tribe member will bring a food offering to the wild creature.  This depletes your food pile!  So be sure to have food on hand.
+
+0x00000761 ~guide: -h3~ Interacting with other Tribes
+
+0x00000781 ~guide: -h2~ See the section on Relationships with other Tribes.
+
+0x00000791 ~guide: -h1~ Food
+
+0x000007a1 ~guide: -h2~ Food is your currency in the Tribal Stage.
+
+0x000007b1 ~guide: -h2~ Stockpiling food protects your tribe from starvation. It can also be used to purchase tools in the Tribal Planner.
+
+0x000007c1 ~guide: -h2~ Your tribe's diet is determined by their mouth type.  If they are herbivores, they must gather fruit or seaweed.  If they are carnivores, they must hunt or fish for food. If they are omnivores, they can hunt or gather but they will need a bit more sustenance than the others.
+
+0x000007d1 ~guide: -h2~ All tribe types; herbivores, carnivores or omnivores can domesticate wild animals and harvest their eggs for food.
+
+0x000007e1 ~guide: -h3~ Gathering
+
+0x000007f1 ~guide: -h2~ Fruit groves or seaweed groves near fishing hot spots give the herbivorous tribe areas to gather their sustenance.
+
+0x00000801 ~guide: -bullet~ Select a tribe member or group and  right click on a fruit grove to have them gather fruit.
+
+0x00000811 ~guide: -bullet~ Select a tribe member or group and right click on the shoreline near jumping fish to have them gather seaweed.
+
+0x00000821 ~guide: -h2~ Your tribe members will continue to gather fruit or seaweed and bring it back to your food stash until the fruit or seaweed in that area is depleted.
+
+0x00000831 ~guide: -h3~ Hunting
+
+0x00000841 ~guide: -h2~ Wild creatures in the Tribal Stage can be a threat to your new tribe, or a source of food.
+
+0x00000851 ~guide: -bullet~ Select a tribe member or group, click on the combat stance and click on a wild animal to attack it.
+
+0x00000861 ~guide: -bullet~ Your tribe members will go to battle and, if successful, will bring back the spoils as platters of meat, to your food stash.
+
+0x00000871 ~guide: -h2~ Purchasing weapons in the Tribal Planner can increase the combat advantage of your tribe members in fighting wild creatures.
+
+0x00000881 ~guide: -h3~ Domesticating
+
+0x00000891 ~guide: -h2~ Domesticating creatures adds them to your tribe as farm animals. You can then harvest their eggs to survive. Herbivores, Carnivores and Omnivores can all eat the eggs of domesticated creatures.
+
+0x000008a1 ~guide: -h2~ To domesticate a wild creature:
+
+0x000008b1 ~guide: -bullet~ Select a tribe member or members you wish to command using the Left Mouse Button.
+
+0x000008b2 ~guide: -bullet~ Switch your tribe members to the Social Stance by clicking on the Social Stance button at the bottom of the screen.
+
+0x000008c1 ~guide: -bullet~ Right mouse click on the wild creature you wish to domesticate
+
+0x000008d1 ~guide: -bullet~ Your tribe member will feed it some food. Make sure you have enough surplus food!  The larger the wild creature the more food your tribe will offer it.
+
+0x000008e1 ~guide: -h2~ After you've fed the animal enough, it will become docile, your tribe members will herd them over to your tribal hut.
+
+0x000008f1 ~guide: -h3~ Increasing Population
+
+0x00000901 ~guide: -h2~ You begin as a tribe of three but you have the potential of having tribal babies.  You'll need to stockpile some food in preparation.
+
+0x00000902 ~guide: -bullet~ Click on your hut to reveal the baby button.
+
+0x00000903 ~guide: -bullet~ Each baby costs the tribe 10 food units.
+
+0x00000904 ~guide: -bullet~ Click the baby button and an egg will mysteriously roll from the village hut's doorway (what happens in there is anyone's guess).  The egg will hatch and a baby will join the tribe.
+
+0x00000905 ~guide: -bullet~ Babies will not take commands.  You must wait for them to grow up to become a productive tribe member.  This will take a little bit of time.
+
+0x00000906 ~guide: -bullet~ Once they have grown, their portrait will join the other tribe members' in your Tribal List.
+
+0x00000907 ~guide: -h2~ As your tribe grows in prestige by allying or defeating neighboring tribes, your own tribe's population can increase.
+
+0x00000911 ~guide: -h1~ The Tribal Planner
+
+0x00000921 ~guide: -h2~ The Tribal Planner gives you access to Tools and the Tribal Outfitter.
+
+0x00000922 ~guide: -bullet~ To open the Tribal Planner, roll over your tribal hut and click on the Tribal Planner button.
+
+0x00000931 ~guide: -bullet~ Select the option you want from the tabs in the upper left.
+
+0x00000941 ~guide: -h3~ Buying Tools
+
+0x00000951 ~guide: -h2~ Enhance your abilities by buying tools for your tribe.  Collect a surplus of food and  use it to purchase tools from your Tribal Planner.
+
+0x00000971 ~guide: -h4~ There are three categories of tools:
+
+0x00000981 ~guide: -bullet~ Food and Healing - These tools make your tribe more efficient at gathering food or healing.
+
+0x00000991 ~guide: -bullet~ Instruments - These instruments are very valuable as your tribe works to impress and ally other tribes.  A combination of instruments is advantageous.
+
+0x000009a1 ~guide: -bullet~ Weapons - These weapons can come in handy for both hunting and combat against other tribes.  A combination of weapons makes your tribe more formidable.
+
+0x000009b1 ~guide: -h2~ The consequence of your evolutionary choices since life as a cell determine which tools are available to your tribe at the beginning of its village life.  Other tools remain unavailable to you until you ally or defeat a tribe that has that tool.  You will then find these tools open for purchase in your Tribal Planner.
+
+0x000009c1 ~guide: -h3~ Costs
+
+0x000009d1 ~guide: -h2~ Each tool costs a certain amount of food and adds a specific ability to your tribe members when equipped.
+
+0x000009e1 ~guide: -h3~ Placement
+
+0x00000a01 ~guide: -h2~ To purchase a tool, just click on it and drag it into your Tribal Village, onto one of the glowing placement rings.
+
+0x00000a11 ~guide: -h3~ Equipping Tools
+
+0x00000a21 ~guide: -h2~ When you buy tools for your tribe, you will need to equip however many tribe members you wish with that tool once you exit the Tribal Planner
+
+0x00000a31 ~guide: -bullet~ To equip your tribe members with tools. Exit the Tribal Planner and select the tribe members you wish to equip
+
+0x00000a41 ~guide: -bullet~ Right mouse click on the tool shack that contains the tool you want to use.
+
+0x00000a42 ~guide: -bullet~ Your tribe members will take a few moments to line up and take on the tools from that shack.
+
+0x00000a51 ~guide: -h3~ Outfitting Your Tribe
+
+0x00000a61 ~guide: -h2~ To enter the Tribal Outfitter, roll over your hut then click on the Tribal Planner button.
+
+0x00000a62 ~guide: -bullet~ Click on the Tribal Outfitter tab, then roll over your tribe member portrait and click on Outfit.
+
+0x00000a71 ~guide: -h2~ You are no longer in the evolutionary stage that you were during the Creature Stage, you can no longer change your physical appearance by adding or moving parts.  You can, however, buy Outfits for your Tribe Members in the Tribal Outfitter.
+
+0x00000a81 ~guide: -h2~ Each outfit accessory provides a different benefit to your tribe members, so pick accessories that match the strategy you wish your tribe to pursue.
+
+0x00000a82 ~guide: -h2~ See the section on the Tribal Planner for more information about the Tribal Outfitter.
+
+0x00000a91 ~guide: -h1~ Goal Cards
+
+0x00000aa1 ~guide: -h2~ Each game Stage presents you with goals or missions that, if accomplished, will help you to succeed in that Stage.
+
+0x00000ab1 ~guide: -h3~ Mini Goal Cards
+
+0x00000ac1 ~guide: -h2~ The Mini Goal cards appear in the upper left hand corner of your game screen.  These will track your current status toward completing that goal.
+
+0x00000ac5 ~guide: -h1~ My Collections
+
+0x00000ac7 ~guide: -bullet~ Click on the My Collections button to review your Mission Log, Collected Tools and Collected Tribal Outfits.
+
+0x00000af1 ~guide: -h1~ The Mini-Map
+
+0x00000b01 ~guide: -h2~ The Mini Map shows the position of important features on the continent:
+
+0x00000b11 ~guide: -image-left 0x05556b31!minimap-fruit.png ~ Fruit Groves
+
+0x00000b21 ~guide: -image-left 0x05556b31!minimap-creature-nest.png ~ Creature Nests
+
+0x00000b31 ~guide: -image-left 0x05556b31!minimap-fish.png ~ Fishing Hot Spots
+
+0x00000b41 ~guide: -image-left 0x05556b31!minimap-nest.png~ Neighboring Tribes, are represented as huts in each of their tribal colors. Your hut appears larger than those of the other tribes.
+
+0x00000b51 ~guide: -bullet~ Individual tribe members as they roam the continent, color coded by tribal allegiance.
+
+0x00000b52 ~guide: -h3~ The Mini-Map Controls
+
+0x00000b61 ~guide: -bullet~ Hovering the mouse pointer over a neighboring tribe's hut tells you the size of that tribe and what their relationship is with your tribe.
+
+0x00000b71 ~guide: -bullet~ Clicking on the Mini-Map will send the camera to that location.
+
+0x00000b81 ~guide: -bullet~ Double clicking on the Mini-Map will quickly cut the camera to that location.
+
+0x00000b82 ~guide: -bullet~ Hover over any of the huts just to the right of the mini-map to see your tribe's relationship history with that tribe.
+
+0x00000b91 ~guide: -h1~ Relationships with Neighboring Tribes
+
+0x00000ba1 ~guide: -h2~ Relationships with other Tribes and other Wild Creatures are very important in the Tribal Stage.
+
+0x00000bb1 ~guide: -h3~ Poor Relationships
+
+0x00000bb5 ~guide: -h2~ Attacking and raiding other tribes will antagonize them.  This can lead to hostilities.
+
+0x00000bc1 ~guide: -h2~ Tribes that dislike you will begin to raid your food, or attack your tribe members and village. Make sure you maintain good relationships with large tribes, or strike against them quickly, or you risk being overrun.  If you lose your tribal hut, your tribe will fail.
+
+0x00000bc2 ~guide: -h2~ Wild animals can not resist a brimming food stash.  They will try to raid your food stockpile and sneak off with the spoils.
+
+0x00000bd1 ~guide: -h2~ Raids from either wild creatures or other tribes are announced by the sound of a hunting horn.  If your tribe is away from home, it's time to get back to the village!
+
+0x00000be1 ~guide: -h3~ Improving Relationships by Giving Gifts
+
+0x00000bf1 ~guide: -h2~ Tribes that want to have good relationships with your tribe will often bring you gifts of food.
+
+0x00000c01 ~guide: -h2~ You can bring gifts of food to other tribes to help improve your relationship prior to trying to perform for them to establish an alliance.
+
+0x00000c02 ~guide: -h2~ To give a gift to another tribe:
+
+0x00000c03 ~guide: -bullet~ Make sure you have a surplus of food.
+
+0x00000c04 ~guide: -bullet~ Select the tribe members you want, and then right click on the neighboring tribe's hut or food stash.
+
+0x00000c11 ~guide: -h1~ Interacting with Other Tribes
+
+0x00000c21 ~guide: -h2~ Other tribes are your primary competition in the world.
+
+0x00000c31 ~guide: -h2~ You must conquer or ally with five neighboring tribes to advance, so pick your strategy based on the size, location, and tools of your opposition.
+
+0x00000c41 ~guide: -h3~ To Conquer:
+
+0x00000c51 ~guide: -h2~ You must raze another tribe's village, ultimately demolishing their hut in order to conquer another tribe.
+
+0x00000c61 ~guide: -bullet~ Target their tool shacks and hut by selecting a group of tribe members, setting their stance to attack and then right clicking on the rival tribe's tools or hut.
+
+0x00000c62 ~guide: -bullet~ When you equip your tribe with tools you will increase your power of attack.
+
+0x00000c63 ~guide: -bullet~ You can equip different tribe members with different weapons and send them as a group into battle. This can increase your efficiency, since each tool has a specialty.
+
+0x00000c64 ~guide: -bullet~ You may find that you need to target individual rival tribe members, to keep them at bay, as other's in your tribe attack the rival village.
+
+0x00000cc1 ~guide: -h3~ To Ally:
+
+0x00000cd1 ~guide: -bullet~ If your relationship is below neutral with another tribe you will need to improve your relationship before you can use your entertainment skills to ally with them.  Start by bringing gifts of food to win them over and move your relationship in the right direction, and then attempt to entertain them into your alliance.  It may take multiple performances to fully win them over.
+
+0x00000cf1 ~guide: -h4~ Performing for Alliances
+
+0x00000d00 ~guide: -bullet~ Equip an individual tribe member or a group of your tribe members with instruments if you have them.  If not, they will use their natural social skills.
+
+0x00000d01 ~guide: -bullet~ Select the individual or group you wish to send as tribal envoys.
+
+0x00000d02 ~guide: -bullet~ This group must include your Chieftain.
+
+0x00000d03 ~guide: -bullet~ Click on the Social Stance.
+
+0x00000d11 ~guide: -bullet~ In this stance, click on an neighboring tribe member or their hut initiate a social interaction.
+
+0x00000d21 ~guide: -bullet~ Your tribe members will travel to the neighboring tribe member or other village and line up to entertain.
+
+0x00000d31 ~guide: -bullet~ As your tribe plays their instruments, the other tribe will think about the music they want to hear.
+
+0x00000d32 ~guide: -bullet~ Try to match their instrument wishes to move your relationship in the right direction.
+
+0x00000d33 ~guide: -bullet~ At the end of your song, the other tribe will score your performance.  If the score is high enough, you on are the path to alliance.
+
+0x00000d41 ~guide: -h1~ Completing the Tribe Stage
+
+0x00000d51 ~guide: -h2~ Once you fill the Progress Bar, by conquering or allying yourself with five neighboring tribes, you may choose to advance to the Civilization Stage at any time.  Click on the Evolve button to advance.
+
+0x00000d61 ~guide: -h3~ Your History
+
+0x00000d71 ~guide: -h2~ Before establishing your city, you will visit a view of your species history.  Your actions and evolutionary choices since life as a cell are tracked. Evolution is a journey in which the earliest choices and actions have consequences on the future of your species.
+
+0x00000d81 ~guide: -h2~ Your species will earn a trait based on its evolutionary path.  This trait reflects the choices and actions that your species has taken since life as a cell.  This trait also determines unique abilities that your species can use to its advantage in the Civilization Stage and beyond!
+
+0x00000d91 ~guide: -h3~ From Village to City
+
+0x00000d92 ~guide: -h2~ Your tribe's success is heralded by its ultimate transition from village to city. You will advance to the Building Creator to create or select a City Hall and the Vehicle Creator to engineer the first locomotion for your emerging civilization.
+

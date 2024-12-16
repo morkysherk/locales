@@ -1,0 +1,101 @@
+﻿#########################################################
+# Registration
+
+# Registration page dialog title
+0x0562d9e2 Registration
+# Registration page, don't ask checkbox label
+0x0562d9e3 Don't prompt me again
+# GGE global UI 'register' button label
+0x0562d9e4 Register
+# Not registered dialog title
+0x0562d9e5 Unavailable
+# Not registered dialog message
+0x0562d9e6 You must register for online play to use this feature.  Would you like to register now?
+# Registration page 'register' button label
+0x0562d9e7 Register
+# Registration page 'close' button label
+0x0562d9e8 Close
+# Registration page login button instructions text
+0x0562d9e9 Already have a Spore Account?
+# Registration page retry button label
+0x0562d9f0 Retry
+# Registration page restricted content header
+0x0562d9f2 Restrict Online Content
+# Registration page buddy content checkbox label
+0x0562d9f4 Only download content from people I select as Buddies
+# Registration cancel confirmation dialog text
+0x0562d9f8 If you don't register and play online, many features of Spore will be unavailable.  Quit registration?
+# Buddies only confirmation dialog title
+0x0562da04 Buddy Content Only
+# Buddies only confirmation dialog text
+0x0562da08 Only creations made by your buddies will be downloaded.  Some game features such as viewing player profiles or searching for content will be limited or unavailable.  To change this setting later, go to the Online Settings panel and turn off Buddy Content Only.
+
+
+
+#########################################################
+# Login
+
+# Login dialog title
+0x0662d9e3 Login
+# Login dialog instructions
+0x0662d9e4 Please login to enable network features
+# Login dialog control title
+0x0662d9e5 User ID:
+# Login dialog username editbox label
+0x0662d9e6 Email
+# Login dialog password editbox label
+0x0662d9e7 Password
+# Login dialog play offline button label
+0x0662d9e8 Play Offline
+# Login dialog remember login checkbox label
+0x0662d9e9 Keep me logged in
+# GGE global UI 'login' button label
+0x0662d9ea Login
+# Login dialog invalid login error message
+0x0662d9eb Invalid login
+# Login dialog server error message
+0x0662d9ec The Spore server encountered an error.  Please try again later.
+# Login dialog client error message
+0x0662d9ed There was an internal application error.  Please try again.
+# Connecting dialog connecting state label
+0x0662d9ee Connecting:
+# Connecting dialog connected message
+0x0662da01 Connected to Spore server
+# Login dialog logout button label
+0x0662da02 Logout
+# play offline/logout confirmation dialog message
+0x0662da03 Many features of Spore will be unavailable when playing offline.  Are you sure you would like to play offline?
+# play offline/logout confirmation dialog "remember choice" text
+0x0662da04 Start offline next time
+# Login dialog help button text
+0x0662da06 Trouble logging in? Get help here!
+# Login dialog account not validated error
+0x0662da10 Your account has not been validated.  Please respond to the validation email sent to you on registration.  Use the help link on the login dialog if you need help.
+# Login help dialog title
+0x056bfcf8 Login help
+# Login help dialog upper text
+0x056bfcf9 If you are having trouble logging in you can find help at www.Spore.com.  You can get instructions, recover lost passwords, or re-send your validation email.  To go to the Spore website and get login help, click the button below.
+# Login help dialog lower text
+0x056bfcfa Launch Web Browser
+# Login help dialog lower text
+0x056bfcfb If the game is unable to launch an external web browser you can also copy the following address and paste it into your web browser's location bar:
+# Login dialog connecting error message
+0x056bfcfc There was an error connecting to the Spore servers.  Your computer might be offline or your internet connection may be having problems.  Check your connection or visit Spore.com for additional assistance or server status.
+
+# Account entitlement confirmation dialog title
+0x06393487 Confirm Entitlement
+# Account entitlement confirmation dialog message
+0x0636e5c6 We will link this installation of Spore to your Spore.com account.
+# Account entitlement failure dialog message
+0x0636e611 The code for this installation is invalid and cannot be used to link this product to your account.
+# Account not entitled to product dialog message
+0x0636e66e You do not have the proper Spore.com privileges to use this product's online features.
+
+#########################################################
+# Login
+
+# TOS dialog title
+0x0583a081 Terms of Service
+
+# PlayMode.layout - login dialog
+0x05baf191 Register with YouTube

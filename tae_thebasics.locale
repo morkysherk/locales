@@ -1,0 +1,96 @@
+﻿0x00000101 ~guide: -image-left-h1 0x05556b31!gge-outfitters-button.png~ The Outfitters
+
+0x00000111 ~guide: -h2~ Once your species has reached the Tribal Phase, they desire a little attire and their tastes change as they move from Tribal to Civilized to Space Faring.  Buy your Tribe Members, Civilians and Colonists outfits in the Tribal, City and Colony Outfitters.
+
+0x00000121 ~guide: -h2~ Each Outfitter is found in the planner for that stage.  To open the Outfitters:
+
+0x00000131 ~guide: -bullet~ In the Tribal stage, click on the hut and open the Tribal Planner.
+
+0x00000141 ~guide: -bullet~ Click on the Outfits tab at the top of the planner.
+
+0x00000151 ~guide: -bullet~ Click on your tribe member and select outfits.
+
+0x00000161 ~guide: -bullet~ In the Civilization or Space stages, click on the City Hall in your city or colony to open the planners for each stage.
+
+0x00000171 ~guide: -bullet~ Click on the Outfits tab
+
+0x00000181 ~guide: -bullet~ Click on your civilian and select outfits.
+
+0x00000191 ~guide: -h1~ Outfitting your Species.
+
+0x000001a1 ~guide: -h2~ Outfitting your species works the same in each outfitter, however, only in the Tribal Stage will the accessories in the Outfitter give your tribe members boosts to their abilities.
+
+0x000001b1 ~guide: -h2~ Each new stage will give you additional accessories to choose from, and since your species tastes evolve along with them, you'll want to outfit them properly for each stage of their evolution.
+
+0x000001c1 ~guide: -h2~ The outfit you choose for the individual in the outfitter will be worn by all members of your species.
+
+0x000001d1 ~guide: -h1~ Some Essentials
+
+0x000001e1 ~guide: -h3~ Camera Controls
+
+0x000001f1 ~guide: -h4~ Camera Rotate
+
+0x00000201 ~guide: -image-left 0x05556b31!rotate1.png~ The rotate buttons rotate the camera around your tribe member
+
+0x00000211 ~guide: -bullet~ Or, hold any mouse button and drag on the background to rotate
+
+0x00000221 ~guide: -bullet~ Or, use the &lt; and &gt; keys to rotate the camera
+
+0x00000231 ~guide: -h4~ Camera Zoom
+
+0x00000241 ~guide: -image-left 0x05556b31!zoom1.png~ Zooms the camera in and out
+
+0x00000251 ~guide: -bullet~ Or, hold down the Shift key and scroll the middle mouse wheel to zoom in and out
+
+0x00000261 ~guide: -bullet~ Or, the + and - keys zoom in and out
+
+0x00000271 ~guide: -h3~ The Outfits Palette
+
+0x00000281 ~guide: -h2~ Tabs across the top of the Outfits Palette allow you to choose from hats, masks, details, etc.
+
+0x00000291 ~guide: -h3~ Selecting and Adding Outfit Accessories
+
+0x000002a1 ~guide: -h2~ To select an accessory click on it in the outfits palette and then drag it from the palette onto the individual on the dais.
+
+0x000002b1 ~guide: -h3~ Scaling and Modifying Accessories
+
+0x000002c1 ~guide: -h2~ To select an accessory once it is on your guy, click on it until it is highlighted in blue.
+
+0x000002d1 ~guide: -bullet~ Use the handles to change the shape of the selected accessory.
+
+0x000002e1 ~guide: -bullet~ Use the position ball to adjust the placement of the accessory on your species.
+
+0x000002f1 ~guide: -bullet~ Use the mouse wheel or the up or down arrow on your keyboard to scale the selected accessory
+
+0x00000301 ~guide: -h3~ Tribal Abilities
+
+0x00000311 ~guide: -h2~ During the Tribal Stage the outfits you choose will enhance your tribe member's abilities.  During the Civilization and Space Stages, your species' outfits are more for aesthetic appeal.
+
+0x00000321 ~guide: -h2~ The abilities that your outfit accessories give to your tribe members are summarized in the upper right corner of the Tribal Outfitter Screen as well as itemized in the individual pop ups for each accessory.
+
+0x00000331 ~guide: -h1~ Complexity and Budget
+
+0x00000341 ~guide: -h3~ The Parts Budget
+
+0x00000361 ~guide: -h2~ The outfit accessories you select will be charged to an overall parts budget.  Once you run out of budget you will not be able to place any more accessories.
+
+0x00000371 ~guide: -h3~ Complexity Meter
+
+0x00000375 ~guide: -image-left 0x05556b31!complexitymeter.png~ 
+
+0x00000381 ~guide: -h2~ The complexity meter will turn red if the outfit is becoming overly stylish.  There are limits, after all.
+
+0x00000391 ~guide: -h2~ You will not be able to add any further outfit accessories if you exceed the limit.
+
+0x000003a1 ~guide: -h1~ Painting Your Species
+
+0x000003b1 ~guide: -h2~ You can decide to spruce up your species by giving them a new color at the same time you outfit them.   Select the Paint Mode button at the top of the Outfitter Screen. Select from the pattern and color you like just as you did in the Creature Creator.
+
+0x000003c1 ~guide: -h1~ Undo/Redo
+
+0x000003d1 ~guide: -h2~ Click the undo/redo buttons to undo or redo your last move (you can click several times.)
+
+0x000003e1 ~guide: -h1~ Describe and Tag
+
+0x000003f1 ~guide: -h2~ Your name is established, but you can update the description and tags for your newly outfitted species by clicking on the Name area in the Outfitter.
+

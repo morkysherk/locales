@@ -1,0 +1,125 @@
+﻿
+
+#######################################
+# Category Names
+
+#######################################
+# Category Names
+
+0x00000001 Buddies
+0x00000002 Sporecasts
+0x00000003 Creations
+0x00000004 Misc
+0x00000005 ~my_game_name~
+0x00000006 Community
+0x00000007 Tags
+0x00000008 My Stuff
+
+#######################################
+# Feed Item Names
+
+0x00010001 Everything
+0x00010002 My Creations
+0x00010003 Maxis
+0x00010004 Make Sporecast
+0x00010005 Find Buddy
+0x00010006 Find Sporecast
+0x00010007 MySpore Page
+0x00010008 Spore Catalog
+0x00010009 Options
+0x0001000a Exit Game
+0x0001000b Exit to Main Menu
+0x0001000c Save Game
+0x0001000d Relationships
+0x0001000e Timeline
+0x0001000f Scans
+0x00010010 Achievements
+0x00010011 Cell Game
+0x00010012 Creature Game
+0x00010013 Tribe Game
+0x00010014 Civilization Game
+0x00010015 Space Game
+0x00010016 Search Online
+0x00010017 Downloads
+0x00010018 Recent Downloads
+
+#######################################
+# Filter Names
+
+0x00020001 Air
+0x00020002 Buildings
+0x00020003 Cells
+0x00020004 City Hall
+0x00020005 Colony
+0x00020006 Animals
+0x00020007 Nations
+0x00020008 Creatures
+0x00020009 Empires
+0x0002000a Religious
+0x0002000b Economic
+0x0002000c Entertainment
+0x0002000d Factory
+0x0002000e Flora
+0x0002000f Tall Tree
+0x00020010 Small Tree
+0x00020011 Shrub
+0x00020012 All
+0x00020013 House
+0x00020014 Land
+0x00020015 Military
+0x00020016 Music
+0x00020017 Sea
+0x00020018 Spaceships
+0x00020019 Vehicles
+0x0002001a Tribes
+0x0002001b Recommended Creatures
+0x0002001c Planets
+0x0002001d Advantaged Creatures
+
+#######################################
+# Misc
+
+0x00030001 Sort By
+0x00030002 or Make New
+0x00030003 Displaying ~num_items~ items
+0x00030004 Not displaying ~num_items_invalid~ invalid assets.
+0x00030005 Displaying ~num_filtered_items~ of ~num_items~ items
+0x00030006 Loading... ~loading_percent~%
+0x00030007 Change your sort criteria or select Everything to see more creations.  There are ~num_items~ creations that don't match the current sort.
+
+#######################################
+# Call To Action Messages
+
+0x00040001 Your multi-purpose content browser
+0x00040002 Choose Music for your city
+0x00040003 Choose a City Hall
+0x00040004 Choose a Religious Air Vehicle
+0x00040005 Choose a Religious Land Vehicle
+0x00040006 Choose a Religious Sea Vehicle
+0x00040007 Choose an Economic Air Vehicle
+0x00040008 Choose an Economic Land Vehicle
+0x00040009 Choose an Economic Sea Vehicle
+0x0004000a Choose an Entertainment Building
+0x0004000b Choose a Factory
+0x0004000c Choose a House
+0x0004000d Choose a Military Air Vehicle
+0x0004000e Choose a Military Land Vehicle
+0x0004000f Choose a Military Sea Vehicle
+0x00040010 Choose a Spaceship
+0x00040011 Choose a Creature
+0x00040012 Choose a Colony Air Vehicle
+0x00040013 Choose a Colony Land Vehicle
+0x00040014 Choose a Colony Sea Vehicle
+0x00040015 Choose a Creature
+0x00040016 Create or Choose a Civ Creature
+0x00040017 Create or Choose a Space Creature
+0x00040018 Create or Choose a Tribe Creature 
+0x00040019 Create or Choose a Creature
+0x0004001a Choose a Cell
+
+#######################################
+# SPUIFeedListItem.cpp
+
+0xf4c87cf6 ~num_subscribers~ Subscriber
+0xf4c87cf7 ~num_subscribers~ Subscribers
+

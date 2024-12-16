@@ -1,0 +1,319 @@
+﻿# Tool Tip Text
+
+#### Global UI - Generic #####
+0xf81c276b Spore Guide
+0xf81c277b Options
+0x0655200d Play
+0xf81c278b Pause
+0xf81c218b Save
+0xf81c228b Exit Game
+0xf81c238b Exit to Main Menu
+0xf81c248b Ban Content
+0xf81c258b Settings
+0xf81c25ab Redo
+0xf81c25cb Undo
+0xf81c26cb Accept
+0xf81c27cb Delete
+0xf81c28cb Close
+0xf81c28cc Save and Exit
+0xf81c281c Hide
+0xf81c292c Submit
+0xf81c303c Reload
+0xf81c304c Cancel
+0xf81c305c Evolve to land!
+0xf81c306c Back
+0xf81c307c Info
+0xf81c308c Unsubscribe
+0xf81c309c Send
+0xf81c310c Cancel-No Save
+0xf81c311c Ban Creation
+0xf81c312c View Details
+0xf81c313c Clear Search
+0xf81c314c Add Buddy
+0x0612f6b6 Share
+0x0615dd1b Already Shared
+0x0615dd1c You Must Save Before Sharing
+0x0615ffa4 Outfit
+0x0615ffa5 Play Game
+0x0615ffa6 My Collections
+0x0615ffa7 Show
+0x0615ffa8 Hide 
+0x0615ffa9 Health
+0x0615ffb0 Hunger
+### Global UI specific ###
+0xf17c278d History
+0x06453842 Advance to Creature
+0x0645384b Advance to Tribe
+0x0645384f Advance to Civilization
+0x06453852 Advance to Space
+0xf27c278d Progress towards land. Eat to grow.
+0xf67c278d Earn DNA to progress
+0xf57c278d DNA Points
+0xf77c278d Increase population by mating and recruiting to WIN!
+0xf87c278d Food Collected
+0x04bc1a80 DNA Points. Earn DNA from food, and spend it on parts.
+0x04cac3d4 Rotate
+0x04cac3d5 Rotate
+0x04cac3d6 Zoom In
+0x04cac3d7 Zoom Out
+0x04cac3d8 Sporebucks
+0x04cac3c1 Conquer or ally with other tribes to progress
+0x04cac3c2 Conquer or ally with other tribes to progress
+0x04cac3c3 Conquer or ally with other tribes to progress
+0x04cac3c4 Control 2 cities to invent sea vehicles
+0x04cac3c5 Control 4 cities to invent air vehicles
+0xf47c278d Control 10 cities to invent space travel
+0x0643ed9b You've invented sea vehicles
+0x0643edb7 You've invented air vehicles
+0x0643edbe You've invented space travel
+0xf47c279a Missions list
+0xf47c279b Parts unlocked
+0xf47c279c Missions in progress
+0xf47c279d Missions completed
+0x062dac92 Complete Cell Stage to unlock this ability
+0x062daca9 Complete Creature Stage to unlock this ability.
+0x062dacad Complete Tribe Stage to unlock this ability.
+0x062e98fb Consequence Abilities
+0x062eabde Requires 1 City
+0x062e9ec2 Requires 2 Cities
+0x062e9ec6 Requires 4 Cities
+0x062e9eca Requires 6 Cities
+0x064a7050 City Planner
+0x06565205 Colony Planner
+0x064a7064 Buy Land Vehicle ($1000)
+0x064a705d Buy Sea Vehicle ($1500)
+0x064a7057 Buy Air Vehicle ($3000)
+0x06562784 --Requires More Houses
+0x065767b3 --Must be a Sea City
+0x065767b7 --Requires 2 Cities
+0x065767bb --Requires 4 Cities
+0x0657690b --Create a Land Vehicle in the City Planner
+0x0657690c --Create a Sea Vehicle in the City Planner
+0x0657690d --Create an Air Vehicle in the City Planner
+0x065cd6f2 --Reached Total Vehicle Cap
+0x0671fb71 --Not enough Sporebucks
+0x065f79f0 Income: +$~civ_income~/min
+0x065f79f1 +~civ_income~/hour
+0x065fc365 Tribal Planner
+0x065fc366 Add Baby (~tribe_food_required_for_baby~ Food)
+0x065fc367 --Not enough food
+0x065fc368 --Requires larger hut
+0x065fc369 --Tribe is full
+
+### Options Panel###
+0xf57c573c Spy Glass
+0xf57c674d Ban
+0xf57c775e Settings
+0xf57c776e Resume Game
+0xf57c777e Quit Spore
+0xf57c778e Resume Editing
+0x0678c049 Exit the Creator before quitting Spore
+0x0678c04a Spy Glass mode not available in Cell Stage
+0x0678c04b Ban mode not available in Cell Stage
+
+### Consequence Timeline ###
+0x06131bb0 Timeline View
+0x06131bb1 Consequence View
+0x06131bb2 Evolution Clock
+
+#### Global UI Space ####
+0xf57c270a Terraforming Tools
+0x93cf382f Track Planet
+
+
+### Editor Camera instructions ###
+0x05013a31 Rotate
+0x05013a32 Rotate
+0x05013a33 Zoom In
+0x05013a34 Zoom Out
+
+### Spore Guide ##### (not ALL CSA)
+0x05b5517e Cell Help
+0xf81c282c Creature Help
+0xf81c283c Tribe Help
+0xf81c284c Civilization Help
+0xf81c285c Creator Help 
+0xf81c286c Space Help
+0xf81c287c Main Help
+
+
+#### Shopping ##### (not CSA)
+0xf17c273b Edit
+0xf27c273b Share
+0xf47c273b Next Page
+0xf57c273b Previous Page
+0xf67c273b Create from Scratch
+0xf77c273b Sort By
+0xf87c273b Sell
+0xf07c273b Buy
+ 
+
+#### GGE #####
+0xf18c213b Sporepedia
+0xf27c223b Spore Catalog
+0xf36c273b Spore.com
+0xf45c273b Log In & Registration
+0xf54c273b Creators
+0xf63c273b Cell Creator
+0xf72c273b Creature Creator
+0xf81c2a3b Outfitter
+0xf81c271b Building Creator
+0xf81c272b Vehicle Creator
+0xf81c273b Vehicle Creator
+0xf81c274b Vehicle Creator
+0xf81c275b Spaceship Creator
+0xf82c275b Play the Game
+0x0577bfc5 Generate Name
+0x0609bc24 Tribal Outfitter
+0x0609bc3d Civilization Outfitter
+0x0609bc40 Space Outfitter
+0x063aeaa9 Large View
+
+#### Editors -- Global ###
+0xf37c273b Budget
+0xf37c274b Complexity Meter
+0xf37c275b Build Mode
+0xf37c276b Paint Mode
+0xf37c277b Test Drive
+0xf37c278c Give me a Name
+0xf37c278d Hide
+0x05af4a02 More Categories
+0x05af4a03 More Categories
+0x05af4a04 Paint like...
+0x05af4a05 Paint like "~newmodelname~" 
+0x05af4a06 New default color
+0x064d2882 Budget
+0x064d2883 Budget
+0x064d2884 Budget
+0x064d2885 Budget
+
+#### Planners -- Global ### (not CSA)
+0x0f1c278e Building and Turret Limit
+0x05342949 Improve the terrascore to unlock more structures
+0xf27c278e Harvester Vehicle Limit
+0x04bafa05 Military Vehicle Limit
+0x04bafa06 Religious Vehicle Limit
+0x04bafa07 Economic Vehicle Limit
+0x0626ea62 Owned Military Cities
+0x0626ea63 Owned Religious Cities
+0x0626ea64 Owned Economic Cities
+0xf57c278f Population
+0xf58c278f Happiness
+0xf59c278f Defense
+0xf60c278f Economy
+0xf70c278f Edit Outfit
+0xf71c278f Bored level
+0xf72c278f Tired level
+0x06381a13 Nation's Income Per Minute
+0x06381a1b Planet's Income Per Minute
+0x06381a16 Vehicle Overview
+0x06381a17 Building Overview
+0x06381a18 Your Tribe Name
+0x06381a19 Your Nation Name
+0x06381a1a Your Empire Name
+0x0653c13b Next City
+0x0653c13c Previous City
+0x0653c13d Next Colony
+0x0653c13e Previous Colony
+
+
+#### Planners -- City Stats ### (not CSA)
+0xf72c27aa Population
+0xf72c27bb Happiness
+0xf72c27cc Income
+0xf72c27dd Defense
+0x06381a14 Planet Terrascore
+0x06381a15 Number of Colonies on this Planet
+
+
+#### Verb Tray ### (not CSA)
+0xf47c278e Social Stance
+0xf57c278e Combat Stance
+0xf57c276f Social Stance
+0xf57c279a Combat Stance
+0xf67c278e General Abilities
+0x0567ae7b Stand Ground
+0x0567ae82 Aggressive
+0x0568ae90 Economic Manipulators
+0x0568ae80 Religious Powers
+0x0568ae70 Military Weapons
+0x0568ae91 Bribes and Confusion
+0x0568ae92 Advertising Blitz
+0x0568ae93 Global Ad Blitz
+0x0568ae81 Faith Healing
+0x0568ae82 Rain of Beasts
+0x0568ae83 Rise of the Messiah
+0x0568ae71 Napalm Bomb
+0x0568ae72 Tac Nuke
+0x0568ae73 Global ICBM Strike
+0x0681d202 ~local_ability_name~ [~local_hotkey~]
+0x0681d203 ~local_ability_name~ - ~local_level_string~ ~local_ability_level~ 
+
+#### Posse UI ### (not CSA)
+0xf77c278e Select All
+0xf87c278e Select a Buddy
+0xf97c278e Social an ally to add them to your pack
+0x05d298ac Talk to an ally to get a spaceship
+0x0614906c Click to add a Baby
+
+#### CSA ### 
+0x04e404f8 Spore News
+0x04e404f9 Options
+0x04e404fa Help
+0x04e404fb Options
+0x04e404fc Sporepedia
+0x04e404fd New Creation
+0x04e404fe Save Creature
+0x04e404ff Settings
+
+
+#### CSA Spore Guide ###
+0x04f65bbb Welcome to Spore
+0x04f65bbc Getting Started
+0x04f65bbd Build Mode
+0x04f65bbe Test Drive
+0x04f65bbf Paint Mode
+0x063c34eb Load New Creation
+
+#### Part Unlock ### (not CSA)
+0x05837b76 Parts Unlocked
+0x05837b77 Unlocked parts available
+
+#### Playmode.layout (not CSA)
+0x058b867e Capture Animated Avatar
+0x05b04fe7 Maya Export
+
+##GGE General##
+0x05b08744 Cancel
+0x05b08745 Information
+0x05b08746 Forward
+0x05b08747 Back
+0x05b08748 Sporecast Theme
+0x05b08749 Sample Assets
+0x05b08750 Identity Color
+0x05b08751 Unlocked
+0x05b08752 Locked
+0x05b08753 Randomize
+
+##GGE Asset Selection## (not CSA)
+0x05b08754 Select Cell
+0x05b08755 Select Creature
+0x05b08756 Select Tribe Creature
+0x05b08757 Select Civilization Creature
+0x05b08758 Select Space Creature
+0x05b08759 Select City Hall
+0x05b08760 Select Spaceship
+0x05b08851 Pick a Random Name
+0x05b08862 Pick a Random Asset
+0x05b08863 Lock Asset
+
+## cell ##
+0x03000000 Call Mate
+0x03000001 Call a mate to enter the Cell Creator!
+0x03000002 Call a mate to enter the Cell Creator!
+0x03000003 Evolve legs and go to land!
+
+## Lock Icon##
+
+0x0679f344 Cannot Edit
+

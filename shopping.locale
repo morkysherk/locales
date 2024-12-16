@@ -1,0 +1,16 @@
+﻿# Strings used to confirm that the player wants to ban something
+0x0450d284 Do you want to remove your selection from your game and send a report about it to the Spore Customer Service team?
+0x045c292b Do you want to remove your selection from your game and send a report about it to the Spore Customer Service team?  After banning an item, your game will restart.
+0x045969a5 Ban
+0x045969a6 Cancel
+
+# Strings used to confirm that the player wants to delete something
+0x0450d287 Do you want to remove your selection from your game?  You will not be able to undo this.
+0x045c292c Do you want to remove your selection from your game?  You will not be able to undo this.
+0x045969a3 Delete
+0x045969a4 Cancel
+
+# Strings used to display missing names
+
+0x045882ea <Missing Name>
+0x045882fb <Missing Author>

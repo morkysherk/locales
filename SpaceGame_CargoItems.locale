@@ -1,0 +1,33 @@
+﻿
+# chest.prop - spaceToolDescription
+0x04000001 Chest
+
+# crown.prop - spaceToolDescription
+0x04000002 Crown
+
+# deliverypayment.prop - spaceToolDescription
+0x04000010 Delivery Payment
+
+# gnome.prop - spaceToolDescription
+0x04000003 Gnome
+
+# goldenidol.prop - spaceToolDescription
+0x04000000 Golden Idol
+
+# grail.prop - spaceToolDescription
+0x04000004 Grail
+
+# llama.prop - spaceToolDescription
+0x04000005 Llama
+
+# plate.prop - spaceToolDescription
+0x04000006 Plate
+
+# scepter.prop - spaceToolDescription
+0x04000007 Scepter
+
+# snowglobe.prop - spaceToolDescription
+0x04000008 Snow Globe
+
+# trophy.prop - spaceToolDescription
+0x04000009 Trophy

@@ -1,0 +1,276 @@
+﻿# TA_hairs_01.prop
+0x2a0f54c0 Bravefeather
+
+# TA_hairs_02.prop
+0x2a0f54c3 Tufted Stalk
+
+# TA_hats_01.prop
+0xf55a5735 Bakerwear
+
+# TA_hats_02.prop
+0xf55a5736 Ultra-Fez
+
+# TA_hats_03.prop
+0xf55a5737 Tierdrop
+
+# TA_hats_04.prop
+0xf55a5730 El Graucho
+
+# TA_hats_05.prop
+0xf55a5731 Body Wok
+
+# TA_hats_06.prop
+0xf55a5732 King Bling
+
+# TA_hats_07.prop
+0xf55a5733 Dockworka
+
+# TA_hats_08.prop
+0xf55a573c Plundercap
+
+# TA_horns_01.prop
+0x1875548f Stickler
+
+# TA_horns_02.prop
+0x1875548c Prongalong
+
+# TA_loincloths_01.prop
+0x75ac87cc Fanncypack
+
+# TA_loincloths_02.prop
+0x75ac87cf Singuard
+
+# TA_loincloths_03.prop
+0x75ac87ce Tunic of Virtue
+
+# TA_loincloths_04.prop
+0x75ac87c9 Featherkilt
+
+# TA_shoulders_01.prop
+0x41a96424 Shellshopped
+
+# TA_shoulders_02.prop
+0x41a96427 Body Aegis
+
+# TA_symbols_01.prop
+0xc75c9618 Crested Pear
+
+# TA_symbols_02.prop
+0xc75c961b Spideycrest
+
+# TA_symbols_03.prop
+0xc75c961a Rankhatchings
+
+# TA_symbols_04.prop
+0xc75c961d Geltbuckle
+
+# TA_symbols_05.prop
+0xc75c961c Stauros
+
+# TA_symbols_06.prop
+0xc75c961f Stunrise
+
+# TA_symbols_07.prop
+0xc75c961e Gleeclipse
+
+# TA_symbols_08.prop
+0xc75c9611 Spore Gears
+
+# TA_horns_03.prop
+0x1875548d Trophybuck
+
+# TA_horns_04.prop
+0x1875548a Glibia
+
+# TA_hairs_04.prop
+0x2a0f54c5 Aloe Haira
+
+# TA_hairs_03.prop
+0x2a0f54c2 Floronet
+
+# TA_shoulders_04.prop
+0x41a96421 Kharmadillo
+
+# TA_shoulders_03.prop
+0x41a96426 Warplating
+
+# CA_hats_01.prop
+0x2c587a2c Tin Cap
+
+# CA_hats_02.prop
+0x2c587a2f Vikis Beany
+
+# CA_hats_03.prop
+0x2c587a2e Seafairy   
+
+# CA_hats_04.prop
+0x2c587a29 Wizbang
+
+# CA_hats_05.prop
+0x2c587a28 M. Poly 
+
+# SA_hats_01.prop
+0x68480e7c Snogtib Cap
+
+# SA_hats_02.prop
+0x68480e7f Beam Helmet 
+
+# SA_hats_03.prop
+0x68480e7e Jozz Illuminator 
+
+# SA_hats_04.prop
+0x68480e79 Smarnocker 
+
+# SA_hats_05.prop
+0x68480e78 Cap. Cornhall
+
+# TA_masks_01.prop
+0x59ef3a70 Oba Shaka Mask
+
+# TA_masks_02.prop
+0x59ef3a73 Ayuba Mask 
+
+# TA_masks_03.prop
+0x59ef3a72 Apelious Mask 
+
+# CA_masks_01.prop
+0xd85d5bcf Mariposa Mask 
+
+# TA_masks_04.prop
+0x59ef3a75 Kofi Kete Mask
+
+# TA_masks_05.prop
+0x59ef3a74 Khwame Mask 
+
+# TA_masks_06.prop
+0x59ef3a77 Tiki Gamba Mask 
+
+# CA_masks_02.prop
+0xd85d5bcc Aqua View Mask
+
+# CA_masks_03.prop
+0xd85d5bcd Intercisa Mask
+
+# SA_masks_01.prop
+0x29f8aebf Comet Sighter
+
+# CA_details_01.prop
+0x7930b1a0 Bowlious
+
+# CA_details_03.prop
+0x7930b1a2 Eril Medallion 
+
+# CA_details_04.prop
+0x7930b1a5 Bolt 
+
+# CA_details_05.prop
+0x7930b1a4 Metal Cap
+
+# SA_details_01.prop
+0x1bf562d0 Twirlpellar 
+
+# SA_details_02.prop
+0x1bf562d3 Lock of Goldie 
+
+# SA_details_03.prop
+0x1bf562d2 Dishlious 
+
+# SA_details_04.prop
+0x1bf562d5 Coil Tron
+
+# SA_details_05.prop
+0x1bf562d4 Eyebot
+
+# SA_masks_02.prop
+0x29f8aebc Moon Gas Sensor 
+
+# SA_masks_03.prop
+0x29f8aebd Oort Beam Mask 
+
+# TA_chestpieces_01.prop
+0x2c3a0fe7 Charm Plate 
+
+# TA_chestpieces_02.prop
+0x2c3a0fe4 Leaf Camouflage 
+
+# TA_details_05.prop
+0x53b7d3c7 Skull 
+
+# CA_chestpieces_01.prop
+0x66de5d54 Leather Back 
+
+# CA_chestpieces_02.prop
+0x66de5d57 Mini Frials 
+
+# TA_chestpieces_03.prop
+0x2c3a0fe5 Thorsbjerg Tunic
+
+# TA_chestpieces_04.prop
+0x2c3a0fe2 Philamore Kilt 
+
+# CA_chestpieces_03.prop
+0x66de5d56 Civil Senator 
+
+# CA_chestpieces_04.prop
+0x66de5d51 Col. Primer
+
+# SA_chestpieces_01.prop
+0x7a070004 Waspen Jet Pack 
+
+# SA_chestpieces_03.prop
+0x7a070006 Radio Way Plate 
+
+# CA_details_02.prop
+0x7930b1a3 Cury Coif  
+
+# SA_chestpieces_04.prop
+0x7a070001 Inconel 625 Plate 
+
+# TA_details_02.prop
+0x53b7d3c0 Hearty 
+
+# TA_earring_01.prop
+0xa0c89003 Ring 
+
+# TA_mustache_01.prop
+0x0d04cdf9 Mustache 
+
+# SA_chestpieces_02.prop
+0x7a070007 Cubewano Disk 
+
+# CA_shoulders_01.prop
+0xc774461f Seashell Cuff 
+
+# CA_shoulders_02.prop
+0xc774461c Scrub Brushers
+
+# CA_shoulders_03.prop
+0xc774461d Connector Plate 
+
+# SA_shoulders_01.prop
+0x869fb1cf Shoulder Cap 
+
+# TA_shoulders_05.prop
+0x41a96420 Crown Shoulder
+
+# SA_shoulders_03.prop
+0x869fb1cd Refractor Wing 
+
+# SA_shoulders_02.prop
+0x869fb1cc Air Propellar 
+
+# TA_shoulders_06.prop
+0x41a96423 Metal Pleats
+
+# CA_symbols_01.prop
+0xd7382ffb Knexit
+
+# CA_symbols_02.prop
+0xd7382ff8 Circumgear 
+
+# CA_symbols_04.prop
+0xd7382ffe Tinker Ticker
+
+# CA_symbols_03.prop
+0xd7382ff9 Snokelicious 
+

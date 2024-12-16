@@ -1,0 +1,92 @@
+﻿# Tribe Game Localized Text
+
+# posse ui title and "select all members" button
+0xf37c273b Tribe
+
+# Tribe member Rollover titles and names
+0x04bd540b Chieftain ~tribe_creature_name~
+0x0567d1d0 Shaman ~tribe_creature_name~
+0x0567d1d1 Spearman ~tribe_creature_name~
+0x0567d1d2 Axeling ~tribe_creature_name~
+0x0567d1d3 Firestarter ~tribe_creature_name~
+0x0567d1d4 Fisherman ~tribe_creature_name~
+0x0567d1d5 Farmer ~tribe_creature_name~
+0x0567d1d6 Hornist ~tribe_creature_name~
+0x0567d1d7 Maracan ~tribe_creature_name~
+0x0567d1d8 Aerophonist ~tribe_creature_name~
+
+# Hint (that did not get transferred to HintsTRG.txt before the localization cutoff)
+0x751ce899 You must bring your Chieftain to conduct the band!
+
+
+##############################
+
+# Tribe to Tribe titles
+0x06e1f025	Conquer
+0x06e1f026 Ally
+
+# Tribe to Tribe Social - Below Neutral
+0x055a6240 Present the ~npc0_name_village~ with gifts to improve your relations, then attempt to ally them.
+0x055a6241 Bring gifts to the ~npc0_name_village~
+
+# Tribe to Tribe Social - Neutral or Above
+0x5519033a Ally the ~npc0_name_village~ by playing music for them. Allied tribes will bring your tribe gifts.
+0x5519033b Ally the ~npc0_name_village~
+
+# Tribe to Tribe Combat
+0x055a6248 Defeat the ~npc0_name_village~ by destroying their main hut. 
+0x055a6249 Attack the ~npc0_name_village~.
+
+##############################
+
+# Tutorial Select
+0x0554061e Tribe Member Selection
+0x0554061f Click a single tribe member or click and drag a group to control and direct tribe members.
+0x05540620 Select a Tribe Member.
+
+# Tutorial Eat - Carnivore
+0x055407bd Hunt
+0x055407be Carnivores eat meat to survive. Use food to grow your tribe and buy tools
+0x055407bf Hunt prey for meat or fish.
+
+# Tutorial Eat - Omnivore
+0x055407c2 Hunt or Gather
+0x055407c3 Ominvores eat fruit, fish or meat to survive.  Use food to grow your tribe and buy tools.
+0x055407c4 Gather fruit, meat or fish.
+
+# Tutorial Eat - Herbivore
+0x055407c6 Gather
+0x055407c7 Herbivores eat fruit or seaweed to survive.  Use food to grow your tribe and buy tools.
+0x055407c8 Gather fruit or seaweed.
+
+# Tutorial Domesticate
+0x05baa454 Domesticate
+0x05baa455 Socialize wild creatures to tame them. Tamed creatures will take up home in your corral and produce eggs for your tribe to harvest.
+0x05baa456 Social a wild creature.
+
+# Conquer Tribe
+0x0567cbee Interact
+0x0567cbef Gift, impress, or attack a member of another tribe to begin your quest for dominance.
+0x0567cbf0 Gift, Impress, or Attack another Tribe.
+
+# Tutorial Mating
+0x056cea63 Populate
+0x056cea64 Babies will grow up to become useful tribe members.
+0x056cea65 Click on your hut and add a baby.
+
+# Tutorial Buy Tools
+0x056cf6a3 Buy Tools
+0x056cf6a4 Buy tools for your tribe.  Each tool will help your tribe in different ways, choose those that match your strategy.
+0x056cf6a5 Visit your hut and click on the planner.
+
+# Tutorial Equip Tools
+0x056cf7f2 Equip Tools
+0x056cf7f3 Select a tribe member and click on the tool shack to equip.
+0x056cf7f4 Each tribe member can carry a tool.
+
+# Tutorial Accessorize Tribe
+0x05935b28 Outfit
+0x05935b29 Outfits help your tribe in different ways, choose an outfit that matches your strategy.
+0x05935b2a Visit the Tribal Planner to customize your outfit.
+
+

@@ -1,0 +1,672 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!gge-space-button.png~ Welcome to the Space Stage
+
+0x00000021 ~guide: -h2~ Welcome to the Space Stage.  Your civilization has unified the planet and mastered the technology to explore beyond the reaches of your own atmosphere.  You take the helm of your newly invented spaceship for your race. Explore the cosmos, terraform barren planets, expand your empire, search for life on other planets to befriend or not...you may even seek out the meaning of life in the mysterious center of the galaxy.
+
+0x00000031 ~guide: -h1~ Getting Started
+
+0x00000041 ~guide: -h3~ Directly from the Galaxy
+
+0x00000051 ~guide: -h2~ From the galaxy, choose a planet to play.  Then create or choose your space faring creature and then choose the spaceship, and city hall that will anchor your home world base of operations.  You will also have the opportunity to select a theme for this game and the level of difficulty.
+
+0x00000061 ~guide: -h3~ From the Civilization Stage
+
+0x00000071 ~guide: -h2~ You successfully united your home planet and your race has created its first spacecraft capable of not only planetary flight but beyond your atmosphere and into interstellar space.  The history of your race from its early evolutionary progression as a cell to its global domination as a civilization has developed your race's cultural identity, its trait.  This trait will determine some unique tools that only your race can master.  However, your advancement is not set in stone.  Your race has the ability to change its sensibilities as it learns from its adventures in space.  Find out how your race is developing by clicking on the History button next to the Progress Bar.
+
+0x00000081 ~guide: -h3~ Liftoff
+
+0x00000091 ~guide: -h2~ You start your space adventures at helm of your civilization's newly engineered spaceship.  From here the cosmos are yours to explore.  Check in with your home world via your communications panel for assignments to get you started.
+
+0x000000a1 ~guide: -h1~ Your Goal
+
+0x000000b1 ~guide: -h2~ Unlike the stages that proceeded your launch into Space, how you choose to advance your race now that you have reached the Space Stage is up to you.
+
+0x000000c1 ~guide: -bullet~ Will you expand your empire through terraforming and colonizing planets in outlying star systems?
+
+0x000000d1 ~guide: -bullet~ Will you discover other races and befriend them to form an intergalactic federation or throw down the gauntlet and initiate intergalactic wars?
+
+0x000000e1 ~guide: -bullet~ Will you explore the farthest reaches of the galaxy in search of riches?
+
+0x000000f1 ~guide: -bullet~ Will you become the galaxy's most renowned trader?
+
+0x00000101 ~guide: -bullet~ Will you perhaps seek out deeper meaning in a quest to the center of the galaxy?
+
+0x00000111 ~guide: -h2~ Your race's journey is in your hands and you have the vastness of the galaxy before you.
+
+0x00000115 ~guide: -h1~ Tracking Your Progress
+
+0x00000121 ~guide: -h2~ Track your progress in the Space Stage on the Progress Bar on the bottom of the screen.
+
+0x00000131 ~guide: -h2~ Each segment of the progress bar marks your recognition for accomplishments in the form of badges. Each badge earned progresses you higher in the ranks of space faring races in the galaxy. Once you have earned the tenth master badge you rank as a god within your own galaxy.
+
+0x00000141 ~guide: -h2~ Just above the progress bar is your galactic positioning readout.  This gives you a quick read of what quadrant of the galaxy your ship is currently positioned in, as well as the distance you are from the center of the galaxy.
+
+0x00000151 ~guide: -bullet~ Hover over your ship icon to see the coordinates.
+
+0x00000161 ~guide: -h1~ Your Home World
+
+0x00000171 ~guide: -h2~ Your ship launches from the site of the capital city of your home world.  This is home base.  It is your roots.  You can always return here for news from the home front, to take on missions that will help your empire, or from battle, when you need to refuel or repair.
+
+0x00000181 ~guide: -h1~ Your Empire
+
+0x00000191 ~guide: -h2~ As you expand your stake in the galaxy by colonizing other planets and allying other races, your empire, with your home world as its central force will expand.
+
+0x000001a1 ~guide: -h2~ When you travel to interstellar space, your home world is indicated by a shield emblem and all of your empire's colonies are marked as well.
+
+0x000001b1 ~guide: -h2~ All empires sport their identity colors.  Yours is based on your creatures skin.
+
+0x000001b5 ~guide: -h3~ History and Consequence
+
+0x000001b9 ~guide: -h2~ As you have learned in your adventure through each stage, evolution is a journey in which the earliest choices and actions have consequences into the future of your species.  The path you have taken since starting out as a tiny microscopic cell through developing your cultural personality as a civilization has had far reaching reverberations.  The culmination of this journey is the philosophy that you have adopted as a space faring race.
+
+0x000001bd ~guide: -h2~ The traits that you earned throughout your history now play a role in the ease with which you use certain tactics in your exploration of the galaxy, militaristic races may find the cost of tools to be a little less, for example.  This philosophy also determines unique tools that your Empire will have at its disposal.
+
+0x000001c1 ~guide: -h2~ These tools are available to you upon entry into the Space Stage and can be found in your spaceship tools.  These tools are indicated with a special border treatment on the tool icon.
+
+0x000001c5 ~guide: -h2~ Your race's philosophy is not set in stone, however. If you find another race, who's philosophy intrigues you, you may decide to adopt their beliefs.  Accept a mission that explores this race's philosophy and you will earn the ability to change.
+
+0x000001c9 ~guide: -h1~ Your Spaceship
+
+0x000001d1 ~guide: -h2~ You're now at the helm of the craft that will launch you and your race into space.  You're spaceship features:
+
+0x000001e1 ~guide: -h3~ Planetary Navigational Assist - (aka the mini-map)
+
+0x000001f1 ~guide: -h2~ Each planet you travel over will appear in map form the lower left corner of your instruments panel.
+
+0x00000201 ~guide: -bullet~ Click on the map to fly to that spot on the planet.
+
+0x00000211 ~guide: -bullet~ Any colonies or cities on a planet will appear on the mini-map.
+
+0x00000221 ~guide: -bullet~ All alien craft will also appear as dots in their empire's colors.
+
+0x00000231 ~guide: -h3~ Short Range Video Communications Panel
+
+0x00000241 ~guide: -h2~ Your Comm. panel is a critical part of your ship as it allows you to communicate with planetary based cities and colonies.
+
+0x00000251 ~guide: -h2~ To make contact with an alien empire:
+
+0x00000261 ~guide: -bullet~ Fly to a solar system or planet that they occupy
+
+0x00000271 ~guide: -bullet~ Click on the Open Communications button to open a dialog
+
+0x00000281 ~guide: -h3~ Your Tools
+
+0x00000291 ~guide: -h2~ Your spacecraft can be equipped with a variety of tools.  You will need these tools as you adventure through the galaxy.  Some tools will come from your home world or colonies, others you will need to first earn the right to purchase by earning badges, and then find an alien race who is willing to negotiate either a trade or a transaction for the tool you are looking for.  On occasion, you may get lucky and discover a tool on a barren planet.
+
+0x000002a1 ~guide: -h2~ Check the section on Using Tools a bit later in this guide.
+
+0x000002b1 ~guide: -h2~ Once you have acquired a tool, it will appear in the appropriate tool bin in your Tools Panel.
+
+0x000002c1 ~guide: -bullet~ Socialization Bin - Houses tools that assist you in interacting with other alien races or even creatures in their early stages of evolution.
+
+0x000002d1 ~guide: -bullet~ Weapons Bin - Look here for both offensive and defensive weapons.
+
+0x000002e1 ~guide: -bullet~ Main Tools - These are the type of tools you use a lot.  Radar, Scanner, repair pack.
+
+0x000002f1 ~guide: -bullet~ Colony Tools - All tools that help in establishing and maintaining your colonies
+
+0x00000301 ~guide: -bullet~ Planet Atmospheric Tools - These tools will help you as you attempt to improve the Terrascore of a planet to make it a more hospitable and productive location for your colonies.
+
+0x00000311 ~guide: -bullet~ Planet Sculpting Tools - Use these tools when you want to leave your mark on a planet so to speak.
+
+0x00000321 ~guide: -bullet~ Planet Coloring Tools - use these tools to express your artistic sensibilities on the planets you visit.
+
+0x00000331 ~guide: -bullet~ Cargo - this bin houses not only your very important abduction and transport beam but also any of the flora or fauna you abduct from a planet.  This cargo becomes the seed for any planet that you wish to terraform and make hospitable.
+
+0x00000341 ~guide: -h3~ Your Ship Portrait
+
+0x00000351 ~guide: -h4~ Health
+
+0x00000361 ~guide: -h2~ The operational status of your ship is shown in its health read out, above your spaceship portrait.
+
+0x00000371 ~guide: -bullet~ If you reach critical damage, return to your home world or any of your colonies or allies to obtain repairs.
+
+0x00000381 ~guide: -bullet~ Open your comm. unit to place repair orders.
+
+0x00000391 ~guide: -h2~ Your homeworld has developed some pretty amazing technology.  Should you find yourself low on health and that last blow is delivered, you and your Empire Treasury will be miraculously shielded and transported back to your homeworld or nearest colony where a clone of your ship awaits you.
+
+0x000003a1 ~guide: -h4~ Energy
+
+0x000003b1 ~guide: -h2~ Your ship is fueled by Sporillium made from Spice.  Your current energy reserve is shown as a blue bar above your ship's portrait.
+
+0x000003c1 ~guide: -bullet~ When your ship's energy is depleted, return to your home world or visit any of your colonies or allies to negotiate a recharge for your ship.
+
+0x000003d1 ~guide: -bullet~ Open you comm. unit to place energy orders.
+
+0x000003e1 ~guide: -h4~ Active Tool
+
+0x000003f1 ~guide: -bullet~ Your currently active tool is shown in the upper left corner of your ship's portrait.
+
+0x00000401 ~guide: -h3~ Empire Treasury
+
+0x00000411 ~guide: -h2~ As you journey throughout the galaxy, you will find yourself in negotiations with other races.  To keep your Empire's space program financed, Mission Control has graciously allowed your ship to maintain the empire's treasury.  All Sporebucks that you amass from trading, spice collection and missions will appear in the lower left corner of your ship's panel.  Don't be alarmed, therefore if your homeworld or colonies require reimbursement for tools and repairs that they supply.
+
+0x00000421 ~guide: -h1~ Flight Controls
+
+0x00000431 ~guide: -h3~ Planetary Flight Controls
+
+0x00000441 ~guide: -h2~ When you are flying planetside, you can use these simple flight controls to get to your destination.
+
+0x00000451 ~guide: -bullet~ To apply thrusters on your ship, press and hold the right mouse button.  Then, guide your ship by moving your mouse in the direction you wish to fly.
+
+0x00000461 ~guide: -bullet~ Use the mouse wheel to change your altitude.
+
+0x00000471 ~guide: -h4~ Keyboard Controls
+
+0x00000481 ~guide: -bullet~ Use the up arrow or the W key to fly forward
+
+0x00000491 ~guide: -bullet~ Use the down arrow or S key to fly backward
+
+0x000004a1 ~guide: -bullet~ Use the A key or left arrow to fly left
+
+0x000004b1 ~guide: -bullet~ Use the D key or right arrow to fly right
+
+0x000004c1 ~guide: -bullet~ Use the E key to strafe right
+
+0x000004d1 ~guide: -bullet~ Use the Q key to strafe left
+
+0x000004e1 ~guide: -bullet~ Use the mouse wheel, + or - interface icons or the mouse wheel to change your altitude
+
+0x000004f1 ~guide: -bullet~ Use CTRL + or - to power jump to the planetary, solar or galactic view
+
+0x00000501 ~guide: -h2~ Note: You can use combinations of keys to move in two directions at once.
+
+0x00000505 ~guide: -bullet~ To reposition the camera relative to your spaceship, you can use the rotate controls in the lower-left corner of the screen near the mini map.
+
+0x00000511 ~guide: -h3~ Leaving the Planet - The Solar System
+
+0x00000521 ~guide: -h2~ You must first have an interplanetary drive to leave your home planet's atmosphere.  You will be rewarded with this device once you complete Flight Training or decline this mission.
+
+0x00000531 ~guide: -bullet~ To reach your solar system, scroll the mouse wheel to fly up.  Your ship will experience a bit of turbulence as it breaks through the atmosphere and then will arrive positioned above your home planet in the solar system.
+
+0x00000541 ~guide: -bullet~ To fly to another planet, click on it.
+
+0x00000551 ~guide: -bullet~ To visit that planet, scroll the mouse wheel to fly down
+
+0x00000561 ~guide: -h3~ Leaving the Solar System - Interplanetary Space
+
+0x00000571 ~guide: -bullet~ To fly to another star, click on it.
+
+0x00000581 ~guide: -bullet~ To visit that star system, scroll the mouse wheel to fly down
+
+0x00000591 ~guide: -h4~ Keyboard Camera Controls for Solar System and Interstellar Space
+
+0x000005a1 ~guide: -bullet~ Use the W key or up arrow to pitch the camera up
+
+0x000005b1 ~guide: -bullet~ Use the S key or down arrow to pitch the camera down
+
+0x000005c1 ~guide: -bullet~ Use the &lt; and &gt; keys to rotate the camera
+
+0x000005e1 ~guide: -bullet~ Use the zoom icons or + and - to move zoom the camera and eventually your ship
+
+0x000005f1 ~guide: -h1~ Navigating Interstellar Space
+
+0x00000601 ~guide: -h2~ Once you outfit your ship and travel into interstellar space, you will see that the galaxy is a vast sea of stars, how will you ever find your way around?  Breadcrumbs?  Luckily, your spacecraft is outfitted with a Interstellar Navigation System.
+
+0x00000611 ~guide: -h3~ Star Map Filters
+
+0x00000621 ~guide: -h2~ You'll find these filters in the area that was reserved for your Planetary Mini-Map when planetside.  They will help you track the areas of the galaxy where you have travelled, where other races reside and more.
+
+0x00000631 ~guide: -h2~ To use the Star Map Filters simply toggle each filter on or off to get the view that you wish.
+
+0x00000641 ~guide: -bullet~ My Empire - Identifies the star systems where you have colonies, as well as your homeworld.  In the Starmap, your homeworld is identified by a badge beacon extending up from the galactic plane.  Press BACKSPACE in Galactic view to focus the camera on your home world.
+
+0x00000651 ~guide: -bullet~ Allies and Enemies - toggles display of identifiers for the star systems of your allies and your adversaries using their identity color.  Each empire's home system is identified by a solid circle, their colonies by open circles.
+
+0x00000661 ~guide: -bullet~ Empires - shows all known empires inhabiting the galaxy.
+
+0x00000671 ~guide: -bullet~ Missions - Use the Missions filter to toggle display of the star systems where you have currently active mission or missions.
+
+0x00000681 ~guide: -bullet~ Travel Trail - This filter displays the pathway that you have followed, tracking the last ten jumps you have made.
+
+0x00000691 ~guide: -bullet~ Visited - You can identify the star systems that you have visited using this tool.
+
+0x000006a1 ~guide: -h1~ Using Tools
+
+0x000006b1 ~guide: -h3~ Tool Types
+
+0x000006c1 ~guide: -h2~ There are three main types of tools that your craft will use.
+
+0x000006d1 ~guide: -bullet~ Permanent Tools -  You can use these at any time once your ship is equipped with such a tool.  Examples of permanent tools are your Scanner, Radar or Laser.
+
+0x000006e1 ~guide: -bullet~ Standard Equipment Tools - Tools that once equipped are active at all times. Examples are your ship's drive, or your SETI tool.
+
+0x000006f1 ~guide: -bullet~ Charged Tools - tools that have a limited number of uses.  Charged tools will have a small number in the upper right corner of their tool bin icon to indicate how many charges you have of that tool.
+
+0x00000701 ~guide: -h2~ Tool Capabilities - Tools in each type may have different types of deployment; from a period of activation to targeted to requiring specific location for use.  Check the tool description for the details on the capabilities of any tool.
+
+0x00000711 ~guide: -h3~ To Use a Tool
+
+0x00000721 ~guide: -bullet~ Click on the tool to activate it.
+
+0x00000731 ~guide: -h2~ Note if it's description indicates that it can only be used on a planet or in interstellar space.
+
+0x00000741 ~guide: -h2~ The first nine tools in each bin are also tied to keyboard shortcuts.  The number in the lower left corner of the tool indicates the keyboard key that will select that tool.  Press the associated key to activate a tool.
+
+0x00000751 ~guide: -bullet~ Click on the planet using your left mouse button to indicate where you would like to deploy the selected tool.
+
+0x00000761 ~guide: -h2~ In the case of combat tools, you can target both ground based objects as well as other ships.  Just click on either to target them.
+
+0x00000771 ~guide: -h2~ There are a few unique tools like the abduction and transport beam that you will learn about during Flight School, your initial training mission from your homeworld, to earn your Captain's Badge.
+
+0x00000775 ~guide: -h1~ Earning your Captain's Badge
+
+0x00000781 ~guide: -h2~ When you first take the helm of your ship, Mission Control in your capital city will challenge you with a few initial missions to help you learn the basics of your new craft.
+
+0x00000791 ~guide: -bullet~ Communications - You will learn how to use the Communications Panel.  Note that most planetary communication is initiated by the planet inhabitants.  Each time you have a communication you will hear a beep and see the comm. button flash.
+
+0x000007a1 ~guide: -bullet~ Flying Your Craft - Use the controls listed above to accomplish the various tasks set to you by Mission Control.
+
+0x000007a5 ~guide: -bullet~ You will need to use three of the most useful and somewhat unique tools that your Space Program engineers have invented for your ship.
+
+0x000007b1 ~guide: -h3~ Scanning Items
+
+0x000007c1 ~guide: -h2~ Your spaceship includes a scanner which you can use to scan items on the planetary surface for inclusion in your Sporepedia. You can scan planets, civilizations, buildings, vehicles, creatures, and even plants.
+
+0x000007d1 ~guide: -h4~ To scan an item:
+
+0x000007e1 ~guide: -bullet~ In the Spaceship Tools, select the Main Tools tab.
+
+0x000007f1 ~guide: -bullet~ Click the scanner icon.
+
+0x00000801 ~guide: -bullet~ Click the item on the surface to scan.
+
+0x00000811 ~guide: -bullet~ The item is added to your Sporepedia.
+
+0x00000821 ~guide: -h3~ Abducting and Transporting
+
+0x00000831 ~guide: -h2~ You can capture items from the planetary surface and place them in your cargo bay using your Abduction Beam.  Collecting flora and fauna for terraforming or rare artifacts for trading are all key uses of your abduction beam.
+
+0x00000841 ~guide: -h4~ To abduct an item:
+
+0x00000851 ~guide: -bullet~ In the Spaceship Tools, select the Cargo tab.
+
+0x00000861 ~guide: -bullet~ Click the abduction beam icon.
+
+0x00000871 ~guide: -bullet~ Click and hold the item to beam to your cargo bay. The item begins lifting towards your spaceship.
+
+0x00000881 ~guide: -h2~ Note: After you begin lifting, do not stop until it is safely aboard. Otherwise, it's a long way for the item to fall back to the surface.
+
+0x00000891 ~guide: -bullet~ The item is added to your cargo bay, cargo space is a bit limited but this is something you may be able to expand over time with additional tools.
+
+0x000008a1 ~guide: -bullet~ You can transport abducted items to other planets to introduce new species.
+
+0x000008b1 ~guide: -h4~ To transfer from the cargo bay:
+
+0x000008c1 ~guide: -h2~ When you transfer samples from your cargo bay to the surface of a planet, for terraforming, you should transfer plants first. Then, transfer the herbivores that rely on the planets before dropping the carnivores that consume other animals for food.
+
+0x000008d1 ~guide: -bullet~ In the Spaceship Tools, select the Cargo tab.
+
+0x000008e1 ~guide: -bullet~ Click the species to transfer. The number of samples on your spaceship is displayed in the icon.
+
+0x000008f1 ~guide: -bullet~ Click and hold a location on the planet's surface until the transfer is complete, let go too soon and your recent cargo may find itself spinning off into the atmosphere.
+
+0x00000901 ~guide: -bullet~ One sample of the species is transferred to the planet's surface.
+
+0x00000911 ~guide: -h3~ Using Your Laser
+
+0x00000921 ~guide: -h2~ Weapons may be necessary in your adventures or they may be your preferred means of communication so to speak.  The most basic weapon is your laser.
+
+0x00000931 ~guide: -h4~ To use your laser:
+
+0x00000941 ~guide: -bullet~ In the Spaceship Tools click on the Weapons bin to open it.
+
+0x00000951 ~guide: -bullet~ Click on the laser icon.
+
+0x00000961 ~guide: -bullet~ Click on a planet based target to give it a short burst of laser.
+
+0x00000971 ~guide: -bullet~ Click and hold on a target to give it a sustained burst of laser.
+
+0x00000981 ~guide: -h1~ Ready Captain - Begin Your Race's Space Adventure
+
+0x000009a1 ~guide: -h2~ There are a couple of key things to know before you launch off into the galaxy to carry on your race's next journey.
+
+0x000009b1 ~guide: -h3~ How to Finance Your Space Program
+
+0x000009c1 ~guide: -h2~ Exploring the galaxy takes funds.  These funds help in the invention of new tools, trade negotiations with alien races, funding for repairs and energy to fuel your ship  and the expansion of your empire.
+
+0x000009d1 ~guide: -h2~ There are many ways to make a Sporebuck.
+
+0x000009e1 ~guide: -bullet~ Accept Missions from other alien races.  There's usually something in it for you.
+
+0x000009f1 ~guide: -bullet~ Explore the galaxy, planet by planet, to find rare artifacts that make great trading objects
+
+0x000009f5 ~guide: -bullet~ Establish colonies to mine spice.  Spice is a hot commodity in the galaxy.  You can trade your homeworld's spice with other races, and if you establish colonies you can increase your spice reserves for further trading opportunities.
+
+0x000009f9 ~guide: -h2~ The richest planets to colonize are found in systems with blue stars, yellow stars support planets with good mining resources and red stars tend to have planets with the least amount of spice to mine.
+
+0x000009fd ~guide: -h2~ The most productive colony planets are those that can sustain multiple large cities.  The more buildings, the more colonists, the more vehicles, the happier and more productive they are.
+
+0x00000a01 ~guide: -h3~ Your My Collections Journal
+
+0x00000a05 ~guide: -h2~ During your journey you will collect missions, badges, tool rights and potentially rare artifacts.   You can check on the status of any of these in your My Collections Journal.
+
+0x00000a09 ~guide: -bullet~ Click on the My Collections button in the lower left corner to open your journal.
+
+0x00000a0d ~guide: -h4~ Journal Tabs
+
+0x00000a11 ~guide: -bullet~ Missions - Find all of your currently active missions as well as your past accomplishments.
+
+0x00000a15 ~guide: -bullet~ Badges - Check here for bragging rights, all of the badges you have earned will be on display.  Set your sights on the ones you want to strive to achieve.
+
+0x00000a19 ~guide: -bullet~ Rares - Lost artifacts and rare collectibles are scattered around the galaxy.  Fill out these collections to completion or trade them one by one.
+
+0x00000a1d ~guide: -bullet~ Tools - As you earn badges, you earn the right to purchase more advanced tools, find out which ones you own, and which ones you can purchase, as well as get a taste for tools that you can strive to acquire.
+
+0x00000a21 ~guide: -h1~ Building Your Empire
+
+0x00000a25 ~guide: -h2~ The key to expanding your presence in the galaxy is to have a presence in the galaxy.  Establish colonies on hospitable planets in new star systems and your Empire will grow.
+
+0x00000a29 ~guide: -h3~ Colonizing a Planet
+
+0x00000a2d ~guide: -h4~ Colonies perform a couple of essential roles for your empire:
+
+0x00000a31 ~guide: -bullet~ Colonies generate income for your empire. Well developed colonies mine spice, a valued commodity that you can trade to amass more Sporebucks. turn Invest these Sporebucks in more tools and in building out your empire even further.
+
+0x00000a35 ~guide: -bullet~ Colonies provide critical way stations as you jump across the galaxy in your spacecraft.  You can acquire repairs and recharge at any of your colonies.
+
+0x00000a39 ~guide: -h4~ Starting a Colony
+
+0x00000a3d ~guide: -h2~ When looking for planets to colonize, aim for planets that have a strategic location in relation to your homeworld and other colonies or are good sources of spice.
+
+0x00000a41 ~guide: -h2~ Planets with higher TerraScores are the easiest to colonize as they can readily support life and fully built out colonies, without any Terraforming investment.
+
+0x00000a45 ~guide: -h2~ Planets with TScores of 0 can only support an outpost colony.  These colonies require domes to protect their citizens from harmful atmospheric gases and rays.  These outposts will provide a waypoint but they will not be able to mine for spice.
+
+0x00000a49 ~guide: -h2~ Planets with a TScore of 1 can support one full colony.  These colonies will begin to mine spice.  To establish the most productive colony, fully build out its buildings.  More factories will increase productivity, but you may find that your colonists are not the most loyal if they are unhappy.
+
+0x00000a4d ~guide: -h2~ Planets with a TScore of 2 can support two full colonies.
+
+0x00000a51 ~guide: -h2~ Planets with a TScore of 3 can support three full colonies.
+
+0x00000a55 ~guide: -h2~ After you have found a planet with sufficient atmospheric conditions and strategic value, you can build a colony on the planet to begin extracting spice revenue and to provide another waypoint in your expanding empire.
+
+0x00000c01 ~guide: -h4~ Terraforming TScore:
+
+0x00000c11 ~guide: -bullet~ T0 - Planet is barren and lifeless. Its temperature is too extreme to sustain life and there may be no atmosphere or water.
+
+0x00000c21 ~guide: -bullet~ T1 - Planet has the ability to sustain life but has no evolved food web. A single colony could survive here if it is well-supplied.
+
+0x00000c31 ~guide: -bullet~ T2 - Planet has a balanced and diverse food web sufficient to sustain two colonies. Over time, and with care, the planet can improve and prosper.
+
+0x00000c41 ~guide: -bullet~ T3 - Planet has a vibrant food web and can sustain three populated cities.
+
+0x00000c51 ~guide: -h4~ To establish a colony on a planet:
+
+0x00000c61 ~guide: -h2~ You must first acquire an Insti-Pak Colony tool from your homeworld or alien trader.   If you accepted your homeworld's colonize mission, you will be supplied with this tool.
+
+0x00000c71 ~guide: -bullet~ Fly to the destination planet.
+
+0x00000c81 ~guide: -bullet~ Open the Colonization Tools bin in your spaceship tools panel.
+
+0x00000c91 ~guide: -bullet~ Click on a location you'd like to place your colony.  It must be within range of a Spice Geyser
+
+0x00000ca1 ~guide: -bullet~ Your colony will unpack along with a City Hall and founding colonists.
+
+0x00000cb1 ~guide: -bullet~ When the planet can support additional buildings, select the City Hall. Then select the Buildings tab to add buildings.
+
+0x00000cc1 ~guide: -bullet~ As you invest in buildings, your colonists will develop vehicles.  They will use the same models as your home world unless you elect to design new vehicles for them.  To do so, open the Vehicles tab in the Colony Planner and design new vehicles for each planet that you colonize.
+
+0x00000cd1 ~guide: -bullet~ Your colonists will manage the mining of spice.  The balance of buildings you have, factories vs. homes vs. entertainment can affect the productivity of your colony as well as your colonists loyalty.
+
+0x00000ce1 ~guide: -bullet~ Your colony is established. Be sure to visit from time to time to collect spice revenue, and to maintain and grow your presence on the planet.
+
+0x00000cf1 ~guide: -h2~ You may find that you need to defend your colonies, boost their productivity or their happiness.  To this end, there are tools that you can purchase from alien races to help you manage your colonies.  Look for these tools as you encounter other races.
+
+0x00000d01 ~guide: -h4~ Taking Over Colonies
+
+0x00000d11 ~guide: -h2~ If your race's approach is a bit more on the aggressive side, you may eschew the "build it yourself" approach to colonizing and instead focus on taking over the colonies of alien empires.
+
+0x00000d21 ~guide: -h4~ To take over existing colonies:
+
+0x00000d31 ~guide: -bullet~ Be prepared with a well stocked arsenal of weapons.  You will need to break down the defenses of each city on an alien colony planet and you may find yourself having to fight off squads of defensive alien craft if they arrive in time to defend their colony.
+
+0x00000d41 ~guide: -bullet~ Destroy the buildings of each colony city in turn.
+
+0x00000d51 ~guide: -bullet~ When you reach the final colony city, this outpost may decide to surrender.  You will have the choice of taking over the colony or blasting it to obliteration.
+
+0x00000d61 ~guide: -h1~ Terraforming
+
+0x00000d71 ~guide: -h2~ You may find that you need to terraform a planet in order to colonize it.  Terraforming is the process of changing a planet's temperature and atmosphere in order to make it more hospitable in terms of supporting life.
+
+0x00000d81 ~guide: -h2~ Using your atmosphere monitor display, a set of terraforming tools and transplanting life from other planets to create an initial ecosystem, you can transform a barren rock of a planet into a lush garden world, capable of supporting multiple colony cities.
+
+0x00000d91 ~guide: -h4~ TerraScores
+
+0x00000da1 ~guide: -h2~ When you arrive in any star system, scan any of the planets in the solar system.  The planet's TScore is noted in the planet roll over.
+
+0x00000db1 ~guide: -h2~ TScores range from T0, the most inhospitable, to T3, fully terraformed and ready with a supporting ecosystem.
+
+0x00000dc1 ~guide: -h2~ Terraforming planets in with green planet trails in the solar system will be easier than terraforming planets with either the red or blue trails, due to either their proximity or distance from that system's star.
+
+0x00000dd1 ~guide: -h4~ Assessing the Planetary Conditions
+
+0x00000de1 ~guide: -h2~ First, assess the current atmospheric conditions of the planet.
+
+0x00000df1 ~guide: -bullet~ Click on the globe button in the top right corner of your minimap to flip to the Atmosphere and Food Web monitors.
+
+0x00000e01 ~guide: -bullet~ In the far left, you will see the atmosphere monitor.
+
+0x00000e11 ~guide: -bullet~ Along the x axis is the planet's temperature, from cold to hot.
+
+0x00000e21 ~guide: -bullet~ Along the y axis is the planet's atmosphere, from too little to too much atmosphere.
+
+0x00000e31 ~guide: -bullet~ An idyllic T3 planet will have a balanced temperature and atmosphere.  In this case, a green dot will be displayed in the center of the atmosphere monitor.
+
+0x00000e41 ~guide: -bullet~ If the planet is not already a T3 planet, you will see a red dot in one of the quadrants. The position of this dot will help you assess whether you need to increase or decrease the atmosphere and whether you need to increase or decrease the temperature to support life.
+
+0x00000e51 ~guide: -h4~ Improving the TerraScore
+
+0x00000e61 ~guide: -bullet~ Now that you've assessed the situation, you know the improvements you need to shoot for.
+
+0x00000e71 ~guide: -bullet~ There are a host of Planet Atmospheric Tools that you can trade for or discover.  If you accept your homeworld's terraforming mission, you will get a starter set to experiment with.
+
+0x00000e81 ~guide: -bullet~ If you need to increase the atmosphere, use tools, such as, the Cloud Seeder or you may even find the Atmosphere Generator
+
+0x00000e91 ~guide: -bullet~ If you need to lower the temperature of the planet, use tools, such as, the Ice Storm or Cloud Vacuum.
+
+0x00000ea1 ~guide: -bullet~ As you use these tools, you will see the red dot on the atmosphere monitor move.  Continue to push this dot toward the center of the monitor.
+
+0x00000eb1 ~guide: -bullet~ Terraforming is an inexact science.  At times the temperature tools will affect the atmosphere and the atmosphere tools will affect the temperature.  Be patient, read the affect of your actions before you make the next move.
+
+0x00000ec1 ~guide: -bullet~ Once the dot moves from one ring in the monitor to the next, the planet is moving from T0 to T1, T2 or T3 TerraScores.  Each transition allows you to stabilize the planet at that stage by placing plants and creatures.  See the section on the Foodweb.
+
+0x00000ed1 ~guide: -h4~ The Foodweb
+
+0x00000ee1 ~guide: -h2~ To the right of the atmosphere monitor is the foodweb display, which identifies the various species that your planet currently supports. As the temperature and atmosphere gets closer to ideal, the planet's terraform level increases, and it can support a wider variety of larger plant and animal species. A planet with great biodiversity supports a larger number of colonies and buildings.
+
+0x00000ef1 ~guide: -h2~ As you improve a planet's TScore, you will want to place new plant and animal species on the planet to stabilize the planet.
+
+0x00000f01 ~guide: -bullet~ When a position in the ecosystem is available for a new plant or animal species, the black dot will transition to an empty blue circle.
+
+0x00000f11 ~guide: -bullet~ Transport a plant or animal species from your Cargo Bay to the planet that corresponds with the open position; small, medium or large plant, herbivore or carnivore.
+
+0x00000f21 ~guide: -bullet~ The open position will fill, when you hover over that spot, it will show you the plant or animal species that now occupies that spot in this planet's ecosystem.
+
+0x00000f31 ~guide: -h4~ Planetary Bio-Disasters
+
+0x00000f41 ~guide: -h2~ Occasionally, due to shifts in the galaxy, your planets, colonies or homeworld may experience a bio-disaster.  These are atmospheric or temperature disasters that can de-stabilize your planets and very negatively affect the life of its inhabitants.
+
+0x00000f51 ~guide: -h2~ Combat these disasters using the same tools that you use to terraform a planet.
+
+0x00000f61 ~guide: -h1~ Exploring the Galaxy
+
+0x00000f71 ~guide: -h2~ The galaxy is full of riches.
+
+0x00000f81 ~guide: -h2~ Explore the stars for unique astronomical formations
+
+0x00000f91 ~guide: -h2~ Explore planets for tools, unique artifacts and objects that may command high prices when trading.
+
+0x00000fa1 ~guide: -h2~ When you discover something on a planet, add it to your cargo bay using your abduction beam.
+
+0x00000fb1 ~guide: -h1~ Relationships with Alien Empires
+
+0x00000fc1 ~guide: -h2~ As you explore the galaxy, you will no doubt encounter other sentient races and their empires.  Your actions will determine how these races feel toward you.
+
+0x00000fd1 ~guide: -bullet~ Ally - Empires with whom you have established an alliance.  Not only will allies be more willing to trade with you, but you can repair and recharge at their homeworld or colonies.  Additionally, your allies will help you in battle.  As you earn badges you can support a fleet of space craft.  Each Ally you gain  will send one of their own craft with you to enhance your fleet.
+
+0x00000fe1 ~guide: -bullet~ Friendly - Empires with whom you have friendly relationships are good ports for trading and missions.
+
+0x00000ff1 ~guide: -bullet~ Neutral - Empires who have a neutral status with you will allow you to trade, however, you may find their prices a bit steep.  They, are also an opportunity for alliance and trade.
+
+0x00001001 ~guide: -bullet~ Unfriendly - Empires who have an unfriendly relationship status with you will react to your presence in their space territory.  They will send a scout to escort you and tend to be ready on the trigger at any potentially hostile actions from you.
+
+0x00001011 ~guide: -bullet~ Enemy - Empires with whom you have opposing goals or with whom you have crossed swords.  Enemies are actively at war with you.  They will fire upon you if you cross their space territory and they will actively seek your colonies and homeworld to destroy.
+
+0x00001021 ~guide: -h2~ Your reputation proceeds you in the galaxy.  Your actions on behalf of one race may antagonize its enemies and they will now become your enemies.  Choose your missions and trade alliances well.
+
+0x00001031 ~guide: -h2~ Relationships also need maintenance.  To keep your allies, or your enemies for that matter, you will need to stay on their radar so to speak.  Continue to engage in diplomatic efforts with your allies to remain in their good graces.
+
+0x00001041 ~guide: -bullet~ To identify Ally or Enemy empires, use the Allies and Enemies Star Map Filter once in interstellar space.
+
+0x00001051 ~guide: -bullet~ Note: It is dangerous to travel into enemy space.  When you have antagonized an alien race its territory will be marked in red in interstellar space.  Encroach upon their territory and they will send out defense scouts to engage with you.  You can take the battle to the nearest planet to hash it out, or you can take flight and travel beyond their reach by flying outside of the red zone.
+
+0x00001061 ~guide: -h4~ Improving Relations
+
+0x00001071 ~guide: -h4~ Now that the benefits of being a good galactic neighbor are clear.  There are many ways to improve your relationships with alien empires.
+
+0x00001081 ~guide: -bullet~ Missions - Take on missions on their behalf.  This will invariably improve their estimation of you.  Be forewarned, occasionally, a mission for one race may put you at odds with another.  Choose your actions wisely.
+
+0x00001091 ~guide: -bullet~ Diplomacy - Gifting other races is always a way to get on their good side.  Proposing trade between your empires is another diplomatic stance to take that can continue to improve relations.  Additionally, once you have established trade routes you may eventually be able to buy out the alien race's star system.
+
+0x000010a1 ~guide: -bullet~ Embassies - Establishing an embassy on an alien race's planet can help you improve or maintain your relationship.  To establish an embassy, you will first need to invest in an Embassy tool.  Place your embassy on any of the alien race's colonies or their homeworld.
+
+0x000010c1 ~guide: -h1~ Combat
+
+0x000010d1 ~guide: -h2~ During your adventures, you may encounter violent opposition to your interstellar activities or find yourself in need of defending your own interests. Your race may also be the war mongering type and make a strategy of disposing of lesser beings to rule the galaxy. These occasions call for combat.
+
+0x000010f1 ~guide: -h3~ Planetside Combat
+
+0x00001101 ~guide: -h2~ During combat, you must manage your attacks and defenses against potentially dozens of enemy spaceship and any land based defenses at the same time. You should pay attention to your health and energy meters during the battle, as well as the stores of available weapons.
+
+0x00001111 ~guide: -h4~ To fight one or more spaceships:
+
+0x00001121 ~guide: -bullet~ Click the Weapons tab in the spaceship tools.
+
+0x00001131 ~guide: -bullet~ Click the weapon to use. Some weapons are defensive.
+
+0x00001141 ~guide: -bullet~ If you selected an offensive weapon, click the target.
+
+0x00001151 ~guide: -bullet~ Some weapons, like the laser, require that you click and hold the target.
+
+0x00001161 ~guide: -bullet~ If you need to flee, press - to gain altitude and navigate away from the conflict.
+
+0x00001171 ~guide: -bullet~ After you defeat the target, you can target any remaining adversaries.
+
+0x00001181 ~guide: -h4~ To target planet based defenses:
+
+0x00001191 ~guide: -bullet~ Again, open the Weapons tab and select your weapon of choice.
+
+0x000011a1 ~guide: -bullet~ Click on a planet based object to target it.
+
+0x000011b1 ~guide: -bullet~ Click or click and hold to deploy your weapon.
+
+0x000011c1 ~guide: -h3~ Allies in Combat
+
+0x000011d1 ~guide: -h2~ As you build your alliances, you can call upon your allies to help you in combat operations.  If you have earned the ability to have a fleet, your allies will be with you.  If you allied with them before you were capable of maintaining a fleet or if you lose an allied ship in battle you will need to return to their system to pick them up.
+
+0x000011e1 ~guide: -h4~ Calling Allies
+
+0x000011f1 ~guide: -h2~ To retrieve an allied ship to join your Space Fleet, return to the empire's system with whom you allied.  Open your Communications Panel and click on the Diplomacy button and ask for one of their ships to join you.
+
+0x00001201 ~guide: -h1~ Trading
+
+0x00001211 ~guide: -h2~ Trading, as well as negotiating repairs and recharging your ship, is a critical activity to keep your space program going.  You can trade with your own colonies and other alien races.
+
+0x00001221 ~guide: -bullet~ To open negotiations with a colony or alien empire, fly to the planet they inhabit, then open your Communications Panel.
+
+0x00001231 ~guide: -bullet~ Click the Trade button to open negotiations.
+
+0x00001241 ~guide: -bullet~ All of the items that this colony or race possesses and are open for negotiation are found in the top panel of the trading screen.
+
+0x00001251 ~guide: -bullet~ Your own items for trade are shown in the bottom screen.
+
+0x00001261 ~guide: -h4~ To buy an item:
+
+0x00001271 ~guide: -bullet~ Select the item you are interested in purchasing in the top pane. The item will then be displayed in the bottom-right corner of the screen.
+
+0x00001281 ~guide: -bullet~ Use the arrow buttons to change the quantity of the item. The right-hand number indicates the maximum number of the item that you can carry in your ship.
+
+0x00001291 ~guide: -bullet~ To make the purchase, click the Buy Item button
+
+0x000012a1 ~guide: -bullet~ The funds are deducted from your Sporebucks.
+
+0x000012b1 ~guide: -h4~ To sell an item:
+
+0x000012c1 ~guide: -bullet~ Click on the item you wish to trade in the lower area of the trading screen.  It will then be displayed in the bottom right corner of the trading screen.
+
+0x000012d1 ~guide: -bullet~ Use the arrow buttons to change the quantity of the item.
+
+0x000012e1 ~guide: -bullet~ To sell the item, click the Sell Item button.
+
+0x000012f1 ~guide: -bullet~ If the price is found to be agreeable, the appropriate Sporebucks will be added to your Treasury and the item will be moved from your cargo to the traders storage.
+
+0x00001301 ~guide: -h3~ Trade Routes and System Buy Outs
+
+0x00001311 ~guide: -h2~ You can establish trade routes with alien races that you are on friendly terms with.  Trade routes transport Spice between your two chosen star systems.
+
+0x00001321 ~guide: -h2~ The relationship between your two races will increase as long as the trade route is maintained.
+
+0x00001331 ~guide: -h2~ Eventually, your trade route will mature, you can check on its status by hovering over the star system you are trading with.  A successful trade route can lead to the offer from the alien race for you to buy out their star system.
+
+0x00001341 ~guide: -h2~ Star Systems do not go cheap, so you'll need to have plenty of cash on hand to take this route of building out your empire.  The advantage is that it can be a fully functional colony without any further cost.
+
+0x00001351 ~guide: -h4~ To establish a trade route:
+
+0x00001361 ~guide: -bullet~ Fly to the star system and planet you'd like to propose trade with.
+
+0x00001371 ~guide: -bullet~ Open communications with this already friendly alien race.
+
+0x00001381 ~guide: -bullet~ Select the Diplomatic option.
+
+0x00001391 ~guide: -bullet~ Click on the option to propose a trade route.
+
+0x000013a1 ~guide: -h2~ Note:  You can only have three active trade routes at any one time.
+
+0x000013b1 ~guide: -h1~ Space Missions
+
+0x000013c1 ~guide: -h2~ Space missions may be offered to you by your homeworld or by alien empires
+
+0x000013d1 ~guide: -h2~ You will be introduced to any potential missions through communications with your homeworld or alien races.  Open the communications panel and select missions.
+
+0x000013e1 ~guide: -h2~ If you accept a mission, you will see a small mission card in the upper left corner of your screen.
+
+0x000013f1 ~guide: -h2~ This small card contains the most essential information about the mission.  What do to, what star system and planet is involved and who it is for.
+
+0x00001401 ~guide: -bullet~ To get more information about the mission you have accepted, click on the headline of the small card and then on the body of that card, or click on your My Collections Journal and open the Missions tab.
+
+0x00001411 ~guide: -bullet~ In the My Collections Journal you can see all of the missions that you have accepted and are considered active, you can select which missions you would like to track on screen and you can see the history of missions that you have already accomplished.
+
+0x00001421 ~guide: -bullet~ Once you have completed a mission, you will be reminded to return to the alien race who imitated that mission or to your homeworld for reward.
+
+0x00001431 ~guide: -h3~ Mission Star Map Filter
+
+0x00001441 ~guide: -h2~ Another way to track the missions that you have accepted is to turn on the Missions filter in your Star Map Filters when in interstellar space.
+
+0x00001451 ~guide: -h2~ With the Missions filter on, each star system that is involved in any of your active missions will feature a small mission indicator.
+
+0x00001461 ~guide: -h1~ Interacting with the Wilder Side
+
+0x00001471 ~guide: -h2~ You will occasionally come across planets where the inhabitants  have not evolved to your elevated status of space faring race.  You have some opportunities to invest in these species for the future or scare the dickens out of them in the here and now.
+
+0x00001481 ~guide: -bullet~ Wild Planets - These planets are in the early phases of evolution, already populated with wild creatures and flora.  Add specimens to your cargo bay for sparking an ecosystem on a planet you wish to terraform later, or potentially for your own Wildlife Sanctuary if you invest in that tool.
+
+0x00001491 ~guide: -bullet~ Tribal and Civilized Planets - The inhabitants of these planets are frankly just fun to scare.  Buzz them with your ship, Supersize a wild creature and see it attack or mystify them with crop circles.
+
+0x000014a1 ~guide: -h2~ You can also elect to invest in your distant future.  Set in motion a particular tribe's ascension to civilized status or nudge a civilization toward space faring status using the Monolith tool.  Over time, as these early species develop and reach the status of Space Faring Race, they will swear allegiance to you willingly and without any effort on your part.
+
+0x000014b1 ~guide: -h1~ The Grox!
+
+0x000014c1 ~guide: -h2~ Watch out for these guys.  This is a race that all other races fear.  Not much is known about them beyond the fact that they are highly combative and protective of their space.  Those who have encountered them will readily share their stories of the Grox's destructive force with you.
+
+0x000014d1 ~guide: -h1~ The Quest
+
+0x000014e1 ~guide: -h2~ Piecing together snippets of history from ancient alien scrolls, it seems there is a belief shared by many of the alien races in the galaxy.  The belief is that there is some unique mystery that can only be solved by a journey to the center of the galaxy.  Taking on this adventure is up to you.
+
+0x000014f1 ~guide: -h1~ Tracking Your Progress
+
+0x00001501 ~guide: -h2~ The progress bar for the Space Stage is found at the bottom of your screen.  Each segment represents progress toward the measure of your race amongst its peers in the galaxy.
+
+0x00001511 ~guide: -h2~ As you collect badges, the progress meter fills indicating how many Master Badges you have earned.  Once you reach the top Master Badge you can consider your race a galactic god.
+
+0x00001521 ~guide: -h2~ Once you reach this status you join the rarified group of races that can brag about such an accomplishment.  But your journey, as measured by your own goals, may just be starting.  Explore all of the reaches of the galaxy, create a Sporepedia filled with thousands and thousands of unique cards...or start afresh, return to the Galaxy Main Entry and hop a meteor to see what might lie in store if you chose a different evolutionary path.
+

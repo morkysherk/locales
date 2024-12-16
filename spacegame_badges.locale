@@ -1,0 +1,2267 @@
+﻿# archetypeswitch-1.prop - badgeHintAction
+0x05f8c76a Change personality ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Split Personality 1 badge.~badge_unlocks~
+
+# archetypeswitch-1.prop - badgeName
+0x05f8c5c8 Split Personality 1
+
+# archetypeswitch-1.prop - badgeUnlockString
+0x05f8c579 You've earned the Split Personality 1 badge.
+
+# archetypeswitch-2.prop - badgeHintAction
+0x05f8c76b Change personality ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Split Personality 2 badge.~badge_unlocks~
+
+# archetypeswitch-2.prop - badgeName
+0x05f8c5c9 Split Personality 2
+
+# archetypeswitch-2.prop - badgeUnlockString
+0x05f8c57a You've earned the Split Personality 2 badge.
+
+# archetypeswitch-3.prop - badgeHintAction
+0x05f8c76c Change personality ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Split Personality 3 badge.~badge_unlocks~
+
+# archetypeswitch-3.prop - badgeName
+0x05f8c5ca Split Personality 3
+
+# archetypeswitch-3.prop - badgeUnlockString
+0x05f8c57b You've earned the Split Personality 3 badge.
+
+# archetypeswitch-4.prop - badgeHintAction
+0x05f8c76d Change personality ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Split Personality 4 badge.~badge_unlocks~
+
+# archetypeswitch-4.prop - badgeName
+0x05f8c5cb Split Personality 4
+
+# archetypeswitch-4.prop - badgeUnlockString
+0x05f8c57c You've earned the Split Personality 4 badge.
+
+# archetypeswitch-5.prop - badgeHintAction
+0x05f8c76e Change personality ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Split Personality 5 badge.~badge_unlocks~
+
+# archetypeswitch-5.prop - badgeName
+0x05f8c5cc Split Personality 5
+
+# archetypeswitch-5.prop - badgeUnlockString
+0x05f8c57d You've earned the Split Personality 5 badge.
+
+# badgecollector-1.prop - badgeHintAction
+0x0900939c Earn badges to achieve Commander status.~badge_unlocks~
+
+# badgecollector-1.prop - badgeName
+0x043b3f88 Title of Commander
+
+# badgecollector-1.prop - badgeUnlockString
+0x052ecc84 Promotion! You shall now be called Commander of the ~player_species~.
+
+# badgecollector-10.prop - badgeHintAction
+0x4933484a Earn badges to achieve Omnipotent status.~badge_unlocks~
+
+# badgecollector-10.prop - badgeName
+0x052ecceb Title of Omnipotent
+
+# badgecollector-10.prop - badgeUnlockString
+0x0487d2ce Congratulations! You shall now be called Omnipotent ~player_species~.
+
+# badgecollector-2.prop - badgeHintAction
+0x0f863c7f Earn badges to achieve Commodore status.~badge_unlocks~
+
+# badgecollector-2.prop - badgeName
+0x0487d39a Title of Commodore
+
+# badgecollector-2.prop - badgeUnlockString
+0x043b3f89 Promotion! You shall now be called Commodore of the ~player_species~.
+
+# badgecollector-3.prop - badgeHintAction
+0x2c46d6ea Earn badges to achieve Admiral status.~badge_unlocks~
+
+# badgecollector-3.prop - badgeName
+0x0487d39d Title of Admiral
+
+# badgecollector-3.prop - badgeUnlockString
+0x052ecc85 Promotion! You shall now be called Admiral of the ~player_species~.
+
+# badgecollector-4.prop - badgeHintAction
+0x3a5bd815 Earn badges to achieve The Celebrated status.~badge_unlocks~
+
+# badgecollector-4.prop - badgeName
+0x0487d3a0 Title of The Celebrated
+
+# badgecollector-4.prop - badgeUnlockString
+0x0487d2b1 Promotion! You shall now be called The Celebrated ~player_species~.
+
+# badgecollector-5.prop - badgeHintAction
+0xcd82b428 Earn badges to achieve The Renowed status.~badge_unlocks~
+
+# badgecollector-5.prop - badgeName
+0x0487d3a2 Title of The Renowned
+
+# badgecollector-5.prop - badgeUnlockString
+0x052ecc86 Promotion! You shall now be called The Renowned ~player_species~.
+
+# badgecollector-6.prop - badgeHintAction
+0x166f96ab Earn badges to achieve The Great status.~badge_unlocks~
+
+# badgecollector-6.prop - badgeName
+0x052ecce7 Title of The Great
+
+# badgecollector-6.prop - badgeUnlockString
+0x0487d2b6 Promotion! You shall now be called The Great ~player_species~.
+
+# badgecollector-7.prop - badgeHintAction
+0x66c2b626 Earn badges to achieve The Legendary status.~badge_unlocks~
+
+# badgecollector-7.prop - badgeName
+0x052ecce8 Title of The Legendary
+
+# badgecollector-7.prop - badgeUnlockString
+0x052ecc87 Promotion! You shall now be called The Legendary ~player_species~.
+
+# badgecollector-8.prop - badgeHintAction
+0x0c3b9ae1 Earn badges to achieve All-Powerful status.~badge_unlocks~
+
+# badgecollector-8.prop - badgeName
+0x052ecce9 Title of All-Powerful
+
+# badgecollector-8.prop - badgeUnlockString
+0x0487d2c9 Promotion! You shall now be called All-Powerful ~player_species~.
+
+# badgecollector-9.prop - badgeHintAction
+0x87446f94 Earn badges to achieve Ultimate Being status.~badge_unlocks~
+
+# badgecollector-9.prop - badgeName
+0x052eccea Title of Ultimate Being
+
+# badgecollector-9.prop - badgeUnlockString
+0x052ecc88 Promotion! You shall now be called Ultimate Being of the ~player_species~.
+
+# bodyguard-1.prop - badgeHintAction
+0x83de7c97 Defend ~badge_needed~ ~^p^badge_needed^friend^friends~ to earn the Body Guard 1 badge.~badge_unlocks~
+
+# bodyguard-1.prop - badgeName
+0x0594b636 Body Guard 1
+
+# bodyguard-1.prop - badgeUnlockString
+0x0594c7d5 You've earned the Body Guard 1 badge.
+
+# bodyguard-2.prop - badgeHintAction
+0xd00a4a34 Defend ~badge_needed~ ~^p^badge_needed^friend^friends~ to earn the Body Guard 2 badge.~badge_unlocks~
+
+# bodyguard-2.prop - badgeName
+0x0594b637 Body Guard 2
+
+# bodyguard-2.prop - badgeUnlockString
+0x0594c7d6 You've earned the Body Guard 2 badge.
+
+# bodyguard-3.prop - badgeHintAction
+0xb0ed6f01 Defend ~badge_needed~ ~^p^badge_needed^friend^friends~ to earn the Body Guard 3 badge.~badge_unlocks~
+
+# bodyguard-3.prop - badgeName
+0x0594b638 Body Guard 3
+
+# bodyguard-3.prop - badgeUnlockString
+0x0594c7d7 You've earned the Body Guard 3 badge.
+
+# bodyguard-4.prop - badgeHintAction
+0x85d7955e Defend ~badge_needed~ ~^p^badge_needed^friend^friends~ to earn the Body Guard 4 badge.~badge_unlocks~
+
+# bodyguard-4.prop - badgeName
+0x0594b639 Body Guard 4
+
+# bodyguard-4.prop - badgeUnlockString
+0x0594c7d8 You've earned the Body Guard 4 badge.
+
+# bodyguard-5.prop - badgeHintAction
+0xefdf7e63 Defend ~badge_needed~ ~^p^badge_needed^friend^friends~ to earn the Body Guard 5 badge.~badge_unlocks~
+
+# bodyguard-5.prop - badgeName
+0x0594b63a Body Guard 5
+
+# bodyguard-5.prop - badgeUnlockString
+0x0594c7d9 You've earned the Body Guard 5 badge.
+
+# brainsurgeon-1.prop - badgeHintAction
+0xe7bb01d7 Promote ~badge_needed~ ~^p^badge_needed^Creature^Creatures~ to Tribal to earn the Brain Surgeon 1 badge.~badge_unlocks~
+
+# brainsurgeon-1.prop - badgeName
+0x0594b62c Brain Surgeon 1
+
+# brainsurgeon-1.prop - badgeUnlockString
+0x0594c7cb You've earned the Brain Surgeon 1 badge.
+
+# brainsurgeon-2.prop - badgeHintAction
+0xd599da74 Promote ~badge_needed~ ~^p^badge_needed^Creature^Creatures~ to Tribal to earn the Brain Surgeon 2 badge.~badge_unlocks~
+
+# brainsurgeon-2.prop - badgeName
+0x0594b62d Brain Surgeon 2
+
+# brainsurgeon-2.prop - badgeUnlockString
+0x0594c7cc You've earned the Brain Surgeon 2 badge.
+
+# brainsurgeon-3.prop - badgeHintAction
+0x64c39041 Promote ~badge_needed~ ~^p^badge_needed^Creature^Creatures~ to Tribal to earn the Brain Surgeon 3 badge.~badge_unlocks~
+
+# brainsurgeon-3.prop - badgeName
+0x0594b62e Brain Surgeon 3
+
+# brainsurgeon-3.prop - badgeUnlockString
+0x0594c7cd You've earned the Brain Surgeon 3 badge.
+
+# brainsurgeon-4.prop - badgeHintAction
+0xc126519e Promote ~badge_needed~ ~^p^badge_needed^Creature^Creatures~ to Tribal to earn the Brain Surgeon 4 badge.~badge_unlocks~
+
+# brainsurgeon-4.prop - badgeName
+0x0594b62f Brain Surgeon 4
+
+# brainsurgeon-4.prop - badgeUnlockString
+0x0594c7ce You've earned the Brain Surgeon 4 badge.
+
+# brainsurgeon-5.prop - badgeHintAction
+0x47ba6aa3 Promote ~badge_needed~ ~^p^badge_needed^Creature^Creatures~ to Tribal to earn the Brain Surgeon 5 badge.~badge_unlocks~
+
+# brainsurgeon-5.prop - badgeName
+0x0594b630 Brain Surgeon 5
+
+# brainsurgeon-5.prop - badgeUnlockString
+0x0594c7cf You've earned the Brain Surgeon 5 badge.
+
+# captain.prop - badgeHintAction
+0xb3123e02 Prove your skills as a Captain of your spaceship to earn the Captain's badge.~badge_unlocks~
+
+# captain.prop - badgeName
+0x0487ae1e Captain's Badge
+
+# captain.prop - badgeUnlockString
+0x0487ae7e You've earned the Captain's badge.
+
+# cleaner-1.prop - badgeHintAction
+0xe2d877a2 Complete ~badge_needed~ ~^p^badge_needed^Eradication Mission^Eradication Missions~ to earn the Cleaner 1 badge.~badge_unlocks~
+
+# cleaner-1.prop - badgeName
+0x043b3f6c Cleaner 1
+
+# cleaner-1.prop - badgeUnlockString
+0x043b3f6d You've earned the Cleaner 1 badge.
+
+# cleaner-2.prop - badgeHintAction
+0x5c7a4f41 Complete ~badge_needed~ ~^p^badge_needed^Eradication Mission^Eradication Missions~ to earn the Cleaner 2 badge.~badge_unlocks~
+
+# cleaner-2.prop - badgeName
+0x0487bb45 Cleaner 2
+
+# cleaner-2.prop - badgeUnlockString
+0x0487bb72 You've earned the Cleaner 2 badge.
+
+# cleaner-3.prop - badgeHintAction
+0xcd509974 Complete ~badge_needed~ ~^p^badge_needed^Eradication Mission^Eradication Missions~ to earn the Cleaner 3 badge.~badge_unlocks~
+
+# cleaner-3.prop - badgeName
+0x0487bb49 Cleaner 3
+
+# cleaner-3.prop - badgeUnlockString
+0x0487bb77 You've earned the Cleaner 3 badge.
+
+# cleaner-4.prop - badgeHintAction
+0x3f7129a3 Complete ~badge_needed~ ~^p^badge_needed^Eradication Mission^Eradication Missions~ to earn the Cleaner 4 badge.~badge_unlocks~
+
+# cleaner-4.prop - badgeName
+0x0487bb4c Cleaner 4
+
+# cleaner-4.prop - badgeUnlockString
+0x0487bb7c You've earned the Cleaner 4 badge.
+
+# cleaner-5.prop - badgeHintAction
+0xb8dd109e Complete ~badge_needed~ ~^p^badge_needed^Eradication Mission^Eradication Missions~ to earn the Cleaner 5 badge.~badge_unlocks~
+
+# cleaner-5.prop - badgeName
+0x0487bb4f Cleaner 5
+
+# cleaner-5.prop - badgeUnlockString
+0x0487bb7f You've earned the Cleaner 5 badge.
+
+# collector-1.prop - badgeHintAction
+0xa0379b35 Collect ~badge_needed~ ~^p^badge_needed^Artifact^Artifacts~ to earn the Collector 1 badge.~badge_unlocks~
+
+# collector-1.prop - badgeName
+0x043b3f6a Collector 1
+
+# collector-1.prop - badgeUnlockString
+0x043b3f6b You've earned the Collector 1 badge.
+
+# collector-2.prop - badgeHintAction
+0x1f0ae746 Collect ~badge_needed~ ~^p^badge_needed^Artifact^Artifacts~ to earn the Collector 2 badge.~badge_unlocks~
+
+# collector-2.prop - badgeName
+0x0487d5b2 Collector 2
+
+# collector-2.prop - badgeUnlockString
+0x0487d592 You've earned the Collector 2 badge.
+
+# collector-3.prop - badgeHintAction
+0x4f90344b Collect ~badge_needed~ ~^p^badge_needed^Artifact^Artifacts~ to earn the Collector 3 badge.~badge_unlocks~
+
+# collector-3.prop - badgeName
+0x0487d5b3 Collector 3
+
+# collector-3.prop - badgeUnlockString
+0x0487d593 You've earned the Collector 3 badge.
+
+# collector-4.prop - badgeHintAction
+0x8000b4bc Collect ~badge_needed~ ~^p^badge_needed^Artifact^Artifacts~ to earn the Collector 4 badge.~badge_unlocks~
+
+# collector-4.prop - badgeName
+0x0487d5b4 Collector 4
+
+# collector-4.prop - badgeUnlockString
+0x0487d594 You've earned the Collector 4 badge.
+
+# collector-5.prop - badgeHintAction
+0x2cf35c29 Collect ~badge_needed~ ~^p^badge_needed^Artifact^Artifacts~ to earn the Collector 5 badge.~badge_unlocks~
+
+# collector-5.prop - badgeName
+0x0487d5b5 Collector 5
+
+# collector-5.prop - badgeUnlockString
+0x0487d595 You've earned the Collector 5 badge.
+
+# colonist-1.prop - badgeHintAction
+0x29c56ce9 Place ~badge_needed~ Colony~^p^badge_needed^Building^Buildings~ to earn the Colonist 1 badge.~badge_unlocks~
+
+# colonist-1.prop - badgeName
+0x043b3f68 Colonist 1
+
+# colonist-1.prop - badgeUnlockString
+0x043b3f69 You've earned the Colonist 1 badge.
+
+# colonist-2.prop - badgeHintAction
+0x8247854a Place ~badge_needed~ Colony ~^p^badge_needed^Building^Buildings~ to earn the Colonist 2 badge.~badge_unlocks~
+
+# colonist-2.prop - badgeName
+0x043b3f66 Colonist 2
+
+# colonist-2.prop - badgeUnlockString
+0x043b3f67 You've earned the Colonist 2 badge.
+
+# colonist-3.prop - badgeHintAction
+0x8ce29ddf Place ~badge_needed~ Colony ~^p^badge_needed^Building^Buildings~ to earn the Colonist 3 badge.~badge_unlocks~
+
+# colonist-3.prop - badgeName
+0x04869507 Colonist 3
+
+# colonist-3.prop - badgeUnlockString
+0x048694cc You've earned the Colonist 3 badge.
+
+# colonist-4.prop - badgeHintAction
+0xfa8f1d08 Place ~badge_needed~ Colony ~^p^badge_needed^Building^Buildings~ to earn the Colonist 4 badge.~badge_unlocks~
+
+# colonist-4.prop - badgeName
+0x0486950b Colonist 4
+
+# colonist-4.prop - badgeUnlockString
+0x048694d0 You've earned the Colonist 4 badge.
+
+# colonist-5.prop - badgeHintAction
+0x31d447f5 Place ~badge_needed~ Colony ~^p^badge_needed^Building^Buildings~ to earn the Colonist 5 badge.~badge_unlocks~
+
+# colonist-5.prop - badgeName
+0x0486950e Colonist 5
+
+# colonist-5.prop - badgeUnlockString
+0x048694d3 You've earned the Colonist 5 badge.
+
+# conquerer-1.prop - badgeHintAction
+0xa8e504ce Conquer ~badge_needed~ ~^p^badge_needed^Planet^Planets~ to earn the Conqueror 1 badge.~badge_unlocks~
+
+# conquerer-1.prop - badgeName
+0x0594b645 Conqueror 1
+
+# conquerer-1.prop - badgeUnlockString
+0x0594c833 You've earned the Conqueror 1 badge.
+
+# conquerer-2.prop - badgeHintAction
+0xde0912fd Conquer ~badge_needed~ ~^p^badge_needed^Planet^Planets~ to earn the Conqueror 2 badge.~badge_unlocks~
+
+# conquerer-2.prop - badgeName
+0x0594b646 Conqueror 2
+
+# conquerer-2.prop - badgeUnlockString
+0x0594c834 You've earned the Conqueror 2 badge.
+
+# conquerer-3.prop - badgeHintAction
+0xc09c7690 Conquer ~badge_needed~ ~^p^badge_needed^Planet^Planets~ to earn the Conqueror 3 badge.~badge_unlocks~
+
+# conquerer-3.prop - badgeName
+0x0594b647 Conqueror 3
+
+# conquerer-3.prop - badgeUnlockString
+0x0594c835 You've earned the Conqueror 3 badge.
+
+# conquerer-4.prop - badgeHintAction
+0x97436a47 Conquer ~badge_needed~ ~^p^badge_needed^Planet^Planets~ to earn the Conqueror 4 badge.~badge_unlocks~
+
+# conquerer-4.prop - badgeName
+0x0594b648 Conqueror 4
+
+# conquerer-4.prop - badgeUnlockString
+0x0594c836 You've earned the Conqueror 4 badge.
+
+# conquerer-5.prop - badgeHintAction
+0xeb04a052 Conquer ~badge_needed~ ~^p^badge_needed^Planet^Planets~ to earn the Conqueror 5 badge.~badge_unlocks~
+
+# conquerer-5.prop - badgeName
+0x0594b649 Conqueror 5
+
+# conquerer-5.prop - badgeUnlockString
+0x0594c837 You've earned the Conqueror 5 badge.
+
+# diplomat-1.prop - badgeHintAction
+0xc8e74fa0 Form ~badge_needed~ ~^p^badge_needed^Alliance^Alliances~ to earn the Diplomat 1 badge.~badge_unlocks~
+
+# diplomat-1.prop - badgeName
+0x043b3f62 Diplomat 1
+
+# diplomat-1.prop - badgeUnlockString
+0x043b3f63 You've earned the Diplomat 1 badge.
+
+# diplomat-2.prop - badgeHintAction
+0x21be4463 Form ~badge_needed~ ~^p^badge_needed^Alliance^Alliances~ to earn the Diplomat 2 badge.~badge_unlocks~
+
+# diplomat-2.prop - badgeName
+0x043b3f60 Diplomat 2
+
+# diplomat-2.prop - badgeUnlockString
+0x043b3f61 You've earned the Diplomat 2 badge.
+
+# diplomat-3.prop - badgeHintAction
+0xb7b65b5e Form ~badge_needed~ ~^p^badge_needed^Alliance^Alliances~ to earn the Diplomat 3 badge.~badge_unlocks~
+
+# diplomat-3.prop - badgeName
+0x0486a64f Diplomat 3
+
+# diplomat-3.prop - badgeUnlockString
+0x0486a689 You've earned the Diplomat 3 badge.
+
+# diplomat-4.prop - badgeHintAction
+0xe2cc3501 Form ~badge_needed~ ~^p^badge_needed^Alliance^Alliances~ to earn the Diplomat 4 badge.~badge_unlocks~
+
+# diplomat-4.prop - badgeName
+0x0486a653 Diplomat 4
+
+# diplomat-4.prop - badgeUnlockString
+0x0486a68d You've earned the Diplomat 4 badge.
+
+# diplomat-5.prop - badgeHintAction
+0x01e91034 Form ~badge_needed~ ~^p^badge_needed^Alliance^Alliances~ to earn the Diplomat 5 badge.~badge_unlocks~
+
+# diplomat-5.prop - badgeName
+0x0486a656 Diplomat 5
+
+# diplomat-5.prop - badgeUnlockString
+0x0486a692 You've earned the Diplomat 5 badge.
+
+# ecohero-1.prop - badgeHintAction
+0xa38e8e03 Avert ~badge_needed~ Eco ~^p^badge_needed^Disaster^Disasters~ to earn the Eco Hero 1 badge.~badge_unlocks~
+
+# ecohero-1.prop - badgeName
+0x0594b7f7 Eco Hero 1
+
+# ecohero-1.prop - badgeUnlockString
+0x0594c879 You've earned the Eco Hero 1 badge.
+
+# ecohero-2.prop - badgeHintAction
+0x010fc0c0 Avert ~badge_needed~ Eco ~^p^badge_needed^Disaster^Disasters~ to earn the Eco Hero 2 badge.~badge_unlocks~
+
+# ecohero-2.prop - badgeName
+0x0594b7f8 Eco Hero 2
+
+# ecohero-2.prop - badgeUnlockString
+0x0594c87a You've earned the Eco Hero 2 badge.
+
+# ecohero-3.prop - badgeHintAction
+0x0863a02d Avert ~badge_needed~ Eco ~^p^badge_needed^Disaster^Disasters~ to earn the Eco Hero 3 badge.~badge_unlocks~
+
+# ecohero-3.prop - badgeName
+0x0594b7f9 Eco Hero 3
+
+# ecohero-3.prop - badgeUnlockString
+0x0594c87b You've earned the Eco Hero 3 badge.
+
+# ecohero-4.prop - badgeHintAction
+0xcf1d8002 Avert ~badge_needed~ Eco ~^p^badge_needed^Disaster^Disasters~ to earn the Eco Hero 4 badge.~badge_unlocks~
+
+# ecohero-4.prop - badgeName
+0x0594b7fa Eco Hero 4
+
+# ecohero-4.prop - badgeUnlockString
+0x0594c87c You've earned the Eco Hero 4 badge.
+
+# ecohero-5.prop - badgeHintAction
+0x6b785eb7 Avert ~badge_needed~ Eco ~^p^badge_needed^Disaster^Disasters~ to earn the Eco Hero 5 badge.~badge_unlocks~
+
+# ecohero-5.prop - badgeName
+0x0594b7fb Eco Hero 5
+
+# ecohero-5.prop - badgeUnlockString
+0x0594c87d You've earned the Eco Hero 5 badge.
+
+# economist-1.prop - badgeHintAction
+0x2c62053d Purchase ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Economist 1 badge.~badge_unlocks~
+
+# economist-1.prop - badgeName
+0x0594b7e8 Economist 1
+
+# economist-1.prop - badgeUnlockString
+0x0594c838 You've earned the Economist 1 badge.
+
+# economist-2.prop - badgeHintAction
+0x0610b50e Purchase ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Economist 2 badge.~badge_unlocks~
+
+# economist-2.prop - badgeName
+0x0594b7e9 Economist 2
+
+# economist-2.prop - badgeUnlockString
+0x0594c839 You've earned the Economist 2 badge.
+
+# economist-3.prop - badgeHintAction
+0xe6286593 Purchase ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Economist 3 badge.~badge_unlocks~
+
+# economist-3.prop - badgeName
+0x0594b7ea Economist 3
+
+# economist-3.prop - badgeUnlockString
+0x0594c83a You've earned the Economist 3 badge.
+
+# economist-4.prop - badgeHintAction
+0x896ddea4 Purchase ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Economist 4 badge.~badge_unlocks~
+
+# economist-4.prop - badgeName
+0x0594b7eb Economist 4
+
+# economist-4.prop - badgeUnlockString
+0x0594c83b You've earned the Economist 4 badge.
+
+# economist-5.prop - badgeHintAction
+0x5de3b0b1 Purchase ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Economist 5 badge.~badge_unlocks~
+
+# economist-5.prop - badgeName
+0x0594b7ec Economist 5
+
+# economist-5.prop - badgeUnlockString
+0x0594c83c You've earned the Economist 5 badge.
+
+# empire-1.prop - badgeHintAction
+0xda70bc9a Expand to ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Empire 1 badge.~badge_unlocks~
+
+# empire-1.prop - badgeName
+0x0594b63b Empire 1
+
+# empire-1.prop - badgeUnlockString
+0x0594c7da You've earned the Empire 1 badge.
+
+# empire-2.prop - badgeHintAction
+0xf06fc279 Expand to ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Empire 2 badge.~badge_unlocks~
+
+# empire-2.prop - badgeName
+0x0594b63c Empire 2
+
+# empire-2.prop - badgeUnlockString
+0x0594c7db You've earned the Empire 2 badge.
+
+# empire-3.prop - badgeHintAction
+0xb3448a4c Expand to ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Empire 3 badge.~badge_unlocks~
+
+# empire-3.prop - badgeName
+0x0594b63d Empire 3
+
+# empire-3.prop - badgeUnlockString
+0x0594c7dc You've earned the Empire 3 badge.
+
+# empire-4.prop - badgeHintAction
+0xbc19359b Expand to ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Empire 4 badge.~badge_unlocks~
+
+# empire-4.prop - badgeName
+0x0594b63e Empire 4
+
+# empire-4.prop - badgeUnlockString
+0x0594c7dd You've earned the Empire 4 badge.
+
+# empire-5.prop - badgeHintAction
+0xb2bffc96 Expand to ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Empire 5 badge.~badge_unlocks~
+
+# empire-5.prop - badgeName
+0x0594b63f Empire 5
+
+# empire-5.prop - badgeUnlockString
+0x0594c7de You've earned the Empire 5 badge.
+
+# explorer-1.prop - badgeHintAction
+0x12e7165b Explore ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Explorer 1 badge.~badge_unlocks~
+
+# explorer-1.prop - badgeName
+0x043b3f86 Explorer 1
+
+# explorer-1.prop - badgeUnlockString
+0x043b3f87 You've earned the Explorer 1 badge.
+
+# explorer-2.prop - badgeHintAction
+0x7ec39cd8 Explore ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Explorer 2 badge.~badge_unlocks~
+
+# explorer-2.prop - badgeName
+0x043b3f84 Explorer 2
+
+# explorer-2.prop - badgeUnlockString
+0x043b3f85 You've earned the Explorer 2 badge.
+
+# explorer-3.prop - badgeHintAction
+0x60fce005 Explore ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Explorer 3 badge.~badge_unlocks~
+
+# explorer-3.prop - badgeName
+0x043b3f82 Explorer 3
+
+# explorer-3.prop - badgeUnlockString
+0x043b3f83 You've earned the Explorer 3 badge.
+
+# explorer-4.prop - badgeHintAction
+0x4525885a Explore ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Explorer 4 badge.~badge_unlocks~
+
+# explorer-4.prop - badgeName
+0x043b3f80 Explorer 4
+
+# explorer-4.prop - badgeUnlockString
+0x043b3f81 You've earned the Explorer 4 badge.
+
+# explorer-5.prop - badgeHintAction
+0x97aa2b2f Explore ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Explorer 5 badge.~badge_unlocks~
+
+# explorer-5.prop - badgeName
+0x047fc351 Explorer 5
+
+# explorer-5.prop - badgeUnlockString
+0x047fc3a2 You've earned the Explorer 5 badge.
+
+# frequentflyer-1.prop - badgeHintAction
+0x651bfa98 Fly between ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Frequent Flyer 1 badge.~badge_unlocks~
+
+# frequentflyer-1.prop - badgeName
+0x0594b8da Frequent Flyer 1
+
+# frequentflyer-1.prop - badgeUnlockString
+0x0594c8bb You've earned the Frequent Flyer 1 badge.
+
+# frequentflyer-2.prop - badgeHintAction
+0x4e252f1b Fly between ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Frequent Flyer 2 badge.~badge_unlocks~
+
+# frequentflyer-2.prop - badgeName
+0x0594b8db Frequent Flyer 2
+
+# frequentflyer-2.prop - badgeUnlockString
+0x0594c8bc You've earned the Frequent Flyer 2 badge.
+
+# frequentflyer-3.prop - badgeHintAction
+0x44cbf616 Fly between ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Frequent Flyer 3 badge.~badge_unlocks~
+
+# frequentflyer-3.prop - badgeName
+0x0594b8dc Frequent Flyer 3
+
+# frequentflyer-3.prop - badgeUnlockString
+0x0594c8bd You've earned the Frequent Flyer 3 badge.
+
+# frequentflyer-4.prop - badgeHintAction
+0x827bbbf9 Fly between ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Frequent Flyer 4 badge.~badge_unlocks~
+
+# frequentflyer-4.prop - badgeName
+0x0594b8dd Frequent Flyer 4
+
+# frequentflyer-4.prop - badgeUnlockString
+0x0594c8be You've earned the Frequent Flyer 4 badge.
+
+# frequentflyer-5.prop - badgeHintAction
+0x455083cc Fly between ~badge_needed~ Solar ~^p^badge_needed^System^Systems~ to earn the Frequent Flyer 5 badge.~badge_unlocks~
+
+# frequentflyer-5.prop - badgeName
+0x0594b8de Frequent Flyer 5
+
+# frequentflyer-5.prop - badgeUnlockString
+0x0594c8bf You've earned the Frequent Flyer 5 badge.
+
+# goldentouch-1.prop - badgeHintAction
+0x534e4174 Accumulate ~badge_needed~ Sporebucks to earn the Golden Touch 1 badge.~badge_unlocks~
+
+# goldentouch-1.prop - badgeName
+0x0594b801 Golden Touch 1
+
+# goldentouch-1.prop - badgeUnlockString
+0x0594c883 You've earned the Golden Touch 1 badge.
+
+# goldentouch-2.prop - badgeHintAction
+0x656f68d7 Accumulate ~badge_needed~ Sporebucks to earn the Golden Touch 2 badge.~badge_unlocks~
+
+# goldentouch-2.prop - badgeName
+0x0594b802 Golden Touch 2
+
+# goldentouch-2.prop - badgeUnlockString
+0x0594c884 You've earned the Golden Touch 2 badge.
+
+# goldentouch-3.prop - badgeHintAction
+0x68d61fa2 Accumulate ~badge_needed~ Sporebucks to earn the Golden Touch 3 badge.~badge_unlocks~
+
+# goldentouch-3.prop - badgeName
+0x0594b803 Golden Touch 3
+
+# goldentouch-3.prop - badgeUnlockString
+0x0594c885 You've earned the Golden Touch 3 badge.
+
+# goldentouch-4.prop - badgeHintAction
+0x40cea04d Accumulate ~badge_needed~ Sporebucks to earn the Golden Touch 4 badge.~badge_unlocks~
+
+# goldentouch-4.prop - badgeName
+0x0594b804 Golden Touch 4
+
+# goldentouch-4.prop - badgeUnlockString
+0x0594c886 You've earned the Golden Touch 4 badge.
+
+# goldentouch-5.prop - badgeHintAction
+0xb53723e0 Accumulate ~badge_needed~ Sporebucks to earn the Golden Touch 5 badge.~badge_unlocks~
+
+# goldentouch-5.prop - badgeName
+0x0594b805 Golden Touch 5
+
+# goldentouch-5.prop - badgeUnlockString
+0x0594c887 You've earned the Golden Touch 5 badge.
+
+# gopher-1.prop - badgeHintAction
+0xc54c2879 Complete ~badge_needed~ Delivery ~^p^badge_needed^Mission^Missions~ to earn the Gopher 1 badge.~badge_unlocks~
+
+# gopher-1.prop - badgeName
+0x043b3f7e Gopher 1
+
+# gopher-1.prop - badgeUnlockString
+0x043b3f7f You've earned the Gopher 1 badge.
+
+# gopher-2.prop - badgeHintAction
+0xaf4d229a Complete ~badge_needed~ Delivery ~^p^badge_needed^Mission^Missions~ to earn the Gopher 2 badge.~badge_unlocks~
+
+# gopher-2.prop - badgeName
+0x0487c61c Gopher 2
+
+# gopher-2.prop - badgeUnlockString
+0x0487c541 You've earned the Gopher 2 badge.
+
+# gopher-3.prop - badgeHintAction
+0xc629a56f Complete ~badge_needed~ Delivery ~^p^badge_needed^Mission^Missions~ to earn the Gopher 3 badge.~badge_unlocks~
+
+# gopher-3.prop - badgeName
+0x0487c620 Gopher 3
+
+# gopher-3.prop - badgeUnlockString
+0x0487c546 You've earned the Gopher 3 badge.
+
+# gopher-4.prop - badgeHintAction
+0xa7ec6718 Complete ~badge_needed~ Delivery ~^p^badge_needed^Mission^Missions~ to earn the Gopher 4 badge.~badge_unlocks~
+
+# gopher-4.prop - badgeName
+0x0487c623 Gopher 4
+
+# gopher-4.prop - badgeUnlockString
+0x0487c549 You've earned the Gopher 4 badge.
+
+# gopher-5.prop - badgeHintAction
+0x9e643b45 Complete ~badge_needed~ Delivery ~^p^badge_needed^Mission^Missions~ to earn the Gopher 5 badge.~badge_unlocks~
+
+# gopher-5.prop - badgeName
+0x0487c625 Gopher 5
+
+# gopher-5.prop - badgeUnlockString
+0x0487c54b You've earned the Gopher 5 badge.
+
+# grobally.prop - badgeName
+0x0487ae1d Dance with the Devil
+
+# grobally.prop - badgeUnlockString
+0x0487ae7d You've earned the Dance with the Devil badge.
+
+# grobdefeat.prop - badgeName
+0x0487ae1c Badge outta Heck
+
+# grobdefeat.prop - badgeUnlockString
+0x0487ae7c You've earned the Badge outta Heck.
+
+# jackofalltrades-1.prop - badgeHintAction
+0x0ff41eb6 Buy ~badge_needed~ ~^p^badge_needed^Tool^Tools~ to earn the Jack of All Trades 1 badge.~badge_unlocks~
+
+# jackofalltrades-1.prop - badgeName
+0x0594b640 Jack Of All Trades 1
+
+# jackofalltrades-1.prop - badgeUnlockString
+0x0594c82e You've earned the Jack Of All Trades 1 badge.
+
+# jackofalltrades-2.prop - badgeHintAction
+0x851f3b65 Buy ~badge_needed~ ~^p^badge_needed^Tool^Tools~ to earn the Jack of All Trades 2 badge.~badge_unlocks~
+
+# jackofalltrades-2.prop - badgeName
+0x0594b641 Jack Of All Trades 2
+
+# jackofalltrades-2.prop - badgeUnlockString
+0x0594c82f You've earned the Jack Of All Trades 2 badge.
+
+# jackofalltrades-3.prop - badgeHintAction
+0xbac3bdb8 Buy ~badge_needed~ ~^p^badge_needed^Tool^Tools~ to earn the Jack of All Trades 3 badge.~badge_unlocks~
+
+# jackofalltrades-3.prop - badgeName
+0x0594b642 Jack Of All Trades 3
+
+# jackofalltrades-3.prop - badgeUnlockString
+0x0594c830 You've earned the Jack Of All Trades 3 badge.
+
+# jackofalltrades-4.prop - badgeHintAction
+0xd41c6f0f Buy ~badge_needed~ ~^p^badge_needed^Tool^Tools~ to earn the Jack of All Trades 4 badge.~badge_unlocks~
+
+# jackofalltrades-4.prop - badgeName
+0x0594b643 Jack Of All Trades 4
+
+# jackofalltrades-4.prop - badgeUnlockString
+0x0594c831 You've earned the Jack Of All Trades 4 badge.
+
+# jackofalltrades-5.prop - badgeHintAction
+0x6038f8ba Buy ~badge_needed~ ~^p^badge_needed^Tool^Tools~ to earn the Jack of All Trades 5 badge.~badge_unlocks~
+
+# jackofalltrades-5.prop - badgeName
+0x0594b644 Jack Of All Trades 5
+
+# jackofalltrades-5.prop - badgeUnlockString
+0x0594c832 You've earned the Jack Of All Trades 5 badge.
+
+# joker-1.prop - badgeHintAction
+0x4d628645 You don't want to earn the Joker badge you cheater!~badge_unlocks~
+
+# joker-1.prop - badgeName
+0x05947022 Joker
+
+# joker-1.prop - badgeUnlockString
+0x0594703f You've earned the Joker badge.
+
+# merchant-1.prop - badgeHintAction
+0x20ae86fa Trade for ~badge_needed~ Sporebucks to earn the Merchant 1 badge.~badge_unlocks~
+
+# merchant-1.prop - badgeName
+0x0594b7f2 Merchant 1
+
+# merchant-1.prop - badgeUnlockString
+0x0594c874 You've earned the Merchant 1 badge.
+
+# merchant-2.prop - badgeHintAction
+0x14b830d9 Trade for ~badge_needed~ Sporebucks to earn the Merchant 2 badge.~badge_unlocks~
+
+# merchant-2.prop - badgeName
+0x0594b7f3 Merchant 2
+
+# merchant-2.prop - badgeUnlockString
+0x0594c875 You've earned the Merchant 2 badge.
+
+# merchant-3.prop - badgeHintAction
+0xd314902c Trade for ~badge_needed~ Sporebucks to earn the Merchant 3 badge.~badge_unlocks~
+
+# merchant-3.prop - badgeName
+0x0594b7f4 Merchant 3
+
+# merchant-3.prop - badgeUnlockString
+0x0594c876 You've earned the Merchant 3 badge.
+
+# merchant-4.prop - badgeHintAction
+0xa7c23afb Trade for ~badge_needed~ Sporebucks to earn the Merchant 4 badge.~badge_unlocks~
+
+# merchant-4.prop - badgeName
+0x0594b7f5 Merchant 4
+
+# merchant-4.prop - badgeUnlockString
+0x0594c877 You've earned the Merchant 4 badge.
+
+# merchant-5.prop - badgeHintAction
+0xa88152f6 Trade for ~badge_needed~ Sporebucks to earn the Merchant 5 badge.~badge_unlocks~
+
+# merchant-5.prop - badgeName
+0x0594b7f6 Merchant 5
+
+# merchant-5.prop - badgeUnlockString
+0x0594c878 You've earned the Merchant 5 badge.
+
+# missionista-1.prop - badgeHintAction
+0x0a29b3ef Complete ~badge_needed~ ~^p^badge_needed^Mission^Missions~ to earn the Missionista 1 badge.~badge_unlocks~
+
+# missionista-1.prop - badgeName
+0x0594b8e4 Missionista 1
+
+# missionista-1.prop - badgeUnlockString
+0x0594c8c5 You've earned the Missionista 1 badge.
+
+# missionista-2.prop - badgeHintAction
+0xcc20fecc Complete ~badge_needed~ ~^p^badge_needed^Mission^Missions~ to earn the Missionista 2 badge.~badge_unlocks~
+
+# missionista-2.prop - badgeName
+0x0594b8e5 Missionista 2
+
+# missionista-2.prop - badgeUnlockString
+0x0594c8c6 You've earned the Missionista 2 badge.
+
+# missionista-3.prop - badgeHintAction
+0x094c36f9 Complete ~badge_needed~ ~^p^badge_needed^Mission^Missions~ to earn the Missionista 3 badge.~badge_unlocks~
+
+# missionista-3.prop - badgeName
+0x0594b8e6 Missionista 3
+
+# missionista-3.prop - badgeUnlockString
+0x0594c8c7 You've earned the Missionista 3 badge.
+
+# missionista-4.prop - badgeHintAction
+0xcb9c7116 Complete ~badge_needed~ ~^p^badge_needed^Mission^Missions~ to earn the Missionista 4 badge.~badge_unlocks~
+
+# missionista-4.prop - badgeName
+0x0594b8e7 Missionista 4
+
+# missionista-4.prop - badgeUnlockString
+0x0594c8c8 You've earned the Missionista 4 badge.
+
+# missionista-5.prop - badgeHintAction
+0xd4f5aa1b Complete ~badge_needed~ ~^p^badge_needed^Mission^Missions~ to earn the Missionista 5 badge.~badge_unlocks~
+
+# missionista-5.prop - badgeName
+0x0594b8e8 Missionista 5
+
+# missionista-5.prop - badgeUnlockString
+0x0594c8c9 You've earned the Missionista 5 badge.
+
+# planetpicasso-1.prop - badgeHintAction
+0xb65c6664 Use ~badge_needed~ Planet Sculpting or Coloring ~^p^badge_needed^Tool^Tools~ to earn the Planet Artiste 1 badge.~badge_unlocks~
+
+# planetpicasso-1.prop - badgeName
+0x0594b8d5 Planet Artiste 1
+
+# planetpicasso-1.prop - badgeUnlockString
+0x0594c8b6 You've earned the Planet Artiste 1 badge.
+
+# planetpicasso-2.prop - badgeHintAction
+0x7e52a047 Use ~badge_needed~ Planet Sculpting or Coloring ~^p^badge_needed^Tool^Tools~ to earn the Planet Artiste 2 badge.~badge_unlocks~
+
+# planetpicasso-2.prop - badgeName
+0x0594b8d6 Planet Artiste 2
+
+# planetpicasso-2.prop - badgeUnlockString
+0x0594c8b7 You've earned the Planet Artiste 2 badge.
+
+# planetpicasso-3.prop - badgeHintAction
+0xd213d652 Use ~badge_needed~ Planet Sculpting or Coloring ~^p^badge_needed^Tool^Tools~ to earn the Planet Artiste 3 badge.~badge_unlocks~
+
+# planetpicasso-3.prop - badgeName
+0x0594b8d7 Planet Artiste 3
+
+# planetpicasso-3.prop - badgeUnlockString
+0x0594c8b8 You've earned the Planet Artiste 3 badge.
+
+# planetpicasso-4.prop - badgeHintAction
+0xc51848fd Use ~badge_needed~ Planet Sculpting or Coloring ~^p^badge_needed^Tool^Tools~ to earn the Planet Artiste 4 badge.~badge_unlocks~
+
+# planetpicasso-4.prop - badgeName
+0x0594b8d8 Planet Artiste 4
+
+# planetpicasso-4.prop - badgeUnlockString
+0x0594c8b9 You've earned the Planet Artiste 4 badge.
+
+# planetpicasso-5.prop - badgeHintAction
+0xa7abac90 Use ~badge_needed~ Planet Sculpting or Coloring ~^p^badge_needed^Tool^Tools~ to earn the Planet Artiste 5 badge.~badge_unlocks~
+
+# planetpicasso-5.prop - badgeName
+0x0594b8d9 Planet Artiste 5
+
+# planetpicasso-5.prop - badgeUnlockString
+0x0594c8ba You've earned the Planet Artiste 5 badge.
+
+# sightseer-1.prop - badgeHintAction
+0x1f52976e Make ~badge_needed~ Cosmic ~^p^badge_needed^Discovery^Discoveries~ to earn the Sightseer 1 badge.~badge_unlocks~
+
+# sightseer-1.prop - badgeName
+0x0594b8df Sightseer 1
+
+# sightseer-1.prop - badgeUnlockString
+0x0594c8c0 You've earned the Sightseer 1 badge.
+
+# sightseer-2.prop - badgeHintAction
+0x0e1b749d Make ~badge_needed~ Cosmic ~^p^badge_needed^Discovery^Discoveries~ to earn the Sightseer 2 badge.~badge_unlocks~
+
+# sightseer-2.prop - badgeName
+0x0594b8e0 Sightseer 2
+
+# sightseer-2.prop - badgeUnlockString
+0x0594c8c1 You've earned the Sightseer 2 badge.
+
+# sightseer-3.prop - badgeHintAction
+0xa6d972b0 Make ~badge_needed~ Cosmic ~^p^badge_needed^Discovery^Discoveries~ to earn the Sightseer 3 badge.~badge_unlocks~
+
+# sightseer-3.prop - badgeName
+0x0594b8e1 Sightseer 3
+
+# sightseer-3.prop - badgeUnlockString
+0x0594c8c2 You've earned the Sightseer 3 badge.
+
+# sightseer-4.prop - badgeHintAction
+0x367a4f67 Make ~badge_needed~ Cosmic ~^p^badge_needed^Discovery^Discoveries~ to earn the Sightseer 4 badge.~badge_unlocks~
+
+# sightseer-4.prop - badgeName
+0x0594b8e2 Sightseer 4
+
+# sightseer-4.prop - badgeUnlockString
+0x0594c8c3 You've earned the Sightseer 4 badge.
+
+# sightseer-5.prop - badgeHintAction
+0x5fa67df2 Make ~badge_needed~ Cosmic ~^p^badge_needed^Discovery^Discoveries~ to earn the Sightseer 5 badge.~badge_unlocks~
+
+# sightseer-5.prop - badgeName
+0x0594b8e3 Sightseer 5
+
+# sightseer-5.prop - badgeUnlockString
+0x0594c8c4 You've earned the Sightseer 5 badge.
+
+# terrawrangler-1.prop - badgeHintAction
+0xf802dd30 Improve the Terraforming Score on planets ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Terra-Wrangler 1 badge.~badge_unlocks~
+
+# terrawrangler-1.prop - badgeName
+0x043b3f78 Terra-Wrangler 1
+
+# terrawrangler-1.prop - badgeUnlockString
+0x043b3f79 You've earned the Terra-Wrangler 1 badge.
+
+# terrawrangler-2.prop - badgeHintAction
+0x61d7bbf3 Improve the Terraforming Score on planets ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Terra-Wrangler 2 badge.~badge_unlocks~
+
+# terrawrangler-2.prop - badgeName
+0x043b3f76 Terra-Wrangler 2
+
+# terrawrangler-2.prop - badgeUnlockString
+0x043b3f77 You've earned the Terra-Wrangler 2 badge.
+
+# terrawrangler-3.prop - badgeHintAction
+0x707c01ee Improve the Terraforming Score on planets ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Terra-Wrangler 3 badge.~badge_unlocks~
+
+# terrawrangler-3.prop - badgeName
+0x0486a125 Terra-Wrangler 3
+
+# terrawrangler-3.prop - badgeUnlockString
+0x0486a16c You've earned the Terra-Wrangler 3 badge.
+
+# terrawrangler-4.prop - badgeHintAction
+0x5ec4da91 Improve the Terraforming Score on planets ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Terra-Wrangler 4 badge.~badge_unlocks~
+
+# terrawrangler-4.prop - badgeName
+0x0486a12a Terra-Wrangler 4
+
+# terrawrangler-4.prop - badgeUnlockString
+0x0486a16f You've earned the Terra-Wrangler 4 badge.
+
+# terrawrangler-5.prop - badgeHintAction
+0x635bc884 Improve the Terraforming Score on planets ~badge_needed~ ~^p^badge_needed^time^times~ to earn the Terra-Wrangler 5 badge.~badge_unlocks~
+
+# terrawrangler-5.prop - badgeName
+0x0486a12c Terra-Wrangler 5
+
+# terrawrangler-5.prop - badgeUnlockString
+0x0486a172 You've earned the Terra-Wrangler 5 badge.
+
+# trader-1.prop - badgeHintAction
+0x9c89d362 Establish ~badge_needed~ Trade ~^p^badge_needed^Route^Routes~ to earn the Trader 1 badge.~badge_unlocks~
+
+# trader-1.prop - badgeName
+0x0594b7ed Trader 1
+
+# trader-1.prop - badgeUnlockString
+0x0594c83d You've earned the Trader 1 badge.
+
+# trader-2.prop - badgeHintAction
+0x1bec2b01 Establish ~badge_needed~ Trade ~^p^badge_needed^Route^Routes~ to earn the Trader 2 badge.~badge_unlocks~
+
+# trader-2.prop - badgeName
+0x0594b7ee Trader 2
+
+# trader-2.prop - badgeUnlockString
+0x0594c83e You've earned the Trader 2 badge.
+
+# trader-3.prop - badgeHintAction
+0x3b090634 Establish ~badge_needed~ Trade ~^p^badge_needed^Route^Routes~ to earn the Trader 3 badge.~badge_unlocks~
+
+# trader-3.prop - badgeName
+0x0594b7ef Trader 3
+
+# trader-3.prop - badgeUnlockString
+0x0594c83f You've earned the Trader 3 badge.
+
+# trader-4.prop - badgeHintAction
+0x5ade3a63 Establish ~badge_needed~ Trade ~^p^badge_needed^Route^Routes~ to earn the Trader 4 badge.~badge_unlocks~
+
+# trader-4.prop - badgeName
+0x0594b7f0 Trader 4
+
+# trader-4.prop - badgeUnlockString
+0x0594c840 You've earned the Trader 4 badge.
+
+# trader-5.prop - badgeHintAction
+0xf0d6515e Establish ~badge_needed~ Trade ~^p^badge_needed^Route^Routes~ to earn the Trader 5 badge.~badge_unlocks~
+
+# trader-5.prop - badgeName
+0x0594b7f1 Trader 5
+
+# trader-5.prop - badgeUnlockString
+0x0594c841 You've earned the Trader 5 badge.
+
+# traveler-1.prop - badgeHintAction
+0x3a5eb8bb Contact ~badge_needed~ ~^p^badge_needed^Empire^Empires~ to earn the Traveler 1 badge.~badge_unlocks~
+
+# traveler-1.prop - badgeName
+0x043b3f74 Traveler 1
+
+# traveler-1.prop - badgeUnlockString
+0x043b3f75 You've earned the Traveler 1 badge.
+
+# traveler-2.prop - badgeHintAction
+0xcd2de3b8 Contact ~badge_needed~ ~^p^badge_needed^Empire^Empires~ to earn the Traveler 2 badge.~badge_unlocks~
+
+# traveler-2.prop - badgeName
+0x04868ab4 Traveler 2
+
+# traveler-2.prop - badgeUnlockString
+0x04868b72 You've earned the Traveler 2 badge.
+
+# traveler-3.prop - badgeHintAction
+0x97896165 Contact ~badge_needed~ ~^p^badge_needed^Empire^Empires~ to earn the Traveler 3 badge.~badge_unlocks~
+
+# traveler-3.prop - badgeName
+0x04868b41 Traveler 3
+
+# traveler-3.prop - badgeUnlockString
+0x04868b7b You've earned the Traveler 3 badge.
+
+# traveler-4.prop - badgeHintAction
+0x72a31eba Contact ~badge_needed~ ~^p^badge_needed^Empire^Empires~ to earn the Traveler 4 badge.~badge_unlocks~
+
+# traveler-4.prop - badgeName
+0x04868b4d Traveler 4
+
+# traveler-4.prop - badgeUnlockString
+0x04868b86 You've earned the Traveler 4 badge.
+
+# traveler-5.prop - badgeHintAction
+0xe686950f Contact ~badge_needed~ ~^p^badge_needed^Empire^Empires~ to earn the Traveler 5 badge.~badge_unlocks~
+
+# traveler-5.prop - badgeName
+0x04868b52 Traveler 5
+
+# traveler-5.prop - badgeUnlockString
+0x04868b8a You've earned the Traveler 5 badge.
+
+# warmonger-1.prop - badgeHintAction
+0x0006fe22 Start ~badge_needed~ ~^p^badge_needed^War^Wars~ to earn the Warmonger 1 badge.~badge_unlocks~
+
+# warmonger-1.prop - badgeName
+0x043b3f72 Warmonger 1
+
+# warmonger-1.prop - badgeUnlockString
+0x043b3f73 You've earned the Warmonger 1 badge.
+
+# warmonger-2.prop - badgeHintAction
+0x79a8d5c1 Start ~badge_needed~ ~^p^badge_needed^War^Wars~ to earn the Warmonger 2 badge.~badge_unlocks~
+
+# warmonger-2.prop - badgeName
+0x043b3f70 Warmonger 2
+
+# warmonger-2.prop - badgeUnlockString
+0x043b3f71 You've earned the Warmonger 2 badge.
+
+# warmonger-3.prop - badgeHintAction
+0xea7f1ff4 Start ~badge_needed~ ~^p^badge_needed^War^Wars~ to earn the Warmonger 3 badge.~badge_unlocks~
+
+# warmonger-3.prop - badgeName
+0x04879f3f Warmonger 3
+
+# warmonger-3.prop - badgeUnlockString
+0x04879f06 You've earned the Warmonger 3 badge.
+
+# warmonger-4.prop - badgeHintAction
+0x5c9fb023 Start ~badge_needed~ ~^p^badge_needed^War^Wars~ to earn the Warmonger 4 badge.~badge_unlocks~
+
+# warmonger-4.prop - badgeName
+0x04879f48 Warmonger 4
+
+# warmonger-4.prop - badgeUnlockString
+0x04879f1c You've earned the Warmonger 4 badge.
+
+# warmonger-5.prop - badgeHintAction
+0xd60b971e Start ~badge_needed~ ~^p^badge_needed^War^Wars~ to earn the Warmonger 5 badge.~badge_unlocks~
+
+# warmonger-5.prop - badgeName
+0x479c070a Warmonger 5
+
+# warmonger-5.prop - badgeUnlockString
+0x04879f21 You've earned the Warmonger 5 badge.
+
+# wonderlandwanderer-1.prop - badgeHintAction
+0x4e64f3ce Discover ~badge_needed~ Storybook ~^p^badge_needed^Planet^Planets~ to earn the Wonderland Wanderer 1 badge.~badge_unlocks~
+
+# wonderlandwanderer-1.prop - badgeName
+0x0594b7fc Wonderland Wanderer 1
+
+# wonderlandwanderer-1.prop - badgeUnlockString
+0x0594c87e You've earned the Wonderland Wanderer 1 badge.
+
+# wonderlandwanderer-2.prop - badgeHintAction
+0x838901fd Discover ~badge_needed~ Storybook ~^p^badge_needed^Planet^Planets~ to earn the Wonderland Wanderer 2 badge.~badge_unlocks~
+
+# wonderlandwanderer-2.prop - badgeName
+0x0594b7fd Wonderland Wanderer 2
+
+# wonderlandwanderer-2.prop - badgeUnlockString
+0x0594c87f You've earned the Wonderland Wanderer 2 badge.
+
+# wonderlandwanderer-3.prop - badgeHintAction
+0x661c6590 Discover ~badge_needed~ Storybook ~^p^badge_needed^Planet^Planets~ to earn the Wonderland Wanderer 3 badge.~badge_unlocks~
+
+# wonderlandwanderer-3.prop - badgeName
+0x0594b7fe Wonderland Wanderer 3
+
+# wonderlandwanderer-3.prop - badgeUnlockString
+0x0594c880 You've earned the Wonderland Wanderer 3 badge.
+
+# wonderlandwanderer-4.prop - badgeHintAction
+0x3cc35947 Discover ~badge_needed~ Storybook ~^p^badge_needed^Planet^Planets~ to earn the Wonderland Wanderer 4 badge.~badge_unlocks~
+
+# wonderlandwanderer-4.prop - badgeName
+0x0594b7ff Wonderland Wanderer 4
+
+# wonderlandwanderer-4.prop - badgeUnlockString
+0x0594c881 You've earned the Wonderland Wanderer 4 badge.
+
+# wonderlandwanderer-5.prop - badgeHintAction
+0x90848f52 Discover ~badge_needed~ Storybook ~^p^badge_needed^Planet^Planets~ to earn the Wonderland Wanderer 5 badge.~badge_unlocks~
+
+# wonderlandwanderer-5.prop - badgeName
+0x0594b800 Wonderland Wanderer 5
+
+# wonderlandwanderer-5.prop - badgeUnlockString
+0x0594c882 You've earned the Wonderland Wanderer 5 badge.
+
+# zoologist-1.prop - badgeHintAction
+0xa88c20be Fill out ~badge_needed~ ~^p^badge_needed^Ecosystem^Ecosystems~ to earn the Zoologist 1 badge.~badge_unlocks~
+
+# zoologist-1.prop - badgeName
+0x043b3f6e Zoologist 1
+
+# zoologist-1.prop - badgeUnlockString
+0x043b3f6f You've earned the Zoologist 1 badge.
+
+# zoologist-2.prop - badgeHintAction
+0x6c3376ed Fill out ~badge_needed~ ~^p^badge_needed^Ecosystem^Ecosystems~ to earn the Zoologist 2 badge.~badge_unlocks~
+
+# zoologist-2.prop - badgeName
+0x0487ae12 Zoologist 2
+
+# zoologist-2.prop - badgeUnlockString
+0x0487ae3f You've earned the Zoologist 2 badge.
+
+# zoologist-3.prop - badgeHintAction
+0x0a598a80 Fill out ~badge_needed~ ~^p^badge_needed^Ecosystem^Ecosystems~ to earn the Zoologist 3 badge.~badge_unlocks~
+
+# zoologist-3.prop - badgeName
+0x0487ae16 Zoologist 3
+
+# zoologist-3.prop - badgeUnlockString
+0x0487ae42 You've earned the Zoologist 3 badge.
+
+# zoologist-4.prop - badgeHintAction
+0x825c3177 Fill out ~badge_needed~ ~^p^badge_needed^Ecosystem^Ecosystems~ to earn the Zoologist 4 badge.~badge_unlocks~
+
+# zoologist-4.prop - badgeName
+0x0487ae18 Zoologist 4
+
+# zoologist-4.prop - badgeUnlockString
+0x0487ae77 You've earned the Zoologist 4 badge.
+
+# zoologist-5.prop - badgeHintAction
+0x42e5dfc2 Fill out ~badge_needed~ ~^p^badge_needed^Ecosystem^Ecosystems~ to earn the Zoologist 5 badge.~badge_unlocks~
+
+# zoologist-5.prop - badgeName
+0x0487ae1b Zoologist 5
+
+# zoologist-5.prop - badgeUnlockString
+0x0487ae7b You've earned the Zoologist 5 badge.
+
+# archetypeswitch-1.prop - badgeCardDescription
+0x31609d34 You need ~badge_left~ more personality ~^p^badge_left^change^changes~. ~badge_count~/~badge_needed~
+
+# archetypeswitch-2.prop - badgeCardDescription
+
+# archetypeswitch-3.prop - badgeCardDescription
+
+# archetypeswitch-4.prop - badgeCardDescription
+
+# archetypeswitch-5.prop - badgeCardDescription
+
+# badgecollector-1.prop - badgeCardDescription
+0xba1c26af You need ~badge_left~ more ~^p^badge_left^badge^badges~. ~badge_count~/~badge_needed~
+
+# badgecollector-10.prop - badgeCardDescription
+
+# badgecollector-2.prop - badgeCardDescription
+
+# badgecollector-3.prop - badgeCardDescription
+
+# badgecollector-4.prop - badgeCardDescription
+
+# badgecollector-5.prop - badgeCardDescription
+
+# badgecollector-6.prop - badgeCardDescription
+
+# badgecollector-7.prop - badgeCardDescription
+
+# badgecollector-8.prop - badgeCardDescription
+
+# badgecollector-9.prop - badgeCardDescription
+
+# bodyguard-1.prop - badgeCardDescription
+0x99065da6 You need to defend ~badge_left~ more ~^p^badge_left^friend^friends~. ~badge_count~/~badge_needed~
+
+# bodyguard-2.prop - badgeCardDescription
+
+# bodyguard-3.prop - badgeCardDescription
+
+# bodyguard-4.prop - badgeCardDescription
+
+# bodyguard-5.prop - badgeCardDescription
+
+# brainsurgeon-1.prop - badgeCardDescription
+0x81f1ffe6 You need to promote ~badge_left~ more ~^p^badge_left^Creature^Creatures~. ~badge_count~/~badge_needed~
+
+# brainsurgeon-2.prop - badgeCardDescription
+0xe7efe477 You need to promote ~badge_left~ more ~^p^badge_left^Creature^Creatures~. ~badge_count~/~badge_needed~
+
+# brainsurgeon-3.prop - badgeCardDescription
+
+# brainsurgeon-4.prop - badgeCardDescription
+
+# brainsurgeon-5.prop - badgeCardDescription
+
+# captain.prop - badgeCardDescription
+0xab46b0cd You need to complete Flight School.
+
+# cleaner-1.prop - badgeCardDescription
+0x5d6ce9ed You need complete ~badge_left~ more Eradication ~^p^badge_left^Mission^Missions~. ~badge_count~/~badge_needed~
+
+# cleaner-2.prop - badgeCardDescription
+
+# cleaner-3.prop - badgeCardDescription
+
+# cleaner-4.prop - badgeCardDescription
+
+# cleaner-5.prop - badgeCardDescription
+
+# collector-1.prop - badgeCardDescription
+0x243daffc You need to collect ~badge_left~ more ~^p^badge_left^Artifact^Artifacts~. ~badge_count~/~badge_needed~
+
+# collector-2.prop - badgeCardDescription
+
+# collector-3.prop - badgeCardDescription
+
+# collector-4.prop - badgeCardDescription
+
+# collector-5.prop - badgeCardDescription
+
+# colonist-1.prop - badgeCardDescription
+0xcfcdd650 You need to place ~badge_left~ more colony ~^p^badge_left^Building^Buildings~. ~badge_count~/~badge_needed~
+
+# colonist-2.prop - badgeCardDescription
+
+# colonist-3.prop - badgeCardDescription
+
+# colonist-4.prop - badgeCardDescription
+
+# colonist-5.prop - badgeCardDescription
+
+# conquerer-1.prop - badgeCardDescription
+0x182aef89 You need to conquer ~badge_left~ more ~^p^badge_left^planet^planets~. ~badge_count~/~badge_needed~
+
+# conquerer-2.prop - badgeCardDescription
+
+# conquerer-3.prop - badgeCardDescription
+
+# conquerer-4.prop - badgeCardDescription
+
+# conquerer-5.prop - badgeCardDescription
+
+# diplomat-1.prop - badgeCardDescription
+0x8960c203 You need to form ~badge_left~ more ~^p^badge_left^Alliance^Alliances~. ~badge_count~/~badge_needed~
+
+# diplomat-2.prop - badgeCardDescription
+0xb886be82 You need to form ~badge_left~ more ~^p^badge_left^Alliance^Alliances~. ~badge_count~/~badge_needed~
+
+# diplomat-3.prop - badgeCardDescription
+
+# diplomat-4.prop - badgeCardDescription
+
+# diplomat-5.prop - badgeCardDescription
+
+# ecohero-1.prop - badgeCardDescription
+0x122e2ea2 You need to avert ~badge_left~ more Eco ~^p^badge_left^Disaster^Disasters~. ~badge_count~/~badge_needed~
+
+# ecohero-2.prop - badgeCardDescription
+0x5ca496a3 You need to avert ~badge_left~ more Eco ~^p^badge_left^Disaster^Disasters~. ~badge_count~/~badge_needed~
+
+# ecohero-3.prop - badgeCardDescription
+
+# ecohero-4.prop - badgeCardDescription
+
+# ecohero-5.prop - badgeCardDescription
+
+# economist-1.prop - badgeCardDescription
+0x89d9cef4 You need to purchase ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# economist-2.prop - badgeCardDescription
+0x88d4d9c9 You need to purchase ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# economist-3.prop - badgeCardDescription
+
+# economist-4.prop - badgeCardDescription
+
+# economist-5.prop - badgeCardDescription
+
+# empire-1.prop - badgeCardDescription
+0xbb5556d5 You need to expand to ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# empire-2.prop - badgeCardDescription
+0x558da0a0 You need to expand to ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# empire-3.prop - badgeCardDescription
+
+# empire-4.prop - badgeCardDescription
+
+# empire-5.prop - badgeCardDescription
+
+# explorer-1.prop - badgeCardDescription
+0xd33978ca You need to explore ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# explorer-2.prop - badgeCardDescription
+0x7d9b3e0b You need to explore ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# explorer-3.prop - badgeCardDescription
+
+# explorer-4.prop - badgeCardDescription
+
+# explorer-5.prop - badgeCardDescription
+
+# frequentflyer-1.prop - badgeCardDescription
+0x7adca4cb You need to fly between ~badge_left~ more Solar ~^p^badge_left^System^Systems~. ~badge_count~/~badge_needed~
+
+# frequentflyer-2.prop - badgeCardDescription
+
+# frequentflyer-3.prop - badgeCardDescription
+
+# frequentflyer-4.prop - badgeCardDescription
+
+# frequentflyer-5.prop - badgeCardDescription
+
+# goldentouch-1.prop - badgeCardDescription
+0xe1eb5977 You need to accumulate ~badge_left~ more Sporebucks. ~badge_count~/~badge_needed~
+
+# goldentouch-2.prop - badgeCardDescription
+
+# goldentouch-3.prop - badgeCardDescription
+
+# goldentouch-4.prop - badgeCardDescription
+
+# goldentouch-5.prop - badgeCardDescription
+
+# gopher-1.prop - badgeCardDescription
+0x23b952a0 You need to complete ~badge_left~ more Delivery ~^p^badge_left^Mission^Missions~. ~badge_count~/~badge_needed~
+
+# gopher-2.prop - badgeCardDescription
+
+# gopher-3.prop - badgeCardDescription
+
+# gopher-4.prop - badgeCardDescription
+
+# gopher-5.prop - badgeCardDescription
+
+# grobally.prop - badgeCardDescription
+0xc5dfec59 You need to make an alliance with the Grox.
+
+# grobdefeat.prop - badgeCardDescription
+0xfabb6478 You need to defeat the Grox.
+
+# jackofalltrades-1.prop - badgeCardDescription
+0x50b4eda1 You need purchase ~badge_left~ more ~^p^badge_left^Tool^Tools~. ~badge_count~/~badge_needed~
+
+# jackofalltrades-2.prop - badgeCardDescription
+
+# jackofalltrades-3.prop - badgeCardDescription
+
+# jackofalltrades-4.prop - badgeCardDescription
+
+# jackofalltrades-5.prop - badgeCardDescription
+
+# joker-1.prop - badgeCardDescription
+0x6c36b20c Use a cheat to earn the badge.
+
+# merchant-1.prop - badgeCardDescription
+0xe22ee5b5 You need to earn ~badge_left~ more Sporebucks through trading. ~badge_count~/~badge_needed~
+
+# merchant-2.prop - badgeCardDescription
+
+# merchant-3.prop - badgeCardDescription
+
+# merchant-4.prop - badgeCardDescription
+
+# merchant-5.prop - badgeCardDescription
+
+# missionista-1.prop - badgeCardDescription
+0x4b9a308e You need to complete ~badge_left~ more ~^p^badge_left^Mission^Missions~. ~badge_count~/~badge_needed~
+
+# missionista-2.prop - badgeCardDescription
+
+# missionista-3.prop - badgeCardDescription
+
+# missionista-4.prop - badgeCardDescription
+
+# missionista-5.prop - badgeCardDescription
+
+# planetpicasso-1.prop - badgeCardDescription
+0xff47c2e7 You need to use ~badge_left~ more Planet Sculpting or Color ~^p^badge_left^Tool^Tools~. ~badge_count~/~badge_needed~
+
+# planetpicasso-2.prop - badgeCardDescription
+
+# planetpicasso-3.prop - badgeCardDescription
+
+# planetpicasso-4.prop - badgeCardDescription
+
+# planetpicasso-5.prop - badgeCardDescription
+
+# sightseer-1.prop - badgeCardDescription
+0x4cc895a9 You need to make ~badge_left~ more Cosmic ~^p^badge_left^Discovery^Discoveries~. ~badge_count~/~badge_needed~
+
+# sightseer-2.prop - badgeCardDescription
+
+# sightseer-3.prop - badgeCardDescription
+
+# sightseer-4.prop - badgeCardDescription
+
+# sightseer-5.prop - badgeCardDescription
+
+# terrawrangler-1.prop - badgeCardDescription
+0xe69efa53 You need to improve the terraform score on planets ~badge_left~ more ~^p^badge_left^time^times~. ~badge_count~/~badge_needed~
+
+# terrawrangler-2.prop - badgeCardDescription
+
+# terrawrangler-3.prop - badgeCardDescription
+
+# terrawrangler-4.prop - badgeCardDescription
+
+# terrawrangler-5.prop - badgeCardDescription
+
+# trader-1.prop - badgeCardDescription
+0xbd37f0ad You need to establish ~badge_left~ more Trade ~^p^badge_left^Route^Routes~. ~badge_count~/~badge_needed~
+
+# trader-2.prop - badgeCardDescription
+
+# trader-3.prop - badgeCardDescription
+
+# trader-4.prop - badgeCardDescription
+
+# trader-5.prop - badgeCardDescription
+
+# traveler-1.prop - badgeCardDescription
+0x62af38aa You need to contact ~badge_left~ more ~^p^badge_left^Empire^Empires~. ~badge_count~/~badge_needed~
+
+# traveler-2.prop - badgeCardDescription
+
+# traveler-3.prop - badgeCardDescription
+
+# traveler-4.prop - badgeCardDescription
+
+# traveler-5.prop - badgeCardDescription
+
+# warmonger-1.prop - badgeCardDescription
+0x3caadd6d You need to start ~badge_left~ more ~^p^badge_left^War^Wars~. ~badge_count~/~badge_needed~
+
+# warmonger-2.prop - badgeCardDescription
+
+# warmonger-3.prop - badgeCardDescription
+
+# warmonger-4.prop - badgeCardDescription
+
+# warmonger-5.prop - badgeCardDescription
+
+# wonderlandwanderer-1.prop - badgeCardDescription
+0x8ce6fc89 You need to discover ~badge_left~ more Story Book ~^p^badge_left^Planet^Planets~. ~badge_count~/~badge_needed~
+
+# wonderlandwanderer-2.prop - badgeCardDescription
+0x17879ab4 You need to discover ~badge_left~ more Story Book ~^p^badge_left^Planet^Planets~. ~badge_count~/~badge_needed~
+
+# wonderlandwanderer-3.prop - badgeCardDescription
+
+# wonderlandwanderer-4.prop - badgeCardDescription
+
+# wonderlandwanderer-5.prop - badgeCardDescription
+
+# zoologist-1.prop - badgeCardDescription
+0x7e84f3f9 You need to fill out ~badge_left~ more ~^p^badge_left^Ecosystem^Ecosystems~. ~badge_count~/~badge_needed~
+
+# zoologist-2.prop - badgeCardDescription
+
+# zoologist-3.prop - badgeCardDescription
+
+# zoologist-4.prop - badgeCardDescription
+
+# zoologist-5.prop - badgeCardDescription
+
+# archetypeswitch-1.prop - badgeDescriptionString
+0x67009c45 You've switched ~badge_progress~ ~^p^badge_progress^time^times~.
+
+# archetypeswitch-2.prop - badgeDescriptionString
+
+# archetypeswitch-3.prop - badgeDescriptionString
+
+# archetypeswitch-4.prop - badgeDescriptionString
+
+# archetypeswitch-5.prop - badgeDescriptionString
+
+# badgecollector-1.prop - badgeDescriptionString
+0xfb624f82 For your fledgling efforts in galactic exploration, you have been recognized with the title of Commander of the ~player_species~.~p~Continue your progress to earn the title of Commodore.
+
+# badgecollector-10.prop - badgeDescriptionString
+0x7973d920 We, the galatic community, are humbled by your greatness.As you are the one, the only, the magnificent; you shall be known to us as Omnipotent ~player_species~.
+
+# badgecollector-2.prop - badgeDescriptionString
+0xcbfd61ef Your progress has earned you the title of Commodore of the ~player_species~.~p~The title of Admiral can not be far away.
+
+# badgecollector-3.prop - badgeDescriptionString
+0x30499c40 It seems like just yesterday that you were a wee Commodore.Like a reconditioned warp drive, you have rocked to a new title; Admiral of the ~player_species~.~p~ Continue your progress and you will be recognized with the coveted status of The Celebrated.
+
+# badgecollector-4.prop - badgeDescriptionString
+0xb8e75dcd Due to much galactic experience, you haved earned the title The Celebrated ~player_species~.~p~ Continue your progress and you will be recognized with the coveted status of The Renowned.
+
+# badgecollector-5.prop - badgeDescriptionString
+0xa9f3abae In recognition of your most recent efforts, the galactic community has seen fit to award you with the title of The Renowed ~player_species~.~p~ Continued progress in this manner will result in a title of Greatness.
+
+# badgecollector-6.prop - badgeDescriptionString
+0x77f3496b In honor of your many accomplishments, it is with great reverence that the galactic community now calls you The Great ~player_species~.~p~ There is little doubt that you will soon progress to The Legendary.
+
+# badgecollector-7.prop - badgeDescriptionString
+0x579564fc Your experience and accomplishments in the galaxy are practically unrivaled.You are respected and feared by alien races near and far and therefore clearly deserve the title of The Legendary.~p~ Most would agree, you are a shoo-in for promotion to the title of All-Powerful.
+
+# badgecollector-8.prop - badgeDescriptionString
+0xa5fae5e9 Few have your influence and command of the galaxy.It is with these accomplishments in mind that you are bestowed with the awesome title All-Powerful ~player_species~. ~p~ You are closing in on the title of Ultimate Being.
+
+# badgecollector-9.prop - badgeDescriptionString
+0x5576e52a In honor of your vast galatic experience, the galatic community has announced to all who will hear, you shall now be known as Ultimate Being of the ~player_species~.~p~ Is it possible that you could reach the title of Omnipotent?
+
+# bodyguard-1.prop - badgeDescriptionString
+0x6eb98b17 You've defended ~badge_progress~ ~^p^badge_progress^friend^friends~ from an attack.
+
+# bodyguard-2.prop - badgeDescriptionString
+
+# bodyguard-3.prop - badgeDescriptionString
+
+# bodyguard-4.prop - badgeDescriptionString
+
+# bodyguard-5.prop - badgeDescriptionString
+
+# brainsurgeon-1.prop - badgeDescriptionString
+0x88962957 You've promoted ~badge_progress~ ~^p^badge_progress^Creature^Creatures~ to Tribal.
+
+# brainsurgeon-2.prop - badgeDescriptionString
+
+# brainsurgeon-3.prop - badgeDescriptionString
+
+# brainsurgeon-4.prop - badgeDescriptionString
+
+# brainsurgeon-5.prop - badgeDescriptionString
+
+# captain.prop - badgeDescriptionString
+0x9de29c48 You've proven your skills as a Captain of your spaceship.
+
+# cleaner-1.prop - badgeDescriptionString
+0x91fb4268 You've completed ~badge_progress~ Eradication ~^p^badge_progress^Mission^Missions~.
+
+# cleaner-2.prop - badgeDescriptionString
+
+# cleaner-3.prop - badgeDescriptionString
+
+# cleaner-4.prop - badgeDescriptionString
+
+# cleaner-5.prop - badgeDescriptionString
+
+# collector-1.prop - badgeDescriptionString
+0xa40cbd6d You've collected ~badge_progress~ ~^p^badge_progress^Artifact^Artifacts~.
+
+# collector-2.prop - badgeDescriptionString
+
+# collector-3.prop - badgeDescriptionString
+
+# collector-4.prop - badgeDescriptionString
+
+# collector-5.prop - badgeDescriptionString
+
+# colonist-1.prop - badgeDescriptionString
+0x47bd8d61 You've placed ~badge_progress~ Colony ~^p^badge_progress^Building^Buildings~.
+
+# colonist-2.prop - badgeDescriptionString
+
+# colonist-3.prop - badgeDescriptionString
+
+# colonist-4.prop - badgeDescriptionString
+
+# colonist-5.prop - badgeDescriptionString
+
+# conquerer-1.prop - badgeDescriptionString
+0xecd0ad14 You've conquered ~badge_progress~ ~^p^badge_progress^Planet^Planets~.
+
+# conquerer-2.prop - badgeDescriptionString
+
+# conquerer-3.prop - badgeDescriptionString
+
+# conquerer-4.prop - badgeDescriptionString
+
+# conquerer-5.prop - badgeDescriptionString
+0xed680d58 You've conquered ~badge_progress~ ~^p^badge_progress^Planet^Planets~.
+
+# diplomat-1.prop - badgeDescriptionString
+0xeaa5d0d6 You've formed ~badge_progress~ ~^p^badge_progress^Alliance^Alliances~.
+
+# diplomat-2.prop - badgeDescriptionString
+0xd457eb13 You've formed ~badge_progress~ ~^p^badge_progress^Alliance^Alliances~.
+
+# diplomat-3.prop - badgeDescriptionString
+
+# diplomat-4.prop - badgeDescriptionString
+
+# diplomat-5.prop - badgeDescriptionString
+
+# ecohero-1.prop - badgeDescriptionString
+0x3631cc33 You've averted ~badge_progress~ Eco ~^p^badge_progress^Disaster^Disasters~.
+
+# ecohero-2.prop - badgeDescriptionString
+
+# ecohero-3.prop - badgeDescriptionString
+
+# ecohero-4.prop - badgeDescriptionString
+
+# ecohero-5.prop - badgeDescriptionString
+
+# economist-1.prop - badgeDescriptionString
+0xecc16c05 You've purchased ~badge_progress~ Solar ~^p^badge_progress^System^Systems~.
+
+# economist-2.prop - badgeDescriptionString
+
+# economist-3.prop - badgeDescriptionString
+
+# economist-4.prop - badgeDescriptionString
+
+# economist-5.prop - badgeDescriptionString
+
+# empire-1.prop - badgeDescriptionString
+0x93da64b0 You've expanded to ~badge_progress~ Solar ~^p^badge_progress^System^Systems~.
+
+# empire-2.prop - badgeDescriptionString
+
+# empire-3.prop - badgeDescriptionString
+
+# empire-4.prop - badgeDescriptionString
+
+# empire-5.prop - badgeDescriptionString
+0xf6df9cec You've expanded to ~badge_progress~ Solar ~^p^badge_progress^System^Systems~
+
+# explorer-1.prop - badgeDescriptionString
+0xcd9efc1b You've explored ~badge_progress~ Solar ~^p^badge_progress^System^Systems~.
+
+# explorer-2.prop - badgeDescriptionString
+
+# explorer-3.prop - badgeDescriptionString
+
+# explorer-4.prop - badgeDescriptionString
+
+# explorer-5.prop - badgeDescriptionString
+
+# frequentflyer-1.prop - badgeDescriptionString
+0x1ee6549e You've made ~badge_progress~ Interstellar ~^p^badge_progress^Flight^Flights~.
+
+# frequentflyer-2.prop - badgeDescriptionString
+
+# frequentflyer-3.prop - badgeDescriptionString
+
+# frequentflyer-4.prop - badgeDescriptionString
+
+# frequentflyer-5.prop - badgeDescriptionString
+
+# goldentouch-1.prop - badgeDescriptionString
+0xd20df38a You've accumulated ~badge_progress~ ~^p^badge_progress^Sporebuck^Sporebucks~.
+
+# goldentouch-2.prop - badgeDescriptionString
+
+# goldentouch-3.prop - badgeDescriptionString
+
+# goldentouch-4.prop - badgeDescriptionString
+
+# goldentouch-5.prop - badgeDescriptionString
+
+# gopher-1.prop - badgeDescriptionString
+0x2ab167b1 You've completed ~badge_progress~ Delivery ~^p^badge_progress^Mission^Missions~.
+
+# gopher-2.prop - badgeDescriptionString
+
+# gopher-3.prop - badgeDescriptionString
+
+# gopher-4.prop - badgeDescriptionString
+
+# gopher-5.prop - badgeDescriptionString
+
+# grobally.prop - badgeDescriptionString
+0xce8a7664 You've allied with the Grox.  Are we on the dark side now?
+
+# grobdefeat.prop - badgeDescriptionString
+0x74b83969 You've defeated the mighty Grox.  Is there life after that?
+
+# jackofalltrades-1.prop - badgeDescriptionString
+0xe830b98c You've bought ~badge_progress~ Tools.
+
+# jackofalltrades-2.prop - badgeDescriptionString
+
+# jackofalltrades-3.prop - badgeDescriptionString
+
+# jackofalltrades-4.prop - badgeDescriptionString
+
+# jackofalltrades-5.prop - badgeDescriptionString
+
+# joker-1.prop - badgeDescriptionString
+0x39c0e67d You've cheated!
+
+# merchant-1.prop - badgeDescriptionString
+0xdcb23590 You've traded for ~badge_progress~ ~^p^badge_progress^Sporebuck^Sporebucks~.
+
+# merchant-2.prop - badgeDescriptionString
+
+# merchant-3.prop - badgeDescriptionString
+
+# merchant-4.prop - badgeDescriptionString
+
+# merchant-5.prop - badgeDescriptionString
+
+# missionista-1.prop - badgeDescriptionString
+0xaef0b81f You've completed ~badge_progress~ ~^p^badge_progress^Mission^Missions~.
+
+# missionista-2.prop - badgeDescriptionString
+
+# missionista-3.prop - badgeDescriptionString
+
+# missionista-4.prop - badgeDescriptionString
+
+# missionista-5.prop - badgeDescriptionString
+
+# planetpicasso-1.prop - badgeDescriptionString
+0x027214ba You've used ~badge_progress~ Planet Sculpting or Coloring ~^p^badge_progress^Tool^Tools~.
+
+# planetpicasso-2.prop - badgeDescriptionString
+
+# planetpicasso-3.prop - badgeDescriptionString
+
+# planetpicasso-4.prop - badgeDescriptionString
+
+# planetpicasso-5.prop - badgeDescriptionString
+
+# sightseer-1.prop - badgeDescriptionString
+0x3774b234 You've made ~badge_progress~ Cosmic ~^p^badge_progress^Discovery^Discoveries~.
+
+# sightseer-2.prop - badgeDescriptionString
+
+# sightseer-3.prop - badgeDescriptionString
+
+# sightseer-4.prop - badgeDescriptionString
+
+# sightseer-5.prop - badgeDescriptionString
+
+# terrawrangler-1.prop - badgeDescriptionString
+0xeba464e6 You've improved the terraforming score of ~badge_progress~ ~^p^badge_progress^Planet^Planets~.
+
+# terrawrangler-2.prop - badgeDescriptionString
+
+# terrawrangler-3.prop - badgeDescriptionString
+
+# terrawrangler-4.prop - badgeDescriptionString
+
+# terrawrangler-5.prop - badgeDescriptionString
+
+# trader-1.prop - badgeDescriptionString
+0x9d229328 You've established ~badge_progress~ Trade ~^p^badge_progress^Route^Routes~.
+
+# trader-2.prop - badgeDescriptionString
+
+# trader-3.prop - badgeDescriptionString
+
+# trader-4.prop - badgeDescriptionString
+
+# trader-5.prop - badgeDescriptionString
+
+# traveler-1.prop - badgeDescriptionString
+0xe932aafb You've contacted ~badge_progress~ ~^p^badge_progress^Empire^Empires~.
+
+# traveler-2.prop - badgeDescriptionString
+
+# traveler-3.prop - badgeDescriptionString
+
+# traveler-4.prop - badgeDescriptionString
+
+# traveler-5.prop - badgeDescriptionString
+
+# warmonger-1.prop - badgeDescriptionString
+0x8f6f21e8 You've started ~badge_progress~ ~^p^badge_progress^War^Wars~.
+
+# warmonger-2.prop - badgeDescriptionString
+0xe1769549 You've started ~badge_progress~ Wars.
+
+# warmonger-3.prop - badgeDescriptionString
+
+# warmonger-4.prop - badgeDescriptionString
+
+# warmonger-5.prop - badgeDescriptionString
+
+# wonderlandwanderer-1.prop - badgeDescriptionString
+0x86240214 You've discovered ~badge_progress~ Storybook ~^p^badge_progress^Planet^Planets~.
+
+# wonderlandwanderer-2.prop - badgeDescriptionString
+0x5ccd95c5 You've discovered ~badge_progress~ Storybook ~^p^badge_progress^Planet^Planets~.
+
+# wonderlandwanderer-3.prop - badgeDescriptionString
+
+# wonderlandwanderer-4.prop - badgeDescriptionString
+
+# wonderlandwanderer-5.prop - badgeDescriptionString
+
+# zoologist-1.prop - badgeDescriptionString
+0x6e213e04 You've filled out ~badge_progress~ ~^p^badge_progress^Ecosystem^Ecosystems~.
+
+# zoologist-2.prop - badgeDescriptionString
+
+# zoologist-3.prop - badgeDescriptionString
+
+# zoologist-4.prop - badgeDescriptionString
+
+# zoologist-5.prop - badgeDescriptionString
+
+# archetypeswitch-1.prop - badgeGroup
+0x75d4018d Split Personality
+
+# archetypeswitch-2.prop - badgeGroup
+
+# archetypeswitch-3.prop - badgeGroup
+
+# archetypeswitch-4.prop - badgeGroup
+
+# archetypeswitch-5.prop - badgeGroup
+
+# badgecollector-1.prop - badgeGroup
+
+# badgecollector-10.prop - badgeGroup
+
+# badgecollector-2.prop - badgeGroup
+
+# badgecollector-3.prop - badgeGroup
+
+# badgecollector-4.prop - badgeGroup
+
+# badgecollector-5.prop - badgeGroup
+
+# badgecollector-6.prop - badgeGroup
+
+# badgecollector-7.prop - badgeGroup
+
+# badgecollector-8.prop - badgeGroup
+
+# badgecollector-9.prop - badgeGroup
+
+# bodyguard-1.prop - badgeGroup
+0x04d1cab7 Body Guard
+
+# bodyguard-2.prop - badgeGroup
+
+# bodyguard-3.prop - badgeGroup
+
+# bodyguard-4.prop - badgeGroup
+
+# bodyguard-5.prop - badgeGroup
+
+# brainsurgeon-1.prop - badgeGroup
+0x37bcd3f7 Brain Surgeon
+
+# brainsurgeon-2.prop - badgeGroup
+
+# brainsurgeon-3.prop - badgeGroup
+
+# brainsurgeon-4.prop - badgeGroup
+
+# brainsurgeon-5.prop - badgeGroup
+
+# captain.prop - badgeGroup
+
+# cleaner-1.prop - badgeGroup
+0x43f32028 Cleaner
+
+# cleaner-2.prop - badgeGroup
+
+# cleaner-3.prop - badgeGroup
+
+# cleaner-4.prop - badgeGroup
+
+# cleaner-5.prop - badgeGroup
+
+# collector-1.prop - badgeGroup
+0xb9b37965 Collector
+
+# collector-2.prop - badgeGroup
+
+# collector-3.prop - badgeGroup
+
+# collector-4.prop - badgeGroup
+
+# collector-5.prop - badgeGroup
+
+# colonist-1.prop - badgeGroup
+0x2d220ac1 Colonist
+
+# colonist-2.prop - badgeGroup
+
+# colonist-3.prop - badgeGroup
+
+# colonist-4.prop - badgeGroup
+
+# colonist-5.prop - badgeGroup
+
+# conquerer-1.prop - badgeGroup
+0xaa0b997c Conqueror
+
+# conquerer-2.prop - badgeGroup
+
+# conquerer-3.prop - badgeGroup
+
+# conquerer-4.prop - badgeGroup
+
+# conquerer-5.prop - badgeGroup
+
+# diplomat-1.prop - badgeGroup
+0xa20b887e Diplomat
+
+# diplomat-2.prop - badgeGroup
+
+# diplomat-3.prop - badgeGroup
+
+# diplomat-4.prop - badgeGroup
+
+# diplomat-5.prop - badgeGroup
+
+# ecohero-1.prop - badgeGroup
+0x9e20a5eb Eco Hero
+
+# ecohero-2.prop - badgeGroup
+
+# ecohero-3.prop - badgeGroup
+
+# ecohero-4.prop - badgeGroup
+
+# ecohero-5.prop - badgeGroup
+
+# economist-1.prop - badgeGroup
+0xfd57a74d Economist
+
+# economist-2.prop - badgeGroup
+
+# economist-3.prop - badgeGroup
+
+# economist-4.prop - badgeGroup
+
+# economist-5.prop - badgeGroup
+
+# empire-1.prop - badgeGroup
+0xdf6e0fa0 Empire
+
+# empire-2.prop - badgeGroup
+
+# empire-3.prop - badgeGroup
+
+# empire-4.prop - badgeGroup
+
+# empire-5.prop - badgeGroup
+
+# explorer-1.prop - badgeGroup
+0x1f0f9c03 Explorer
+
+# explorer-2.prop - badgeGroup
+
+# explorer-3.prop - badgeGroup
+
+# explorer-4.prop - badgeGroup
+
+# explorer-5.prop - badgeGroup
+
+# frequentflyer-1.prop - badgeGroup
+0xfaa2bbf6 Frequent Flyer
+
+# frequentflyer-2.prop - badgeGroup
+
+# frequentflyer-3.prop - badgeGroup
+
+# frequentflyer-4.prop - badgeGroup
+
+# frequentflyer-5.prop - badgeGroup
+
+# goldentouch-1.prop - badgeGroup
+0xd196082a Golden Touch
+
+# goldentouch-2.prop - badgeGroup
+
+# goldentouch-3.prop - badgeGroup
+
+# goldentouch-4.prop - badgeGroup
+
+# goldentouch-5.prop - badgeGroup
+
+# gopher-1.prop - badgeGroup
+0x71ec2c91 Gopher
+
+# gopher-2.prop - badgeGroup
+
+# gopher-3.prop - badgeGroup
+
+# gopher-4.prop - badgeGroup
+
+# gopher-5.prop - badgeGroup
+
+# grobally.prop - badgeGroup
+
+# grobdefeat.prop - badgeGroup
+
+# jackofalltrades-1.prop - badgeGroup
+0xab609be4 Jack Of All Trades
+
+# jackofalltrades-2.prop - badgeGroup
+
+# jackofalltrades-3.prop - badgeGroup
+
+# jackofalltrades-4.prop - badgeGroup
+
+# jackofalltrades-5.prop - badgeGroup
+
+# joker-1.prop - badgeGroup
+
+# merchant-1.prop - badgeGroup
+0xbe4aa580 Merchant
+
+# merchant-2.prop - badgeGroup
+
+# merchant-3.prop - badgeGroup
+
+# merchant-4.prop - badgeGroup
+
+# merchant-5.prop - badgeGroup
+
+# missionista-1.prop - badgeGroup
+0xcdab6def Missionista
+
+# missionista-2.prop - badgeGroup
+
+# missionista-3.prop - badgeGroup
+
+# missionista-4.prop - badgeGroup
+
+# missionista-5.prop - badgeGroup
+
+# planetpicasso-1.prop - badgeGroup
+0xf61e761a Planet Artiste
+
+# planetpicasso-2.prop - badgeGroup
+
+# planetpicasso-3.prop - badgeGroup
+
+# planetpicasso-4.prop - badgeGroup
+
+# planetpicasso-5.prop - badgeGroup
+
+# sightseer-1.prop - badgeGroup
+0xe5c4359c Sightseer
+
+# sightseer-2.prop - badgeGroup
+
+# sightseer-3.prop - badgeGroup
+
+# sightseer-4.prop - badgeGroup
+
+# sightseer-5.prop - badgeGroup
+
+# terrawrangler-1.prop - badgeGroup
+0xb2199f4e Terra-Wrangler
+
+# terrawrangler-2.prop - badgeGroup
+
+# terrawrangler-3.prop - badgeGroup
+
+# terrawrangler-4.prop - badgeGroup
+
+# terrawrangler-5.prop - badgeGroup
+
+# trader-1.prop - badgeGroup
+0x48019ee8 Trader
+
+# trader-2.prop - badgeGroup
+
+# trader-3.prop - badgeGroup
+
+# trader-4.prop - badgeGroup
+
+# trader-5.prop - badgeGroup
+
+# traveler-1.prop - badgeGroup
+0x809ea6e3 Traveler
+
+# traveler-2.prop - badgeGroup
+
+# traveler-3.prop - badgeGroup
+
+# traveler-4.prop - badgeGroup
+
+# traveler-5.prop - badgeGroup
+
+# warmonger-1.prop - badgeGroup
+0x7c1897a8 Warmonger
+
+# warmonger-2.prop - badgeGroup
+
+# warmonger-3.prop - badgeGroup
+
+# warmonger-4.prop - badgeGroup
+
+# warmonger-5.prop - badgeGroup
+
+# wonderlandwanderer-1.prop - badgeGroup
+0x381bfe7c Wonderland Wanderer
+
+# wonderlandwanderer-2.prop - badgeGroup
+
+# wonderlandwanderer-3.prop - badgeGroup
+
+# wonderlandwanderer-4.prop - badgeGroup
+
+# wonderlandwanderer-5.prop - badgeGroup
+
+# zoologist-1.prop - badgeGroup
+0xdea1a72c Zoologist
+
+# zoologist-2.prop - badgeGroup
+
+# zoologist-3.prop - badgeGroup
+
+# zoologist-4.prop - badgeGroup
+
+# zoologist-5.prop - badgeGroup
+
+# grobally.prop - badgeHintAction
+0xb79e519e ?
+
+# grobdefeat.prop - badgeHintAction

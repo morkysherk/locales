@@ -1,0 +1,62 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Paint.png~ Paint Mode
+
+0x00000021 ~guide: -h2~ Now that you've created the perfect vehicle, design its exterior.  Select Paint Mode at the top of the Vehicle Creator. The Paint Palette will open on the right of the Vehicle Creator Screen.
+
+0x00000031 ~guide: -h1~ Three Ways to Paint
+
+0x00000041 ~guide: -bullet~ Complete Styles - Click one of the style samples and your vehicle will take on the style of the sample image. Scroll through additional styles using the forward and back arrows at the bottom of the Complete Styles Palette.
+
+0x00000051 ~guide: -bullet~ Partial Styles -  Apply specific textures and colors of your choice in three regions: Chassis and Cockpits, Wheels, Wings, Sails, and Details.
+
+0x00000061 ~guide: -bullet~ Paint Brush Mode - Customize the textures and colors for each region on each individual part.
+
+0x000000a1 ~guide: -h1~ Paint Like
+
+0x000000b1 ~guide: -h2~ You can also paint your vehicle to match other vehicles that you have created yourself or shared.  You can even paint your vehicle to match your creature!
+
+0x000000c1 ~guide: -bullet~ Select the Paint Like option in the Complete Styles Palette to access The Sporepedia.
+
+0x000000d1 ~guide: -bullet~ Select the creation whose paint style you'd like to copy and click the green check mark.
+
+0x000000e1 ~guide: -bullet~ When you return to Paint Mode your vehicle will be painted the style you selected.
+
+0x000000f1 ~guide: -h1~ Partial Styles
+
+0x00000111 ~guide: -h2~ You can choose one style for each region of your vehicle.   You can also choose the color of each region.
+
+0x00000121 ~guide: -h2~ One tip: Choose the style first and the color second.
+
+0x00000131 ~guide: -h3~ The Vehicle Regions:
+
+0x00000141 ~guide: -bullet~ Chassis and Cockpits
+
+0x00000151 ~guide: -bullet~ Wheels, Wings and Sails
+
+0x00000161 ~guide: -bullet~ Details
+
+0x00000171 ~guide: -h3~ Customizing Pattern Colors
+
+0x00000181 ~guide: -bullet~ Click one of the pattern swatches.
+
+0x00000191 ~guide: -h2~ To customize the color of the pattern, click and hold a paint swatch in the palette area to see a palette of color variations. Drag your cursor to the color you want and release to select that color.
+
+0x000001a1 ~guide: -h1~ Paint Brush Mode
+
+0x000001b1 ~guide: -h2~ Paint Brush Mode allows you to paint the regions of each individual vehicle part separately.
+
+0x000001c1 ~guide: -h3~ Paint Brush Steps:
+
+0x000001d1 ~guide: -bullet~ Select a Pattern Swatch, it will appear alongside the Color Palette Selector.
+
+0x000001e1 ~guide: -bullet~ Most pattern swatches have a primary and secondary color.  Chose one color from the top row of the Color Palette Selector and another color from the bottom row of the Color Palette Selector.
+
+0x000001f1 ~guide: -bullet~ Your cursor appears as a Paint Bucket when over your vehicle.  Areas of your vehicle outline in blue, indicating the area to be painted with your selected color and pattern, when you click.
+
+# 0x00000201 ~guide: -h1~ Paint Brush Mode Advanced Features
+
+# 0x00000211 ~guide: -h3~ Painting Multiple Parts or Regions
+
+# 0x00000221 ~guide: -bullet~ Press the 1 on the number row of your keyboard, hold the Control key, and place your Paint Bucket over a part, to select all similar parts.  Click to paint all parts the with same texture and color
+
+# 0x00000231 ~guide: -bullet~ Press 2 on the number row of your keyboard, hold the Control key, and place your Paint Bucket over a part region to select all similar regions.  Click to paint all of the outlined regions with the same texture and color.
+

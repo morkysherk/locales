@@ -1,0 +1,8 @@
+# string table file for text for patch 2
+# The ID of this string table is 0x626ce3b4
+
+# This is a tool tip for the action button "Walk"
+0x00000001 Walk
+
+# This is a tool tip for the action button "Run"
+0x00000002 Run

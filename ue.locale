@@ -1,0 +1,61 @@
+﻿#Editor name
+0x04d94893 Spaceship
+#Default model name
+0x04d93065 ~blank text~
+#Name prompt
+0x05371ad8 Name your Spaceship
+
+#Category Name - Air
+0x264b0b03 Air
+
+#Category Name - Bodies
+0x8ca46dbd Bodies
+
+#Category Name - Cockpit
+0x28a87c18 Cockpit
+
+#Category Name - Detail
+0xaf4d56d2 Detail
+
+#Category Name - Effect
+0xc07e3fa6 Effect
+
+#Category Name - Land
+0x63b099ce Land
+
+#Category Name - Weapons
+0x1ce3c05c Weapons
+
+#Category Name - Space
+0xb355c181 Space
+
+#Category Name - Water
+0xe0e46232 Water
+
+#Page Name - Air
+0x96e3df05 Air
+
+#Page Name - Body
+0x95f498db Body
+
+#Page Name - Cockpit
+0x1fcac4b2 Cockpit
+
+#Page Name - Detail
+0x2f74eca0 Detail
+
+#Page Name - Effect
+0x4d1e68d8 Effect
+
+#Page Name - Land
+0xd018b9a6 Land
+
+#Page Name - Military
+0x239255fe Military
+
+#Page Name - Space
+0xf1ce9457 Space
+
+#Page Name - Water
+0x2d38b892 Water
+

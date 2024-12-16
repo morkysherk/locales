@@ -1,0 +1,90 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!testdrive.png~ Test Drive
+
+0x00000021 ~guide: -h2~ Test Drive Mode allows you to take your guys for a spin to test their new outfits. Lead your guy around the play area, strike poses, take pictures and movies to share with your friends!
+
+0x00000031 ~guide: -h1~ Moving Around
+
+0x00000041 ~guide: -h2~ In Test Drive, click the ground to see your creation walk. Double click to run. Your guy will only be able to move about in the circular play area in test drive mode.
+
+0x00000051 ~guide: -h3~ Actions
+
+0x00000061 ~guide: -bullet~ Click the Actions button  to open your movement options.
+
+0x00000071 ~guide: -bullet~ Click any button to see the individual your are working on boogie, pose and share their emotions.
+
+0x00000081 ~guide: -h2~ Click the Whistle button To get your their attention.
+
+0x00000091 ~guide: -h1~ Create Babies
+
+0x000000a1 ~guide: -bullet~ Click the egg icon to add one, two, or three babies. To make the babies disappear, simply click the icon again.
+
+0x000000b1 ~guide: -h2~ Imitation is the sincerest form of flattery. As in real life a baby will mimic what its parent does. Remember, they're just learning so expect them to mess up from time to time.
+
+0x000000c1 ~guide: -h1~ Backgrounds
+
+0x000000d1 ~guide: -bullet~ Everyone loves to travel. Click the background button and choose from the different environments.
+
+0x000000e1 ~guide: -h3~ The Black Background
+
+0x000000f1 ~guide: -h2~ The black background contains a transparency layer.  It captures only the image of the individual you are working on.  This is useful if you'd like to create t-shirts or use your creations pictures in other images.
+
+0x00000101 ~guide: -h1~ Animated Avatars
+
+0x00000111 ~guide: -bullet~ Click the Capture Animated Avatars button to create an animated .gif of your creation which you can post to your favorite website.
+
+0x00000121 ~guide: -h2~ Animated gifs can be found in the following location:  ~save_path~AnimatedAvatars~mac_save_append~ .
+
+0x00000131 ~guide: -h1~ Taking Pictures
+
+0x00000141 ~guide: -bullet~ Click the Camera button to take a picture.
+
+0x00000151 ~guide: -h2~ Your pictures are saved here: ~save_path~Pictures~mac_save_append~ In backgrounds you can select the black background to capture an image of only your creature.  This is useful if you want to make a t-shirt.
+
+0x00000161 ~guide: -h1~ Picture Viewer
+
+0x00000171 ~guide: -bullet~ Click the Picture viewer button to view a filmstrip of your recent photos.
+
+0x00000181 ~guide: -bullet~ Click a picture to open the image.
+
+0x00000191 ~guide: -h2~ In addition to emailing a postcard to a friend, you can also:
+
+0x000001a1 ~guide: -bullet~ Delete Pictures
+
+0x000001b1 ~guide: -bullet~ Archive Pictures - the Picture Viewer has a limit of 99 pictures, once this fills up, you can store your pictures in another directory using this option.
+
+0x000001c1 ~guide: -bullet~ Email postcards to friends.
+
+0x000001d1 ~guide: -h1~ Changing picture resolution
+
+0x000001e1 ~guide: -h2~ To change the resolution of your pictures.
+
+0x000001f1 ~guide: -bullet~ Click on the Galaxy button to open the Options Panel
+
+0x00000201 ~guide: -bullet~ Click on the Settings button
+
+0x00000211 ~guide: -bullet~ Select capture settings
+
+0x00000221 ~guide: -bullet~ Choose from the three picture resolutions: Small, Medium, and Large.
+
+0x00000231 ~guide: -h1~ Email a Spore Postcard to a Friend!
+
+0x00000241 ~guide: -h2~ Select a picture from the Picture Viewer filmstrip and you will open the Postcard feature.  Just enter your email address and a friend's along with a comment and push the Send Email button.
+
+0x00000251 ~guide: -h2~ Note: The recipient's email addresses will be used only to forward your postcard and will not be retained by EA for any other use.
+
+0x00000261 ~guide: -h1~ Making Movies
+
+0x00000271 ~guide: -bullet~ Click the video camera button to begin recording your creation's antics.
+
+0x00000281 ~guide: -bullet~ Click the icon again to stop recording.
+
+0x00000291 ~guide: -h2~ Your movie can be up to two minutes long. Your movies are saved to the following directory: ~save_path~Movies~mac_save_append~ 
+
+0x000002a1 ~guide: -h3~ Changing Movie Size
+
+0x000002b1 ~guide: -h2~ Choose from three movie sizes: 160 x 120, 320 x 240, and 640 x 480. To change your movie size, open Settings from the Options panel and select Capture Settings.
+
+0x000002c1 ~guide: -h3~ Post a Movie to YouTube
+
+0x000002d1 ~guide: -h2~ After recording your movie you can choose to upload it directly to YouTube by clicking the "Upload" button.    In addition to being registered with EA, you must be registered and logged into YouTube to upload your movie.  Just follow the prompts to register with EA or with YouTube.    Once your movie has been uploaded to YouTube, you will be given the option to email the YouTube link to a friend.
+

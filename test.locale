@@ -1,0 +1,30 @@
+﻿ 
+	string 0*~br~~br~~br~
+
+ string 1
+
+  string 2
+
+
+0x3000
+        string 4
+string 5
+
+  0x02faf487
+~TOKEN1~This is test string 1 ~TOKEN1~~TOKEN2~\\
+
+0x02faf488  This is test string 3~br~
+
+0x02faf489
+This is test string 4~br~
+
+
+
+    0x02faf48a         This is ~TOKEN2~ test string    ~br~    
+
+0x02faf48b
+This is test string 6~br~
+
+0x02faf48c
+This is test ~TOKEN1~ string ~br~
+ 	0x02faf48dThis is test string	~br~~~8~~	

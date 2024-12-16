@@ -1,0 +1,11 @@
+﻿#################################################
+# Don't ever remove any strings from this file or 
+# change their location inside the file !!! 
+#################################################
+
+0x00000000 OK
+0x00000001 Cancel
+0x00000002 Yes
+0x00000003 No
+0x00000004 Accept
+0x00000005 Decline

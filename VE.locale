@@ -1,0 +1,89 @@
+﻿#Editor name
+0x04d94893 Vehicle
+#Default model name
+0x04d93065 ~blank text~
+#Naming prompts
+0x05371a31 Name your Air Vehicle
+0x05371a32 Name your Land Vehicle
+0x05371a33 Name your Sea Vehicle
+
+#Category Name - Air
+0xdfeb5c20 Air
+
+#Category Name - Bodies
+0xb418330c Bodies
+
+#Category Name - Cockpit
+0x317138ab Cockpit
+
+#Category Name - Religious
+0x3f24d28e Religious
+
+#Category Name - Detail
+0xfbe4fc67 Detail
+
+#Category Name - Economic
+0xa7d71cea Economic
+
+#Category Name - Effect
+0x6763c88f Effect
+
+#Category Name - Land
+0xe58c2fdb Land
+
+#Category Name - Military
+0x2329e145 Military
+
+#Category Name - Water
+0x5579f131 Water
+
+#Page Name - Air
+0x96e3df05 Air
+
+#Page Name - Body
+0x95f498db Body
+
+#Page Name - Body2
+0xeb0ca0f3 Body2
+
+#Page Name - Cockpit
+0x1fcac4b2 Cockpit
+
+#Page Name - Cultural
+0x491bde3d Cultural
+
+#Page Name - Detail
+0x2f74eca0 Detail
+
+#Page Name - Diplomatic
+0x98241b61 Diplomatic
+
+#Page Name - Effect
+0x4d1e68d8 Effect
+
+#Page Name - Land
+0xd018b9a6 Land
+
+#Page Name - Military
+0x239255fe Military
+
+#Page Name - Water
+0x2d38b892 Water
+
+#Stat Bar Names
+0x00000001 Defense
+0x00000002 Speed
+0x00000003 Power
+0x00000004 Conversion
+0x00000005 Influence
+0x00000006 Attack
+0x00000007 Attack
+
+#Stat Bar Tooltips
+0x00000011 Defense makes you ~br~harder to destroy
+0x00000012 Speed makes you faster
+0x00000013 Power Tooltip here
+0x00000014 Conversion is a ~br~cultural attack
+0x00000015 Influence is a ~br~diplomatic attack
+0x00000016 Attack is a ~br~military attack
+0x00000017 Attack is a ~br~military attack

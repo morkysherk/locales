@@ -1,0 +1,5 @@
+﻿# Delete mission dialog
+0x00000001 Delete Mission
+0x00000002 Do you really want to abort and delete this mission?
+0x00000003 Track Limit
+0x00000004 You can track a maximum of three missions or badges. 

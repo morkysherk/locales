@@ -1,0 +1,369 @@
+﻿0x0580e601 Your Own Empire
+
+0x065672cb Available for purchase. Find an empire that sells it.
+0x0657c8d4 You must leave the planet to save.
+0x0657cc21 ~badge_points~ badge points
+
+0x065b76ef ~p~Unlocks:
+
+# used to name the Galactic Core.
+0x0591bd91 Galactic Core
+
+#######################################
+# Comm/Trade fail text
+0x06790598 Not open for trade.
+0x06790599 Improve relationship to trade.
+0x0679ed24 Insufficient funds.
+0x0679f573 Cannot repair while at war.
+0x0679f574 Cannot recharge while at war.
+# todo: the following need to be hooked up
+0x0679eac5 Not interested.
+0x0679eac6 Your cargo is full.
+
+#######################################
+# Cost strings
+0x0435eced ~cost~
+0x066f61c1 (free)
+
+#######################################
+# Commodity requirements
+
+0x065b9969 ~commodity_badge_reqs~, and ~commodity_tool_reqs~
+
+0x065b9952 ~commodity_tool_req~
+0x065b9958 ~commodity_tool_req~ or ~commodity_tool_or_req~
+0x065b995c ~commodity_tool_req~ and ~commodity_tool_and_req~
+0x065b9960 ~commodity_tool_req~ and ~commodity_tool_and_req~ or ~commodity_tool_or_req~
+
+0x065bd251 the ~commodity_badge_req~ badge
+0x065b8f36 the ~commodity_badge_req~ or ~commodity_badge_or_req~ badge
+0x065b8f3d the ~commodity_badge_req~ and ~commodity_badge_and_req~ badges
+0x065b8f44 the ~commodity_badge_req~ and ~commodity_badge_and_req~ or ~commodity_badge_or_req~ badge
+
+#######################################
+# Tool Fail Text
+0x0653e593 Must be on planet.
+0x0653e594 Ran out of ammo.
+0x0653e595 Recharging.
+0x0653e596 Must be used on an empire planet.
+0x0653e597 Must be used on an alien race's colony.
+0x066f7a1a Must be used on one of your colonies
+0x066f7a1b Can only have one of these per planet.
+0x0653e598 No room in fleet for another ship.
+0x0653e599 Already have a Mini-U.
+0x0653e59a System must have a trade route.
+0x0653e59b Must be on the highest tech level planet in the system.
+0x0671ce05 An animal must be present on planet.
+0x0671fb24 You cannot use the monolith on this planet!
+0x0653e59c Can't use on empire systems.
+0x0653e59d Can't use on a wildlife sanctuary.
+0x0653e59e Must be used on wild planets.
+0x0653e59f Need higher terrascore.
+0x0653e5a0 Can't use on homeworld.
+0x066f7a1c Health is full.
+0x066f7a1d Energy is full.
+0x066f7a1e Can't use above a city.
+0x066f7a1f Can't use over water.
+0x066f7a20 You are too high up.
+0x066f7a21 Star system already has a sentient species.
+0x066f7a22 Can't place more colonies with current T-Score.
+
+#######################################
+# Progress bar rollover
+0x0435ece0 Badges: ~badge_count~
+0x0435ece5 Colonies: ~colony_count~
+0x0435ece8 Cohorts: Tribe: ~tribe_worshipper_count~, Civ: ~civ_worshipper_count~, Space: ~ally_count~
+0x0435eceb Missions: ~mission_count~
+0x0436d447 Badge Points: ~badge_points~
+
+#######################################
+# tool unlock
+
+#tool unlocked
+0x06538846 ~generic_name~
+#tool given
+0x06538847 Collected : ~generic_name~
+
+#######################################
+# Filters
+0x031791af My Empire
+0x031791b2 Empires
+0x031791b3 Missions
+0x031791b4 Travel Trail
+0x0563d2aa Visited
+0x0563d2ab Friends and Enemies
+
+#######################################
+# Planet Rollover
+0x037c32cc ~terraform_level~
+0x03e98b08 ~planet_spice~
+0x03f5a128 Comet
+0x063c3d96 Unclaimed
+0x06748f94 Claimed
+
+#######################################
+# destroy cargo text
+0x03e81c55 Jettison Cargo
+0x03e81c56 Do you want to permanently destroy this cargo?
+
+#######################################
+# Food web rollover
+0x0539aa94 Small Plant Slot
+0x0539aa95 Medium Plant Slot
+0x0539aa96 Large Plant Slot
+0x0539aa97 Herbivore Slot
+0x0539aa98 Carnivore/Omnivore Slot
+0x0539aae8 Fill Out Plants to Unlock
+0x061dfe83 Fill Out Previous Row to Unlock
+
+0x03e81c64 ~dominant_species~
+0x03e81c65 ???????
+
+0x0473cb1a Plants
+0x0473cb1f Herbivores
+0x0473cb22 Carnivores
+0x0473cb26 Dense Atmosphere
+0x0473cb2a No Atmosphere
+0x0473cb2e Low Temperature
+0x0473cb32 High Temperature
+
+#######################################
+# Foodweb Colony strings
+0x0678eecf Improve Terraform Score to Unlock
+0x0678eed0 Colony Slot
+
+#######################################
+# Misc Rollovers
+0x0654cb0a Trade Route Progress
+0x0654cb0f Capture Progress
+0x0654cb13 ~planet_name~ Surrendered
+0x0654cb16 ~planet_name~ Not Surrendered
+0x06749c10 Security Drone
+0x0678cddf Pirate
+
+#######################################
+# Posse UI
+0x05baafc0 Allies
+
+#######################################
+# colony object names
+0xe4ec3f34 Defense Satellite
+0xb4150feb Spice Storage
+0x4a1e2e7b Happiness Booster
+0x44b420e4 Loyalty Booster
+0xf55d419a Bio Protector
+0xb7d22f27 Bio Stabilizer
+0x3aab4c0e Embassy
+0x405dc1df Wildlife Sanctuary
+
+#######################################
+# space - city piemenu
+
+0x043db6b1 Sell Turret (~cost~)
+0x043db6b2 Repair Turret (~cost~)
+0x043db6b3 Demolish
+0x043db6b4 Sell Building (~cost~)
+0x043db6b5 Repair Building (~cost~)
+0x043db6b7 Repair Spaceship (~cost~)
+0x043db6b8 Buy Buildings
+0x043db6b9 Sell Colony (~cost~)
+0x04c82968 Accessorize Citizens
+0x0510b24f Edit Spaceship
+
+
+#######################################
+# Roll overs
+0x03e81c5b Spaceship Options
+0x03e81c5c Terraforming Tools
+0x03e81c5d Open Communication
+0x03e81c5e Cargo
+0x03e81c5f Weapons
+0x03e81c60 Main Tools
+0x03e81c61 Toggle Sporepedia
+0x03e81c62 Edit Spaceship
+0x04359b05 Terraforming
+0x04359b0f Minimap
+0x045ffe85 Options
+0x045ffe89 Help
+0x045ffe8e Pause/Unpause
+0x048662b4 Starmap Filters
+0x061eccf0 Spaceship Abilities
+
+# binary star suffixes
+# if name doesn't end in a digit (most stars)
+0x05d66e7c -A
+0x05d66e7d -B
+# if name ends in a digit
+0x05d66e7e A
+0x05d66e80 B
+
+0x03e81c6a Terraforming
+0x03e81c6b Pickup Hologram
+0x03e81c6c Hologram Scout
+
+0x0473d0cf ~tech_level~
+
+#######################################
+# Galactic level star rollover
+0x03e98b09 ~travel_cost~
+0x03e98b0a Distance: ~travel_distance~(pc)
+0x03e98b0b ~empire_money~
+
+#######################################
+# Tech Levels
+0x03eac039 Barren
+0x03eac03a Wild
+0x03eac03b Tribe
+0x03eac03c City
+0x03eac03d Civ
+0x03eac03e Space
+
+#######################################
+# T scores
+0x03eac681 T0
+0x03eac682 T1
+0x03eac683 T2
+0x03eac684 T3
+
+#######################################
+# Our Solar System
+0x03f5a0b0 Sol
+0x03f5a0b1 Mercury
+0x03f5a0b2 Venus
+0x03f5a0b3 Earth
+0x03f5a0b4 The Moon
+0x03f5a0b5 Mars
+0x03f5a0b6 Jupiter
+0x03f5a0b7 Ganymede
+0x03f5a0b8 Saturn
+0x03f5a0b9 Titan
+0x03f5a0ba Uranus
+0x03f5a0bb Neptune
+0x03f5a0bc Halley's Comet
+0x03f5a0bd Comet Hale-Bopp
+0x03f5a0be Comet Shoemaker-Levy 2
+0x03f5a0c0 Comet Kohoutek
+0x03f5a0c2 Comet Borrelly
+
+#######################################
+# Animal types
+0x03ebf7a8 Sentient
+0x03ebf7a9 Herbivore
+0x03ebf7aa Carnivore
+0x03ebf7ab Omnivore
+
+#######################################
+# Plant types
+0x03ebf7ac Small Plant
+0x03ebf7ad Medium Plant
+0x03ebf7ae Large Plant
+
+#######################################
+# Cargo Rollovers
+0x03eadfd0 ~tool_use_cost~
+0x03eafdd3 from ~item_planet_name~
+0x03edfdd4 ~item_animal_type~
+0x03edfdd5 ~item_plant_type~
+0x04729a65 Not Scanned
+
+#########################################
+# Artifacts/Cargo Items
+
+0x04000000 Golden Idol
+0x04000001 Chest
+0x04000002 Crown
+0x04000003 Gnome
+0x04000004 Grail
+0x04000005 Llama
+0x04000006 Plate
+0x04000007 Scepter
+0x04000008 Snow Globe
+0x04000009 Trophy
+0x04000010 Delivery Payment
+
+#######################################
+#trading window.   ( item name, npc has interest in sale of item, npc has interest in buying item)
+0x043aef68 Purple Spice
+0x043aef67 Got any Purple?
+0x043aef66 We've got a special on Purple right now.
+0x043af087 Pink Spice
+0x043af085 Our Pink harvest was great this year. You would not want to pass up this deal!
+0x043af086 Pink makes us strong. Pink makes us Happy. Shame we don't have any.
+0x043af084 Green Spice
+0x043af082 We've scanned your cargo, do you see anything that interests you?
+0x043af083 Our leader wanted to know if you have any Green...
+0x043af081 Yellow Spice
+0x043af07f Please take a look at our fine goods available
+0x043af080 We'd really like some Yellow around here
+0x043af03a Red Spice
+0x043af038 Please take a look at our fine goods available.
+0x043af039 Wow, we're really crave some Red Spice.
+0x043af42c Blue Spice
+0x043af42b Please take a look at our fine goods available. I'm sure we can agree on a trade.
+0x043af42a We were wondering if you've got any Blue Spice available.
+
+
+#######################################
+#misc mission related strings
+#these are general strings that don't belong to a specific mission, so this is a better place to store
+
+0x043af4fa here
+0x043af4fb the star called ~star_name~
+0x043af4fc the wormhole named ~star_name~
+0x043af4fd the big star named ~star_name~
+0x043af4fe the red star named ~star_name~
+0x043af4ff the proto-planetary star called ~star_name~
+0x043af500 the galactic core
+0x043af501 gas giant
+0x043af504 asteroid belt
+0x043af505 and
+# the ids for the ordinal numbers must be in order.
+0x043af507 0th
+0x043af508 1st
+0x043af509 2nd
+0x043af50a 3rd
+0x043af50b 4th
+0x043af50c 5th
+0x043af50d 6th
+0x043af50e 7th
+0x043af50f 8th
+0x043af510 9th
+
+0x043af520 T0
+0x043af521 T1
+0x043af522 T2
+0x043af523 T3
+
+0x043af526 In Progress
+0x043af527 Completed
+0x043af528 Failed
+
+0x043af529 Mission
+0x043af52a Alert
+0x043af52b Badge
+
+# tool group names. how we group the tools in the tool browser ui.
+0x05879df3 Exploring
+0x05879df4 Weaponry
+0x05879df5 Terraforming
+0x05879df6 Creating
+0x05879df7 Colonizing
+0x05879df8 Diplomacy
+0x05879df9 Worship
+0x05879dfa Special
+
+#player titles
+0x05ac5b01 Captain
+0x05ac5b1b Commander
+0x05ac5b20 Commodore
+0x05ac5b2e Admiral
+0x05ac5b58 The Celebrated
+0x05ac5b5f The Renowned
+0x05ac5b64 The Great
+0x05ac5b68 The Legendary
+0x05ac5b6f All-Powerful
+0x05ac5b73 Ultimate Being
+0x05ac5b78 Omnipotent
+
+#random string for spg
+0x068b22cd Can't use in this system.

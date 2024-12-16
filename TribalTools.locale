@@ -1,0 +1,62 @@
+﻿# ToolTemplate.prop
+0x7860c325 Tribal Tool Template
+
+# tt_firepit_home_01.prop
+0x1ae006ab Campfire
+
+# tt_firepit_home_02.prop
+0x1ae006a8 Bonfire
+
+# tt_fish_home_01.prop
+0x9c7ea022 Fishing Spears
+
+# tt_fish_home_02.prop
+0x9c7ea021 Fishing Rods
+
+# tt_fish_home_03.prop
+0x9c7ea020 Fishing Nets
+
+# tt_gather_home_01.prop
+0xce1c5ce1 Small Baskets
+
+# tt_gather_home_02.prop
+0xce1c5ce2 Tree Whackers
+
+# tt_gather_home_03.prop
+0xce1c5ce3 Large Baskets
+
+# tt_heal_home_00.prop
+0x3eb190c3 First Aid Table
+
+# tt_heal_home_01.prop
+0x3eb190c2 Healing Table
+
+# tt_heal_home_02.prop
+0x3eb190c1 Medicine Table
+
+# tt_hunt_home_01.prop
+0x43c759c7 Flaming Torches
+
+# tt_hunt_home_02.prop
+0x43c759c4 Stone Axes
+
+# tt_hunt_home_03.prop
+0x43c759c5 Spears
+
+# tt_recruit_home_01.prop
+0xba1b0776 Recruiting Totem
+
+# tt_recruit_home_02.prop
+0xba1b0775 Charming Totem
+
+# tt_rest_home_01.prop
+0xf84eefe6 Straw Mats
+
+# tt_rest_home_02.prop
+0xf84eefe5 Skin Mats
+
+# tt_rest_home_03.prop
+0xf84eefe4 Fur Mats
+
+# tt_food_mat.prop
+0xb5efedbb Skin Mats
