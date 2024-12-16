@@ -1,0 +1,643 @@
+﻿#######################################
+# Achievement titles and descriptions.
+
+# This file is mostly auto-generated, but it's okay to edit this by hand.
+# Please follow the format of this file by commenting the propfile/property that uses the string.   
+
+#alg-badbaby achievementdescription
+0x06529a5d Have one of your assets banned
+
+#alg-badbaby achievementtitle
+0x06529a18 Bad Baby!
+
+# alg-cheater.prop - achievementdescription
+0x060dd280 Use a cheat more than 50 times
+
+# alg-cheater.prop - achievementtitle
+0x060dd27f Pathological Cheater
+
+#alg-frontpagenews - achievementdescription
+0x06529d02 Have one of your creations or Sporecasts featured on www.spore.com
+
+#alg-frontpagenews - achievementtitle
+0x06529cdf Front Page News 
+
+# alg-pollinator - achievementdescription
+0x06529c6e One of your creations has appeared in 20 other players' universes
+
+#alg-pollinator - achievementtitle
+0x06529c46 Pollinator
+
+#alg-risingstar achievementdecoration
+0x065295d8 Have 5 different Sporecasts subscribed to by at least 10 people
+
+#alg-risingstar achievementtitle
+0x06528ce8 Rising Star
+
+#alg-socialengineer.prop - achievementdescription
+0x06529e66 Make 5 Sporecasts of 50 creations or more
+
+#alg-socialengineer.prop - achievement title
+0x06529e50 Social Engineer
+
+# clg-celladdict.prop - achievementDescription
+0x357a908b Finish the Cell stage 25 times
+
+# clg-celladdict.prop - achievementTitle
+0xb956386b Cell Addict
+
+# clg-completist.prop - achievementDescription
+0x29b40f72 Unlock all the parts in the Cell stage
+
+# clg-completist.prop - achievementTitle
+0xfaed9b7e Completist
+
+# clg-landfall.prop - achievementDescription
+0xa7920fae Finish the Cell stage and clamber onto the planet's surface
+
+# clg-landfall.prop - achievementTitle
+0xf9065832 Landfall
+
+# clg-pacifist.prop - achievementDescription
+0xddb085db Finish the Cell stage without killing another creature
+
+# clg-pacifist.prop - achievementTitle
+0xa98fa57b Pacifist
+
+# clg-speedfreak.prop - achievementDescription
+0x7ec6333c Finish the Cell stage in under 8 minutes
+
+# clg-speedfreak.prop - achievementTitle
+0xd533234c Speedfreak
+
+# crg-bodybuilder.prop - achievementDescription
+0x0625c63b Unlock all parts in the Creature stage
+
+# crg-bodybuilder.prop - achievementTitle
+0x0625c63c Body Builder
+
+# crg-cerberus.prop - achievementDescription
+0x10000012 Evolve a creature with three heads
+
+# crg-cerberus.prop - achievementTitle
+0x10000002 Cerberus
+
+# crg-bestial.prop - achievementDescription
+0xad6cc9e8 Play the Creature stage 10 times
+
+# crg-bestial.prop - achievementTitle
+0xc0e29cf0 Bestial
+
+# crg-devourer.prop - achievementDescription
+0x0e734184 Eat 50 different species across any number of games
+
+# crg-devourer.prop - achievementTitle
+0x181282d4 Devourer
+
+# crg-epickiller.prop - achievementDescription
+0xce3f179a Kill an epic in Creature stage
+
+# crg-epickiller.prop - achievementTitle
+0xe3b7f7e6 Epic Killer
+
+# crg-evolver.prop - achievementDescription
+0x71f409a1 Finish Creature stage
+
+# crg-evolver.prop - achievementTitle
+0x47143c0d Evolver
+
+# crg-flightofthebumblebee.prop - achievementDescription
+0x0625c63d Fly for over 200 meters without touching the ground
+
+# crg-flightofthebumblebee.prop - achievementTitle
+0x0625c63e Flight of the Bumblebee
+
+# crg-friend.prop - achievementDescription
+0x10000016 Finish the Creature stage by befriending at least 20 other species
+
+# crg-friend.prop - achievementTitle
+0x10000006 Everyone's BFF
+
+# crg-generalcuster.prop - achievementDescription
+0x10000013 Lead 30 posse members to their death
+
+# crg-generalcuster.prop - achievementTitle
+0x10000003 General Custer
+
+# crg-foe.prop - achievementDescription
+0x14e28a36 Extinct at least 20 other species in Creature stage
+
+# crg-Foe.prop - achievementTitle
+0x6fbc539a Foe
+
+# crg-immortal.prop - achievementDescription
+0x24b4acda Finish Creature stage without dying
+
+# crg-immortal.prop - achievementTitle
+0x6e7b4971 Survivor
+
+# crg-maxpower.prop - achievementDescription
+0x10000015 Build a creature with maximum stats in at least 4 abilities in Creature stage
+
+# crg-maxpower.prop - achievementTitle
+0x10000005 Max Power
+
+# crg-slugger.prop - achievementDescription
+0x9c81212b Finish Creature stage without legs
+
+# crg-slugger.prop - achievementTitle
+0xf3c5e40b Slugger
+
+# crg-socialite.prop - achievementDescription
+0x10000011 Meet 200 creatures made by other players
+
+# crg-socialite.prop - achievementTitle
+0x10000001 Socialite
+
+# crg-speeddemon.prop - achievementDescription
+0xb3733e22 Finish Creature stage within an hour
+
+# crg-speeddemon.prop - achievementTitle
+0x2c8b38ae Speed Demon
+
+# crg-villagepeople.prop - achievementDescription
+0x10000014 Have three posse members from different species
+
+# crg-villagepeople.prop - achievementTitle
+0x10000004 Village Folks
+
+# cvg-conclusion.prop - achievementDescription
+0x9c2b1b3b Finish the Civilization stage by launching ICBMS and destroying all other cities
+
+# cvg-conclusion.prop - achievementTitle
+0xd49bf5db Conclusion
+
+# cvg-economist.prop - achievementDescription
+0x72107d47 Finish the Civilization stage with more than 8 economic cities
+
+# cvg-economist.prop - achievementTitle
+0x451ef13f Economist
+
+# cvg-fearofflying.prop - achievementDescription
+0x7e5ff4f8 Finish the Civilization stage without ever buying an aircraft
+
+# cvg-fearofflying.prop - achievementTitle
+0xe5fddec0 Fear of Flying
+
+# cvg-ghettoblaster.prop - achievementDescription
+0xa2d3cce4 Create 10 Anthems
+
+# cvg-ghettoblaster.prop - achievementTitle
+0xa385eb34 Ghetto Blaster
+
+# cvg-militarystrongman.prop - achievementDescription
+0x12efa40c Finish the Civilization stage with more than 8 military cities
+
+# cvg-militarystrongman.prop - achievementTitle
+0xd35167dc Military Strongman
+
+# cvg-missionary.prop - achievementDescription
+0x434cde4c Finish the Civilization stage with more than 8 religious cities
+
+# cvg-missionary.prop - achievementTitle
+0xe2d1021c Missionary
+
+# cvg-relentless.prop - achievementDescription
+0x33665de1 Complete the Civilization stage 10 times
+
+# cvg-relentless.prop - achievementTitle
+0xbc3c424d Relentless
+
+# cvg-rollingthunder.prop - achievementDescription
+0x592f58c5 Complete the Civilization stage in less than an hour
+
+# cvg-rollingthunder.prop - achievementTitle
+0x216abd79 Rolling Thunder
+
+# cvg-spicehorder.prop - achievementDescription
+0xb2fb3b5a Control every resource node on the planet simultaneously
+
+# cvg-spicehorder.prop - achievementTitle
+0xc072a0a6 Spice Hoarder
+
+# cvg-starman.prop - achievementDescription
+0x15bbafc0 Conquer all the other cities in the Civilization stage and launch your first space vessel
+
+# cvg-starman.prop - achievementTitle
+0x6d705bc8 Starman
+
+# spg-42.prop - achievementDescription
+0x2ae960e8 Find the center of the galaxy
+
+# spg-42.prop - achievementTitle
+0xb3bfabf0 42
+
+# spg-bioeng.prop - achievementDescription
+0xf03d0a64 Edit 25 creatures with the Creature Tweaker
+
+# spg-bioeng.prop - achievementTitle
+0xc24774b4 Bio-Engineer
+
+# spg-carelessparent.prop - achievementDescription
+0x96a86c6e Lose 5 planets
+
+# spg-carelessparent.prop - achievementTitle
+0xd6736ef2 Careless Parent
+
+# spg-conquistador.prop - achievementDescription
+0x5e371fbc Capture 15 Star Systems
+
+# spg-conquistador.prop - achievementTitle
+0xdaeb93cc Conquistador
+
+# spg-palmgreaser.prop - achievementDescription
+0xee414084 Pay 50 bribes in the Space stage
+
+# spg-palmgreaser.prop - achievementTitle
+0xe0b639d4 Palm Greaser
+
+# spg-eaglescout.prop - achievementDescription
+0x772acb44 Earn 100 badges in the Space stage
+
+# spg-eaglescout.prop - achievementTitle
+0xea17c094 Maxis Scout
+
+# spg-engineer.prop - achievementDescription
+0x22e2d96f Promote 20 alien Tribes to Civilizations
+
+# spg-engineer.prop - achievementTitle
+0x667933e7 Civil Engineer
+
+# spg-questmaster.prop - achievementDescription
+0xe406410b Complete 150 missions in the Space stage
+
+# spg-gopher.prop - achievementTitle
+0x19988ceb Quest Master
+
+# spg-gunner.prop - achievementDescription
+0xb2105c99 Destroy at least 500 other space vessels
+
+# spg-gunner.prop - achievementTitle
+0xe1f5cf25 Gunner
+
+# spg-humanity.prop - achievementDescription
+0xf42af7ed Destroy Earth
+
+# spg-humanity.prop - achievementTitle
+0x8ecc8901 Oh the Humanity!
+
+# spg-identitycrisis.prop - achievementDescription
+0x1960b5d9 Forge an alliance between two space-faring races of your own creation
+
+# spg-identitycrisis.prop - achievementTitle
+0x73f00565 Identity Crisis
+
+# spg-planetkiller.prop - achievementDescription
+0x80758dfb Destroy 20 planets
+
+# spg-planetkiller.prop - achievementTitle
+0xa571049b Quietus Star
+
+# spg-splitpersonality.prop - achievementDescription
+0x01ed5116 Complete a "Change Archetype" mission
+
+# spg-splitpersonality.prop - achievementTitle
+0xefc9ec7a Split Personality
+
+# spg-superpilot.prop - achievementDescription
+0xcdcd484d Spend at least 40 hours piloting your spaceship
+
+# spg-superpilot.prop - achievementTitle
+0x6545e161 Super Pilot
+
+# spg-thief.prop - achievementDescription
+0x604ee072 Steal 50 crates of spice in the Space stage
+
+# spg-thief.prop - achievementTitle
+0x4b4d347e Thief
+
+# spg-zookeeper.prop - achievementDescription
+0x6a22d624 Make 15 zoo planets
+
+# spg-zookeeper.prop - achievementTitle
+0x81f75a74 Zoo Keeper
+
+# testachievement.prop - achievementDescription
+0xb70e2d38 A sample achievement accumulator definition
+
+# testachievement.prop - achievementTitle
+0xecdc4c00 testAchievement
+
+# trg-domesticbliss.prop - achievementDescription
+0x20000011 Domesticate and farm three different species
+
+# trg-domesticbliss.prop - achievementTitle
+0x20000001 Domestic Bliss
+
+# trg-founder.prop - achievementDescription
+0x20000017 Complete the Tribal stage and build a city
+
+# trg-founder.prop - achievementTitle
+0x20000007 Founder
+
+# trg-luddite.prop - achievementDescription
+0x20000015 Destroy 150 tools belonging to other tribes across multiple games
+
+# trg-luddite.prop - achievementTitle
+0x20000005 Luddite
+
+# trg-medic.prop - achievementDescription
+0x20000016 Heal one of your tribe members back to full health 5x in a single game
+
+# trg-medic.prop - achievementTitle
+0x20000006 Medic
+
+# trg-socialite.prop - achievementDescription
+0x20000018 Convert all 5 opposing tribes to your belief system
+
+# trg-socialite.prop - achievementTitle
+0x20000008 Tribal Socialite
+
+# trg-thehorde.prop - achievementDescription
+0x20000014 Complete the Tribal stage in less than an hour
+
+# trg-thehorde.prop - achievementTitle
+0x20000004 Ergonomically Terrific!
+
+# trg-tribal.prop - achievementDescription
+0x20000013 Complete the Tribal stage 10 times
+
+# trg-tribal.prop - achievementTitle
+0x20000003 Tribal
+
+# trg-vicious.prop - achievementDescription
+0x20000019 Kill all members of all 5 opposing tribes and raze their villages
+
+# trg-vicious.prop - achievementTitle
+0x20000009 Vicious
+
+# trg-watchfulparent.prop - achievementDescription
+0x20000012 Complete the Tribal stage without the death of a single tribe member
+
+# trg-watchfulparent.prop - achievementTitle
+0x20000002 Watchful Parent
+
+# spg-alterego.prop - achievementDescription
+0x2c966027 Play the Space stage as all 10 archetypes
+
+# spg-alterego.prop - achievementTitle
+0x9568e11f Alter Ego
+
+# spg-alterego2.prop - achievementDescription
+0x941c67ff Achieve Master Badge Level 10 as all 10 archetypes
+
+# spg-alterego2.prop - achievementTitle
+0xfa91fc77 Alter Ego's Alter Ego
+
+# spg-archetypebard.prop - achievementDescription
+0x2a701046 Play as a Bard
+
+# spg-archetypebard.prop - achievementTitle
+0xeb5abcea Bard Passion
+
+# spg-archetypediplomat.prop - achievementDescription
+0xefa8a9d3 Play as a Diplomat
+
+# spg-archetypediplomat.prop - achievementTitle
+0x9d1616b3 Diplomatic Passion
+
+# spg-archetypeecologist.prop - achievementDescription
+0x870c7084 Play as an Ecologist
+
+# spg-archetypeecologist.prop - achievementTitle
+0x0586e9d4 Ecologist Passion
+
+# spg-archetypeknight.prop - achievementDescription
+0xdd0a3cb0 Play as a Knight
+
+# spg-archetypeknight.prop - achievementTitle
+0x09847038 Knight Passion
+
+# spg-archetypescientist.prop - achievementDescription
+0xd688dccd Play as a Scientist
+
+# spg-archetypescientist.prop - achievementTitle
+0x8e5839e1 Scientist Passion
+
+# spg-archetypeshaman.prop - achievementDescription
+0xb8032333 Play as a Shaman
+
+# spg-archetypeshaman.prop - achievementTitle
+0x7cb21213 Shaman Passion
+
+# spg-archetypetrader.prop - achievementDescription
+0x2cc18351 Play as a Trader
+
+# spg-archetypetrader.prop - achievementTitle
+0x398218fd Trader Passion
+
+# spg-archetypewanderer.prop - achievementDescription
+0x654fd38f Play as a Wanderer
+
+# spg-archetypewanderer.prop - achievementTitle
+0xb9ff8f07 Wanderer Passion
+
+# spg-archetypewarrior.prop - achievementDescription
+0xf92fff49 Play as a Warrior
+
+# spg-archetypewarrior.prop - achievementTitle
+0x84ace4d5 Warrior Passion
+
+# spg-archetypezealot.prop - achievementDescription
+0x83f2008a Play as a Zealot
+
+# spg-archetypezealot.prop - achievementTitle
+0x7edeb516 Zealot Passion
+
+# spg-empirebuilder.prop - achievementDescription
+0x66dab0e9 Maximize colonies on 10 planets
+
+# spg-empirebuilder.prop - achievementTitle
+0x1e859775 Empire Builder
+
+# spg-manifestdestiny.prop - achievementDescription
+0xe3854b7f Find Earth
+
+# spg-manifestdestiny.prop - achievementTitle
+0x8015dbf7 Manifest Destiny
+
+# spg-mb10bard.prop - achievementDescription
+0x6e2d39cb Achieve Master Badge Level 10 as a Bard
+
+# spg-mb10bard.prop - achievementTitle
+0x2b031bab Bard Hero
+
+# spg-mb10diplomat.prop - achievementDescription
+0x974c796a Achieve Master Badge Level 10 as a Diplomat
+
+# spg-mb10diplomat.prop - achievementTitle
+0xcecf61f6 Diplomatic Hero
+
+# spg-mb10ecologist.prop - achievementDescription
+0xf3eb34f3 Achieve Master Badge Level 10 as an Ecologist
+
+# spg-mb10ecologist.prop - achievementTitle
+0x2d806ed3 Ecologist Hero
+
+# spg-mb10knight.prop - achievementDescription
+0x70915de5 Achieve Master Badge Level 10 as a Knight
+
+# spg-mb10knight.prop - achievementTitle
+0x41d06199 Knight Hero
+
+# spg-mb10scientist.prop - achievementDescription
+0xbe03db8a Achieve Master Badge Level 10 as a Scientist
+
+# spg-mb10scientist.prop - achievementTitle
+0x75342816 Scientist Hero
+
+# spg-mb10shaman.prop - achievementDescription
+0xcd4c8fc2 Achieve Master Badge Level 10 as a Shaman
+
+# spg-mb10shaman.prop - achievementTitle
+0x1df0f64e Shaman Hero
+
+# spg-mb10trader.prop - achievementDescription
+0x3e872480 Achieve Master Badge Level 10 as a Trader
+
+# spg-mb10trader.prop - achievementTitle
+0x3ddea588 Trader Hero
+
+# spg-mb10wanderer.prop - achievementDescription
+0x133b1052 Achieve Master Badge Level 10 as a Wanderer
+
+# spg-mb10wanderer.prop - achievementTitle
+0xdb56ac5e Wanderer Hero
+
+# spg-mb10warrior.prop - achievementDescription
+0x5e997472 Achieve Master Badge Level 10 as a Warrior
+
+# spg-mb10warrior.prop - achievementTitle
+0x0599687e Warrior Hero
+
+# spg-mb10zealot.prop - achievementDescription
+0x6f4b1daf Achieve Master Badge Level 10 as a Zealot
+
+# spg-mb10zealot.prop - achievementTitle
+0xd3869727 Zealot Hero
+
+# alg-architect.prop - achievementDescription
+0x71247483 Create and share 50 buildings
+
+# alg-architect.prop - achievementTitle
+0xbcc06ea3 Architect
+
+# alg-automotiveengineer.prop - achievementDescription
+0x8fbd32b0 Make and publish 50 vehicles
+
+# alg-automotiveengineer.prop - achievementTitle
+0x99889638 Automotive Engineer
+
+# alg-biologist.prop - achievementDescription
+0x15926d58 Make and publish 100 creatures
+
+# alg-biologist.prop - achievementTitle
+0xf3779820 Biologist
+
+# alg-creator.prop - achievementDescription
+0x95aff9ac Spend 50 hours in the creators
+
+# alg-creator.prop - achievementTitle
+0x99bf707c Creator
+
+# alg-dejavu.prop - achievementDescription
+0x643fa75b Discover something you created in another game
+
+# alg-dejavu.prop - achievementTitle
+0x214732fb Deja Vu
+
+# alg-galacticgod.prop - achievementDescription
+0x297f0e56 Evolve from a cell to a space traveler in one continuous game
+
+# alg-galacticgod.prop - achievementTitle
+0xdb8060ba Galactic God
+
+# alg-photographer.prop - achievementDescription
+0x108f29d7 Send a photo or video to a friend from Test Drive mode
+
+# alg-photographer.prop - achievementTitle
+0x2ea6824f Photographer
+
+# alg-purpleheart.prop - achievementDescription
+0x6090d136 Die at least once in every stage of Spore
+
+# alg-purpleheart.prop - achievementTitle
+0xaaa4929a Can't Win For Losing
+
+# alg-sporeaddict.prop - achievementDescription
+0x1906f40c Spend 100 hours in your Spore galaxy
+
+# alg-sporeaddict.prop - achievementTitle
+0x7e1737dc Spore Addict
+
+# alg-sporefan.prop - achievementDescription
+0x04c2843a Spend 50 hours in your Spore galaxy
+
+# alg-sporefan.prop - achievementTitle
+0xbae19486 Spore Fan
+
+# alg-universeinabox.prop - achievementDescription
+0xeb0f1740 Play in every stage and every creator
+
+# alg-universeinabox.prop - achievementTitle
+0x483bdf48 Universe In A Box
+
+# alg-aluminumcell.prop - achievementDescription
+0x26a1b156 Complete Cell stage on Hard setting
+
+# alg-aluminumcell.prop - achievementTitle
+0x8deedbba Aluminum Cell
+
+# alg-ironcreature.prop - achievementDescription
+0xcdab7dcb Complete Creature stage on Hard setting
+
+# alg-ironcreature.prop - achievementTitle
+0x4cec7fab Iron Creature
+
+# alg-steeltribe.prop - achievementDescription
+0x63bf429d Complete Tribe stage on Hard setting
+
+# alg-steeltribe.prop - achievementTitle
+0xfa4efdb1 Steel Tribe
+
+# alg-titaniumcivilization.prop - achievementDescription
+0x2f9b0dfe Complete Civilization stage on Hard setting
+
+# alg-titaniumcivilization.prop - achievementTitle
+0x51b14e82 Adamantium Civilization
+
+# clg-unlockcrg.prop - achievementTitle
+0x064d2514 Creature stage unlocked
+
+# clg-unlockcrg.prop - achievementdescription
+0x064d25b2 Play enough of the Cell stage to unlock the Creature stage
+
+# crg-unlocktrg.prop - achievementTitle
+0x064d3264 Tribe stage unlocked
+
+# crg-unlocktrg.prop - achievementdescription
+0x064d3268 Play enough of the Creature stage to unlock the Tribe stage
+
+# trg-unlockcvg.prop - achievementTitle
+0x064d3560 Civilization stage unlocked
+
+# trg-unlockcvg.prop - achievementdescription
+0x064d3564 Play enough of the Tribe stage to unlock the Civilization stage
+
+# cvg-unlockspg.prop - achievementTitle
+0x064d35bd Space stage unlocked
+
+# cvg-unlockspg.prop - achievementdescription
+0x064d35c1 Play enough of the Civilization stage to unlock the Space stage
+
+

@@ -1,0 +1,88 @@
+﻿
+#trg-allies.prop
+0x14d83f34 You can't attack your allies
+
+# trg-camzoom.prop
+0x064d36e9 Scroll the mouse wheel to zoom the camera in and out
+
+# trg-camrotate.prop
+0x7434286a Hold the left and right mouse buttons at the same time to pitch and rotate the camera
+0x069c5ff1 Hold Command, Option and Left Mouse Button to pitch and rotate the camera
+
+# trg-camtranslate.prop
+0x1e442937 Use the arrow keys, or click and hold the right mouse button, to pan the camera
+
+# trg-minimapuse.prop
+0x064d4466 Good. Click on the hut icon in the MiniMap to focus the camera back on your tribe
+
+# trg-selectmemberfromui.prop
+0x064e71b9 Click on a tribe member's portrait in the Tribal List to select an individual.
+
+# trg-equip.prop
+0x859e8612 Select a tribe member and click on your new tool to equip it
+
+# trg-fish.prop
+0x71cd08a2 Send a tribe member to a fishing hole to fish
+
+# trg-gather.prop
+0xfd999d5f Send a tribe member to a fruit tree to harvest fruit
+
+# trg-gift.prop
+0x15fa19de Send a tribe member to another tribal hut to give them a gift
+
+# trg-healing.prop
+0xe9aaf38c Buy and equip a healing tool to heal wounded tribe members in the field
+
+# trg-hunt.prop
+0x66be2691 Send a tribe member to attack wild creatures to hunt
+
+# trg-mate.prop
+0x890a2445 When an idle tribe member wants to mate, select someone and click on them
+
+# trg-selectbox.prop
+0xf4085b9f Click and drag a box around multiple tribe members to command them as a group.
+
+# trg-tribeeatherbi.prop
+0x064e981e With tribe members selected, right click on a tree with fruit and gather fruit
+
+# trg-tribeeatcarni.prop
+0x064e9d88 With tribe members selected, right click on a wild creature to hunt and gather meat
+
+# trg-tribeeatomni.prop
+0x064e9d74 With tribe members selected, right click on a tree to gather fruit or a wild creature to hunt
+
+# trg-sociallosttools.prop
+0x057f7800 Not impressive enough!
+
+# trg-socialwrongtool.prop
+0xb448d3a9 Your creatures aren't carrying the right tool to impress this tribe!
+
+# trg-tools.prop
+0x705e38f9 Click on a hut and select 'buy tools' to upgrade your tribe
+
+# trg-superpowerlocked.prop
+0x05ff852c Play the Creature Stage to discover how unlock this ability!
+
+# trg-chieftainunavailable.prop
+0x05ff8960 Your Chieftain is currently unavailable.
+
+# trg-notenoughfoodforbaby.prop
+0x0614922c You need at least ~tribe_food_required_for_baby~ food to make a baby.
+
+# trg-notenoughfoodtofeedanimal.prop
+0x0614922d You need at least ~tribe_food_required_to_feed_wild_animal~ food to feed a wild animal.
+
+# trg-notenoughfoodforgift.prop
+0x0614922e You need at least ~tribe_food_required_for_gift~ food to give a gift.
+
+# trg-giftwrongtarget.prop
+0x0678c9c0 Right click on the tribe's food pile to bring them a gift.
+
+# trg-socialwrongtarget.prop
+0x0678c84f Right click on a tribe member to perform for them.
+
+# trg-socialnoaudience.prop
+0x0678c858 There must be at least one tribe member present to impress.
+
+# trg-socialtutorial.prop
+0x0697299c Instruments allow you to respond to crowd requests by pressing the matching buttons.

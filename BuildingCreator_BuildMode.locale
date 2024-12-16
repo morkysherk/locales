@@ -1,0 +1,78 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Build Mode
+
+0x00000021 ~guide: -h1~ The Blocks Palette
+
+0x00000031 ~guide: -h2~ In Build Mode the Blocks Palette is open on the left of the Building Creator screen.
+
+0x00000041 ~guide: -h3~ Blocks Categories
+
+0x00000051 ~guide: -h2~ Along the top of the Blocks Palette are the Block Categories you can choose from; structural bodies, roofs, connectors, doors, windows, function, and details. To select the Block Category you wish to use, just click on its tab.
+
+0x00000061 ~guide: -h3~ Selecting and Adding Blocks
+
+0x00000071 ~guide: -h2~ To select a block, click on it in the block palette and then drag it from the palette onto the dais or onto your building.
+
+0x00000081 ~guide: -h2~ To select a block once it is on your building, just click on it until it is highlighted in blue.
+
+0x00000091 ~guide: -h3~ Stacking or Intersecting Roofs and Bodies
+
+0x000000a1 ~guide: -bullet~ If you place two blocks on the dais together, they will automatically intersect as you bring them close together.
+
+0x000000b1 ~guide: -bullet~ If you place one block directly over another it will automatically stack.
+
+0x000000c1 ~guide: -h3~ Snap To
+
+0x000000d1 ~guide: -h2~ While you can place a block anywhere you wish on your building, windows, doors and details all have "snap to" points to help assist you in alignment.  You will notice a slight snap and hold when you drag these blocks onto your building.
+
+0x000000e1 ~guide: -h3~ Building Diameter and Height
+
+0x000000f1 ~guide: -h2~ There are limits to the diameter and height that your buildings can be.  If you exceed these limits as you try to place a block, the block simply won't stay put, instead it will remain highlighted red.  You will not be charged for blocks that can not be placed.
+
+0x000000f2 ~guide: -h3~ Removing Blocks
+
+0x000000f3 ~guide: -h2~ To remove a block, select the block and either press delete or backspace on your keyboard or click and drag it off the building or dais.
+
+0x00000101 ~guide: -h1~ Editing Blocks
+
+0x00000111 ~guide: -h3~ Editing Blocks With Handles
+
+0x00000121 ~guide: -h2~ Once you have added a block to your building you can edit it using its edit handles.
+
+0x00000131 ~guide: -bullet~ Select the block you wish to edit by clicking on it.  It will highlight in blue when selected.
+
+0x00000141 ~guide: -h4~ The block handles:
+
+0x00000151 ~guide: -bullet~ Adjustment Arrows:  Change a block's height, width, length, or curl.  Just pull and see what it does.
+
+0x00000161 ~guide: -bullet~ Rotation Ring:  Rotates the direction of blocks.
+
+0x00000191 ~guide: -h1~ Complexity and Budget
+
+0x000001a1 ~guide: -h3~ The Block Budget
+
+0x000001b1 ~guide: -h2~ Your block budget is shown in the lower left corner of the Building Creator.
+
+0x000001c1 ~guide: -h2~ Each block you put on your building costs block points. Once you run out of points to spend, you will not be able to add any more blocks.
+
+0x000001d1 ~guide: -h3~ Complexity Meter
+
+0x000001e1 ~guide: -image-left 0x05556b31!complexitymeter.png~ 
+
+0x000001f1 ~guide: -h2~ The complexity meter measures the structural complexity of your building. If your building becomes overly complex, you will not be able to add any more blocks.
+
+0x00000201 ~guide: -h1~ Advanced Building Features
+
+0x00000211 ~guide: -h3~ Advanced Part Handles
+
+0x00000221 ~guide: -bullet~ Hold down the tab key while you select a block on your building. You'll see additional part handles that let you control the placement of each part to a greater extent.
+
+0x00000231 ~guide: -h3~ Copying Parts
+
+0x00000241 ~guide: -bullet~ To copy a part that you already have on your building, click on that part while holding down the ALT key on your keyboard, then drag the copy to another spot on your building.
+
+0x00000251 ~guide: -h3~ Directional Placement
+
+0x00000261 ~guide: -bullet~ To move a block up and down (yes, even so they hover in thin air!) hold the Control key down while selecting a block, continue to hold CTRL while you reposition the block with your mouse.
+
+0x00000271 ~guide: -bullet~ To move a block left and right, without adjusting height automatically, hold the Shift key down while selecting a block, continue to hold Shift while you reposition the block with your mouse.
+

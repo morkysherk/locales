@@ -1,0 +1,81 @@
+﻿
+# crg-abilitynotready.prop
+0xd39a5768 That ability is not ready yet
+
+# crg-addposse.prop
+0xf42e517f Socialize with an allied creature to add them to your pack!
+
+# crg-lowhealth.prop
+0x91a0449f You're very low on health! Eat something or return to your nest to heal
+
+# crg-starving.prop
+0x0679fe2e You're starving! You need to eat something
+
+# crg-notarget.prop
+0x79e8f4c5 You don't have a target
+
+# crg-socialclickcreature.prop
+0xf4211908 Click on a creature to begin socializing with them
+
+# crg-socialgame.prop
+0xf4211909 Mimic the other creature to impress them
+
+# CRG-SocialGood.prop
+0xd4f7bc8b Good!
+
+# CRG-SocialGooder.prop
+0xd4f7bc8c Excellent!
+
+# CRG-SocialGoodest.prop
+0xd4f7bc8d Perfect!
+
+# crg-sociallostabilities.prop
+0x942911e0 Not impressive enough! You need to evolve better social abilities
+
+# crg-sociallostdrain.prop
+0xf421190a Too slow! Respond immediately to avoid boring the other creature
+
+# crg-socialwrongability.prop
+0xf4211907 That ability isn't quite right...
+
+# crg-spitclose.prop
+0x30a611e9 You're too close
+
+# crg-useabilitybite.prop
+0xc88f53c8 <hinticon> to learn to bite
+
+# crg-useabilitycharge.prop
+0x3424ce42 <hinticon> to learn to charge
+
+# crg-useabilitydance.prop
+0xb6e01de9 <hinticon> to learn to dance
+
+# crg-useabilitygesture.prop
+0x7f48d101 <hinticon> to learn to charm
+
+# crg-useabilityposture.prop
+0x8693a0fc <hinticon> to learn to pose
+
+# crg-useabilitysing.prop
+0x7c56fdab <hinticon> to learn to sing
+
+# crg-useabilityspit.prop
+0xd6fd3dec <hinticon> to learn to spit
+
+# crg-useabilitystrike.prop
+0x14e9f748 <hinticon> to learn to strike
+
+# crg-verbcharge.prop
+0x6859aede That ability is not ready
+
+# crg-wrongfood.prop
+0x142cd4f2 Remember that carnivores should only eat meat and herbivores should only eat fruit!
+
+# crg-superpowerlocked.prop
+0x05ff84fe Play the Cell Stage to discover how to unlock this ability!
+
+# crg-rotatecamera
+0x064a7f33 Hold down the right mouse button to rotate the camera
+
+# crg-movecreature.prop
+0x064a711a Left mouse click on the ground to move your creature

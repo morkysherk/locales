@@ -1,0 +1,5 @@
+﻿# patch manager
+# This one string was moved from Data/Locale/en-us/Text/CSA/CSAEntry.txt for Patch 3.
+# Due to out-of-sync issues between p4 and the Combined CSA/Spore HAL DB, this is the simplest solution.
+0x06df77e2 Updates are available.~br~Log in with your email address and password to get the latest updates.
+

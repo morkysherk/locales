@@ -1,0 +1,162 @@
+﻿# photo page count
+0x0456f912 ~page_current~ / ~page_count~
+
+# photo count
+0x04587552 ~photo_current~ / ~photo_count~
+
+# background page count
+0x047ed777 ~bg_page_current~ / ~bg_page_count~
+
+# animation page count
+0x05c2b47b ~anim_page_current~ / ~anim_page_count~
+
+# move all done
+0x04583295 Your pictures have been archived to: ~play_photo_back~.
+
+# delete all done
+0x0458334e Your pictures have been deleted.
+
+# move one done
+0x0458342d Your picture has been archived to: ~play_photo_back~.
+
+# photobackuppath
+0x06305593 My Spore Creations/Pictures/Backup
+
+0x06305594 My Documents
+
+# delete one done
+0x04583433 Your picture has been deleted.
+
+# delete all
+0x04583a36 Delete All
+
+# move all
+0x04583a4e Archive All
+
+# cancel
+0x04583afb Cancel
+
+# Are you sure: Yes
+0x04583ffb Yes
+
+# Are you sure: No
+0x0458400e No
+
+# too many photos
+0x047ff0e4 You have too many photos.  Please archive some photos.
+
+# email
+0x0583897c Click to Email a Postcard
+0x045ad5b9 Email a Postcard
+0x045ad62f Your Email
+0x045ad634 Recipient's Email
+0x04585f1f Your email address is invalid.
+0x04585f49 Recipient's email address is invalid.
+0x04588bef Your postcard has been sent.
+0x05b5b8c4 Tell a Friend About Your Video
+
+# your message
+0x045ad63a Your Message
+
+# photo actions
+0x045c2025 What would you like to do to the pictures?
+0x045c206e Are you sure you want to delete this picture?
+0x045c208a Are you sure you want to delete all pictures?
+0x045c2094 Are you sure you want to archive this picture?
+0x045c2098 Are you sure you want to archive all pictures?
+0x04613ed0 Exiting now will cancel all pending picture saves. Do you still wish to exit?
+
+# tool tips
+0x04598e97 Send Email
+0x046286e7 Spin
+0x046286f2 Flip
+0x046286f4 Sit
+0x046286f8 Roar
+0x04628713 Call
+0x04628717 Punch
+0x04628719 Ta-dah!
+0x04628722 Cutie
+0x04628724 Sumo
+0x04628726 Hey
+0x04628729 Flex
+0x04628733 Hey Baby
+0x04628737 The Point
+0x04628739 Walk N Place
+0x0462873f Hot Foot
+0x04628745 Hippity Hop
+0x04628749 The Stomp
+0x0462874e Raver Punch
+0x04628798 Happy
+0x0462879c Sad
+0x046287a0 Scared
+0x046287a1 Angry
+0x046287a2 Laugh
+0x046287a3 Swoon
+0x046287a4 Picture Viewer
+0x046287a5 Take Pictures
+0x046287a6 Record Movie
+0x046287d6 Actions
+0x046287d8 Backgrounds
+0x046287da Babies
+0x046287ed Save
+0x0462932d Help
+0x0473f903 Manage Pictures
+0x0474e80d Delete Picture
+0x0474e80e Archive Picture
+
+# SPPlayModeAnimation.cpp
+0x05c3efcd animation
+
+#ok
+0x045c2917 Ok
+
+#continue
+0x0549656c Continue
+
+# movie file name
+0x05dbc9ee ~movie_name_prefix~~movie_year~-~movie_month~-~movie_dayofmonth~_~movie_time~
+# GIF file name
+0x05dc1fd4 ~gif_name_prefix~~gif_year~-~gif_month~-~gif_dayofmonth~_~gif_time~
+
+# YouTube
+0x054c1e63 Your movie has been saved to ~movie_pathname~~movie_name~.avi~mac_save_append~
+0x05b5fd1e Do you want to upload now?
+0x0549366c No
+0x0549366d Upload
+0x05496510 Failed to log in to YouTube.~br~~br~Please use a valid username and password or register with YouTube before continuing upload.
+0x05496b24 Logging in to YouTube...
+0x05498260 There was an error logging in to YouTube.~br~~br~Please check your internet connection or try again later.
+0x05498d58 There was an error uploading to YouTube.~br~~br~Please check your internet connection or try again later.
+0x05498dcb Your video has been uploaded.  Would you like to tell your friend?
+0x055aa305 Uploading video to YouTube...
+0x05600488 You must be logged in to Spore to use this feature. Do you wish to login?
+0x0563c623 You must register with Spore to use this feature. Do you wish to register?
+0x056691b0 Checking for YouTube Registration...
+0x05e501eb <youtubeicon>Upload
+
+0x056d0627 Upload successful!  Send video URL to a friend!
+0x05b5ac4c YouTube Terms of Service
+0x05d2c767 Your upload has been cancelled.
+
+0x05d54af7 The associated website is in English.  To view your language select your country of origin in the site selector.
+
+# YouTube error message
+0x0567c3ab ~status_message~
+0x05baf944 Login Failed
+0x05cbdeda Upload Failed
+
+# email message
+0x056bce10 Check out my awesome creature created in Spore!
+0x056bcdca Check out my video created in Spore!~br~~video_url~
+
+#drag and drop fail message
+0x05889a21 Test Drive
+0x05889a4c You can't drag and drop in Test Drive.  Please switch to Build or Paint.
+
+# capture GIF
+0x058b90f2 Your Animated Avatar has been saved to~br~~gif_name~~mac_save_append~.
+
+# Maya export
+0x05b04ef5 Your Maya Export files have been saved to~br~~maya_export_path~~maya_export_name~*.
+
+

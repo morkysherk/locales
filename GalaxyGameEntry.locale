@@ -1,0 +1,214 @@
+﻿# Delete game dialog
+0x00000001 Delete Game
+0x00000002 Delete ~generic0~?
+0x00000005 Game Deleted
+0x00000006 ~generic0~ deleted.
+
+# Saved game name already exists dialog
+0x00000003 Planet Name Taken
+0x00000004 Sorry, ~generic0~ is already in use.
+0x060a10c3 File Missing or Corrupt
+0x060a10c4 Bad or Missing Saved Game
+0x060a10c5 Cannot find saved game file ~generic0~ 
+
+
+# GGE Strings
+
+#GGE Nav
+0x0637d480 Play
+0x0637d481 Create a Character [NOT IN USE]
+0x0637d482 Create
+
+#Create Spore Stuff panel descriptions
+0x05c08776 Create Spaceships
+0x05c08777 Create Vehicles
+0x05b08778 Create Land Vehicles 
+0x05b08779 Create Sea Vehicles
+0x05b08780 Create Air Vehicles
+0x05b08781 Create Buildings
+0x05b08782 Create a City Hall
+0x05b08783 Create a House
+0x05b08784 Create a Factory
+0x05b08785 Create an Entertainment Building 
+0x05b08786 Create Creatures
+0x05b08787 Create Cells
+0x05b08788 Create Evolved Creatures for Tribal Stage 
+0x05b08789 Create and Outfit Tribe Creatures
+0x05b08790 Create and Outfit Civilized Creatures
+0x05b08791 Create and Outfit Space Creatures
+0x05c08792 Select a creator and make creations
+0x05c08793 Spaceship Creator
+0x06527837 Create Creatures for Creature Stage
+0x06527838 Early Creature Creator
+
+
+
+
+#Create and Play panels[NOT IN USE]
+0x05b08792 Create a character and play a stage [NOT IN USE]
+0x05b08793 Create a cell and play cell stage[NOT IN USE]
+0x05b08795 Create a creature and play creature stage[NOT IN USE]
+0x05b08798 Create and outfit a space creature and play space stage[NOT IN USE]
+0x05b08799 Create and Play[NOT IN USE]
+0x05c08806 Cell Stage Creator[NOT IN USE]
+0x05c08807 Creature Stage Creator[NOT IN USE]
+0x05c08808 Tribe Stage Creator and Outfitter[NOT IN USE]
+0x05c08809 Civ Stage Creator and Outfitter[NOT IN USE]
+0x05c08810 Space Stage Creator and Outfitter[NOT IN USE]
+
+
+
+#Choose Your Assets strings
+0x05af2a13 Choose Your Creature
+0x05af2a14 Choose Your Tribal Chieftain
+0x05af2a15 Choose Your City Stuff
+0x05af2a16 Choose Your Space Stuff
+
+#Game Level Rollover Headers
+0x05b08702 Cell Stage
+0x05b08703 Creature Stage
+0x05b08704 Tribal Stage
+0x05b08705 Civilization Stage
+0x05b08706 Space Stage
+0x05b08707 Choose A Stage
+
+#Game Level Rollover Descirptions
+0x05b08708 Start at the very beginning. Nurture your own creation from its humble aquatic origins to its evolution as a sentient species in the epic journey of Spore.
+0x05b08709 Evolve your creature to become the first sentient species on the planet.
+0x05b08710 Compete with rival tribes to build your tribe of three to a burgeoning village on the path toward civilization.
+0x05b08711 Develop from city to global nation overcoming opposition from your own species.  Succeed and you'll find the key to the cosmos.
+0x05b08712 Take on missions from your homeworld as you cruise the galaxy in your spaceship on your journey through the cosmos.
+
+0x0668d398 ***Cell Game Alternative Description***
+0x0668d399 ***Creature Game Alternative Description***
+0x0668d39a ***Tribe Game Alternative Description***
+0x0668d39b ***Civ Game Alternative Description***
+0x0668d39c ***Space Game Alternative Description***
+
+#Planet Name Panel
+0x05b08713 Name Your Planet
+
+#Theme Panel
+0x05b08714 Choose A Theme
+0x05b08715 No Theme
+0x05b08716 Randomize
+0x05b08717 Other ...
+0x05b08718 Theme
+0x05b08719 Sample Assets
+0x05b08720 Random
+0x05b08761 No Theme
+0x05b58bc8 Lock / Unlock
+0x05b58bd8 Unlock
+
+#Asset Selection Panel
+0x05b08721 Choose Your Cell
+0x05b08722 Choose or Create Your Creature
+0x05b08723 Choose or Create Your Tribal Chieftain
+0x05b08724 Choose Your City Stuff
+0x05b08725 Choose Your Space Stuff
+
+#Identity Panel
+0x05b08726 Choose Your Civilization Specialty
+0x05b08727 Choose Your Empire Specialty
+0x05b08728 Select Your Play Style
+0x05b08730 Military
+0x05b08731 Economic
+0x05b08732 Religious
+
+#Difficulty Panel
+0x06148f66 Choose Your Difficulty Level
+
+
+#Play Panel
+0x05b08733 Play
+
+#Running Summary List Panel
+0x05b08734 Cell
+0x05b08735 Creature
+0x05b08736 Tribe
+0x05b08737 Civilization
+0x05b08738 Space
+0x05b08739 ~generic0~ Stage
+0x05b08740 Planet: ~generic0~
+0x05b08741 Theme: ~generic0~
+0x05b08742 City Identity: ~generic0~
+0x05b08743 Colony Identity: ~generic0~
+0x05b08744 Creature: ~generic0~
+
+#Choose Your Asset Panel#
+0x05b08762 Edit
+0x05b08763 Create New
+0x05b08764 Load
+
+#New Game Rollover
+0x05b08767 New Game
+
+#GUI Tooltips
+0x05f08712 Forward
+0x05f08713 Back
+
+###Editor Flow###
+
+#Choose Creators#
+0x05b08765 Choose A Creator
+0x05b08766 City Hall
+0x05b08768 House
+0x05b08769 Factory
+0x05b08770 Entertainment
+0x05b08771 Launch Selected Creator
+
+#difficulty setting
+0x061b56fa Choose game difficulty:
+0x05b08772 Easy
+0x05b08773 Normal
+0x05b08774 Hard
+0x05b08775 Difficulty: ~generic0~
+
+#Title Screen Strings
+0x05b08776 Online Interactions Not Rated by the ESRB
+0x05b08777 © 2008 Electronic Arts Inc. All Rights Reserved.
+
+#Greyed Stage x5
+0x065f8fbc Play the Cell Stage to unlock the Creature Stage
+0x065f8fc5 Play the Creature Stage to unlock the Tribal Stage
+0x065f8fd0 Play the Tribal Stage to unlock the Civilization Stage
+0x065f8fdb Play the Civilization Stage to unlock the Space Stage
+0x065f8fec ***
+
+# CellDiet
+0x067732a5 Herbivores eat plants
+0x067732a6 Carnivores eat meat 
+0x067732a7 Omnivores eat plants and meat
+
+# CreatureDiet
+0x067732a8 Herbivores eat plants
+0x067732a9 Carnivores eat meat 
+0x067732aa Omnivores eat plants and meat
+
+# TribeDiet
+0x067732ab Herbivores eat plants
+0x067732ac Carnivores eat meat 
+0x067732ad Omnivores eat plants and meat
+
+#Game delete tooltips
+0x067735d4 Delete
+0x067735d5 Space Games may not be deleted
+0x0677381d Click on a star to start playing Spore!
+0x0677381e Pick a star
+
+0x06773a14 Name Your Planet
+0x06709bee Share
+
+0x06775bb4 Choose Your Diet
+0x06775bb5 Herbivore
+0x06775bb6 Carnivore
+0x06775bb7 Omnivore
+
+# New comment notification from GGE
+0xb55bd823 You have new comments on your creations!
+0xb55bd824 Manage Comments
+
+# Flow
+
+0x067b5ba1 Launch Selected Creator
+0x067b5ba8 Accessorize

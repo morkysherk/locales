@@ -1,0 +1,30 @@
+﻿#Editor name
+0x04d94893 Cell
+#Default model name
+0x04d93065 ~blank text~
+#Name Prompt
+0x053718ce Name Your Species
+
+#Category Name - All Cell Parts
+0xa0ba1611 All Cell Parts
+
+#Page Name - Cell Level 0
+0x50afb98b Cell Level 0
+
+#Page Name - Cell Level 1
+0x50afb98a Cell Level 1
+
+#Page Name - Cell Level 2
+0x50afb989 Cell Level 2
+
+#Page Name - Cell Level 3
+0x50afb988 Cell Level 3
+
+#Page Name - Eyes!
+0x50afb98f Eyes!
+
+#Stat Bar Names
+0x00000001 Speed
+
+#Stat Bar Tooltips
+0x00000011 Your speed. Add more movement parts to go faster.

@@ -1,0 +1,112 @@
+﻿0x2a8d9af3 EA Help~EA_HELP~
+0x44ca6ae6 An administrator account is required to install.~ADMINISTRATOR_ACCOUNT~
+0x5c043e34 Patching Files...~APPLY_PATCH~
+0x7b152168 Click Install to begin the installation~br~~br~If you want to review or change any of your installation settings, click the Back button, or click Cancel to exit.~BEGIN_INSTALLATION~
+0x0d849c4a Click Finish to exit and get started~CLICK_FINISH~
+0x303d349e File: ~string~~br~Error: ~string~~COMP_ERROR_MSG~
+0x7d4a4e2f Custom~CUSTOM~
+0x144073d1 ~string~ will be installed in the directory of your choice.~CUSTOM_SPORE_SETUP~
+0x166e669a Cannot install to ~string~~br~Please select a different directory.~DANGEROUS_DIRECTORY_ERROR~
+0x7426eaa1 Desktop Shortcut~DESKTOP_SHORTCUT~
+0x151dec2f SPORE™ will not work properly without DirectX.~DIRECTX_WARNING~
+0x4e1203f5 Would you like to install the latest EA Download Manager? If you do not install the latest EA Download Manager, patches and certain features cannot be delivered to your machine.~EADM_INSTALL~
+0x4de32707 Please stop ~string~ before continuing.~GAME_RUNNING_STRING~
+0x64a17d06 An error has occured. Setup cannot be completed and will now stop.~GENERAL_ERROR~
+0x05082cc9 Complete~IDPROP_SETUPTYPE_COMPLETE~
+0x74c9257a Complete~IDPROP_SETUPTYPE_COMPLETE_DESC~
+0x537fd947 Custom~IDPROP_SETUPTYPE_CUSTOM~
+0x7cf6b4e8 Custom~IDPROP_SETUPTYPE_CUSTOM_DESC_PRO~
+0x45ef8dc8 InstallShield Wizard~IDS__DialogId_10105~
+0x7e9c7ec7 &Next >~IDS__DialogId_10105_ControlId_1~
+0x159098e0 < &Back~IDS__DialogId_10105_ControlId_12~
+0x051414be @10550,10551;1;0;;0,128,128~IDS__DialogId_10105_ControlId_1200~
+0x7e9c7ec6 C~IDS__DialogId_10105_ControlId_2~
+0x15538ff6 Setup Type~IDS__DialogId_10105_ControlId_50~
+0x15538ff7 Select the setup type that best suits your needs.~IDS__DialogId_10105_ControlId_51~
+0x4782cc97 Option1~IDS__DialogId_10105_ControlId_601~
+0x4782cc96 Option2~IDS__DialogId_10105_ControlId_602~
+0x4782cc95 Option3~IDS__DialogId_10105_ControlId_603~
+0x4782cc94 Option4~IDS__DialogId_10105_ControlId_604~
+0x4782cc93 Option5~IDS__DialogId_10105_ControlId_605~
+0x4782cc92 Option6~IDS__DialogId_10105_ControlId_606~
+0x4782cc91 Option7~IDS__DialogId_10105_ControlId_607~
+0x4782cca0 Option8~IDS__DialogId_10105_ControlId_608~
+0x4782cc9f Option9~IDS__DialogId_10105_ControlId_609~
+0x7e9c7ecf Cancel~IDS__DialogId_10105_ControlId_9~
+0x72aa3bc2 Select the features you want to install, and deselect the features you do not want to install.  Click Next to continue.~IDS__DialogId_10105_ControlId_901~
+0x7e8bb5fd The Installation is complete~INSTALLATION_COMPLETE~
+0x16741c9f Launch ~string~ after installation~LAUNCH_SPORE~
+0x6cd070e6 Some information needed for uninstallation could not be found. An error may have occurred during initial setup. Some files and folders may need to be removed manually.~MISSING_UNINSTALL~
+0x2bf6ea98 The current volume selected does not have sufficient disk space. You can remove files from the selected volume or select a different destination drive.~NO_SPACE_MSG~
+0x767ef241 Unable to open backup destination file.~PATCH_ERROR_BACKUP_DESTINATION~
+0x7ec3c6fa Unable to create backup directory.~PATCH_ERROR_BACKUP_DIRECTORY~
+0x394403eb Unable to create backup log file.~PATCH_ERROR_BACKUP_LOG~
+0x45db3d71 Unable to open backup source file.~PATCH_ERROR_BACKUP_SOURCE~
+0x71211e4d patchw32.dll is busy.~PATCH_ERROR_BUSY~
+0x657f7d49 Cannot find patch file.~PATCH_ERROR_CANNOT_FIND_PATCH~
+0x40cfbf3e Cannot open patch file.~PATCH_ERROR_CANNOT_OPEN_PATCH~
+0x28a00c2c Only one file and one directory may be specified on command line.~PATCH_ERROR_COMMAND_LINE~
+0x568d9702 Neither command line parameter specified is an existing directory.~PATCH_ERROR_COMMAND_LINE_PARAMETER~
+0x48dbedef Terminated by Custom Action.~PATCH_ERROR_CUSTOM_ACTION~
+0x6aee038f An update directory does not exist.~PATCH_ERROR_DIRECTORY_DOES_NOT_EXIST~
+0x15c024fc Update directory is not a valid directory name.~PATCH_ERROR_DIRECTORY_INVALID~
+0x3bcc85d2 Insufficient disk space - please free up more disk space to apply the patch.~PATCH_ERROR_DISKSPACE~
+0x23584337 Registry/INI patching not supported under DOS.~PATCH_ERROR_DOS~
+0x3269ed31 Unable to open error message file.~PATCH_ERROR_ERROR~
+0x208ab121 An error occured while attempting to apply the patch. (%d)~PATCH_ERROR_GENERAL~
+0x08f68c4f Specified option is illegal.~PATCH_ERROR_ILLEGAL~
+0x1d6f9667 Newer version of patch program required.~PATCH_ERROR_INCOMPATIBLE~
+0x54f8a844 Insufficient memory.~PATCH_ERROR_INSUFFICENT_MEMORY~
+0x09fae7da Patch file is invalid.~PATCH_ERROR_INVALID~
+0x3c17044b User abort/error loading patchw32.dll.~PATCH_ERROR_IS_ABORT~
+0x0f48320c Could not load isrtp.dll.~PATCH_ERROR_IS_LOAD~
+0x0e777733 The old version of the file to be patched is missing.~PATCH_ERROR_MISSING_FILE~
+0x0890c566 Error updating MSI database.~PATCH_ERROR_MSI~
+0x4c7a3e93 MSI Support only available in 32-bit Windows patching.~PATCH_ERROR_MSI_32BIT~
+0x19843e71 Unable to open new file.~PATCH_ERROR_NEW_FILE~
+0x6754c223 New file already exists.~PATCH_ERROR_NEW_FILE_EXISTS~
+0x4c87f179 File has already been patched.~PATCH_ERROR_NEW_FILE_PATCHED~
+0x3d73b13d Unable to find a patch specified in the patch file.~PATCH_ERROR_NOT_FOUND~
+0x4a43ca10 Unable to open old file.~PATCH_ERROR_OLD_FILE~
+0x72b5864f Old file not found. However, a file of the same was found. No update done since contents differ.~PATCH_ERROR_OLD_FILE_BUT_SAME_NAME~
+0x1adb7500 Unable to open the serialization file.~PATCH_ERROR_OPENING_SERIALIZATION~
+0x25a6abc6 Unable to open file for its overflow information.~PATCH_ERROR_OVERFLOW_CREATE~
+0x55ba6a48 Unable to read from the overflow table.~PATCH_ERROR_OVERFLOW_READ~
+0x70c5cbe4 Unable to write to the overflow table.~PATCH_ERROR_OVERFLOW_WRITE~
+0x227bb46b Valid password not entered. Patch cannot be applied.~PATCH_ERROR_PASSWORD~
+0x2f6dae9f Patch file built for the wrong platform.~PATCH_ERROR_PLATFORM~
+0x42a0f6f9 Error occurred while reading from old file.~PATCH_ERROR_READING_FILE~
+0x0f1854e4 Unable to read the serialization file.~PATCH_ERROR_READING_SERIALIZATION~
+0x0ac7c17d Missing or invalid registry/INI entry.~PATCH_ERROR_REGISTRY~
+0x74ca8ad7 Unable to rename a file.~PATCH_ERROR_RENAMING~
+0x6bcc80af Unable to rename of delete file. File may be locked or in use.~PATCH_ERROR_RENAMING_DELETING~
+0x0f5f623f Unable to seek to a position within a file.~PATCH_ERROR_SEEKING~
+0x2a2f9bcc Unable to create temporary file.~PATCH_ERROR_TEMPORARY~
+0x5cebc9ef Unable to set the time/date stamp for the updated file.~PATCH_ERROR_TIME~
+0x3162cd81 Patch Error~PATCH_ERROR_TITLE~
+0x5760c2f0 Patch file is not valid.~PATCH_ERROR_VERIFY_FAILED~
+0x20176e40 Unable to write backup file.~PATCH_ERROR_WRITING_BACKUP_FAILURE~
+0x61abcbcd Error occurred while writing to new file.~PATCH_ERROR_WRITING_FILE~
+0x1f726bca Play~PLAY_SPORE~
+0x319ad21d SPORE™~PRODUCT_NAME~
+0x39040f38 Read Me~README~
+0x1498ec13 We're ready to install!~READY_TO_INSTALL~
+0x16fbaeaf You are now ready to play the ~string~~READY_TO_PLAY~
+0x0aa43b92 Recommended~RECOMMENDED~
+0x15cc67e6 ~string~ will be installed in~br~~string~~RECOMMENDED_SPORE_SETUP~
+0x3017ef99 Do you wish to delete all user data generated by ~string~?~REMOVE_USERDATA~
+0x01fcaf57 My Spore Creations~SAVE_FOLDER~
+0x23fd0d11 SPORE™ Creature Creator~SCC_NAME~
+0x4950a450 SPORE™ Creature Creator Trial Edition~SCC_TRIAL_NAME~
+0x03bcf887 Select from the options below.~SELECT_OPTIONS~
+0x59450ac4 Setup type~br~Select your setup type~SETUP_TYPE_MESSAGE~
+0x02699e57 Setup type~SETUP_TYPE_TITLE~
+0x353f37c7 You must uninstall the ~string~ to continue. Do you wish to continue?~SPORE_REMOVE_CSA_WARNING~
+0x6a8319b9 Spore.com~SPORE_WEB~
+0x0537cfa1 Uninstall ~string~~UNINSTALL~
+0x494aa82f The wizard was interrupted before ~string~ could be completely patched.~br~~br~To fully patch this program at a later time, please run the patch again.~UNINSTALL_INCOMP~
+0x07b43e64 The InstallShield Wizard has updated %P to version %VS.~UPDATE_COMPLETE~
+0x783c20b6 The InstallShield Wizard will update the installed version (%VI) of %P to version %VS.  To continue, click Next.~UPDATE_TO_NEW_VERSION~
+0x40d6f8bd View ReadMe.txt after installation~VIEW_README~
+0x06220ba5 Click "Next" to install ~string~ on your computer!~WELCOME_SPORE_MESSAGE~
+0x38a8f152 Welcome to ~string~~WELCOME_SPORE_TITLE~

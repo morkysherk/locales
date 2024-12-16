@@ -1,0 +1,8 @@
+﻿# clg-move.prop
+0x00000001 Use the mouse or keyboard (W,A,S,D) to move your cell 
+
+# clg-herbivore.prop
+0x00000002 Eat <hinticon> to grow
+
+# clg-carnivore.prop
+0x00000003 Eat <hinticon> to grow

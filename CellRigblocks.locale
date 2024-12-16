@@ -1,0 +1,192 @@
+﻿# Cilia.prop
+0x83324b49 Cilia
+
+# ChemicalAttack.prop
+0xa2a6daf9 Poison
+
+# CL_sense_eye_01.prop
+0x0a4ab03d Stalk Eye
+
+# CL_sense_eye_02.prop
+0x0a4ab03e Beady Eye
+
+# CL_sense_eye_03.prop
+0x0a4ab03f Long Eye
+
+# CL_sense_eye_04.prop
+0x0a4ab038 Button Eye
+
+# CL_Vertebra.prop
+0xc15cfa84 Vertebra
+
+# CL_weapon_electrical_04.prop
+0x2fc35733 Electric
+
+# CoiledSpring.prop
+0xb850e37c Spring
+
+# Eyeball.prop
+0x7a5661f7 Eyeball
+
+# Filter.prop
+0x77b380c3 Filter Mouth
+
+# Flagella.prop
+0x77fbb925 Flagella
+
+# JetPropulsion.prop
+0x4fce1c69 Jet
+
+# Mandible.prop
+0x2d6d3c61 Mandible
+
+# Proboscis.prop
+0x89ec9389 Proboscis
+
+# Spike.prop
+0x002ae8e9 Spike
+
+# CellFilterMouthTemplate.prop
+0x85a42f9a Filter Mouth
+
+# CellMouthJawTemplate.prop
+0x7f7ca7fa Jaw
+
+# CellMouthPokerTemplate.prop
+0xdf200567 Proboscis
+
+# CellMovementCiliaTemplate.prop
+0x892f8692 Cilia
+
+# CellMovementFlagellaTemplate.prop
+0xe7adf898 Flagella
+
+# CellMovementJetTemplate.prop
+0xd4dc4add Jet
+
+# CellWeaponChemicalTemplate.prop
+0xde4e49ef Poison
+
+# CellWeaponElectricTemplate.prop
+0xb264049e Electric
+
+# CellWeaponSpikeTemplate.prop
+0x7474bd1f Spike
+
+# Cl_mouth_filter_01.prop
+0xa1c47665 Filter Mouth
+
+# Cl_mouth_filter_02.prop
+0xa1c47666 Filter Mouth
+
+# Cl_mouth_filter_03.prop
+0xa1c47667 Filter Mouth
+
+# Cl_mouth_filter_04.prop
+0xa1c47660 Filter Mouth
+
+# Cl_mouth_jaw_01.prop
+0x2494a723 Jaw
+
+# Cl_mouth_jaw_02.prop
+0x2494a720 Jaw
+
+# Cl_mouth_jaw_03.prop
+0x2494a721 Jaw
+
+# Cl_mouth_jaw_04.prop
+0x2494a726 Jaw
+
+# Cl_mouth_poker_01.prop
+0x64028fe0 Proboscis
+
+# Cl_mouth_poker_02.prop
+0x64028fe3 Proboscis
+
+# Cl_mouth_poker_03.prop
+0x64028fe2 Proboscis
+
+# Cl_mouth_poker_04.prop
+0x64028fe5 Proboscis
+
+# CL_movement_cilia_01.prop
+0x2ea86bff Cilia
+
+# CL_movement_cilia_02.prop
+0x2ea86bfc Cilia
+
+# CL_movement_cilia_03.prop
+0x2ea86bfd Cilia
+
+# CL_movement_cilia_04.prop
+0x2ea86bfa Cilia
+
+# CL_movement_flagella_01.prop
+0x35916fdb Flagella
+
+# CL_movement_flagella_02.prop
+0x35916fd8 Flagella
+
+# CL_movement_flagella_03.prop
+0x35916fd9 Flagella
+
+# CL_movement_flagella_04.prop
+0x35916fde Flagella
+
+# CL_movement_jet_01.prop
+0x7dd30832 Jet
+
+# CL_movement_jet_02.prop
+0x7dd30831 Jet
+
+# CL_movement_jet_03.prop
+0x7dd30830 Jet
+
+# CL_movement_jet_04.prop
+0x7dd30837 Jet
+
+# CL_sense_eye_01-center.prop
+0x21c38321 Stalk Eye
+
+# CL_sense_eye_02-center.prop
+0x6713ce5c Beady Eye
+
+# CL_sense_eye_03-center.prop
+0x2921a7a3 Long Eye
+
+# CL_sense_eye_04-center.prop
+0xea1722c6 Button Eye
+
+# Cl_weapon_chemical_01.prop
+0xbaaff974 Poison
+
+# Cl_weapon_chemical_02.prop
+0xbaaff977 Poison
+
+# Cl_weapon_chemical_03.prop
+0xbaaff976 Poison
+
+# Cl_weapon_chemical_04.prop
+0xbaaff971 Poison
+
+# CL_weapon_electrical_01.prop
+0x2fc35736 Electric
+
+# CL_weapon_electrical_02.prop
+0x2fc35735 Electric
+
+# CL_weapon_electrical_03.prop
+0x2fc35734 Electric
+
+# Cl_weapon_spike_01.prop
+0x5ac0a162 Spike
+
+# Cl_weapon_spike_02.prop
+0x5ac0a161 Spike
+
+# Cl_weapon_spike_03.prop
+0x5ac0a160 Spike
+
+# Cl_weapon_spike_04.prop
+0x5ac0a167 Spike
+

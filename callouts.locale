@@ -1,0 +1,357 @@
+﻿# cell opening
+0x00000001 Welcome To The Tidepool
+0x00000000 Throughout Spore, the choices you make impact your future.~p~As a cell, your mission is to eat, grow and evolve. Growth is measured in your progress bar below.
+
+0x00000002 Congratulations!
+0x00000003 When it comes to swimming in sludge, you rule the pool!~p~When you are ready to stretch your legs in the big wide open, click the Advance button.
+
+# Callout_CLG_TransitionButton.prop
+0x00000004 You should know...
+0x00000005 This is the Advance Button. Click here to enter the Creature Stage.~p~You'll make one last evolutionary stop to ready your cell for life on land.
+
+# Callout_CLG_ProgressBar.prop
+0x00000006 This is your progress bar.~p~As you eat you will earn DNA points. You may spend these points on new parts to evolve your cell.~p~As you progress, you grow larger and your world expands.~p~
+
+# CalloutSample.prop
+0x0615824e Callout Title
+0x06158262 Callout Text
+
+# CalloutCVGIntro.prop
+0x0625e9b3 Welcome to Civilization
+0x0625e9be You now control the vehicles and the city planning for your nation, starting with its first city.~p~You must interact with other nations, when they appear, to begin your quest for global domination.~p~Let's look at your progress bar...~p~
+
+# CalloutCVGProgressBar.prop
+0x0626f402 Making Progress
+0x0626f40d This is your progress bar.~p~Each city you conquer, convert or purchase will help you progress towards your goal to control the entire planet.~p~Your nation begins with a single specialty but you can add more by conquering other cities.~p~
+
+# CalloutCVGForcedTutorialStart.prop
+0x0671fce9 Camera Tutorial
+0x0671fced You can move the camera freely around the world.  This helps you to check in on cities, or vehicles to whom you have given orders.~p~Let's pause, for a moment, and learn the basic camera controls, and how to select a vehicle...~p~
+
+# CalloutCVGForcedTutorialEnd.prop      NOT USED but here in case we want a closing dialog.  But 'CalloutCVGGoalClaimNode' comes up after the forced tutorial.  See Paul for questions
+######### 0x0626f402 Good job!
+######### 0x0626f40d Now that you know the basics, you should send your vehicle to harvest spice.
+
+# CalloutCVGMiniMap.prop  #Is this used?
+0x0626f3bf You should know...NOT IN USE
+0x0626f3c4 This is your Mini Map, a projection of the entire planet.  You can see cities, spice geysers, and vehicles. This handy little nav system will ensure you never get lost! NOT IN USE
+
+# CalloutCVGMiniMapSpice.prop  #Is this used? YES
+0x06550365 Minimap
+0x06550367 Notice the spice geyser you claimed has converted to your nation's identity color.~p~Click on your city hall, on the minimap, to move your camera to it, so you can begin building up your capital city.
+
+# CalloutCVGInitialSuperweapon.prop
+0x062efb33 Consequence Abilities
+0x062efb38 These are your nation's unique super abilities.~p~Your citizens will develop these technologies as your nation grows.
+
+# CalloutCVGGoalCardVehicle.prop 
+0x0626f41e GoalsNOT IN USE
+0x0626f429 On your journey to global domination you may need a bit of help. These tips will guide you! NOT IN USE
+
+# CalloutCVGGoalClaimNode.prop
+0x06550886 Goals
+0x06550888 Your nation's goals will appear here.~p~Your first goal is to claim a spice geyser and begin mining operations.~p~Controlling spice geysers will increase your nation's production.
+
+# CalloutCVGVehicleBought.prop
+0x0626f434 Selection  NOT IN USE
+0x0626f43e Why walk when you can roll!~p~Use your Left Mouse Button to select your vehicles or a click and drag a box to select a fleet. Your right mouse button to send them to a target.~p~
+
+# CalloutCVGPosseUI.prop
+0x0626f450 Fleet List
+0x0626f457 You can also click on vehicles here, in your fleet list, to select them or see their current activity.~p~Double-clicking on a vehicle icon selects all vehicles of that type.
+
+# CalloutCVGMiniMapCommButtons.prop
+0x062efb5e Communications Panel
+0x062efb67 Any nation that gains more than a single city will appear on your communications panel.~p~Hover over any nation's icon to see your relationship status, check the reasons for their current attitude, or contact them through your communications device.
+
+# CalloutCVGSea.prop
+0x0626f464 NOT IN USE
+0x0626f46b NOT IN USE
+
+# CalloutCVGAir.prop
+0x0626f47a NOT IN USE
+0x0626f481 NOT IN USE
+
+# CalloutCVGWin.prop
+0x062efb82 Congratulations!
+0x062efb85 Global domination is yours!~p~When you are ready to explore the reaches beyond your home planet, click the Advance Button and be ready for liftoff!
+
+# CalloutCVGTransitionButton.prop
+0x062efb73 Advance to Space
+0x062efb78 Click here to launch your Space Exploration Program!~p~You'll be sent into the creator to create a ship for your maiden voyage.~p~Modifications can be made later at any city or colony in your empire.
+
+
+#######################################
+# Creature
+
+# Callout_CRG_Opening.prop
+0x06270000 Welcome to Land!
+0x06271000 Now you are a creature, surrounded by your nest mates!~p~To evolve you will need to meet the other species on this planet and earn DNA!~p~Earning DNA moves your progress bar. Let's take a look...~p~
+
+# Callout_CRG_ProgressBar.prop
+0x06270001 Making Progress
+0x06271001 This bar shows your progress.~p~Fill it by building relationships with other species or forcing them to become extinct.~p~Let's go to your first goal...~p~
+
+# Callout_CRG_FirstGoals.prop
+0x06270002 Goals
+0x06271002 Here is where you find your objectives.~p~As this Goal suggests, food is critical to your survival.~p~Let's learn how to look around to find some.
+
+# Callout_CRG_Stance.prop
+0x06270003 Stance
+0x06271003 Your Stance sets whether you will attack or play nice with another creature.~p~Before you interact, click on the Green button to make friends or the Red button to make dinner.  Then use each ability button.
+
+# Callout_CRG_NewPackMember.prop
+0x06270004 Build a Pack
+0x06271004 Members of your pack will help you attack or make friends.~p~Notice you have room for one.~p~Socialize with an ally and they will join you.
+
+# Callout_CRG_TransitionToTribe.prop
+0x06270005 Advance to Tribe
+0x06271005 Click here to form a Tribe!~p~You'll have one last trip to the Creator so you can finalize your look for all time! This is your last chance to add arms, they are helpful when carrying tools!
+
+
+# Callout_CRG_LastBrainUpgrade.prop
+0x06270006 Congratulations!
+0x06271006 You've made it to the top of the food chain!~p~When you are ready to give tribal life a try, click the Advance Button.~p~
+
+# Callout_CRG_Mate.prop
+0x0673148b Mating Call
+0x067213f5 Click the Mating Call button below to find your mate and enter the Creature Creator. This is where you can change your look and add the parts you've found in the world.
+
+# Callout_CRG_Superpower.prop
+0x0673162d Consequence Ability
+0x06721404 Completing the Cell Stage has earned you a special ability. Click this button to use it.
+
+# Callout_CRG_Minimap.prop
+0x06774482 Minimap
+0x06721419 Use your minimap to help you navigate the world. You can find your nest, food and migratory path here.
+
+#######################################
+# Tribe
+
+# Callout_TRG_Opening.prop
+0x06280000 You've formed a Tribe!
+0x06281000 You now command a burgeoning tribe of three.~p~You may select individual tribe members, or a group, to do your bidding.~p~You must interact with other tribes to move your progress bar forward.~p~Let's take a look...~p~
+
+#Grow your Tribal Food Stash to feed your hungry horde, buy tools, and grow your tribe. (took this out to lessen the wall of text)
+
+# Callout_TRG_ProgressBar.prop
+0x06280001 Making Progress
+0x06281001 This is your progress bar.~p~You must ally or conquer other tribes to advance your own tribe.
+
+# Callout_TRG_Posse.prop NOT IN USE
+0x06280002 You Should Know...
+0x06281002 You can check the health, hunger and current activities of tribe members here.~p~Click their portrait to select them.
+
+# Callout_TRG_FirstGoals.prop
+0x06280003 Goals
+0x06281003 These goals will help guide you through tribal life.~p~Your first task is to dress your tribe in the new Tribal Outfitter!~p~Click on your hut...
+
+# Callout_TRG_BabyPosse.prop NOT IN USE
+0x06280004 You Should Know...
+0x06281004 Babies will soon grow to be productive members of your tribe.~p~Until then, you can keep track of them here.
+
+# Callout_TRG_LastTribeConquered.prop
+0x06280006 Congratulations!
+0x06281006 Your Tribe reigns supreme!~p~When you are ready to get civilized, click the Advance Button!
+
+# Callout_TRG_TransitionToCiv.prop
+0x06280007 Advance to Civilization
+0x06281007 Click here to found your first City!~p~You'll be sent into the creators to design your City Hall and vehicles.
+
+# Callout_TRG_TutorialMode.prop
+0x06280008 Camera Tutorial
+0x06281008 You can now move the camera freely around the world.  This helps you check in on tribe members or groups to whom you have given orders.~p~Let's pause, for a moment, and learn the basic camera controls...
+
+# Callout_TRG_UICameraControls.prop
+0x0665ee03 Zoom and Rotate
+0x06281009 These controls allow you to zoom and rotate the camera.~p~Your mouse wheel can also zoom and rotate. Let's try that...
+
+# Callout_TRG_TutorialModeEnd.prop
+0x06280010 Good job!
+0x06281010 Now that you know the basics, let's begin by finding some food.
+
+# Callout_TRG_ChieftainWithPowers.prop
+0x06731782 Tribal Chieftain
+0x067213a6 The Tribal chieftain leads your tribe. Your tribe can go into combat without its chief, but the chief is necessary for any social encounters with other tribes.~p~The chieftain also invokes any of your tribe’s consequence abilities. To use a consequence ability, first select your chieftain and then click on the ability you'd like to use.
+
+# Callout_TRG_ChieftainNoPowers.prop
+0x06787873 Tribal Chieftain
+0x0678787a The Tribal chieftain leads your tribe.  Your tribe can go into combat without its chief but his presence is necessary for any social encounters with other tribes
+
+
+#######################################
+# Space
+
+# Callout_SPG_Opening.prop
+0x06290000 Welcome to Space!
+0x06291000 Welcome to the pinnacle of existence, the final frontier, the wildest, wildest west: Space!~p~You control the ship, and from this vantage, lead your race from planet bound civilization to a vast galactic empire.~p~Let's look at how you progress...
+
+# Callout_SPG_ProgressBar.prop
+0x06638d71 Progress Bar
+0x06290001 This bar tracks your progress toward Badges you earn, as well as your proximity to the center of the galaxy.~p~Mission control, on the planet's surface, is anxious to speak to you. Let's learn how to communicate.~p~
+
+# Callout_SPG_CommButton.prop
+0x06638cce Communication Panel
+0x06290002 This Short Range Video Communicator is your contact to those on the world below.~p~You must be in the planet's orbit to open the line.~p~A flashing signal means you have an incoming transmission.~p~
+
+# Callout_SPG_FirstGoals.prop
+0x06638ced Goals
+0x06290003 Your immediate mission goals are tracked here in the mini-mission log. You can track up to three missions in mini form.~p~Open the full Mission Log by hitting the "L" key at any time.
+
+# Callout_SPG_MainToolsBin.prop
+0x06638d0b Main Tools Panel
+0x06290004 Your Tools Panel is sorted by type. Your Scan Tool is found in the Main Tools panel. Equip your Scan Tool by clicking on it.
+
+# Callout_SPG_CargoBin.prop
+0x06638cac Cargo Panel
+0x06290005 This is your Cargo panel. Select the Abduction Beam, then click and hold on a plant or animal to add it to your cargo. ~p~To drop something off, select it in Cargo panel, then click and hold on the planet's surface.
+
+# Callout_SPG_WeaponsBin.prop
+0x06638d98 Weapons Panel
+0x06290006 The Weapons panel holds all your tools of destruction and defense.~p~Equip your Mini Laser by clicking on it.
+
+# Callout_SPG_MyCollection.prop
+0x06638d3e My Collections
+0x06290007 Your My Collection button gives you access to your Mission Log, Badge Collection, Tool Collection and Rares Collection. 
+
+# Callout_SPG_ActiveTool.prop
+0x06638c6b Active Tool
+0x06290008 Your active tool is shown in your spaceship portrait. To deactivate a tool press the ESC key.
+
+# Callout_SPG_HealthEnergy.prop
+0x065e3ed5 Status Bars
+0x065e3ed8 Some tools, like the Mini-Laser, cost Energy to use.~p~Refill Energy and Health via the Communication screen. This service is free from your homeworld.
+
+# Callout_SPG_BadgeUI.prop
+0x065e5d69 Badges
+0x065e5d6c Earn badges through your actions and adventures in Space.~p~As you earn badges you will move up in rank, earning new titles, new abilities and unlocking tools.
+
+# Callout_SPG_MissionUI.prop
+0x065e5f2e Mission Log
+0x065e5f30 If you see this text. Bug it.
+
+# Callout_SPG_RareUI.prop
+0x065e5f4c Rares
+0x065e5f4e If you see this text. Bug it.
+
+# Callout_SPG_ToolUI.prop
+0x065e5eca Tools
+0x065e5ece Tools are unlocked by earning badges. Once a tool is unlocked, you can purchase it from your Homeworld.~p~Some tools are Consumable and require restocking. Other tools are Permanent and may cost Energy to use. 
+
+# Callout_SPG_CapturePlanet.prop
+0x06627a27 System Capture
+0x06627a30 You have forced the last colony in this system to surrender.  Press the Capture Button at the top of the screen if you want to capture this star system.~p~If you don't feel like owning this system, feel free to continue attacking the colonies, completely obliterating your enemies. 
+
+# Callout_SPG_LowEnergy.prop
+0x06627b4b Low Energy
+0x06627b5d Energy powers your ship and tools, allowing you to travel around the galaxy.~p~Energy is free at your Homeworld, while allies and colonies will charge for refilling.  Use your Communications Panel to refill.  
+
+# Callout_SPG_PlayerDamage.propp
+0x06627dbe Need Repair
+0x06627dbf You have sustained damage and are in need of repairs. ~p~Repairs are free at your Homeworld, while allies and colonies will charge a fee.  Use your Communications Panel to repair.  
+
+# Callout_SPG_OutOfUFO.prop
+0x06627bdd Scouting
+0x06627be0 Your Hologram Scout has appeared on the planet's surface.  Feel free to explore.~p~Retrieve the scout by pressing the 'Pickup Hologram' button in the avatar window.
+
+# Callout_SPG_PurchaseReady.prop
+0x06627f31 System Purchase
+0x06627f33 Trade Routes eventually yield the option to buy a star system. Go to the trade partner's star and press the Purchase System button at the top of the screen.  This will open the communications panel, allowing the option to purchase the system.
+
+# Callout_SPG_TerraformMissionPlanet.prop
+0x06628115 Food Web Monitor
+0x0662811b This button toggles between the Mini Map and the Food Web Monitor.~p~The target on the left shows the planet's atmosphere and temperature or Terrascore.~p~Use your Terraforming Tools to improve the planet's Terrascore by moving the dot towards the center ring. The center ring represents an ideal T3 planet. 
+
+# Callout_SPG_TerraformImproved.prop
+0x066281d3 Stabilizing the T-Score
+0x066281d9 Congratulations, you've improved the T-Score of this planet!~p~Notice a T1 planet can support life. Place plants from your cargo hold in three sizes to increase the stability of the T-score.~p~If you don't do this quickly, the planet's T-Score levels will drop.   
+
+# Callout_SPG_TerraformStabilized.prop
+0x06628270 Placing Animals
+0x06628274 You've stabilized the atmosphere and temperature! Notice that the plants you placed have been added to the Food Web grid. This planet is now ready for animal life.~p~Place herbivores and carnivores, in that order to complete the Food Web. 
+
+# Callout_SPG_TerraformRowFilled.prop
+0x066282b8 Completing Terraforming
+0x066282bd You've completed a row of the ecosystem! If you've placed a colony on this planet, you can now add buildings to it by clicking on the city hall.~p~To add more colonies, improve the T-score and complete the Food Web.~p~To track an animal using radar, click on its dot in the Food Web.
+
+# Callout_SPG_FirstDisaster.prop
+0x06628763 Disaster!
+0x06628758 The world of ~planet_name~ (in the system ~star_name~) is experiencing a disaster!~p~You will be notified via an Event Log whenever a disaster occurs on one of your Empires or Ally's planets.~p~These are visible at galactic view by red markers, usually accompanied by an Incoming Transmission. 
+
+# Callout_SPG_StarMap1.prop
+0x0664aacb Star Maps
+0x0664aacd Use the Star Map Filters to help navigate the galaxy.~p~The "My Empire" filter will reveal all of the stars your empire currently owns.
+
+# Callout_SPG_StarMap2.prop
+0x06771754 Star Maps
+0x06771767 Use the "Mission" filter to point you to the target stars of the missions you're actively working on.~p~The "Travel Trail" and "Visited" filters come in handy when you want to know where you've been.
+
+# Callout_SPG_StarMap3.prop
+0x06771756 Star Maps
+0x0677176a The "Allies and Enemies" filter will show you the regions of space controlled by friend or foe..~p~The "Empire" filter will show all stars occupied by alien empires.
+
+# Callout_SPG_BuySell.prop
+0x0670c6db Trade Panel
+0x0670c6e3 Use the Trade Panel to buy and sell tools, spice, and rares.  Items from your cargo, that can be sold, will appear at the bottom of the trade panel.~p~Click on the items in the Trade Panel you wish to buy and sell.    
+
+#########################################################################
+# EDITORS
+#########################################################################
+
+#######################################
+# Cell Editor
+
+0x063971e5 [NOT IN USE]
+0x0668acdf Cell Creator
+0x06397215 You can change modes in any creator by clicking on the mode buttons above.~p~Before returning to the tidepool stop by Paint Mode and spruce up with a new look!
+
+
+#######################################
+# Creature Editor
+
+0x06397260 [NOT IN USE]
+0x0668b8d1 Creature Creator
+0x06397261 A new mode to play with...Test Drive!  Try your creature out before returning to the planet. 
+
+
+#######################################
+# Accessories Editor
+
+0x063976f0 [NOT IN USE]
+0x0668af4d Outfitter
+0x063976f1 Your days of evolving are over, fashion, however, is never over rated. Give your species a new look, outfits and accessories will do the trick.
+
+
+# Tribe Planner
+
+
+0x0668b06f Tribal Planner
+0x06397802 Click on the Hat icon to open the Tribe Member panel.~p~Roll over your tribe member then click the "Edit Outfit" button to enter the Tribal Outfitter.
+
+#######################################
+# City Planner
+0x06280005 City Planner
+0x0665e829 City Planner
+0x0639783f These tabs will help you navigate the city planner. Buy vehicles, buildings or civic objects, create an anthem or outfit your citizens. 
+0x06397840 These tabs will help you navigate the city planner. Buy vehicles, buildings or civic objects, create an anthem or outfit your citizens. 
+
+
+#######################################
+# Timeline
+
+#Callout_Timeline_TransitionOutOfCell.prop
+0xd5359775 History
+0xd5359776 This timeline shows a history of the actions you have taken during life as a cell.~p~You have established a trait which earns you unique abilities that will benefit your future generations.~p~Which path have you chosen?
+
+
+#Callout_Timeline_TransitionOutOfCreature.prop
+0x1535aba0 History
+0x1535aba1 Your actions as a creature have earned another trait that defines your species.  New unique abilities await you in the Tribal Stage.
+
+#Callout_Timeline_TransitionOutOfTribe.prop
+0x1535aba2 History
+0x1535aba3 Your tribal tactics have established your earliest cultural trait. This trait sets the course for your nation's specialty and their technological research. As your nation grows, your citizens will develop unique tools that will assist your civilization on the path to global domination. Use them wisely.
+
+#Callout_Timeline_TransitionOutOfCiv.prop
+0x1535aba4 History
+0x1535aba5 The choices throughout your evolutionary history have culminated in your race's identity as you liftoff into space. Your traits affect not only your inherent abilities but also have earned you a unique tool in your spaceship's arsenal. 

@@ -1,0 +1,23 @@
+﻿# Common
+0x00000001 Error
+
+# These are formatted like so:
+# * 01 - Title of dialog
+# * 02 - Initial value of text field (comment out to take default value from code)
+# * 03 - Validation error text
+
+# Creature Game
+0x04335b01 Name Your New Species!
+0x04335b02 ~blank text~
+0x04335b03 Please enter a valid species name.
+
+# Tribe Game
+0x04335c01 Name Your New Tribe!
+0x04335c02 ~blank text~
+0x04335c03 Please enter a valid tribe name.
+
+# Civ Game
+0x04335d01 Name Your New City!
+0x04335d04 Rename Your City
+0x04335d02 Sporesville
+0x04335d03 Please enter a valid city name.

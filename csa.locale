@@ -1,0 +1,53 @@
+﻿0x04e41403 Create a Creature
+0x04e41404 Load a Creature
+0x055dc299 Create A Creature
+0x055dc29d Load A Creature
+0x0563c38c Spore Catalog
+0x0564fc98 Sporepedia
+
+# Name and Describe
+0x0542fb32 Description:
+0x0542fb33 Tags (comma separated):
+
+# Send Photo
+0x0567ee9a Check out my awesome creature created in Spore!
+
+# YouTube login
+0x05779e56 Login
+0x05779e57 Log in to YouTube
+0x05779e58 Username
+0x05779e59 Password
+0x05779e5a Upload
+0x05779e5b No
+0x05779e5c YouTube Terms of Service
+
+# PlayMode Whistle
+0x0578e438 Look At Me
+
+# Recording
+0x05cc57dc REC
+
+# CSA GGE
+0x05838b30 Enter Creature Creator
+0x05838b31 View Galaxy
+0x05bfd4ce For news and information about Spore™, visit Spore.com.
+0x0612f46e Some features have been disabled in this demo.
+
+#CSA Title
+0x05b8aa8f Online Interactions Not Rated by the ESRB
+0x05b8aa90 © 2008 Electronic Arts Inc. All Rights Reserved.
+0x05b8aa92 This demo is intended for promotional purposes only, and may not be sold, rented  or reproduced by any party. Any unauthorized use of this demo is prohibited by applicable law. 
+0x05b8aa93 Not all games shown are available for all platforms or in all countries.
+0x05f2af39 THIS IS A TRIAL VERSION OF THE SPORE™ CREATURE CREATOR, FEATURING A LIMITED RANGE OF CREATURE PARTS.
+0x05f2af3a FOR MORE INFORMATION ABOUT SPORE™ PRODUCTS GO TO WWW.SPORE.COM 
+
+# CSAPatchDownloading.layout
+0x05d67020 Pause
+0x05d67021 Resume
+
+# Feature Descriptions
+0x0604a897 Do not show me this again.
+0x0604a898 You are going to the Sporepedia.~br~~br~The Sporepedia is your multi-purpose content browser where you can browse or search anything you’ve made or downloaded.~br~~br~You can also share these creations by uploading them to the Spore servers.~br~~br~For more information, visit the Sharing Your Creations section of the Spore Guide.
+0x0604a899 The Paint Like button takes you to the Sporepedia.~br~~br~When there, simply select the creation with the paint style you’d like to copy and click the green check mark at the bottom of the screen.~br~~br~Your creation will be painted with your style selection.   
+0x0604a89a You are going to the Sporepedia.~br~~br~The Sporepedia is your multi-purpose content browser in Spore.~br~~br~- The Everything sections allows you to browse or search anything you've made or downloaded as well as anything that Maxis made and shipped with the Creature Creator.~br~~br~- The MySpore Page is your place to find featured content, see community events and manage your comments.~br~~br~- The Spore Catalog section will link you directly to the Spore Catalog where you can buy Spore and custom Spore merchandise.~br~~br~There is more in store for the Sporepedia in the full game of Spore, where it allows you to select content that you'd like to see in the game, preview the creations of other players, share your creations with the universe of Spore players and more.
+0x0604a89b Welcome to Sporepedia - Where you become part of the Spore Universe! Your own creations are stored here, as well as the creations your friends have shared with you.~br~~br~Some quick tips for using the Sporepedia:~br~~br~Everything: Browse or search creations you've made or gotten from your friends, and find Maxis created creatures we’ve included with the Spore Creature Creator.~br~~br~MySpore Page:  This is your profile page.  Learn about community news and events, checkout featured content and review comments on the creations you've shared.~br~~br~Spore Catalog: Learn more about and buy Spore, as well as custom Spore merchandise.

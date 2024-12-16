@@ -1,0 +1,169 @@
+﻿# WARNING: This is an auto-generated file.  I wouldn't modify this file manually if I were you.  Go talk to Kai.
+
+#SECTIONS
+0xc70bdfe7 DEVELOPMENT TEAM
+0x974c0df8 INTERNS
+0xf183bef1 MUSIC/AUDIO
+0xb4370bea FIELD RECORDING
+0xd105fa38 DEVELOPMENT CONTRACTORS
+0x2aadef1d VOICE TALENT
+0x6b78a5bf MARKETING
+0xcbfbeeb7 INTERNATIONAL MARKETING
+0x495aa992 CREATIVE SERVICES
+0x4a4eabb5 PUBLIC RELATIONS
+0x7f612218 DEVELOPMENT TESTING
+0xf755d1f9 DOCUMENTATION
+0x93ab9f2c LOCALIZATION, ASIA
+0x9befa4bc LOCALIZATION, EUROPE
+0xd5c1f995 LOCALIZATION COORDINATION, EUROPE
+0xba4862f4 LOCALIZATION TESTING, EUROPE
+0xe976679b QUALITY ASSURANCE
+0xb13f234f EA CERT
+0xd9a46d02 EA EXECUTIVE LEADERSHIP
+0x1be3c571 FINANCE
+0x375fa4e8 DEVELOPMENT PAST
+0x0a3dbedc SPECIAL INSPIRATION PROVIDED BY:
+0xfe2bd98e SPECIAL THANKS TO...
+
+#TITLES
+0xdbaed02a Additional Field recordings
+0x3fe67e43 Additional Music
+0x8e90d875 Administrative Assistant, QA
+0x95cce38c Animal Recording Locations
+0x55ed1436 Animator
+0xbf0e187c Art Director
+0xb6a59d98 Artist
+0x3c0e82ac Audio Design & Director, Generative Music Design & Additional Music
+0x01ae46c6 Audio Specialist & Additional Music Composition
+0xf0675dba Brand and Marketing Director, Asia Pacific
+0x61fdaa63 Chief Operating Officer
+0xa355139f Community Manager, Pollination and Web
+0x8fca78ad Compatibility Lead, QA
+0x5a44058e Compatibility Tester, QA
+0x68ce8424 Compliance Lead, QA
+0x53f13fdf Compliance Tester, QA
+0xb7c7590d Composer, Galaxy Theme Music
+0x85c9c1f0 Concept Art
+0xff5ccaae Creative Director, Marketing
+0xd4e1ae21 Data Entry
+0x6f2ad4ee Database Administrator, IT
+0x7579b9ff Design & Lead Engineer, Procedural Animation
+0x18fb664f Design & Lead Producer, Pollination, Sporepedia and Web
+0xa42d495d Designer, Creators
+0x1b167bc6 Designer, Gameplay
+0x0f866d99 Development Director, Core Engine and Graphics Systems and Pipelines
+0xc396ecf7 Development Director, Creature Creator
+0x8bf5ac44 Development Director, Gameplay
+0x2c6b9698 Development Team Tester
+0xcfcdf6be Director of Animation
+0x04399241 Director of Operations, IT
+0x6d51bdd2 Director, Creative Services
+0x526c6671 Director, Finance
+0x8a4a06b9 Documentation
+0xca80ebcc Effects and Technical Artist
+0xba01b195 Engineer, Configuration Management
+0x6e10f8b6 Engineer, Pollination and Web
+0xe84a81bd Executive Producer
+0xcda63315 Generative Music Consultant
+0x5138d2d2 Generative Music Design & Spore Compositions
+0xd27e3436 Hardware Support, QA
+0x2ff29847 Head Localization Tester
+0xce2d2560 Integration Engineer
+0x3ffcb1b5 Integration Producer
+0x87338369 Intern
+0x035adac8 Japanese Marketing Director
+0x69a64bf4 Lead Artist
+0x6cbbe232 Lead Designer, Gameplay
+0xa898f4a4 Lead Engineer, Audio
+0x651ed866 Lead Engineer, Creators and Sporepedia
+0xd8836426 Lead Engineer, Gameplay
+0xa75fe7f7 Lead Engineer, Pollination
+0x4aeb0366 Lead User Interface Art & Design
+0x5feda30d Localization Coordinator Czech
+0xbcc14e59 Localization Coordinator France
+0x63957583 Localization Coordinator Germany
+0x92c5afee Localization Coordinator Hungary
+0xbbc63b31 Localization Coordinator Italy
+0xfcdba81a Localization Coordinator Nordics
+0xdc06dd9e Localization Coordinator Portugal
+0x51f2f70b Localization Coordinator Russia
+0x4b0bf23b Localization Coordinator Spain
+0x7d528343 Localization Manager Brazil
+0x68a466af Localization Senior Tester
+0x4c1480e4 Localization Supervisor Dutch & Greek
+0xec8edf0b Localization Support
+0xb38a4b10 Localization Testing Project Manager
+0xcff04c77 Localization Testing Senior Tester
+0xb2285644 Localization Testing Supervisor
+0xffb48801 Localization Testing Team Lead
+0x3214dbef Localization Testing Tester
+0xae052154 Locallization Coordinator Poland
+0x5d4f3870 Marketing Artist
+0x56019197 Marketing Assistant
+0x57b7aba4 Marketing Manager, Europe
+0x29c6cba0 Mastering Lab
+0x77b47ac8 Office Manager
+0x3818ada1 PR Director
+0xbbdaea9a PR Manager
+0x24e3ae52 President EA Games
+0xfa1786a3 Producer
+0xff44bb35 Producer & Development Director, Creators and Planners
+0xe51f7c3f Producer, Animation and Art
+0xcd9151fb Producer, Audio
+0xbac385f0 Producer, Creature Creator
+0xd80fd5af Producer, Gameplay
+0xaaeb1b90 Producer, Legal and Mac
+0x7f556abd Producer, Pollination and Web
+0x45a1d751 Producer, UI
+0x109acf2b Product Manager
+0xf1e75898 Product Manager, Asia Pacific
+0x7ac9489d Product Manager, Europe
+0xc2df48c3 Project Lead Engineer & Lead Engineer, Core Engine and Graphics Systems and Pipelines
+0x8f913489 Project Manager
+0x3afca116 Project Manager, IT
+0xea9136b1 Project Manager, VMC
+0xd6970a7c QA Franchise Lead
+0xae9bd6e6 QA Manager
+0xc1a15ae4 Regional Marketing Research Director, Asia Pacific
+0xf9c681fa Senior Development Director
+0x7abb947d Senior Director, QA
+0xce43462d Senior Producer
+0xda82a1cd Senior Public Relations Manager, Asia Pacific
+0x0c506b17 Senior Sound Designer
+0x86c2a68f Senior Test Lead, VMC
+0x38b12bf3 Senior Tester, QA Team
+0x11dd6628 Senior Tester, VMC
+0x506fa6bd Software Engineer
+0x97fe4295 Software Engineer, Audio
+0x89d9cc7c Software Engineer, Automation
+0x76c64dcc Software Engineer, Core Engine and Graphics Systems and Pipelines
+0x3436ae04 Software Engineer, Creators and Planners
+0xa9f06dc9 Software Engineer, GameFlow Entertainment
+0x8009eb5d Software Engineer, Gameplay
+0x92446e1f Software Engineer, Pollination and Web
+0x48c97182 Software Engineer, Procedural Animation
+0x7510386b Software Engineer, UI
+0x3ea6c579 Sound Design and Voice Editing
+0xf45ec6b8 Spore Vision & Chief Designer
+0xf1b29bbe Sr. Director Corporate Communications, Europe
+0xb9da869e Sr. Director, Global Online Marketing
+0x7e0d288a Sr. Director, PR
+0xd3e4b239 Sr. Localization Testing Project Manager
+0xe2cfb070 Strategic Planner Consultant
+0xebf8cb7e Support
+0x6bc98221 Support Services Manager, QA
+0x2cf2927a System Administrator, IT
+0xdcd9c673 Systems Support, IT
+0x86a9dd98 Team Lead, Development Test Team
+0xfa02f7b6 Test Lead, QA Team
+0x0f0c8eb9 Test Lead, VMC
+0x185fe78d Tester, QA Team
+0x14e46ec2 Tester, VMC
+0x673c5a8a User Interface Art & Design
+0x2abf9bd7 User Interface Design, Pollination and Web
+0x34ebfaa6 Vice President, Marketing
+0xefad097d Voice Talent
+0x861ec032 VP, Blueprint Studio
+0x4f5602b1 VP, CFO Redwood Shores Studio
+0x283a7019 Writer, Game Content
+0x0a713b03 Writer, Space Story Elements & Missions

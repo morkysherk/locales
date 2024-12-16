@@ -1,0 +1,36 @@
+﻿#######################################
+# event logs
+
+0x00000001 A new tribe has been founded!
+0x00000002 Rejoice! ~tribe_creature_name~ was born! 
+0x00000003 Baby ~tribe_creature_name~ has died. 
+0x00000004 ~tribe_creature_name~ has entered adulthood.
+0x00000005 Help! A baby is in danger!
+0x0000000d Raiders spotted! Another tribe is attacking.
+0x0000000e ~tribe_name~ is offering your tribe a gift! Click the gift basket to accept it!
+0x00000012 Defend yourself! The tribe is under attack!
+
+0x00000014 The ~tribe_name~ is now your sworn enemy.
+0x00000015 The ~tribe_name~ dislikes your tribe.
+0x00000016 The ~tribe_name~ is ambivalent about your tribe's existence.
+0x00000017 The ~tribe_name~ is now your friend.
+0x00000018 The ~tribe_name~ is now your ally.
+
+0x051cc20d You have domesticated a member of the ~tribe_creature_species~ species!
+0x051cc258 You have too many domesticated animals at this time.
+0x051cca6a You have already domesticated an animal of the ~tribe_creature_species~ species!
+
+0x0590e277 Wild animals are coming to steal your food!
+0x05932cf9 Raiders have been spotted! They plan to steal your food!
+
+0x066f6c3c You have unlocked the Axe tool!
+0x066f6c3d You have unlocked the Didgeridoo tool!
+0x066f6c3e You have unlocked the Fishing tool!
+0x066f6c3f You have unlocked the Gathering tool!
+0x066f6c40 You have unlocked the Healing tool!
+0x066f6c41 You have unlocked the Horn tool!
+0x066f6c42 You have unlocked the Maraca tool!
+0x066f6c43 You have unlocked the Spear tool!
+0x066f6c44 You have unlocked the Torch tool!
+
+

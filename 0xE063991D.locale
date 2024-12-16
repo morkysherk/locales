@@ -1,0 +1,68 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!gge-settings-button.png~ Settings
+
+0x00000021 ~guide: -h2~ The Settings panel allows you to adjust a wide variety of options for performance and gameplay, including graphics, tutorials and hints, sound, online-connectivity, and video/screen captures.
+
+0x00000031 ~guide: -h2~ To access the Settings panel, click on the Options button and then click on the Settings button.
+
+0x00000041 ~guide: -h3~ Graphic Settings
+
+0x00000051 ~guide: -h2~ Spore automatically detects your system capabilities and adjusts its graphics settings to a quality that optimizes for overall game experience and performance.  However, if you find that the game is running slowly, or you'd like to experiment with these settings, you can do so in the Graphic Settings panel.  You can always return to the original configuration by pressing the Defaults button.
+
+0x00000061 ~guide: -h2~ Note: When you adjust any of the quality settings and click the green check mark, you will return to the game, which will pause briefly to activate the new settings and then resume play.
+
+0x00000071 ~guide: -bullet~ Screen Size - Resetting the screen size requires you to restart the game.  Note: higher resolutions affect the performance of the game on your system.
+
+0x00000081 ~guide: -bullet~ Graphics Cache - Adjusting the Graphics Cache Size higher allows Spore to store more assets in virtual memory, this can reduce load times between game stages.
+
+0x00000091 ~guide: -h3~ Audio Settings
+
+0x000001a1 ~guide: -bullet~ Sound Quality - Spore automatically detects the audio capabilities of your system and sets the Sound Quality accordingly. The quality levels determine how many sounds play simultaneously, as well as musical detail and variety.
+
+0x000001b1 ~guide: -bullet~ Speaker Configuration - Spore can not detect the speaker configuration of your system and, therefore,  will always default to stereo.  Change this by clicking the radio button that applies to your system setup.
+
+0x000001c1 ~guide: -bullet~ Audio Settings - set the volume of the overall sound landscape or individual elements to reflect your personal preferences.
+
+0x000001d1 ~guide: -h3~ Game and Capture Settings
+
+0x000001e1 ~guide: -h4~ Game and Help Options
+
+0x000001e2 ~guide: -h2~ Turn these settings on and off by clicking the check boxes next to each option.
+
+0x000001e3 ~guide: -bullet~ Edge Scroll - When set to On, the camera will pan in the direction of the cursor when the cursor reaches the edge of the screen.
+
+0x000001e4 ~guide: -bullet~ Tutorials - Each stage has a series of tutorial call outs. Set this option to Off if you wish to skip these.
+
+0x000001e5 ~guide: -bullet~ Hints - Each stage has a number of on screen hints that help guide you.  Set this option to off if you wish to skip these.  You will then only see those tips that are there for feedback.
+
+0x000001e6 ~guide: -h4~ Capture Settings
+
+0x000001f1 ~guide: -bullet~ Movie Size - This setting will affect the resolution of the output when you use the video capture feature in the Creature Creator Test Drive mode and during gameplay.  The resolution of the output has a big effect on the size of the files that you create.  All movies have a limit of 2 minutes recording time.
+
+0x00000201 ~guide: -bullet~ Picture Size - This setting will affect the resolution of the pictures you capture in the Creature Creator Test Drive mode or during gameplay.  A higher resolution will result in a larger file but will give you better quality.
+
+0x00000202 ~guide: -h3~ Controls Settings
+
+0x00000203 ~guide: -h2~ Each game stage has a default set of mouse and keyboard controls for actions and camera.  View these controls in the Controls Settings panel.
+
+0x00000204 ~guide: -h2~ In the Tribe, Civilization and Space stages, there are controls options to choose from.  The options give you the ability to determine how you want the game to recognize the mouse buttons for action and camera control.
+
+0x00000205 ~guide: -h2~ Each stage, Tribe, Civilization and Space, has it's own settings options, so you can tailor your experience by game stage.
+
+0x00000206 ~guide: -h2~ Once set, your options are saved and will be used in the associated game stage until you elect to change them or return to the shipping defaults.
+
+0x00000211 ~guide: -h3~ Online Settings
+
+0x00000221 ~guide: -h2~ To access the online features of Spore; content sharing and automated patching, you must register. To customize your online options, use the Online Settings.
+
+0x00000231 ~guide: -bullet~ If you did not register at start up, you can register at any time by clicking on the Register button next to the Options Button in the Galaxy Entry screen.
+
+0x00000241 ~guide: -bullet~ Server Connection - you can login or logout in the Online Settings section.
+
+0x00000251 ~guide: -bullet~ Online Options - Allows you to set up your online and sharing options.  Note: if you'd like to share only with Buddies that you have identified, click the Buddy Content Only radio button.
+
+0x00000255 ~guide: -bullet~ Buddy Only - If you would like to restrict sharing of Spore creations to only buddies that you have added via the Sporepedia, turn this option on.
+
+0x00000261 ~guide: -h3~ Credits
+
+0x00000271 ~guide: -h2~ Those who made Spore what it is. Have a relative on the team? Find their name here. Hi Mom!
+

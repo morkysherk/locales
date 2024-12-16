@@ -1,0 +1,67 @@
+﻿#Editor name
+0x04d94893 Building
+#Default model name
+0x04d93065 ~blank text~
+#Naming prompts
+0x0537199b Name your City Hall
+0x0537199c Name your Entertainment Building
+0x0537199d Name your Factory
+0x0537199e Name your House
+
+#Category Name - Bodies
+0x1e8d2148 Bodies
+
+#Category Name - Connectors
+0x05b05725 Connectors
+
+#Category Name - Details
+0xb6b48d32 Details
+
+#Category Name - Function
+0x94036ae5 Function
+
+#Category Name - Doors
+0x5a1a5423 Doors
+
+#Category Name - Roofs
+0xc6ac631d Roofs
+
+#Category Name - Windows
+0x2f00b3cf Windows
+
+#Category Name - Housing
+0x063fc940 Housing
+
+#Category Name - Entertainment
+0x063fc941 Entertainment
+
+#Category Name - Factory
+0x063fc942 Factory
+
+#Category Name - City Hall
+0x063fc943 City Hall
+
+#Page Name - Bodies
+0x3c827a7b Bodies
+
+#Page Name - Details
+0xfa697b7f Details
+
+#Page Name - Doors
+0xb70c3452 Doors
+
+#Page Name - Roofs
+0x5ddc5434 Roofs
+
+#Page Name - Windows
+0x4d55b7f6 Windows
+
+#Stat Bar Names
+0x00000001 Happiness
+0x00000002 Production
+0x00000003 Defense
+
+#Stat Bar Tooltips
+0x00000011 Happiness makes your people happy!
+0x00000012 Production makes you build things faster!
+0x00000013 Defense makes you harder to take over!

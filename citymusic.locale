@@ -1,0 +1,29 @@
+﻿#### Headers ####
+0x058c84e0 Beat
+0x058c84e1 Anthem
+0x058c84e2 Ambience
+
+#### Save Dialog ####
+0x058c84e4 Save My Music
+0x058c84e5 Description
+0x058c84e6 Name Your Music
+
+#### Tooltips ####
+0x04d15450 Pick a beat
+0x04d15451 Pick instrument and melody for anthem
+0x04d15452 Pick an instrument
+0x04d15453 Play anthem
+0x04d15454 Remove note
+0x04d15455 Add note
+0x04d15456 Generate new anthem
+0x04d15457 Pick up to 4 ambience layers
+0x04d15458 Randomize your music
+0x04d15459 Adjust volume
+0x04d15460 Auto-play On/Off
+0x04d15461 Move/scale note
+
+#### Generic Tooltips #### (could be grabbed from another file...) 
+0x058c8700 Undo
+0x058c8701 Redo
+0x058c8702 Load
+0x058c8703 Save

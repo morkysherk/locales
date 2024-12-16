@@ -1,0 +1,306 @@
+﻿##########################
+# Trait names & descriptions
+
+# For below, first GUID is name, second GUID is description
+
+# CLG_Meat
+0x00000040 Carnivore
+0x00000041 Carnivorous cells consume a diet of meat.
+
+# CLG_Plant
+0x00000042 Herbivore
+0x00000043 Herbivorous cells consume a diet of plant matter.
+
+# CLG_Mix
+0x00000044 Omnivore
+0x00000045 Omnivorous cells eat any type of food available.
+
+# CLG2_Killer
+0x00000100 Killer
+0x00000101 Killer description
+
+# CLG2_Discoverer
+0x00000102 Discoverer
+0x00000103 Discoverer description
+
+# CRG_Attack
+0x00000046 Predator
+0x00000047 Predatory creatures spend their lives searching for prey.  They'd sooner make extinct an entire species than "dance" or "charm".
+
+# CRG_Social
+0x00000147 Social
+0x00000048 Social creatures are constantly searching for new friends and allies.  Meeting a new species is the highlight of their day.
+
+# CRG_Mix
+0x00000049 Adaptable
+0x0000004a Adaptable creatures have many friends and many enemies.  They make choices based on the current situation.
+
+
+# TRG_Attack
+0x0000004b Aggressive
+0x0000004c Aggressive tribes try to exterminate the competition.  They ruthlessly attack and hoard all the resources for themselves.
+
+# TRG_Social
+0x0000004d Friendly
+0x0000004e Friendly tribes understand the importance of teamwork.  They form alliances to share resources and prosper with other tribes.
+
+# TRG_Mix
+0x0000004f Industrious
+0x00000050 Industrious tribes seize the moment, attacking or forming alliances when necessary.  They make great allies, but watch out.
+
+
+# CVG_Military
+0x00000051 Military
+0x00000052 Military civilizations thrive on weapons and force.  They'll use every resource available to destroy other nations.
+
+# CVG_Economic
+0x00000053 Economic
+0x00000054 Economic civilizations use cash and trade routes to influence other nations.  They'll make alliances, but it's usually a better deal for them.
+
+# CVG_Religious
+0x00000055 Religious
+0x00000056 Religious civilizations harness the power of words and ideas to convert other nations to their way of thinking.
+
+
+# SPG_Bard
+0x00000057 Bard
+0x00000058 Bards are the social, outgoing entertainers of the cosmos. The galaxy is their personal playground.
+
+# SPG_Ecologist
+0x00000059 Ecologist
+0x0000005a Ecologists are the protectors of nature. Species that attempt to exploit and corrupt the galaxy must be exterminated.
+
+# SPG_Zealot
+0x0000005b Zealot
+0x0000005c Zealots are certain that their beliefs are the only truth that matters. Those who do not feel the same way are not worthy to exist in this galaxy.
+
+# SPG_Diplomat
+0x0000005d Diplomat
+0x0000005e Diplomats are negotiators and problem solvers. Peace will come to the galaxy only through open communication between species.
+
+# SPG_Scientist
+0x0000005f Scientist
+0x00000060 Scientists are logical and calculating. The galaxy exists to be studied and understood.
+
+# SPG_Trader
+0x00000061 Trader
+0x00000062 Traders are in it for the profit. Their only allegiance is to the almighty Sporebuck.
+
+# SPG_Shaman
+0x00000063 Shaman
+0x00000064 Shamans understand that all life shares a common bond. The entire galaxy exists within us all.
+
+# SPG_Warrior
+0x00000065 Warrior
+0x00000066 Warriors take what they want and never ask for permission. The galaxy is a prize to be claimed by the strongest.
+
+# SPG_Wanderer
+0x00000067 Wanderer
+0x00000068 Wanderers want to sample a little bit of everything. The galaxy is vast and they want to experience it all.
+
+# SPG_Knight
+0x00000069 Knight
+0x0000006a Knights are noble warriors that fight for right, not for personal gain. Peace will come to the galaxy only when evil has been vanquished.
+
+
+##########################
+# Super Power names & descriptions
+
+0x067775b1 Available in Creature Stage
+0x067775d9 Available in Tribal Stage
+0x067775e7 Available in Civilization Stage
+0x067775fa Available in Space Stage
+
+# CRG_CLG_Meat
+0x00010020 Raging Roar
+0x00010021 Use this ability to make all surrounding creatures run in fear.
+
+# CRG_CLG_Plant
+0x00010022 Siren Song
+0x00010023 Use this ability to temporarily enthrall all creatures in your vicinity. This makes it easier for you to socialize with them.
+
+# CRG_CLG_Mix
+0x00010024 Summon Flock
+0x00010025 Use this ability to summon a flock of minions to help you socialize or fight.
+
+# TRG_CLG_Meat
+0x00020025 Traps
+0x00020026 This ability allows the chieftain to lay traps to ensnare wild animals.
+
+# TRG_CLG_Plant
+0x00010027 Refreshing Storm
+0x00010028 This ability allows the chieftain to summon a storm causing fruit to be replenished and fall from trees. 
+
+# TRG_CLG_Mix
+0x00010029 Flying Fish
+0x0001002a This ability allows the chieftain to summon a serpent to scare fish from the sea.
+
+# TRG_CRG_Attack
+0x0001002b Fire Bombs
+0x0001002c This ability allows the chieftain to throw fire bombs that damage nearby opponents and structures.
+
+# TRG_CRG_Social
+0x0001002d Fireworks
+0x0001002e This ability allows the chieftain to set off fireworks that increase relationships with neighbors.
+
+# TRG_CRG_Mix
+0x0001002f Beastmaster
+0x00010030 This ability allows the chieftain to enchant nearby animals who will help you socialize or fight.
+
+# CVG_CLG_Meat
+0x00010031 Invulnerability
+0x00010032 This ability makes your vehicles impervious to damage for a limited time.
+
+# CVG_CLG_Plant
+0x00010033 Healing Aura
+0x00010034 This ability repairs all of your vehicles and buildings. 
+
+# CVG_CLG_Mix
+0x00010035 Static Bomb
+0x00010036 This ability temporarily immobilizes vehicles, turrets and buildings.
+
+# CVG_CRG_Attack
+0x00010037 Mighty Bomb
+0x00010038 This ability damages all buildings and vehicles within its radius.
+
+# CVG_CRG_Social
+0x00010039 Diplo Dervish
+0x0001003a This ability raises your relationship with a nation you target.
+
+# CVG_CRG_Mix
+0x0001003b Bribe Bomb
+0x0001003c This ability causes enemy vehicles within the bomb's radius to attack each other. 
+
+# CVG_TRG_Attack
+0x0001003d Gadget Bomb
+0x0001003e This ability causes damage to buildings and vehicles and can help capture cities.
+
+# CVG_TRG_Social
+0x0001003f Black Cloud
+0x00010040 This ability Shuts down entertainment buildings and turrets causing unhappiness.
+
+# CVG_TRG_Mix
+0x00010041 Ad Blitz
+0x00010042 This ability enables faster city buyout.
+
+# SPG_CLG_Meat
+0x00010043 Power Monger
+0x00010044 This ability increases the effectiveness of all weapons.
+
+# SPG_CLG_Plant
+0x00010045 Social Suave
+0x00010046 This ability gives you an immediate negotiation discount on all social tools.
+
+# SPG_CLG_Mix
+0x00010047 Gentle Generalist
+0x00010048 This ability gives you a discount on all standard equipment.
+
+# SPG_CRG_Attack
+0x00010049 Prime Specimen
+0x0001004a This ability increases your spaceship's total health.
+
+# SPG_CRG_Social
+0x0001004b Pleasing Performance
+0x0001004c This ability makes all of your colonies happy and reduces the likelihood of revolt.
+
+# SPG_CRG_Mix
+0x0001004d Speed Demon
+0x0001004e This ability makes interstellar space travel zippier.
+
+# SPG_TRG_Attack
+0x0001004f Arms Dealer
+0x00010050 This ability gives you discounts on all combat tool trades.
+
+# SPG_TRG_Social
+0x00010051 Gracious Greeting
+0x00010052 This ability boosts your initial relationship with alien races.
+
+# SPG_TRG_Mix
+0x00010053 Colony Craze
+0x00010054 This ability gives you a discount on all colonization tool trades.
+
+# SPG_CVG_Military
+0x00010055 Pirates-B-Gone
+0x00010056 This ability acts as pirate repellant reducing the likelihood of raids.
+
+# SPG_CVG_Economic
+0x00020057 Spice Savant
+0x00020058 This ability increases spice production from all your colonies.
+
+# SPG_CVG_Religious
+0x00020059 Green Keeper
+0x0002005a This ability decreases the rate of biodisasters on all of your colonies.
+
+# SPG_Bard_Tool
+0x00010057 Soothing Song
+0x00010058 Use to produce a calming effect on alien races, temporarily boosting your relationship.
+
+# SPG_Ecologist_Tool
+0x00010059 Safari Vacuum
+0x0001005a Instantly fills your cargo with all species from a planet.
+
+# SPG_Zealot_Tool
+0x0001005b Fanatical Frenzy
+0x0001005c Converts alien owned systems to your empire.
+
+# SPG_Diplomat_Tool
+0x0001005d Static Cling
+0x0001005e Immobilizes all enemy ships and turrets on the planet.
+
+# SPG_Scientist_Tool
+0x0001005f Gravitation Wave
+0x00010060 Levels cultures and buildings back to the stone age.
+
+# SPG_Trader_Tool
+0x00010061 Cash Infusion
+0x00010062 Instantly makes trading systems available for purchase.
+
+# SPG_Shaman_Tool
+0x00010063 Return Ticket
+0x00010064 Returns you to your home system in one hop.
+
+# SPG_Warrior_Tool
+0x00010065 Raider Rally
+0x00010066 Opens a mystical pirate portal which creates chaos on the planet.
+
+# SPG_Wanderer_Tool
+0x00010067 Species Shuffler NOT IN USE
+0x00010068 Randomizes the species on a planet. NOT IN USE
+
+# SPG_Knight_Tool
+0x00010069 Summon Mini-U
+0x0001006a Summons a miniature clone of your spaceship to assist you in your adventures.
+
+
+# CVG_TRG_AttackWin
+0x0001006f ICBM
+0x00010070 Destroys all cities
+
+# CVG_TRG_SocialWin
+0x0001006b Fanatical Uprising
+0x0001006c Converts all cities
+
+# CVG_TRG_MixWin
+0x0001006d Global Merger
+0x0001006e Buys all cities
+
+# Timeline GUIDS
+0x55496320 History
+
+# Singular
+0x55496321 Billion
+0x55496322 Million
+0x55496323 Thousand
+0x55496324 Years
+
+# Plural
+0x0694179e Billion
+0x0694179f Million
+0x069417a0 Thousand
+0x069417a1 Years
+
+# Zero
+0x06941dc0 Billion
+0x06941dc1 Million
+0x06941dc2 Thousand
+0x06941dc3 Years

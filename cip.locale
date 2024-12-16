@@ -1,0 +1,55 @@
+﻿# City Planner Category Names
+0x00000001 Buildings
+0x00000002 City Style
+0x00000003 Decorations
+0x00000004 Vehicles
+0x00000005 Vehicles
+0x00000006 Vehicles
+0x00000007 Anthem Composer
+0x00000008 Buildings
+0x00000009 City Outfitter
+0x0000000a Outfits
+
+# Building card titles
+0x05b05a30 City Hall
+0x05b05a31 Entertainment
+0x05b05a32 Factory
+0x05b05a33 House
+0x05b05a40 Turret
+
+# Vehicle card locked info
+0x05b1e100 Grow your Nation to four cities to invent air vehicles!
+0x05b1e101 Need 40 Citizens to unlock
+0x05b1e102 Use your sea vehicles to attack other continents!
+
+# Vehicle card titles
+0x05b05e00 Religious Air
+0x05b05e01 Religious Land
+0x05b05e02 Religious Sea
+0x05b05e10 Economic Air
+0x05b05e11 Economic Land
+0x05b05e12 Economic Sea
+0x05b05e20 Military Air
+0x05b05e21 Military Land
+0x05b05e22 Military Sea
+0x05b05e30 Spaceship
+
+# Space Game Building card titles
+0x05b05f00 City Hall
+0x05b05f01 Entertainment
+0x05b05f02 Factory
+0x05b05f03 House
+0x05b05f04 Turret
+
+# Space game Vehicle card titles
+0x05b05f10 Colony Air
+0x05b05f11 Colony Land
+0x05b05f12 Colony Sea
+0x05b05f20 Spaceship
+
+# Space game locked info
+0x06779205 This colony doesn't have a seaport.
+
+# Outfit Names
+0x05b08081 Citizen Outfit
+0x05b08082 Colonist Outfit

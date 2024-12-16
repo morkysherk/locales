@@ -1,0 +1,404 @@
+﻿0x00000011 ~guide: -image-left-h1 0x02e9a2ca!btn-civ-norm.png~ Welcome to the Civilization Stage
+
+0x00000021 ~guide: -h2~ Welcome to the Civilization Stage.  Your species is not only sentient but has grown in stature and size from a small tribal village to a newly burgeoning city.  Your challenges will come from other cities built by factions of your own species.
+
+0x00000031 ~guide: -h2~ You will need to grow your influence by growing your nation from a city of one to a global force.  Take over other cities by militaristic, religious or economic means.  Your citizens will invent new technologies as your nation grows.
+
+0x00000041 ~guide: -h1~ Getting Started
+
+0x00000051 ~guide: -h3~ Directly from the Galaxy
+
+0x00000061 ~guide: -h2~ From the galaxy, choose a planet and then create or choose your civilian creature, city hall and initial vehicle. You must make the critical choice of your nation's specialty; military, religious or economic. This determines your earliest options and national strategy. Which will you choose?
+
+0x00000071 ~guide: -h3~ From the Tribe Stage
+
+0x00000081 ~guide: -h2~ From the Tribe stage, your newly erected City Hall takes center stage in the city of your villagers' dreams.  Your ancestral past, from cellular life to your tribal decisions, has established your cultural identity. As a consequence to your history, some unique consequence abilities readily available to you, and some, you will acquire as your nation grows.
+
+0x00000091 ~guide: -h2~ You begin as single city nation. Other nations, of your own species, emerge across the globe.  Cities reflect the character and orientation of their peoples; military, religious, or economic. Each nation develops vehicles and technology that reflect its specialty.
+
+0x000000a1 ~guide: -h2~ You now control your nation's vehicles. Vehicles are tools for engaging with other cities.  Use income from your city's factories and spice collection to purchase vehicles and build a fleet.  Give your vehicles orders to implement your strategy.  Expand from single city to a nation to unlock technology for both sea faring and air vehicles.
+
+0x000000b1 ~guide: -h2~ Your city will need to be maintained and enhanced to keep your nation in top shape.  Add and create buildings for your cities to improve your income and strength. It's up to you how to build and expand your nation, unlocking powerful, and unique super weapons determined by your cultural history.
+
+0x000000c1 ~guide: -h1~ Your Goal
+
+0x000000d1 ~guide: -h2~ In the Civilization Stage your goal is to conquer, convert or buy-out every city on the planet.  Grow and defend your cities to succeed.
+
+0x000000e1 ~guide: -h2~ Become the dominant nation on the planet to enable your civilization to develop new technologies, and ultimately, the means to make the leap into the cosmos.
+
+0x000000f1 ~guide: -h3~ Some first steps:
+
+0x00000101 ~guide: -bullet~ Capture spice nodes to mine using your vehicles.  Spice is a valued commodity and it will provide the income you need to invest in growing your initial city.
+
+0x00000111 ~guide: -bullet~ Develop your city by buying and placing buildings.  Where you place your buildings, relative to each other, affects the happiness and productivity of your citizenry.
+
+0x00000121 ~guide: -bullet~ Explore your immediate continent for resources. Tribes that have not yet managed the transition from tribal village to city state may abandon their villages and leave valuable technology behind. Investigate the other cities to determine what your strategy toward them will be.
+
+0x00000131 ~guide: -h1~ Your Nation
+
+0x00000141 ~guide: -h3~ Your Identity Color
+
+0x00000151 ~guide: -h2~ Each city has an identity color blazoned on its walls, buildings, vehicles and creatures.  Your identity color is determined by the color of your citizens' coats.
+
+0x00000161 ~guide: -h2~ As you conquer, convert or buy out other cities, they adopt your identity color and become part of your nation. Along with their allegiance you will gain control of their city.
+
+0x00000171 ~guide: -h3~ National Specialty
+
+0x00000181 ~guide: -h2~ Your capital city's culture, technology and disposition is Militaristic, Religious or Economic, based on your ancestral decisions in the Tribal, Creature, and even Cell stages.
+
+0x00000191 ~guide: -h2~ When taking over other cities, you must decide to maintain their cultural specialty or make them convert to your capital city's specialty.  Having cities within your nation with different specialties increases your options. Choosing to focus on one specialty enhances its effectiveness.
+
+0x000001a1 ~guide: -h3~ National Boundaries
+
+0x000001b1 ~guide: -h2~ Every nation has its own boundary, visible on the planet surface and the Mini Map.  Take over other cities, and your national boundaries expand.  Be aware that other cities observe your actions within their boundaries and will protect their territories.
+
+0x000001c1 ~guide: -h3~ City Information
+
+0x000001d1 ~guide: -h2~ Move your mouse cursor over any City Hall to view details about that city in the City Information Panel
+
+0x000001e1 ~guide: -h4~ City Information Panel
+
+0x000001f1 ~guide: -bullet~ The top row: City Specialty Icon, Name and Identity Color, and Relationship State (if it is not your own city).
+
+0x00000201 ~guide: -bullet~ Population: How many citizens this city has. Higher populations will increase your fleet limit.
+
+0x00000211 ~guide: -bullet~ Happiness: Red faces indicate unhappy citizens, green faces indicate happy citizens.  To keep your citizens happy, make sure they have enough homes and entertainment buildings. Green links indicate good City planning and make citizens happier.
+
+0x00000221 ~guide: -bullet~ Income: Tells you how many Sporebucks the city earns from its factories per minute.
+
+0x00000231 ~guide: -bullet~ City Defense: The more shields the greater this city's defense.  Turrets are the key to defending a city.
+
+0x00000241 ~guide: -h1~ Building Your City
+
+0x00000251 ~guide: -h2~ You must invest in your cities to begin to develop a fleet to take on opposing cities. Take vehicles from your capital city to challenge or ally with other cities to grow your nation.
+
+0x00000252 ~guide: -bullet~ Open the City Planner to buy buildings, vehicles, defensive turrets, outfit your citizens and even create your own national anthem.  This is the key to growing a city.
+
+0x00000261 ~guide: -bullet~ To open the City Planner, click on the button that appears over your City Hall.  For more on the City Planner see that section.
+
+0x00000271 ~guide: -bullet~ Houses increase your population. Link Houses to Entertainment Buildings and Factories to boost the happiness and productivity of your city.
+
+0x00000281 ~guide: -bullet~ Entertainment Buildings increase the happiness of your city if they are placed beside houses. Unhappy cities produce less cash and may riot. Also, unhappy citizens are much more vulnerable to Religious Conversion.
+
+0x00000291 ~guide: -bullet~ Factories increase the income of your city if placed beside houses, but will also produce unhappy citizens. Nobody likes to work all day!
+
+0x000002a1 ~guide: -bullet~ Turrets defend your city from hostile takeover by automatically attacking oncoming units. You may need to employ vehicles defensively as well.
+
+0x000002b1 ~guide: -h1~ Growing Your Nation
+
+0x000002c1 ~guide: -h2~ First build up your capital city, mine spice and invest in factories to make money for buildings and vehicles.
+
+0x000002d1 ~guide: -h2~ Use your fleet of vehicles to conquer, convert, or buy out other cities, to expand your nation.
+
+0x000002d2 ~guide: -h1~ History and Consequence
+
+0x000002d3 ~guide: -h2~ As you progress through the Civilization Stage, a history of your nation's actions is tracked.  Press the History button at the end of the Progress Bar to check how your actions and accomplishments are tracking, and how that reflects on your culture.
+
+0x000002e1 ~guide: -h1~ Tracking Your Progress
+
+0x000002f1 ~guide: -h2~ Track your progress in the Civilization Stage on the Progress Bar on the bottom of the screen.
+
+0x00000301 ~guide: -h2~ Each segment of the bar marks a city you have taken by any of the three strategies. As your nation grows you will discover the technology to create both sea faring and air vehicles to help you take on stronger rivals.
+
+0x00000311 ~guide: -h3~ Camera
+
+0x00000321 ~guide: -h4~ Rotate the Camera
+
+0x00000331 ~guide: -bullet~ Hold both the left and right mouse buttons down, and move the mouse left or right; on the Mac, hold Command, Option and left mouse button.
+
+0x00000341 ~guide: -bullet~ Or, hold the middle mouse button down, and move the mouse left or right.
+
+0x00000351 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera.
+
+0x00000361 ~guide: -h4~ Pitch the Camera
+
+0x00000371 ~guide: -bullet~ Hold both the left and right mouse buttons down, and move the mouse up and down; on the Mac, hold Command, Option and left mouse button.
+
+0x00000381 ~guide: -bullet~ Or, hold the middle mouse button and move the mouse up and down.
+
+0x00000391 ~guide: -h4~ Pan the Camera
+
+0x000003a1 ~guide: -bullet~ Move the mouse cursor to the edge of the screen to pan the camera in that direction (edge scroll must be ON in game settings under game and capture settings).
+
+0x000003b1 ~guide: -bullet~ Or, hold  the right mouse button down and move the mouse.
+
+0x000003c1 ~guide: -bullet~ The W,A,S,D or Arrow keys on the keyboard also pan the camera.
+
+0x000003d1 ~guide: -h4~ Zoom the Camera
+
+0x000003e1 ~guide: -bullet~ Scroll the mouse wheel to zoom the camera in and out.
+
+0x000003f1 ~guide: -bullet~ Or, use the + and - keys to zoom the camera in and out
+
+0x00000401 ~guide: -h4~ Follow Camera
+
+0x00000411 ~guide: -bullet~ The spacebar directs the camera to follow vehicles.
+
+0x00000421 ~guide: -bullet~ Continue to press the spacebar to toggle between vehicles until you are following the vehicle or group you want.
+
+0x00000431 ~guide: -h1~ Controlling Your Vehicles
+
+0x00000441 ~guide: -h3~ Selecting Individual Vehicles
+
+0x00000451 ~guide: -h2~ You can select your vehicles by left mouse button clicking on them individually, or by left mouse button clicking on their portrait in the Fleet List on the right of the screen.
+
+0x00000461 ~guide: -h3~ Selecting Groups
+
+0x00000471 ~guide: -h2~ To select multiple vehicles use one of these methods:
+
+0x00000481 ~guide: -bullet~ Hold down the left mouse button and drag a box around the group of vehicles you wish to select.
+
+0x00000491 ~guide: -bullet~ Hold down the CTRL key and left mouse click on individual vehicles in the world that you wish to add to the group.
+
+0x000004a1 ~guide: -bullet~ Hold down the CTRL key and click on more than one vehicle in the Fleet List.
+
+0x000004b1 ~guide: -h3~ De-selecting Vehicles
+
+0x000004c1 ~guide: -h2~ To deselect an individual vehicle hold the CTRL key and left mouse click on the vehicle in the world or his portrait in the Fleet List.
+
+0x000004d1 ~guide: -h3~ The Fleet List
+
+0x000004e1 ~guide: -h2~ At the right side of the screen you will see your Fleet List.  As you purchase vehicles, an icon is added to your Fleet List to represent that vehicle.
+
+0x000004f1 ~guide: -h2~ The vehicle icon shows current level of damage and if that vehicle is active or idle, an action icon will appear in the upper right of the icon image.
+
+0x00000501 ~guide: -h2~ Click on a vehicle's Fleet List icon with the Right Mouse Button to move the camera to that vehicle.
+
+0x00000521 ~guide: -h1~ Issuing Commands
+
+0x00000531 ~guide: -h2~ Once you have selected a vehicle or group, you can issue orders to them.
+
+0x00000541 ~guide: -bullet~ Click the right mouse button on a point on the ground to order them to move to that point.
+
+0x00000551 ~guide: -bullet~ Click the right mouse button on an object in the world to order your vehicles to engage that object: Spice geysers,  buildings, turrets, wild creatures, even Epics.
+
+0x00000561 ~guide: -bullet~ To engage individual vehicles or a group with another city, you can click on its City Hall and issue a command.
+
+0x00000571 ~guide: -h3~ Vehicle Stance
+
+0x00000581 ~guide: -h2~ Use the Stance Button at the bottom of the Fleet List to set any vehicle to Stand its Ground or take an Aggressive Stance.
+
+0x00000591 ~guide: -bullet~ Stand Ground - This is a good stance if you'd like your vehicle to guard a particular area.  It stays at that point, and responds to challenges from hostile cities or nations.
+
+0x000005a1 ~guide: -bullet~ Aggressive - Use this stance to actively engage hostile cities or nations.
+
+0x000005b1 ~guide: -h1~ Repairing Vehicles
+
+0x000005c1 ~guide: -h2~ When a vehicle is damaged you can repair it by positioning it just outside any of your nation's main city gates.
+
+0x000005d1 ~guide: -h1~ Event Logs
+
+0x000005e1 ~guide: -h2~ Events are communicated to you through the Event Log found at the left hand side of your screen above the Mini Map.  These notices keep you posted on events in other areas of the planet. For example, if you conquer a city but you are engaged at a different one, you will see an event log item appear to notify you of your success.
+
+0x000005f1 ~guide: -h2~ Click on the Event Log using the left mouse button to move the camera to the location where the event occurred.
+
+0x00000601 ~guide: -h1~ Goal Cards
+
+0x00000611 ~guide: -h2~ Each game stage presents you with goals or missions to help you complete the current Stage.
+
+0x00000621 ~guide: -h3~ Mini Goal Cards
+
+0x00000631 ~guide: -h2~ The Mini Goal Cards appear in the upper left hand corner of your game screen.  These track your current progress toward completing that goal.  Click on the Mini Goal Card to open the complete Mission Log.
+
+0x00000641 ~guide: -h3~ The Mission Log
+
+0x00000651 ~guide: -h2~ The Mission Log gives you detailed information about all of the goals and missions that you have open.  You can also browse a history of your past goals and missions.
+
+0x00000661 ~guide: -h1~ The Mini Map
+
+0x00000671 ~guide: -h2~ The Mini Map is your most important source of information for the events taking place on your planet.  Click with the right mouse button on the Mini Map to move your camera to that area or rollover icons on it to get more detail information.
+
+0x00000681 ~guide: -image-left 0x05556b31!minimap-myCity.png~ Cities - The city icons represent each city on the map and are color coded, by nation.
+
+0x00000691 ~guide: -image-left 0x05556b31!minimap-resource.png~ Spice Geysers -  The spice geyser icon represents every spice geyser on the planet and its national owner.
+
+0x000006a1 ~guide: -bullet~ Vehicles - The vehicle icon represents individual vehicles on the map and national owner.
+
+0x000006b1 ~guide: -bullet~ National Boundaries - National boundaries appear when you move the mouse over city icons on the Mini Map.
+
+0x000006c1 ~guide: -image-left 0x05556b31!minimap-dot-attack.png~ Attacks - These appear over cities, spice geysers, and vehicles when they are under attack or in combat.  This includes both military and religious attacks.
+
+0x000006d1 ~guide: -image-left 0x05556b31!icon-sporebuck.png~ Sporebuck - The Sporebuck icon appears over a city icon when a economic vehicle is trading with a city and money is earned.
+
+0x000006e1 ~guide: -image-left 0x05556b31!menu_comm.png~ Communication - When you have your Comm Screen open communicating with another city, the mini map shows who you are speaking with.
+
+0x000006f1 ~guide: -h1~ Financing Your Civilization
+
+0x00000701 ~guide: -h3~ The three ways of financing your city are:
+
+0x00000711 ~guide: -bullet~ Mining Spice from the Spice Geysers on your planet.  You must first claim a Spice geyser. Move a vehicle to a nearby geyser.  A derrick is erected and begins mining spice at a rate displayed over the derrick in Sporebucks/minute.  Be watchful. Other cities will attempt to take these spice geysers from you.  You must defend them. You may find others to take over if you are so inclined.  Also, spice geysers do run dry.
+
+0x00000721 ~guide: -bullet~ Build Factories in your cities. Your civilians are most productive when Factories are placed next to Houses.
+
+0x00000731 ~guide: -bullet~ Enter into trade deals with other cities.  These will be offered through the Communications screen, so think before you ignore calls from other nations.  Once you accept a trade deal, a Trade Route will be established from your city to the neighboring city.
+
+0x00000741 ~guide: -h1~ Mining Spice
+
+0x00000751 ~guide: -h3~ Claiming Spice geysers
+
+0x00000761 ~guide: -h2~ To claim a Spice geyser, select a vehicle and then right mouse click on a nearby Spice geyser.  Your vehicle will travel to the geyser and erect a derrick.  The productivity of that mine appears over the derrick in Sporebucks/minute.
+
+0x00000771 ~guide: -h3~ Defending Spice geysers
+
+0x00000781 ~guide: -h2~ Spice is a hot commodity in Spore.  You will need to defend your nation's Spice geysers as other nations will try to take them over.  Station a vehicle near a geyser you wish to protect and set its Stance to Stand Ground.
+
+0x00000782 ~guide: -h1~ Conquering Cities
+
+0x00000791 ~guide: -h3~ Religious Strategy
+
+0x000007a1 ~guide: -h2~ Use the Religious Strategy to convert other cities to your nation.  Cities with unhappy citizens often make the best targets for religious conversion.
+
+0x000007b1 ~guide: -bullet~ To convert a city, select your religious vehicles and right mouse click on the target's City Hall.
+
+0x000007c1 ~guide: -bullet~ Choose "Convert" from the menu that appears.
+
+0x000007d1 ~guide: -h2~ This sends all selected units to that city to broadcast musical notes and religious hymns at its structures and citizens. This starts conversion.  Track your progress by the Conversion Bar over the target city, filling with your nation's color.
+
+0x000007e1 ~guide: -h2~ If the city is very happy, the progress will be impaired. The target city will slowly become angry at the idea of outsiders forcing a foreign religion on them, throwing Molotov cocktails and damaging your vehicles.  Eventually, they will turn hostile toward you and start attacking your vehicles with their turrets and defending vehicles.  You can counter this by selecting individual units and targeting their turrets and entertainment buildings to temporarily disable them.  If you fill the conversion bar all the way, the city will fall sway to your religion and join your nation.
+
+0x000007f1 ~guide: -h2~ Religious vehicles can attack other vehicles and spice geyser derricks as well.  Although not as strong as Military vehicles, they can destroy enemy units with the power of their religious technology.
+
+0x00000801 ~guide: -h3~ Economic Strategy
+
+0x00000811 ~guide: -h2~ Use the more peaceful Economic Strategy to set up Trade Routes with neighboring cities and eventually buy their allegiance to your nation.
+
+0x00000821 ~guide: -h2~ Managing your relationship with your neighbors is a key to success for the Economic Strategy.
+
+0x00000831 ~guide: -h2~ Neighboring cities will not trade with you until your relationship is high enough.
+
+0x00000841 ~guide: -h2~ Using the Comm Screen, you can give gifts to other cities to raise your relationship.
+
+0x00000851 ~guide: -bullet~ Open communications via left mouse click on the target city's City Hall.
+
+0x00000871 ~guide: -h3~ Initiating Trade Routes
+
+0x00000881 ~guide: -h2~ To propose a Trade Route, select your economic vehicles and left mouse click the city hall of the city with whom you want to trade.
+
+0x00000891 ~guide: -h2~ Choose the Pie Menu option, "Propose Trade Route".  A communication screen will appear after your vehicles make it to their city, telling you if the Trade Route is successful or not.
+
+0x000008a1 ~guide: -h2~ If the Trade Route was successful, your vehicles will make trips to and from the two cities.  Each trip brings both nations some income, raises relationship between the nations, and makes progress towards purchasing that city.
+
+0x000008b1 ~guide: -h2~ Assign more vehicles to trading to increase the productivity of the Trade Route in all aspects.  You can monitor your progress towards purchasing the city by the Purchase Bar over the target city.  Once the purchase bar is full, you will receive a communication from the target city asking if you'd like to buy their city.  You can then make your choice to purchase the city at that moment or wait for a later time.
+
+0x000008c1 ~guide: -h2~ When making the purchase, you have to pick the right purchase price.  If your bid is too low, you will offend the seller and they will cut off your Trade Route.  A successful bid results in that city becoming part of your nation
+
+0x000008e1 ~guide: -h3~ Military Strategy
+
+0x000008f1 ~guide: -h2~ The Military strategy is very direct: Destroy your enemies with military might.
+
+0x00000901 ~guide: -h2~ Use your vehicles to destroy neighboring cities as well as their vehicles with cannons, missiles, and lasers.
+
+0x00000911 ~guide: -bullet~ To conquer a neighboring city, select your military vehicles and target enemy cities by clicking on their City Hall using the left mouse button.
+
+0x00000921 ~guide: -bullet~ Choose "Attack" from the menu that appears.
+
+0x00000931 ~guide: -h2~ Your vehicles will travel to the target city and assault it with their weapons.  You can read any city's Defense Rating via the rollover on its City Hall.  A higher defense means more turrets that fire back at your vehicles.
+
+0x00000941 ~guide: -h2~ Your vehicles automatically choose the greatest threat and target turrets and vehicles first.
+
+0x00000951 ~guide: -bullet~ You can attack individual turrets and buildings by selecting your vehicles and clicking the left mouse button on your target.
+
+0x00000961 ~guide: -h2~ Once the conquest of a city has begun, you will see a conquer bar over the target's City Hall.  As you destroy buildings the bar will slowly fill up with your color.  It will fill completely once the City Hall is destroyed.  The city will then switch to your nationality, unhappy, and in need of repairs.
+
+0x00000962 ~guide: -h3~ Change or Maintain Specialties
+
+0x00000963 ~guide: -h2~ When you conquer a city, you have the choice of having it adopt your cultural specialty or maintaining it's own.  The choice can affect your strategy.
+
+0x00000971 ~guide: -h1~ Relationships
+
+0x00000981 ~guide: -h3~ City Information
+
+0x00000991 ~guide: -h2~ You can check your relationship with any city by moving the mouse cursor over its City Hall.  This displays the city information.
+
+0x000009a1 ~guide: -h3~ Improving Relationships with Neighboring Cities
+
+0x000009b1 ~guide: -h2~ You can improve your relationships with other cities by offering trade routes, giving gifts via the communication panel, and assisting other nations in war if they ask for help.
+
+0x000009c1 ~guide: -h3~ Lowering Relationships with Neighboring Cities
+
+0x000009d1 ~guide: -h2~ Lower your relationship with other cities by attacking them with military vehicles, converting them with religious vehicles, ignoring or refusing trade route opportunities, under bidding when purchasing cities, failing to come to the aide of other nations when asked, and failing to pay for peace when sued.
+
+0x000009e1 ~guide: -h3~ Relationship States
+
+0x000009f1 ~guide: -bullet~ At War:  If you're At War with another nation, they will attack your cities, close Trade Routes, and demand tribute.
+
+0x00000a01 ~guide: -bullet~ Hostile:  If you're hostile with another nation, you're at the edge of war.  They may attack your vehicles or decide to attack your cities if your relationship is not improved.  You cannot establish Trade Routes at this relationship state.
+
+0x00000a11 ~guide: -bullet~ Neutral:  A nation that is neutral toward you won't attack you, but they also won't establish Trade Routes with you.
+
+0x00000a21 ~guide: -bullet~ Friendly: A friendly nation they will not attack your cities or vehicles.  You can open Trade Routes with their cities.
+
+0x00000a31 ~guide: -bullet~ Ally:  When allied with another nation you can count on them for support.  They will not attack you and are open for Trade Routes.  They may request assistance when at war.
+
+0x00000a41 ~guide: -h1~ Communicating with Neighboring Cities
+
+0x00000a51 ~guide: -h3~ The Communications Panel
+
+0x00000a61 ~guide: -h2~ As other cities build in stature and become nations they will start to initiate communications with you. The Communications button will light up next to the mini map. Each communications line shows the color of the nation calling, their specialty and your relationship with that nation.
+
+0x00000a71 ~guide: -bullet~ Hover over each Communications Button to see information on your relationship. The details listed here are the history of events between your two nations that have affected your relationship.
+
+0x00000a81 ~guide: -bullet~ Click on a city's communications button to open the Comm Screen.
+
+0x00000a91 ~guide: -h3~ Make Calls through City Hall
+
+0x00000aa1 ~guide: -bullet~ Click on another city's City Hall and select Contact to open the Communications Screen.
+
+0x00000ab1 ~guide: -h2~ You have a number of options, such as giving gifts, proposing trade routes, purchase offers, as well as friendly and unfriendly messages.
+
+0x00000ac1 ~guide: -bullet~ Make your selection in the Communications Screen Window.
+
+0x00000ad1 ~guide: -h2~ Keeping the channels of communication open can help improve relationships and a bit of diplomacy can come in handy. On the other hand, if you really want to provoke war, be insulting.
+
+0x00000ae1 ~guide: -h1~ Building Your Fleet
+
+0x00000af1 ~guide: -h2~ Purchase Vehicles for your City using the City Planner.  Remember, vehicles have different abilities in health, speed and power.  Choose wisely.
+
+0x00000b01 ~guide: -bullet~ Click on any of your City Halls to access that city's City Planner.
+
+0x00000b11 ~guide: -h2~ See the section on the City Planner to learn more about buying vehicles.
+
+0x00000b21 ~guide: -h2~ As you take over cities, adapt their fleet to meet your needs.
+
+0x00000b31 ~guide: -h1~ Fleet Limits and Sell Back
+
+0x00000b41 ~guide: -h3~ Fleet Limits
+
+0x00000b51 ~guide: -h2~ Each city has a maximum limit of vehicles for their fleet.  Limits increase as you capture more cities and unlock the technology for  air vehicles.  You can also combine vehicle types.  If you capture a city of another specialty you will have a vehicle limit for each specialty. The Fleet Limit for each vehicle type is shown in the upper right corner of the City Planner, so you can see it as you purchase vehicles.
+
+0x00000b61 ~guide: -h3~ Sell Back
+
+0x00000b71 ~guide: -h2~ You may find that you want to exchange a vehicle for another that has different abilities.  To sell back one of your existing vehicles you can click on it and press Delete on your keyboard, or you can select that vehicle in your Fleet List and click on the X in the upper left corner of its portrait.  You will receive one half of the original purchase price.
+
+0x00000b81 ~guide: -h1~ Upgrading your Fleet
+
+0x00000b91 ~guide: -h2~ Capture more cities to access the technology of sea and air vehicles, and allow your fleet to expand.
+
+0x00000ba1 ~guide: -h2~ Each city specialty allows you to have a maximum number of that type of vehicle.
+
+0x00000bd1 ~guide: -h1~ Consequence Abilities
+
+0x00000be1 ~guide: -h2~ Your citizens technology and character is the result of its eons of development from cell to civilization.  As you develop your nation, your citizens will develop super weapons, unique to their evolutionary history. Use these super weapons as other, competing nations, become more aggressive.
+
+0x00000cb1 ~guide: -h2~ All super weapons are available in the Super Weapons panel in the middle of  the screen above the Progress Bar.  Each superweapon your civilization develops will appear when it is ready to use.  It will cost you some Sporebucks to use these beautys!
+
+0x00000cb2 ~guide: -bullet~ Left click the ground where you want to target and launch the weapon.
+
+0x00000cc1 ~guide: -h1~ Outfit Your Citizens
+
+0x00000cd1 ~guide: -h2~ Check out the City Planner's City Outfitter tab, to give your citizens some new flare with all new city accessories.
+
+0x00000ce1 ~guide: -h1~ Anthem
+
+0x00000cf1 ~guide: -h2~ Check out the City Planner, Music Tab, to customize your own musical anthem. Convert, purchase, or capture a city, and it will adopt your anthem. The Music Planner provides a wide range of rhythms, backgrounds, and a customizable melody system. Design your music to make your national culture unique.
+
+0x00000d01 ~guide: -h1~ Completing the Civilization Stage
+
+0x00000d11 ~guide: -h2~ Overcome all of the cities of the planet and your nation will unlock the technology to explore the cosmos.  Click on the Evolve button that appears at the end of the Progress Bar to take your species final leap.  The leap into Space.
+
+0x00000d61 ~guide: -h3~ Your History
+
+0x00000d71 ~guide: -h2~ Before building your Spaceship, you will visit a view of your species history.  Your actions and evolutionary choices since life as a cell are tracked. Evolution is a journey in which the earliest choices and actions have consequences on the future of your species.
+
+0x00000d81 ~guide: -h2~ Your species will earn a trait based on its evolutionary path.  This trait reflects the choices and actions that your species has taken since life as a cell.  The traits that you have taken on over the course of your evolution now determine who you are as you launch into Space.  Is yours a culture of aggressive warriors or one of industrious traders.  The culmination of your evolutionary journey is established, however, there is nothing to say that your escapades in Space won't still affect your race and give them the possibility of changing their ways.
+

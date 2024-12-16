@@ -1,0 +1,152 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!btn-cel-norm.png~ Welcome to the Cell Stage
+
+0x00000021 ~guide: -h2~ Here begins your journey through the early stages of evolution until you grow large enough to make the transition to land.
+
+0x00000031 ~guide: -h2~ If  you ever get lost, or need help, press "H" or open the Options panel and select Spore Guide for pointers.
+
+0x00000041 ~guide: -h2~ Life, as you know it, is just beginning...
+
+0x00000051 ~guide: -h1~ Getting Started
+
+0x00000061 ~guide: -h2~ From your home galaxy, choose a planet, level, theme (if any), and most importantly, your starting cell.  These cells are just beginning the evolutionary cycle.
+
+0x00000071 ~guide: -h2~ Your cell's mouth is one of the most important features of your cell, as it will determine if your cell will lead an herbivorous, carnivorous or omnivorous life, once on the planet.  Which will you choose?
+
+0x00000081 ~guide: -h2~ Click the Play Button to ride a passing meteor to the planet's surface.  You plunge into a tide pool bursting with microscopic species that have successfully adapted to this emerging biosphere.
+
+0x00000091 ~guide: -h1~ Your Goal
+
+0x000000a1 ~guide: -h2~ As a cell, you must evolve to escape the dangerous waters of the primordial tide pool. Eat to survive and earn the DNA necessary to adapt and improve yourself.  Succeed, and you will emerge onto land.
+
+0x000000b1 ~guide: -h3~ In order to make it to land, you must:
+
+0x000000c1 ~guide: -bullet~ Collect parts found in remaining bits of meteor or from other cells.
+
+0x000000d1 ~guide: -bullet~ Eat to grow and earn DNA.
+
+0x000000e1 ~guide: -bullet~ Evolve by spending DNA on your newly found parts in the Cell Creator.
+
+0x000000f1 ~guide: -h2~ Your mouth determines what type of food you eat.  Herbivores eat green plant buds, carnivores eat other cells, omnivores can eat either. Change your mouth in the Cell Creator, and your diet changes.
+
+0x00000101 ~guide: -h1~ Your Cell
+
+0x00000111 ~guide: -h2~ Your cell is in the middle of the screen.  All around are green plant buds, and other cells to avoid or eat. Occasionally, you'll find parts to collect and use in the Cell Creator.
+
+0x00000121 ~guide: -h2~ What you eat, how you move, fight and defend yourself are determined by the parts you choose in the Cell Creator.
+
+0x00000131 ~guide: -h2~ Your health is indicated by a green bar above your cell whenever combat occurs.  Keep your health bar green by eating. Never fear, if you die, you'll rehatch.
+
+0x00000141 ~guide: -h1~ Tracking Your Progress
+
+0x00000151 ~guide: -h2~ Measure your progress through the Cell Stage by following the Progress Bar at the bottom of the screen.
+
+0x00000161 ~guide: -h2~ Each segment of the bar represents a stage of growth for your cell. As you eat food and progress on the bar, you will grow larger than those around you.  Predators that once terrorized you will eventually become minnows in your wake as you grow, evolve, and prepare for life on land.
+
+0x00000171 ~guide: -h2~ As you eat, you gain DNA, which is tallied in the window to the left of the Progress Bar.  Spend this DNA on new parts in the Cell Creator to evolve your cell.
+
+0x00000181 ~guide: -image 0x05556b31!btn-csa-createnew-norm1_2.png 1~ Whenever you are ready to evolve, you'll need to mate to enter the Cell Creator.  Click on the mating call to locate a mate.  When a mate returns your call, swim to it.  Once you have mated you will enter the Cell Creator where you can spend DNA on new parts.
+
+0x00000191 ~guide: -h1~ History and Consequence
+
+0x00000192 ~guide: -h2~ As you progress through the Cell Stage, a personal history of your generational path is kept.  Press the History button at the end of the Progress Bar to check how your evolutionary choices and actions are tracking.
+
+0x00000193 ~guide: -h2~ Evolution is a journey in which the earliest choices and actions have consequences into the future of your species.  The path you take as a tiny microscopic cell affects your abilities as a creature.  Your actions even have far reaching reverberations into the future of your species.
+
+0x00000194 ~guide: -h2~ At each stage of your evolutionary path, you will make choices that establish your traits.  Your traits earn you unique abilities that will serve your future generations.
+
+0x000001a1 ~guide: -h1~ Controls
+
+0x000001b1 ~guide: -h3~ Camera
+
+0x000001c1 ~guide: -image-left 0x05556b31!zoom1.png~ Camera Zoom In and Out
+
+0x000001e1 ~guide: -h3~ Movement
+
+0x000001f1 ~guide: -bullet~ Click or hold down the Left Mouse Button to move your cell.
+
+0x00000201 ~guide: -bullet~ To change direction, just drag or click in a new location.
+
+0x00000211 ~guide: -h4~ You can also use keyboard controls, which are:
+
+0x00000221 ~guide: -bullet~ W' or 'Up Arrow' - Move forward
+
+0x00000231 ~guide: -bullet~ A' or 'Left Arrow' - Turn left
+
+0x00000241 ~guide: -bullet~ S' or 'Down Arrow' - Move backward
+
+0x00000251 ~guide: -bullet~ D' or 'Right Arrow' - Turn right
+
+0x00000261 ~guide: -h3~ Eating
+
+0x00000271 ~guide: -h2~ Herbivores - Swim into plant food, mouth first, to eat it.
+
+0x00000281 ~guide: -h2~ Carnivores - Defeat other cells first and then swim into the remains, mouth first, to eat.
+
+0x00000291 ~guide: -h2~ Omnivores - Swim into either plants or other cells to eat.
+
+0x000002a1 ~guide: -h2~ Remember: Green plant buds are for herbivores. Remains of other cell creatures are for carnivores. Omnivores like both!
+
+0x000002b1 ~guide: -h3~ Interacting with Other Cells
+
+0x000002c1 ~guide: -h4~ Combat with other cells depends on what type of weapon you have:
+
+0x000002d1 ~guide: -bullet~ Spikes - Swim into other cells to inflict damage.
+
+0x000002e1 ~guide: -bullet~ Electric - This part builds up charge and then discharges when ready, stunning and damaging nearby cells.
+
+0x000002f1 ~guide: -bullet~ Poison - This part releases poison continuously. Smaller cells that come into contact with the poison plume are weakened or killed. Larger Cells are stunned.
+
+0x00000301 ~guide: -h1~ Collecting Parts
+
+0x00000311 ~guide: -h3~ Finding Parts
+
+0x00000321 ~guide: -h4~ Parts are found in two ways in the Tide Pool:
+
+0x00000331 ~guide: -h2~ Other cell creatures can shed parts for you to collect. Cells with a part token next to their name are the ones to target. Attack them yourself, or wait for another predator to do the work for you.
+
+0x00000341 ~guide: -bullet~ Parts can also be found in floating bits of meteor.
+
+0x00000351 ~guide: -h3~ To Collect the Part
+
+0x00000361 ~guide: -h2~ When you see a part token from another cell, swim over it to collect it.
+
+0x00000362 ~guide: -h2~ When you break open a meteor bit and find a part, you will automatically receive the part.
+
+0x00000371 ~guide: -h2~ Parts that you collect will be unlocked in the Cell Creator the next time you decide to evolve.  You can decide how to spend DNA on these parts based on your strategy for survival or dominance.
+
+0x00000373 ~guide: -h3~ My Collections
+
+0x00000375 ~guide: -h2~ The parts that you collect during play in the Tide Pool will appear in the My Collections panel.
+
+0x00000378 ~guide: -bullet~ Click on the My Collections button to open and inspect your collected parts.
+
+0x00000381 ~guide: -h1~ Evolving Your Cell
+
+0x00000391 ~guide: -h3~ Mating
+
+0x000003a1 ~guide: -image 0x05556b31!cell-mate-button.png 1~ When you are ready to evolve your cell, click the Mating Call button.~1~  You will call out to a mate.  You will then see a response from your mate. Swim to them to mate, the egg that is laid gains you entry to the Cell Creator.
+
+0x000003b1 ~guide: -h3~ The Cell Creator
+
+0x000003c1 ~guide: -h2~ In the Cell Creator, spend the DNA that you have earned on the parts you've collected.  Only the parts that you discover in the tide pool will be available to you.
+
+0x000003d1 ~guide: -h2~ Adding new parts gives your cell new abilities. Abilities include types of movement,  attacks, and different diets.
+
+0x000003e1 ~guide: -h2~ The summary of your cell's abilities can be found in the upper right corner of the Cell Creator.
+
+0x000003f1 ~guide: -h1~ Completing the Cell Stage
+
+0x00000401 ~guide: -h2~ When you completely fill the Progress Bar, you have successfully passed all phases of cell evolution and you are ready for the next stage... land!
+
+0x00000402 ~guide: -bullet~ To advance to the Creature Stage, click the Advance Button.
+
+0x00000403 ~guide: -h3~ Your History
+
+0x00000411 ~guide: -h2~ The journey to land starts with a view of your personal history.  Your actions and evolutionary choices for each generation are tracked.
+
+0x00000421 ~guide: -h2~ Your cell will earn a trait based on its personal evolutionary path.  This trait determines one unique ability that your species can use to its advantage in the Creature Stage.
+
+0x00000422 ~guide: -h3~ From Tide Pool to Land!
+
+0x00000431 ~guide: -h2~ Leaving the Cell Stage, you enter the Cell Creator one last time, where you can add some newly available limbs.  Take this opportunity to prepare for life on land in the Creature Stage of Spore.
+

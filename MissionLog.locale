@@ -1,0 +1,44 @@
+﻿##################################################
+# Used by mission log UI - start guid : 0x060c9900
+
+## main panel
+0x060c9900 Missions List
+0x060c9901 Parts Unlocked
+0x060c9902 Rares
+0x060c9903 Badges
+0x060c9904 Tools
+
+## part unlock tab
+0x060c9905 All Parts
+0x060c9906 Cell Parts Unlocked
+0x060c9907 Creature Parts Unlocked
+0x060da560 Creature Parts
+0x060da561 Arms and Legs
+0x060da562 Details
+0x060da563 Eyes and Senses
+0x060da564 Feet
+0x060da565 Graspers
+0x060da566 Mouths
+0x060da567 Weapons
+0x0625b1b0 Tribal Accessories
+0x0625b1b1 Tribal Tools
+
+## mission log tab
+0x060c9908 Mission Log
+0x060c990a In Progress
+0x060c990b Completed
+0x060c990c Mission Details
+0x060c990d Sort by
+0x060c990e Newest to Oldest
+0x060c990f Assignment order
+0x060c9910 Empire
+0x060c9911 Distance to Source
+0x060c9912 Delete this mission
+0x060c9913 Track this mission
+0x0667c672 Click on a mission below to view its details.~p~You may track up to 3 missions by clicking on the checkbox. Tracking a mission will make it appear on your short mission list as well as reveal relevant flight information in the star map.~p~You may also delete missions from this screen.
+
+## rares tab
+
+## badges tab
+
+## tools tab

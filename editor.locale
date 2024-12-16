@@ -1,0 +1,153 @@
+﻿# Most strings in here are used directly from code
+# Check EditorConstants.h for matching definitions
+
+### The name of the main set ####
+0x9f3415a4 Core Spore
+0xb4cea010 SCC Parts Trial
+0xb4cea011 SCC Parts Registration
+0xb4cea012 SCC Parts Partner 1
+0xb4cea013 SCC Parts Partner 2
+0xb4cea014 SCC Parts Complete
+0xb4cea015 SCC Paint Trial
+0xb4cea016 SCC Paint Registration
+0xb4cea017 SCC Paint Partner 1
+0xb4cea018 SCC Paint Partner 2
+0xb4cea019 SCC Paint Complete
+
+### this text goes in CSA###
+0x00000001 Copy For
+0x00000002 Sell For
+0x00000003 Partial Styles
+0x00000005 Building Count [NOT IN USE]
+0x00000007 Sell For
+0x00000008 Make Asymmetric [NOT IN USE]
+
+### this text goes in CSA###
+0x00000101 Too expensive
+0x00000102 Too many parts
+0x00000103 No more space for buildings
+0x00000104 Vehicle limit reached for this type
+0x00000105 Already have this tool
+0x00000106 Colonies buy their own vehicles
+0x00000107 Acquire this tool from other tribes
+0x00000108 TerraScore too low
+0x00000109 Only 1 City Hall per city
+0x0000010a No more space for turrets
+0x0000010b Locked
+0x0000010c Overall vehicle limit reached
+0x0000010d Create, modify or select a spaceship.
+
+0x00000201 (NOT IN USE) This item is too expensive and cannot be puchased now.
+0x00000202 (NOT IN USE) Your creation is using too many parts already. Remove some in order to free up space.
+0x00000203 (NOT IN USE) There are no more slots to place buildings in.  Remove a building to free up space.
+0x00000204 (NOT IN USE) The maximum number of vehicles of this type has already been purchased.
+0x00000205 (NOT IN USE) Only 1 of each tool is needed for your tribe.
+0x00000206 (NOT IN USE) Vehicles are automatically built for you.
+0x00000207 (NOT IN USE) Befriend or Conquer a tribe that has this tool in order to gain access to it.
+0x00000208 (NOT IN USE) This planet needs a higher terraforming score in order to support more buildings.
+0x00000209 (NOT IN USE) The city hall is the hub for all other buildings in each city.  Build other buildings to expand the city!
+0x0000020a (NOT IN USE) There are no more slots to place turrets in.
+0x0000020c (NOT IN USE) The maximum number of vehicles of all types has already been purchased.
+0x0000020d (NOT IN USE) 
+
+
+### this text goes in CSA###
+# Strings used for Save/Exit flow
+0x1000000b Save "~newmodelname~" as a new creation or replace "~oldmodelname~"?
+0x1000000c Creator is in the process of saving "~newmodelname~".  If you quit now, "~newmodelname~" will be permanently lost.  Are you sure you want to quit?
+0x1000000d Exiting will cause your changes to be lost. Are you sure you want to exit?
+
+0x10000009 Your current creation cannot be saved for the following reason:~br~~br~~generic0~~br~~br~Continue to load and lose changes to the creation you are currently editing?
+0x10000019 Your current creation cannot be saved for the following reason:~br~~br~~generic0~~br~~br~Continue to load and lose changes to the creation you are currently editing?
+0x10000029 Your current creation cannot be saved for the following reason:~br~~br~~generic0~~br~~br~Are sure you want to make a new creation and lose your current changes?
+0x10000039 Your current creation cannot be saved for the following reason:~br~~br~~generic0~~br~~br~Are sure you want to exit and lose your current creation?
+
+0x10000008 Save changes to "~newmodelname~" before continuing?
+0x10000018 Save changes to "~newmodelname~" before loading?
+0x10000028 Save changes to "~newmodelname~" before making a new creation?
+0x10000038 Save changes to "~newmodelname~" before exiting?
+
+0x1000000a Save "~newmodelname~" as a new creation or replace "~oldmodelname~" before continuing?
+0x1000001a Save "~newmodelname~" as a new creation or replace "~oldmodelname~" before loading?
+0x1000002a Save "~newmodelname~" as a new creation or replace "~oldmodelname~" before making a new creation?
+0x1000003a Save "~newmodelname~" as a new creation or replace "~oldmodelname~" before exiting?
+
+0x10000040 You won't be able to edit your creature once you start accessorizing.  Do you want to continue? [NOT IN USE]
+
+### this text goes in CSA###
+# Strings used for informing the player about the current state of the modifier keys in paint mode
+0x0450c9dc Control modifier now selects all blocks.
+0x0450c9dd Control modifier now selects like blocks.
+0x0450c9de Eyedropper now selects both color and texture.
+0x0450c9df Eyedropper now selects only color.
+0x0450c9e0 Eyedropper now selects only texture.
+
+
+### this text goes in CSA###B
+# Strings used to confirm that the player wants to ban something
+0x0450d284 Do you wish to remove all instances of this from all of your saved games?
+0x0450d285 Are you sure you wish to permanently remove this from your game?
+0x0450d286 Are you sure you wish to permanently remove this from your game? Your game will be saved and restarted before the object is removed.
+0x063ab852 This object is an avatar in one of your games.  You must delete that game before removing this object.
+
+### this text goes in CSA###
+# Strings used in publishing from shopping
+0x045700b6 Are you sure you want to share "~modelname~" to Spore.com?~br~You are sharing as: ~username~
+0x045921ad "~modelname~" was successfully shared!
+0x0563d473 "~modelname~" was not successfully shared.
+0x04592638 <Click here to log in>
+
+### this text goes in CSA###
+# Strings used in sharing from the editors
+0x047e7e83 Are you sure you want to share "~newmodelname~" to Spore.com?~br~You are sharing as: ~username~
+0x047e7e84 "~newmodelname~" was successfully shared!
+0x061349c1 "~newmodelname~" was not successfully shared.
+0x047e7e85 "~newmodelname~" was already shared!
+
+### this text goes in CSA###
+#exiting game
+0x0488f60d Are you sure you want to exit the Spore Creature Creator?
+
+### this text goes in CSA###
+# Other strings used in shopping
+0x046d0f59 This creation uses Spore parts that are not installed.  
+
+### this text goes in CSA###
+# Strings used to display missing names
+
+0x045882ea Sporetastic
+0x045882fb Sporezian
+
+### this text goes in CSA###
+#Generic Editor name
+0x04d94893 Creator
+#Default Creation name
+0x04d93065 Untitled Object
+
+### this text goes in CSA###
+# Strings for palette filters
+0x0535b1ad -----------
+0x0535b1ae All [NOT IN USE]
+0x0535b1af SPORE game [NOT IN USE]
+0x0535b1b0 MyCreations [NOT IN USE]
+0x0535b1b1 Suggestions [NOT IN USE]
+0x0535b1b2 Other's Creations [NOT IN USE]
+
+### this text goes in CSA###
+#Reasons why an asset is invalid
+0x053740ad This creation is not valid.
+0x053740ae You may play the game with this creation, but it will not be shared for the following reasons: [NOT IN USE]
+
+### this text goes in CSA###
+# string for unavailable items in CSA
+0x0538602b This part is available when you purchase Spore.
+
+### this text goes in CSA###
+#CSA
+0x0563ef7c ~newmodelname~ saved. Check out ~newmodelname~ by going to the "My Creations" section of Sporepedia.
+
+#paint mode color chicklets
+0x05bf125f Click and hold for more color choices
+
+#paint mode paint buddy
+0x05bd6e0d Delete me [NOT IN USE]

@@ -1,0 +1,360 @@
+﻿0x00000011 ~guide: -image-left-h1 0x02e9a2ca!btn-crg-norm.png~ Welcome to the Creature Stage
+
+0x00000021 ~guide: -h2~ You have successfully navigated the dangers of the tide pool and have emerged onto land!  You call out to your friends to join in establishing your species' first nest. This is your home base, where you can heal and find safety from predators.
+
+0x00000031 ~guide: -h2~ Here on land, you will encounter other species, some friendly, some dangerous.  You must survive by gaining DNA to evolve your abilities. As you evolve, you gain the intelligence necessary to become a sentient species, forging your way toward a civilized existence.
+
+0x00000041 ~guide: -h1~ Getting Started
+
+0x00000051 ~guide: -h3~ Directly from the Galaxy
+
+0x00000061 ~guide: -h2~ From your home galaxy, choose a planet to play on, and create or choose your starting creature.  You begin at the very start of your evolutionary journey on land. Initially, your most distinguishing feature is your mouth: Herbivore, Carnivore or Omnivore.  This simple distinction can change a creature's entire approach to life once on the planet.  Which will you choose?
+
+0x00000071 ~guide: -h3~ From the Cell Stage
+
+0x00000081 ~guide: -h2~ From the Cell Stage, you swim to the surface and call out to your friends to join in establishing your first nest.
+
+0x00000091 ~guide: -h2~ Your creature's nest is its home base.  This is where your nest mates will hang out, where you can heal, seek protection from predators, and where you can find a mate.  Each time you mate, you enter the Creature Creator and have an opportunity to evolve your creature.
+
+0x00000092 ~guide: -h2~ From time to time, your nest mates will need to migrate to other nesting grounds for food and cover.  Make sure you follow them to the new nest and claim it as your own.
+
+0x000000a1 ~guide: -h1~ Your Goal
+
+0x000000b1 ~guide: -h2~ In the Creature Stage you must survive, gain intelligence and evolve from simple being to sentient group on the journey toward a civilized existence.
+
+0x000000c1 ~guide: -h2~ To survive you must explore the world to collect parts, eat, as well as, defeat or befriend other species to earn DNA that you can use  to evolve and expand your brain.
+
+0x000000d1 ~guide: -h2~ Evolve your creature by mating with one of your own species to enter the Creature Creator. Spend your accumulated DNA on new parts that give you new abilities or improve those that you already have.
+
+0x000000e1 ~guide: -h1~ Your Creature
+
+0x000000f1 ~guide: -h3~ Your Abilities
+
+0x00000101 ~guide: -h2~ Evolve new abilities by adding parts each time you visit the Creature Creator. New parts help develop your Social, Combat, Movement and Calling abilities.  Access your abilities on the planet by clicking on them.  You'll find them all directly above the Progress Bar.
+
+0x00000111 ~guide: -h4~ Upon reaching land you will have some basic abilities:
+
+0x00000121 ~guide: -bullet~ Sing
+
+0x00000131 ~guide: -bullet~ Bite
+
+0x00000141 ~guide: -bullet~ Call
+
+0x00000151 ~guide: -h3~ Consequence Ability
+
+0x00000161 ~guide: -h2~ As a consequence of your evolutionary choices  during your life as a cell, your trait has determined a unique ability that you can use during your journey on land.
+
+0x00000171 ~guide: -bullet~ Your Consequence Ability is found above the Social and Combat Stance buttons.
+
+0x00000181 ~guide: -bullet~ Discover its function by moving your mouse pointer over it. Once used, this ability will take some time to recharge before you can use it again.
+
+0x000001a1 ~guide: -h3~ Health
+
+0x000001b1 ~guide: -h2~ You will need to stay healthy to survive. Your health indicator is located above your portrait in the bottom right of the screen. Keep an eye on your health, especially during fights.  You may need to flee to heal. To heal, eat something or find your nest, sit in it to heal.  You can heal in your allies' nests as well.
+
+0x000001c1 ~guide: -image-left 0x05556b31!mv_call_norm.png~ To find your nest, use your Call ability.  A nest indicator will show up at the perimeter of the screen pointing in the direction of your nest.  If you lose all of your health, you will die.
+
+0x000001d1 ~guide: -h3~ Hunger
+
+0x000001e1 ~guide: -h2~ All creatures need to eat!  Your hunger indicator is found above your profile.
+
+0x000001f1 ~guide: -h2~ Your choice of mouth type, carnivore, herbivore or omnivore, determines your diet.  This choice once made is irrevocable, if you were a carnivore as a cell, you shall be a carnivorous creature.
+
+0x00000201 ~guide: -bullet~ Carnivores eat meat. You can scavenge for meat or fight other species as you wish.
+
+0x00000211 ~guide: -bullet~ Herbivores eat fruit. Find fruit hanging on trees and plants.
+
+0x00000221 ~guide: -bullet~ Omnivores can eat either fruit or meat. However, omnivores require more food of either type for sustenance than their single diet cousins.
+
+0x00000231 ~guide: -h2~ If you don't eat enough, you will starve and may eventually die.  Keep an eye on your hunger bar and stay well-fed.  If you start thinking of food, better get grub fast.
+
+0x00000241 ~guide: -h3~ Death
+
+0x00000251 ~guide: -h2~ If you starve or are killed by another creature, you will be reborn as another member of your species back at your nest.
+
+0x00000271 ~guide: -h3~ Mating
+
+0x00000281 ~guide: -h2~ Mating is a necessary step to evolve as it gains you access to the Creature Creator where you can spend the DNA points you have earned on the parts you have collected.
+
+0x00000291 ~guide: -bullet~ Call a mate at any time by using your call ability.  When you see hearts in the nest indicator, a mate is waiting for you.  As you approach your nest, your mate will be the one with the hearts overhead.  click on it to mate, and lay an egg.
+
+0x000002a1 ~guide: -h3~ Your Nest
+
+0x000002b1 ~guide: -h2~ Your exploration of the planet begins at your nest.  You and your nest mates live, heal, gather, evolve and mate at this nest.  It is always marked by a house on the mini-map
+
+0x000002c1 ~guide: -bullet~ To locate your nest use your call ability.  When you do, your nest mates reply and a nest indicator appears along the perimeter of the screen with an arrow pointing the direction home.
+
+0x000002d1 ~guide: -h3~ Migration
+
+0x000002e1 ~guide: -h2~ When the need for additional food and resources strikes, your nest mates will migrate.  Follow the path on the mini-map to claim your new nest and continue to mate, evolve and flourish.
+
+0x000002e2 ~guide: -h1~ History and Consequence
+
+0x000002e3 ~guide: -h2~ As you progress through the Creature Stage, a personal history of your generational path is kept.  Press the History button at the end of the Progress Bar to check how your evolutionary choices and actions are tracking.
+
+0x000002f1 ~guide: -h1~ Tracking Your Progress
+
+0x00000301 ~guide: -h2~ You can measure your progress through the Creature Stage by following the Progress Bar at the bottom of the screen.
+
+0x00000311 ~guide: -h2~ Each segment of the bar represents a higher Brain Level for your species. As you acquire DNA points, the bar fills up. Each time you accrue enough DNA to fill a segment of the progress bar, you raise your Brain Level.  Each new Brain Level increases your creature's health, size, and its new intelligence enables it to add a Pack Member.
+
+0x00000321 ~guide: -h2~ To fill the progress bar you must earn DNA.  You earn DNA from killing or befriending other species, or by fulfilling the mini-goals which appear in the upper left corner of the screen.
+
+0x00000331 ~guide: -h2~ The amount of DNA that you have accumulated is shown in the lower left corner.  You can enter the Creature Creator at any time by mating with one of your species at your nest.
+
+0x00000341 ~guide: -h1~ Controls
+
+0x00000351 ~guide: -h3~ Camera
+
+0x00000361 ~guide: -h4~ To rotate the camera:
+
+0x00000371 ~guide: -bullet~ Hold down the right mouse button and move the mouse right or left
+
+0x00000381 ~guide: -h2~ or
+
+0x00000391 ~guide: -bullet~ &lt; - Camera Rotate Left
+
+0x000003a1 ~guide: -bullet~ &gt; - Camera Rotate Right
+
+0x000003b1 ~guide: -h4~ To pitch the camera:
+
+0x000003c1 ~guide: -bullet~ Hold down the right mouse button and move the mouse up and down
+
+0x000003d1 ~guide: -h4~ To zoom the camera:
+
+0x000003e1 ~guide: -bullet~ Scroll the middle mouse wheel to zoom the camera in and out.
+
+0x000003f1 ~guide: -bullet~ + - Camera Zoom In
+
+0x00000401 ~guide: -bullet~ - - Camera Zoom Out
+
+0x00000411 ~guide: -h3~ Controlling Your Creature
+
+0x00000421 ~guide: -h4~ Mouse Controls:
+
+0x00000431 ~guide: -bullet~ Click or hold the left mouse button and drag to move your creature around the world. An indicator will show on the ground when you click to show where your creature will go.
+
+0x00000441 ~guide: -h4~ Keyboard Controls:
+
+0x00000451 ~guide: -bullet~ W or Up Arrow - Move forward
+
+0x00000461 ~guide: -bullet~ A or Left Arrow - Turn left
+
+0x00000471 ~guide: -bullet~ S or Down Arrow - Walk backward
+
+0x00000481 ~guide: -bullet~ D or Right Arrow - Turn right
+
+0x00000482 ~guide: -bullet~ Q or E - Strafe left or right
+
+0x00000491 ~guide: -h4~ Using Movement Abilities
+
+0x000004a1 ~guide: -h2~ If you evolve your creature to have any of the movement abilities; sneak, jump, sprint or glide, you will see these Ability Buttons appear above the Progress Bar.  click on one and then move to use that ability.
+
+0x000004b1 ~guide: -h4~ Keyboard Shortcuts for Movement Abilities:
+
+0x000004c1 ~guide: -bullet~ Backspace - Mating Call
+
+0x000004d1 ~guide: -bullet~ Spacebar - Jump, and also flap your wings if your creature has evolved them
+
+0x000004e1 ~guide: -bullet~ 'Z' - Toggle your 'Sneak' ability on and off
+
+0x000004f1 ~guide: -bullet~ SHIFT - Toggle your 'Sprint' ability on and off
+
+0x00000501 ~guide: -h3~ Interacting with Objects
+
+0x00000511 ~guide: -h2~ As you roll over objects that you can interact with in the world, your cursor will change and the object will highlight.  Click on the object: fruit, shells, fossils, etc., to interact with it.  If you click on fruit, and you are hungry, you will eat it. If you are not hungry, you will pick it up to carry.
+
+0x00000521 ~guide: -h3~ Interacting with Other Creatures
+
+0x00000531 ~guide: -h2~ There are several types of interactions with other species:
+
+0x00000541 ~guide: -bullet~ Target - When you first click on another creature you will target that creature.  If it is the first time you have seen this species, you will see its Sporepedia card appear in the upper right corner of the screen.  Once a creature is targeted your next click decides how you will interact with it...
+
+0x00000551 ~guide: -bullet~ Socialize - First, click on the Social Stance button. Then, click on your targeted creature to initiate a social interaction.  You can then select from the abilities available in your social tray to direct specific actions at the targeted creature.
+
+0x00000561 ~guide: -bullet~ Combat - First, click on the Combat Stance button. Then, click on your targeted creature to initiate an attack.  You can then select from the abilities available in your combat tray to direct specific attacks at the targeted creature.
+
+0x00000571 ~guide: -bullet~ Give or Throw - If you are carrying an item, such as shells, flowers, or fruit, throw or give it to another creature by clicking on the creature you want to target.
+
+0x00000581 ~guide: -bullet~ Mate - You can only mate with your own species.  Use your mating call to locate a mate. Click on the creature who has hearts overhead to mate.
+
+0x000005a1 ~guide: -h1~ Relationships with Other Species
+
+0x000005b1 ~guide: -h2~ By interacting aggressively or socially with other creatures on the planet, you affect your relationship with that species either negatively or positively.
+
+0x000005c1 ~guide: -h2~ See your current relationship with any species by moving your cursor over a creature. Different faces represent the different relationship states.
+
+0x000005d1 ~guide: -image-left 0x05556b31!icon-relation-superhappy-strip.png ~ Ally - These creatures really like your species, allowing you to heal at their nests and they will potentially come to your aid.
+
+0x000005e1 ~guide: -image-left 0x05556b31!icon-relation-happy-strip.png ~ Friendly - These creatures quite like your species, and will allow you to heal at their nests.
+
+0x000005f1 ~guide: -image-left 0x05556b31!icon-relation-curious-strip.png ~ Curious - These creatures are curious as to your creature's intent toward them. They don't attack immediately, but they are not yet friendly.
+
+0x00000601 ~guide: -image-left 0x05556b31!icon-relation-mad-strip.png ~ Annoyed - These creatures growl and attack on sight. However, they can be potentially converted to friends.
+
+0x00000621 ~guide: -image-left 0x05556b31!icon-relation-supermad-strip.png ~ Hostile - These creatures are your species' natural enemies. They attack on sight and cannot be befriended.
+
+0x00000631 ~guide: -image-left 0x05556b31!icon-relation-fear-strip.png ~ Fear - These creatures fear your species. Hunt them for food or prove you are not a threat!
+
+0x00000641 ~guide: -h1~ Using Abilities
+
+0x00000651 ~guide: -h3~ Socializing
+
+0x00000661 ~guide: -h2~ To improve your relationships you must socialize with other species.   Making allies of other species earns you DNA.
+
+0x00000671 ~guide: -h4~ To socialize with another creature:
+
+0x00000681 ~guide: -bullet~ Hover your cursor over the creature to determine your current relationship status.  Beware! Hostile creatures will attack, and cannot be befriended, so you want to approach carefully.
+
+0x00000682 ~guide: -bullet~ Click on the creature to target it for an interaction.
+
+0x00000691 ~guide: -bullet~ Click the Social Stance button just above the progress bar.  Your Social Abilities tray will open.
+
+0x000006a1 ~guide: -bullet~ Click on the targeted creature to initiate a social interaction.
+
+0x000006b1 ~guide: -bullet~ Click on the ability button you would like to use; sing, charm, dance or pose (depending on the parts you have).
+
+0x000006c1 ~guide: -h2~ The other creature will join the social engagement by performing one of its abilities.  You must match its performance or outdo it to impress it.  If you impress the other creature, its relationship with you will improve.  You must be both able and quick.  Other species lose interest in you quickly if you have lower social abilities or can't keep up with the pace of performance.
+
+0x000006e1 ~guide: -h2~ Watch the creature you are socializing with and try to match its performance by clicking on the appropriate ability, in turn.  Keep pace with the other creature to keep it engaged.
+
+0x000006f1 ~guide: -h2~ Every ability has a strength based on the level of the parts you have in that category and a refresh time before you have the energy to use it again. If your abilities are too low or you do not match the other creature's performance, you will not impress them and they will become bored with you and wander off.
+
+0x00000701 ~guide: -h3~ Combat
+
+0x00000711 ~guide: -h2~ It may be necessary for you to fight to survive either in defense or simply to eat.  If you succeed in combat, you can collect meat from the carcasses to eat and you will receive DNA for each successful engagement.
+
+0x00000721 ~guide: -h2~ To attack another creature:
+
+0x00000731 ~guide: -bullet~ Hover your cursor over the creature to determine your current relationship status.  This can tell you if the other creature will immediately attack or not.
+
+0x00000732 ~guide: -bullet~ Click on the creature to target it for an interaction.
+
+0x00000741 ~guide: -bullet~ Click the Combat Stance button above the Progress Bar.  Your combat abilities tray will open.
+
+0x00000751 ~guide: -bullet~ Click on the creature you wish to attack.
+
+0x00000761 ~guide: -bullet~ Click the combat ability you wish to use to attack; bite, strike, charge or spit (depending on the parts you have)
+
+0x00000771 ~guide: -h2~ Watch your health meter as well as your opponent's to determine who has the upper hand.  You can attempt to lure your opponent away from its nest mates if they come to its aid or fully break away if you need to retreat to heal.
+
+0x00000791 ~guide: -h2~ Each of the abilities; bite, spit, slash and charge, has a button.  Each ability has a strength based on the level of the parts you have in that category and a refresh time before you have the energy to use them again.
+
+0x000007a1 ~guide: -h4~ Range Attacks
+
+0x000007b1 ~guide: -h2~ To use your Spit or Charge ability you must be at least a small distance from your target.  You may need to back up and then you will be able to use these abilities.
+
+0x000007c1 ~guide: -h4~ Keyboard Shortcuts for Social/Combat Abilities:
+
+0x000007d1 ~guide: -h2~ If your creature gains other abilities in the game, there are keyboard shortcuts you can use.
+
+0x000007e1 ~guide: -bullet~ 1 - Use your 'Bite' or 'Sing' Ability - depending on whether you're in Attack or Social stance
+
+0x000007f1 ~guide: -bullet~ 2 - Use your 'Dance' or 'Charge' Ability - depending on whether you're in Attack or Social stance
+
+0x00000801 ~guide: -bullet~ 3 - Use your 'Charm' or 'Strike' Ability - depending on whether you're in Attack or Social stance
+
+0x00000821 ~guide: -bullet~ 4 - Use your 'Pose' or 'Spit' Ability - depending on whether you're in Attack or Social stance
+
+0x00000831 ~guide: -h3~ Consequence Abilities
+
+0x00000841 ~guide: -h2~ The unique ability, reflecting your evolutionary trait from your life as a cell, is found directly above the Social and Combat Abilities.  Move your cursor over the Consequence Ability button to find out what ability you have and how to use it.
+
+0x00000851 ~guide: -h3~ Movement Abilities
+
+0x00000861 ~guide: -h2~ See this section under Controls
+
+0x00000871 ~guide: -h1~ Goal Cards
+
+0x00000891 ~guide: -h2~ Each game Stage presents you with goals or missions that, if accomplished, will help you to succeed in that Stage.
+
+0x000008a1 ~guide: -h3~ Mini Goal Cards
+
+0x000008b1 ~guide: -h2~ The Mini Goal Cards appear in the upper left hand corner of your game screen.  These will track your current status toward completing that goal.  Click on the Mini Goal Card to open the Mission Log.
+
+0x000008c1 ~guide: -h3~ The Mission Log
+
+0x000008d1 ~guide: -h2~ The Mission Log gives you detailed information about all of the goals and missions that you have open.  You can also browse a history of your past goals and missions.
+
+0x000008f1 ~guide: -h1~ Collecting Parts
+
+0x00000901 ~guide: -h2~ Each part you find in the world is an opportunity to evolve your creature using that part.  As you add parts in the Creature Creator, you acquire new abilities or level up an existing ability you already have.
+
+0x00000911 ~guide: -h2~ Parts are found in skeletal fossils lying about the planet, or you can earn them by interacting with Alpha creatures of other species. Successfully ally them or defeat them in combat, and you will gain access to their new part in the Creature Creator.
+
+0x00000921 ~guide: -h2~ There are four sizes of skeletons; small, medium, large, and really large. Each yields a different level of part, from simple to advanced. Keep your eyes peeled when exploring the planet. Beware! The bigger the fossil, the more likely it is heavily guarded by potential predators!
+
+0x00000931 ~guide: -h3~ My Collection
+
+0x00000941 ~guide: -h2~ Each part that you discover in the world will be unlocked in the Creature Creator the next time you enter it.
+
+0x00000951 ~guide: -h2~ If you'd like to see how many you have discovered before you decide to evolve, open your collection by clicking on the My Collection button.
+
+0x00000961 ~guide: -h1~ Evolving Your Creature
+
+0x00000971 ~guide: -h3~ Creature Abilities
+
+0x00000981 ~guide: -h2~ You can evolve your abilities by spending DNA on parts in the Creature Creator.  See the Creature Creator Section to learn the tricks to creating and evolving your creature.
+
+0x00000991 ~guide: -h2~ Each part displays what level of a particular ability it will contribute to your creature's skills.  Multiple parts of the same level do not increase the level but they can sure look good!
+
+0x000009a1 ~guide: -h3~ Social Abilities
+
+0x000009b1 ~guide: -h2~ Social abilities allow you to befriend other species and gain DNA. There are four social abilities: Charm, Pose, Dance and Sing. Each ability has five levels, which correspond to the persuasive power of the particular part.
+
+0x000009c1 ~guide: -h3~ Combat Abilities
+
+0x000009d1 ~guide: -h2~ Combat abilities allow you to hunt other species and gain DNA or food. There are four attack abilities: Bite, Strike, Charge and Spit. Each ability has five levels, which correspond to the physical power of the particular attack. Note that both spit and charge require you to be a certain distance away from your target to function.
+
+0x000009d2 ~guide: -h2~ Abilities all have recharge rates which determine amount of time you must wait before that ability is ready to use again.
+
+0x000009e1 ~guide: -h3~ Movement Abilities
+
+0x000009f1 ~guide: -h2~ There are several movement abilities such as sneak or glide, which you can gain by adding specific parts in the Creature Creator. Experiment with them all by clicking on the ability button.
+
+0x00000a01 ~guide: -h1~ Building a Pack
+
+0x00000a11 ~guide: -image-left 0x05556b31!PUI-icon-ghost-question-mark.png~ At each brain level upgrade along the progress bar, you gain the ability to add a member to your pack.  You can add members of your own species or any species that you have allied.
+
+0x00000a21 ~guide: -h2~ Pack members are loyal followers who stay by your side everywhere you go, mimicking your every action. They assist in combat or social attempts.
+
+0x00000a31 ~guide: -h2~ The number of possible pack members you have is indicated along the right of the screen.
+
+0x00000a41 ~guide: -h2~ To add a creature to your pack, socialize with any already allied creature or one of your nest mates.
+
+0x00000a51 ~guide: -h1~ The Mini Map
+
+0x00000a61 ~guide: -h2~ You will need to explore your world to find food, collect parts and DNA to evolve.  Keep track of where you are using the Mini-Map in the lower left hand corner of the screen.  It has several indicators:
+
+0x00000a71 ~guide: -image-left 0x05556b31!minimap-nest.png~ shows your home nest
+
+0x00000a81 ~guide: -image-left 0x05556b31!minimap-unknown-nest.png~ indicates nests you have not explored.
+
+0x00000a91 ~guide: -image-left 0x05556b31!minimap-befriended-nest.png~ indicates nests you have explored, along with the relationship status you have with the species that inhabits that nest.
+
+0x00000a92 ~guide: -image-left 0x05556b31!minimap-extincted-nest-sm.png~ indicates nest of species that you have made extinct.
+
+0x00000a93 ~guide: -image-left 0x05556b31!migration_path.png~ indicates your migration path.
+
+0x00000b01 ~guide: -h1~ Epic Creatures
+
+0x00000b11 ~guide: -h2~ Occasionally, you may cross paths with huge, solitary creatures, Epics.  If you survive, this encounter will surely be a legend to your descendents . Epics are a fearsome lot that only the most evolved pack would even think of challenging in combat and can not be befriended.
+
+0x00000b21 ~guide: -h2~ You may stumble over a smaller cousin of the Epic in your journeys. This variety is still a tough adversary, but may be persuaded to join your pack and help you and your species make great evolutionary leaps.
+
+0x00000b31 ~guide: -h1~ Completing the Creature Stage
+
+0x00000b41 ~guide: -h2~ When you completely fill the Progress Bar, and increase your brain capacity to its fullest, you are ready for the next stage of evolution...Tribal life!
+
+0x00000b42 ~guide: -bullet~ To advance to the Tribal Stage, click the Evolve button.
+
+0x00000b43 ~guide: -h3~ Your History
+
+0x00000b51 ~guide: -h2~ Before establishing your tribe, you will visit a view of your personal history.  Your actions and evolutionary choices for each generation are tracked. Evolution is a journey in which the earliest choices and actions have consequences into the future of your species.
+
+0x00000b61 ~guide: -h2~ Your creature will earn a trait based on its personal evolutionary path.  This trait determines unique abilities that your species can use to its advantage in the Tribal Stage and beyond!
+
+0x00000b62 ~guide: -h3~ From Parts to Tools!
+
+0x00000b71 ~guide: -h2~ Note!  Once you have left the creature Stage you will no longer be able to alter your physical attributes.  When you press the Evolve button you will be taken to the Creature Creator for one last opportunity to adapt your creature's physical traits.
+

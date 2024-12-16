@@ -1,0 +1,40 @@
+﻿#######################################
+
+
+
+#######################################
+# Tutorial cinematics
+0x00000199 Congratulations! You are about to enter the Tribal stage.
+0x00000201 With a roof over your head and fire at your fingertips, you enter the age of hand tools and drum beats! But beware, soon rival tribes will form across the globe. Be vigilant!
+0x0000010C A rival tribe of ~tribe_creature_species~ has formed on your planet!
+0x00000109 Your tribe grows in prestige! You have a larger hut to show for it and your tribe can now sustain up to ~max_population~ tribe members.
+0x0000010A Your tribe continues to advance! Your hut has upgraded again, and you can now grow your tribe to its maximum potential of ~max_population~ tribe members.
+0x0000010E Oh, the humanity! Your tribal hut has been destroyed! Perhaps a fresh start is just the thing you need.
+0x0000010F Alas! Your population has fallen below the minimum needed to survive. Will this tragic story repeat itself? Bounce back in time to find out!
+0x00000110 A new baby has been born!
+
+# Conquer
+0x00000300 You have destroyed the ~tribe_name~! Your totem grows and new tools and outfits have been looted from the fallen tribe and added to your Tribal Planner!
+0x00000301 You have destroyed the ~tribe_name~! Your tribe has carved a second totem piece to remember this momentous occasion! The spoils of battle are new tools and outfits, find them in your Tribal Planner.
+0x00000302 You have destroyed the ~tribe_name~! A third totem piece adorns your tribal totem. The tools and outfits taken from the fallen tribe are now available in your Tribal Planner.
+0x00000303 You have destroyed the ~tribe_name~! The tools and outfits they used are now yours, find them in your Tribal Planner. Your totem is nearly complete!
+0x00000304 You have destroyed the ~tribe_name~! Your totem is complete! You can advance to the Civilization stage now.
+
+# Befriend
+0x00000400 You have made the ~tribe_name~ your allies! To celebrate, they have shared a totem piece, as well as new tools and outfits with your tribe! These have been added to your Tribal Planner.
+0x00000401 You have made the ~tribe_name~ your allies! A totem piece has been added to your tribal totem. The tools and outfits of your allies now fill out your Tribal Planner!
+0x00000402 The ~tribe_name~ Tribe is now your sworn ally! Their totem piece show's their alliance and they have shared tools and outfits with your tribe. Access them in the Tribal Planner.
+0x00000403 You have made the ~tribe_name~ your allies! Your totem is nearly complete! Their tools and outfits are now yours to use. Find them in the Tribal Planner.
+0x00000404 You have made the ~tribe_name~ your allies! Your totem is complete! You can advance to the Civilization Stage now.
+
+# Deleted
+0x00000001 DELETED
+0x00000002 DELETED
+0x00000003 DELETED
+0x00000200 DELETED
+0x00000108 DELETED
+
+
+# Not in Use
+0x0000010D [[[[[NOT IN USE]]]]] You must conquer or ally with them to achieve civilization.
+0x0000010B [[[[[NOT IN USE]]]]] Your tribe now dominates this continent! Click on your hut to evolve your tribe into a city!

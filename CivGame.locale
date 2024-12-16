@@ -1,0 +1,138 @@
+﻿# civ localized text
+
+###########################################################
+# posse UI
+
+#######################################
+# posse titles
+0x04d175ca Military
+0x04d175cb Religious
+0x04d175cc Economic
+0x04d175cd Harvester
+
+###########################################################
+# pie menus
+0x06a56b8f Bribe the Workers
+
+#######################################
+# vehicle vs. city
+0x0563ce33 Capture City (Cannot Reach)
+0x04d18ff4 Capture City
+0x04d19086 Convert City (Too Much Happiness – Target Entertainment First)
+0x06776ca9 Convert City (Auto-Target Entertainment to Lower Happiness)
+0x0563ce86 Convert City (Cannot Reach)
+0x04d19085 Convert City
+0x0563cec2 Propose Trade Route (Cannot Reach)
+0x04d1912c Propose Trade Route
+0x05f4fc30 Start Trade Route
+0x04d19177 Trade With City
+
+#######################################
+# city hall
+0x04d191cf Buy Buildings
+0x04d192dc Buy Vehicles
+0x04d19342 Transition To Space
+0x04d2b633 City Outfitter
+0x058b51f4 Napalm Bomb $~currency_number~
+0x04e41707 Global ICBM Strike $~currency_number~
+0x05763fe4 Tactical Nuclear Strike $~currency_number~
+0x058b5210 Faith Healing $~currency_number~
+0x058b5211 Black Rain $~currency_number~
+0x056b8a99 Messianic Rising $~currency_number~
+0x058b5212 Bribes and Confusion $~currency_number~
+0x058b5213 Ad Blitz $~currency_number~
+0x058b5214 Global Merger $~currency_number~
+
+
+#######################################
+# NPC city hall
+0x04d194fe Give Gift
+0x04d1956a Buy City
+0x052ecbe1 Buy City (Requires More Trade)
+0x052ecbe2 Buy City (Requires Trade Route)
+0x04d29b0c Contact
+
+#######################################
+# wall
+0x04d195b2 Repair
+
+#######################################
+# building menu
+0x04e50472 Sell Building for $~currency_number~
+0x04d1a21d Demolish
+
+###########################################################
+# dialogs
+
+#######################################
+# disband confirm dialog
+0x04d960ba Disband
+0x04d960bb Would you like to disband the selected vehicles?
+
+#######################################
+# vehicle limit
+0x04d1a4a7 Fleet Limit Reached
+0x04d1a4ae You have reached your fleet limit for this type of vehicle.  To expand the limit, capture more cities of the same type.~br~Hint: You can decommission vehicles by pressing the DELETE key while you have vehicles selected.
+
+#######################################
+# create or load ufo
+0x04d1a5bc Build your Spaceship
+
+#######################################
+# player lost
+0x04d1a8a8 You have lost your last city to an opponent!
+
+# Tutorial Buy Vehicle
+0x05c18502 Purchase
+0x05c18512 Click on the City Planner button to buy your first vehicle.
+0x05c18518 Buy Your First Vehicle.
+
+# Tutorial Claim Node
+0x058b486a Claim 
+0x058b486b Select a vehicle and then right click on a spice geyser to claim it.
+0x058b486c Claim a Spice Geyser.
+
+# Tutorial Profitable City
+0x058b71b4 Design 
+0x058b71b5 Click on the City Planner button in your City Hall to add linked houses and factories to make your city profitable.
+0x058b71b6 Design a Profitable City.
+
+# Tutorial Happy City
+0x058c75fd Design
+0x058c75fe Click on the City Planner button to add entertainment buildings linked to houses.
+0x058c75ff Design a Happy City.
+
+# Tutorial Buy Land Unit
+0x058c7626 Purchase
+0x058c7627 Click on the City Planner button to buy another land vehicle. 
+0x058c7628 Buy another Land Vehicle.
+
+# Tutorial Buy Sea Unit
+0x058c7642 Purchase
+0x058c7643 Click on the City Planner button to and create and buy your first sea vehicle.
+0x058c7644 Build and buy a Sea Vehicle.
+
+# Tutorial Buy Air Unit
+0x058c765b Purchase
+0x058c765c Click on the City Planner button to and create your first air vehicle.
+0x058c765d Build and buy Air Vehicle.
+
+# Tutorial Military Capture
+0x058c9722 Capture
+0x058c9723 Build military vehicles, click on an enemy city, and select 'Capture City'. The larger the force, the more chance of success.
+0x058c9724 Capture an Opposing City.
+
+# Tutorial Religious Capture
+0x058c968c Capture
+0x058c968d Build religious vehicles, click on an enemy city, and select 'Convert City'. Religious vehicles can also target individual buildings within the target city and lock them down so that they become ineffective in halting your assault. 
+0x058c968e Convert an Opposing City.
+
+# Tutorial Economic Capture
+0x058c96a2 Capture
+0x058c96a3 Build economic vehicles, click on an enemy city, and select 'Propose Trade Route'. After enough trading occurs the city will offer itself up for purchase. 
+0x058c96a4 Buy an Opposing City.
+
+# Tutorial Capture All
+0x0590c228 Capture 
+0x0590c229 Capture all of the cities on the planet to win!
+0x0590c22a Capture All Cities.

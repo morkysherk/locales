@@ -1,0 +1,922 @@
+﻿# AAA_Bone.prop
+0x08b4690d Basic Bone
+
+# AAA_Horn.prop
+0xaa69cc08 test Horn
+
+# AAA_Vertebra.prop
+0x5e49ce2c test vertebra
+
+# CE_details_armor_01.prop
+0x9343e658 Shellshard
+
+# CE_details_armor_02.prop
+0x9343e65b Osteoflippy
+
+# CE_details_armor_03.prop
+0x9343e65a Hydroxylappetite
+
+# CE_details_armor_04.prop
+0x9343e65d Triterraflops
+
+# CE_details_armor_05.prop
+0x9343e65c Bonekneepad
+
+# CE_details_armor_06.prop
+0x9343e65f Knurl Down
+
+# CE_details_armor_07.prop
+0x9343e65e Bone Tablets
+
+# CE_details_armor_08.prop
+0x9343e651 Rockne
+
+# CE_details_bump_01.prop
+0x341b1825 Heycorn
+
+# CE_details_bump_02.prop
+0x341b1826 Nurple
+
+# CE_details_bump_03.prop
+0x341b1827 Jellybutton
+
+# CE_details_bump_04.prop
+0x341b1820 Mackne
+
+# CE_details_crystal_01.prop
+0x34265c0d Derma Bark
+
+# CE_details_crystal_02.prop
+0x34265c0e Baublewarts
+
+# CE_details_crystal_03.prop
+0x34265c0f Jemite
+
+# CE_details_crystal_04.prop
+0x34265c08 Stealing Crystals
+
+# CE_details_feather_01.prop
+0xcb72e9a8 Featherbluster
+
+# CE_details_feather_02.prop
+0xcb72e9ab Marshcara
+
+# CE_details_feather_03.prop
+0xcb72e9aa Peacrock
+
+# CE_details_feather_04.prop
+0xcb72e9ad Featherferns
+
+# CE_details_flora_01.prop
+0x245b71f9 Grasstachio
+
+# CE_details_flora_02.prop
+0x245b71fa Coverleaf
+
+# CE_details_flora_03.prop
+0x245b71fb Branch Deco
+
+# CE_details_flora_04.prop
+0x245b71fc Florsage
+
+# CE_details_hair_01.prop
+0xe7360af1 Whipwhick
+
+# CE_details_hair_02.prop
+0xe7360af2 Protubers
+
+# CE_details_hair_03.prop
+0xe7360af3 Hairlagmites
+
+# CE_details_hair_04.prop
+0xe7360af4 Crestacean
+
+# CE_details_playful_01.prop
+0x2275f76e Pomp pom
+
+# CE_details_playful_02.prop
+0x2275f76d  Springle
+
+# CE_details_playful_03.prop
+0x2275f76c Wrottontail
+
+# CE_details_playful_04.prop
+0x2275f76b Fleurbine
+
+# CE_details_wing_01.prop
+0x51bea95e Antisoptera
+
+# CE_details_wing_02.prop
+0x51bea95d Fauxry Wings
+
+# CE_details_wing_03.prop
+0x51bea95c Megachiraptora
+
+# CE_details_wing_04.prop
+0x51bea95b Cassoworry
+
+# CE_grasper_amphibian_01.prop
+0x3a25c5a2 Setaetarsal
+
+# CE_grasper_amphibian_02.prop
+0x3a25c5a1 Amphibigrab
+
+# CE_grasper_amphibian_03.prop
+0x3a25c5a0 Amphibigrip
+
+# CE_grasper_amphibian_04.prop
+0x3a25c5a7 Croak Masseur
+
+# CE_grasper_bird_01.prop
+0xa62cb294 Bonestickler
+
+# CE_grasper_bird_02.prop
+0xa62cb297 Torsionwrencher
+
+# CE_grasper_bird_03.prop
+0xa62cb296 Prongripper
+
+# CE_grasper_bird_04.prop
+0xa62cb291 Tearerwrist
+
+# CE_grasper_dino_01.prop
+0x00013533 Grubbygrabber
+
+# CE_grasper_dino_02.prop
+0x00013530 Velocigrasper
+
+# CE_grasper_dino_03.prop
+0x00013531 Hookencrook
+
+# CE_grasper_dino_04.prop
+0x00013536 Horrorthumbs
+
+# CE_grasper_insect_01.prop
+0xfbdcf3af Butterbib
+
+# CE_grasper_insect_02.prop
+0xfbdcf3ac Mitzy
+
+# CE_grasper_insect_03.prop
+0xfbdcf3ad Classic Minion
+
+# CE_grasper_insect_04.prop
+0xfbdcf3aa Ectoknight
+
+# CE_grasper_null.prop
+0xa077208c grasper null
+
+# CE_grasper_paw_01.prop
+0x87bb4399 Phatlanges
+
+# CE_grasper_paw_02.prop
+0x87bb439a Badgerbear
+
+# CE_grasper_paw_03.prop
+0x87bb439b Ultrarolfer
+
+# CE_grasper_paw_04.prop
+0x87bb439c Metacarnal
+
+# CE_grasper_primate_01.prop
+0xd82377e9 Nubknuckle
+
+# CE_grasper_primate_02.prop
+0xd82377ea Lockpicker
+
+# CE_grasper_primate_03.prop
+0xd82377eb Opposabubba
+
+# CE_grasper_primate_04.prop
+0xd82377ec Monstrumtalon
+
+# CE_grasper_radial_01.prop
+0x0f4d0218 Trapfist
+
+# CE_grasper_radial_02.prop
+0x0f4d021b Succulenders
+
+# CE_grasper_radial_03.prop
+0x0f4d021a Snatchengrabben
+
+# CE_grasper_radial_04.prop
+0x0f4d021d Dexterrorous
+
+# CE_leg_insect_01_calf.prop
+0x199de4dc limb insect leg 01 calf
+
+# CE_leg_insect_01_thigh.prop
+0x562ddfaa limb insect 01 thigh
+
+# CE_leg_insect_02_calf.prop
+0xf7d5e105 limb insect 02 calf
+
+# CE_leg_insect_02_thigh.prop
+0xbe8bedf9 limb insect 02 thigh
+
+# CE_leg_insect_grasshopper_femur.prop
+0x15d923f6 CE_leg_insect_grasshopper_femur
+
+# CE_leg_insect_grasshopper_tarsus.prop
+0x6357bab9 CE_leg_insect_grasshopper_tarsus
+
+# CE_leg_insect_grasshopper_tibia.prop
+0x69932690 CE_leg_insect_grasshopper_tibia
+
+# CE_leg_mammal_pelvic_lower.prop
+0xca9835e6 limb mammal pelvic lower
+
+# CE_leg_mammal_pelvic_upper.prop
+0xebda1ae5 limb insect leg 01 calf
+
+# CE_leg_mammal_pelvic_upperlimb.prop
+0xd21ef775 limb mammal pelvic upper
+
+# CE_mouth_amphibian_omnivore_01.prop
+0xde215dcd Simperton
+
+# CE_mouth_amphibian_omnivore_02.prop
+0xde215dce Rostrum
+
+# CE_mouth_amphibian_omnivore_03.prop
+0xde215dcf Worrybeak
+
+# CE_mouth_amphibian_omnivore_04.prop
+0xde215dc8 Amphibitude
+
+# CE_mouth_beak_carnivore_01.prop
+0xc8f7a869 Toucan't
+
+# CE_mouth_beak_carnivore_02.prop
+0xc8f7a86a Buzzbeak
+
+# CE_mouth_beak_carnivore_03.prop
+0xc8f7a86b Buzzmuzzle
+
+# CE_mouth_beak_carnivore_04.prop
+0xc8f7a86c Skexybeast
+
+# CE_mouth_beak_herbivore_01.prop
+0x22e28990 Cantovis
+
+# CE_mouth_beak_herbivore_02.prop
+0x22e28993 Splatypus
+
+# CE_mouth_beak_herbivore_03.prop
+0x22e28992 Snapgator
+
+# CE_mouth_beak_herbivore_04.prop
+0x22e28995 Grubblemaw
+
+# CE_mouth_fish_carnivore_01.prop
+0x018b1d5e Manglerfish
+
+# CE_mouth_fish_carnivore_02.prop
+0x018b1d5d Slagjawed
+
+# CE_mouth_fish_carnivore_03.prop
+0x018b1d5c Barracutie
+
+# CE_mouth_fish_carnivore_04.prop
+0x018b1d5b Carcharebear
+
+# CE_mouth_jaw_carnivore_01.prop
+0x050d2812 D'orca
+
+# CE_mouth_jaw_carnivore_02.prop
+0x050d2811 Terrorpin
+
+# CE_mouth_jaw_carnivore_03.prop
+0x050d2810 CrocKisser
+
+# CE_mouth_jaw_carnivore_04.prop
+0x050d2817 Shortensnout
+
+# CE_mouth_jaw_herbivore_01.prop
+0x56e77087 Mollratt
+
+# CE_mouth_jaw_herbivore_02.prop
+0x56e77084 Laardvark
+
+# CE_mouth_jaw_herbivore_03.prop
+0x56e77085 Ruminanteater
+
+# CE_mouth_jaw_herbivore_04.prop
+0x56e77082 Whalephant
+
+# CE_mouth_mandible_carnivore_01.prop
+0x676ec1cc Gobsterclaw
+
+# CE_mouth_mandible_carnivore_02.prop
+0x676ec1cf Handibles
+
+# CE_mouth_mandible_carnivore_03.prop
+0x676ec1ce Handtennae
+
+# CE_mouth_mandible_carnivore_04.prop
+0x676ec1c9 Pincernaut
+
+# CE_mouth_primate_omnivore_01.prop
+0xfb60af34 Sauroclod
+
+# CE_mouth_primate_omnivore_02.prop
+0xfb60af37 Grinnace
+
+# CE_mouth_primate_omnivore_03.prop
+0xfb60af36 Vermillips
+
+# CE_mouth_primate_omnivore_04.prop
+0xfb60af31 S'gnarly
+
+# CE_mouth_radial_omnivore_01.prop
+0x6b090341 Leeyotch
+
+# CE_mouth_radial_omnivore_02.prop
+0x6b090342 Gnathognasher
+
+# CE_mouth_radial_omnivore_03.prop
+0x6b090343 Saginaughty
+
+# CE_mouth_radial_omnivore_04.prop
+0x6b090344 Dietrap
+
+# CE_mouth_snout_herbivore_01.prop
+0xc9f34442 Swillson
+
+# CE_mouth_snout_herbivore_02.prop
+0xc9f34441 Ungulot
+
+# CE_mouth_snout_herbivore_03.prop
+0xc9f34440 Soundersnout
+
+# CE_mouth_snout_herbivore_04.prop
+0xc9f34447 Haunchface
+
+# CE_movement_amphibian_01.prop
+0x3e28848b The Geckonator
+
+# CE_movement_amphibian_02.prop
+0x3e288488 The Geckoning
+
+# CE_movement_amphibian_03.prop
+0x3e288489 The Froggening
+
+# CE_movement_amphibian_04.prop
+0x3e28848e The Toadening
+
+# CE_movement_bird_01.prop
+0xce3e4183 Webwaddle
+
+# CE_movement_bird_02.prop
+0xce3e4180 Backskritcher
+
+# CE_movement_bird_03.prop
+0xce3e4181 Elevatorclaws
+
+# CE_movement_bird_04.prop
+0xce3e4186 Raptorclaws
+
+# CE_movement_dino_01.prop
+0x7c830510 Stubbtoe
+
+# CE_movement_dino_02.prop
+0x7c830513 Scareclaw
+
+# CE_movement_dino_03.prop
+0x7c830512 The Clawman
+
+# CE_movement_dino_04.prop
+0x7c830515 Dirtchargers
+
+# CE_movement_fin_ventral_01.prop
+0x4e1ccaf8 Sporsalfin
+
+# CE_movement_fin_ventral_02.prop
+0x4e1ccafb Icky-osaur
+
+# CE_movement_fin_ventral_03.prop
+0x4e1ccafa Finneas
+
+# CE_movement_fin_ventral_04.prop
+0x4e1ccafd Pool Party-Foul
+
+# CE_movement_hoof_01.prop
+0xc5d43f60 Clippity
+
+# CE_movement_hoof_02.prop
+0xc5d43f63 Cloppity
+
+# CE_movement_hoof_03.prop
+0xc5d43f62 Hoppity
+
+# CE_movement_hoof_04.prop
+0xc5d43f65 Hippoty
+
+# CE_movement_insect_01.prop
+0x15d2288c Stumplestilt
+
+# CE_movement_insect_02.prop
+0x15d2288f Buckfoot
+
+# CE_movement_insect_03.prop
+0x15d2288e Slasherknight
+
+# CE_movement_insect_04.prop
+0x15d22889 Scarmaker
+
+# CE_movement_null.prop
+0x6b2c0771 movement null
+
+# CE_movement_paw_01.prop
+0x08504960 Twopaw
+
+# CE_movement_paw_02.prop
+0x08504963 Threepaw
+
+# CE_movement_paw_03.prop
+0x08504962 Fourpaw
+
+# CE_movement_paw_04.prop
+0x08504965 Morepaw
+
+# CE_movement_primate_01.prop
+0x540e5be4 Palmwalker
+
+# CE_movement_primate_02.prop
+0x540e5be7 Underhanded
+
+# CE_movement_primate_03.prop
+0x540e5be6 Hombrenid
+
+# CE_movement_primate_04.prop
+0x540e5be1 Sassyquatch
+
+# CE_movement_sucker_01.prop
+0x3b9d9561 Suctoped
+
+# CE_movement_sucker_02.prop
+0x3b9d9562 Sugerefoot
+
+# CE_movement_sucker_03.prop
+0x3b9d9563 Suctopod
+
+# CE_movement_sucker_04.prop
+0x3b9d9564 Suctofleur
+
+# CE_printablepad.prop
+0x7add0bb0 pad 01
+
+# CE_sense_antenna_01.prop
+0x63342e8c Mantenna
+
+# CE_sense_antenna_02.prop
+0x63342e8f Feelyfrond
+
+# CE_sense_antenna_03.prop
+0x63342e8e Segmentenna
+
+# CE_sense_antenna_04.prop
+0x63342e89 Ant-ler
+
+# CE_sense_ear_side_01.prop
+0xd6ade96b Hearbear
+
+# CE_sense_ear_side_02.prop
+0xd6ade968 Kitty
+
+# CE_sense_ear_side_03.prop
+0xd6ade969 Elfinmagick
+
+# CE_sense_ear_side_04.prop
+0xd6ade96e Gettineerful
+
+# CE_sense_ear_top_01.prop
+0xa245953f Ehhwot
+
+# CE_sense_ear_top_02.prop
+0xa245953c Overhear
+
+# CE_sense_ear_top_03.prop
+0xa245953d Panhear
+
+# CE_sense_ear_top_04.prop
+0xa245953a Batboy
+
+# CE_sense_eye_bug_01.prop
+0x26e995b3 LarvEye
+
+# CE_sense_eye_bug_02.prop
+0x26e995b0 Seeodesic
+
+# CE_sense_eye_bug_03.prop
+0x26e995b1 Eyelien
+
+# CE_sense_eye_bug_04.prop
+0x26e995b6 Stemma-addict
+# CE_sense_eye_dino_01.prop
+0x2ad38a4b Felizard
+
+# CE_sense_eye_dino_02.prop
+0x2ad38a48 Wizened
+
+# CE_sense_eye_dino_03.prop
+0x2ad38a49 Saurian
+
+# CE_sense_eye_dino_04.prop
+0x2ad38a4e Boneye
+
+# CE_sense_eye_mammal_01.prop
+0x6676e396 Coygamine
+
+# CE_sense_eye_mammal_02.prop
+0x6676e395 Grumpeye
+
+# CE_sense_eye_mammal_03.prop
+0x6676e394 Furtive
+
+# CE_sense_eye_mammal_04.prop
+0x6676e393 Evil Eye
+
+# CE_sense_eye_stalk_01.prop
+0x4f5b5462 Stalkgazer
+
+# CE_sense_eye_stalk_02.prop
+0x4f5b5461 Meanstalk
+
+# CE_sense_eye_stalk_03.prop
+0x4f5b5460 Periscoptic
+
+# CE_sense_eye_stalk_04.prop
+0x4f5b5467 Peduncledunk
+
+# CE_sense_eye_weird_01.prop
+0xbda70e38 Empteyes
+
+# CE_sense_eye_weird_02.prop
+0xbda70e3b Occulus
+
+# CE_sense_eye_weird_03.prop
+0xbda70e3a Wide Eyed
+
+# CE_sense_eye_weird_04.prop
+0xbda70e3d Neo-teeny
+
+# CE_sense_nose_01.prop
+0x06fa3d46 Sporacles
+
+# CE_sense_nose_02.prop
+0x06fa3d45 Chuffle
+
+# CE_sense_nose_03.prop
+0x06fa3d44 Snuffle
+
+# CE_sense_nose_04.prop
+0x06fa3d43 Snortle
+
+# CE_Vertebra.prop
+0xd05c53a3 Vertebra
+
+# CE_weapon_antler_01.prop
+0xd2f53e77 Pediculous
+
+# CE_weapon_antler_02.prop
+0xd2f53e74 Fawninatrix
+
+# CE_weapon_antler_03.prop
+0xd2f53e75 Ultramegadeer
+
+# CE_weapon_antler_04.prop
+0xd2f53e72 Elkegent
+
+# CE_weapon_club_01.prop
+0x44b1ede3 Maceball
+
+# CE_weapon_club_02.prop
+0x44b1ede0 Stessball
+
+# CE_weapon_club_03.prop
+0x44b1ede1 The Tauntlet
+
+# CE_weapon_club_04.prop
+0x44b1ede6 SlimSlam Kablam
+
+# CE_weapon_horn_01.prop
+0x386738f6 Keratinhorn
+
+# CE_weapon_horn_02.prop
+0x386738f5 Narwhalicorn
+
+# CE_weapon_horn_03.prop
+0x386738f4 Cornutopia
+
+# CE_weapon_horn_04.prop
+0x386738f3 Rammer
+
+# CE_weapon_range_liquid_01.prop
+0x65c80729 Gobstalker
+
+# CE_weapon_range_liquid_02.prop
+0x65c8072a Phlegmthrower
+
+# CE_weapon_range_liquid_03.prop
+0x65c8072b Problem-Solvent
+
+# CE_weapon_range_liquid_04.prop
+0x65c8072c Spraypalm
+
+# CE_weapon_range_solid_01.prop
+0x491748a4 Hockitlauncher
+
+# CE_weapon_range_solid_02.prop
+0x491748a7 Spraybuchet
+
+# CE_weapon_range_solid_03.prop
+0x491748a6 Ziggur-hat
+
+# CE_weapon_range_solid_04.prop
+0x491748a1 Porcupain
+
+# CE_weapon_slasher_01.prop
+0x2ec1c2f3 Scimitard
+
+# CE_weapon_slasher_02.prop
+0x2ec1c2f0 Toxic Telson
+
+# CE_weapon_slasher_03.prop
+0x2ec1c2f1 Reapermantis
+
+# CE_weapon_slasher_04.prop
+0x2ec1c2f6 Spurprise!
+
+# Limb_armInsect_01Assembly.prop
+0x601ede98 assembly arm insect
+
+# Limb_ArmLongAssembly.prop
+0x2eb428f0 Biped Limb
+
+# Limb_assemblyArm1.prop
+0x1b8319bf Ambidextrous Limbus
+
+# Limb_assemblyArm2.prop
+0x1b8319bc Muscular Limb
+
+# Limb_assemblyArm3.prop
+0x1b8319bd Curvus Limbus
+
+# Limb_assemblyLeg1.prop
+0x3732ee91 Quadraped Limb
+
+# Limb_assemblyLeg2.prop
+0x3732ee92 Contrarium Limbus
+
+# Limb_assemblyLeg3.prop
+0x3732ee93 leg needs name
+
+# Limb_assemblyLeg4.prop
+0x3732ee94 leg needs name
+
+# Limb_assemblyLeg5.prop
+0x3732ee95 leg needs name
+
+# Limb_assembly_alien_backleg.prop
+0x4ddfaaca Arched Limb
+
+# Limb_assembly_alien_backleg2.prop
+0x6119dbcc Tentacle Limb
+
+# Limb_assembly_animal_backleg.prop
+0x713e5379 Quadraped Limb
+
+# Limb_assembly_animal_frontleg.prop
+0xf3268ed5 Muscular Limb
+
+# Limb_Assembly_Basic.prop
+0xb9fb6afb Basic Limb Assembly
+
+# Limb_assembly_human_arm.prop
+0x8d777f89 Biped Limb
+
+# Limb_assembly_tentacle_front.prop
+0x6c56bded Scyphozoa Tentaculi
+
+# Limb_assembly_tentacle_mid.prop
+0xdb82732e Octopoda Tentaculi
+
+# Limb_Calf.prop
+0x2d85e9ba Calf Bone
+
+# Limb_ChubbyThigh.prop
+0xea2c987d chubby Thigh Stretchable
+
+# Limb_ForeArm.prop
+0xc07d1a70 ForeArm Bone
+
+# Limb_InsectThigh.prop
+0x220ff4dc Insect Thigh
+
+# Limb_legInsect_01Assembly.prop
+0xd7658046 assembly Leg Insect
+
+# Limb_legInsect_03Assembly.prop
+0x30cc1298 assembly leg insect 03
+
+# Limb_limbInsect_01Assembly.prop
+0x86b0dd6e assembly limb insect 02
+
+# Limb_limbInsect_02Assembly.prop
+0xa7ce4369 assembly limb insect 03
+
+# Limb_MiddleArm.prop
+0x26bb42c7 MiddleArm Bone
+
+# Limb_MiddleLeg.prop
+0x35c6935d MiddleLeg Bone
+
+# Limb_pelvicAssembly.prop
+0xd28de7ff Pelvic Limbus
+
+# Limb_pelvicAssembly_model.prop
+0x215d9651 assembly leg model rump
+
+# Limb_pelvic_small.prop
+0x496ca147 pelvic limb small
+
+# Limb_pelvic_smallNew.prop
+0xd621ad4b pelvic limb small
+
+# Limb_plain.prop
+0xdf9d470c plain limb
+
+# Limb_plainNew.prop
+0xf8aa5936 plain limb
+
+# Limb_plain_bowed.prop
+0xf1dd153a plain bowed limb
+
+# Limb_plain_bowedNew.prop
+0x604637a8 plain bowed limb
+
+# Limb_Shoulder.prop
+0xd319df08 Shoulder Bone
+
+# Limb_skinnyMidLeg.prop
+0x59c5e8a6 Skinny Thigh Stretchable
+
+# Limb_skinnyThigh.prop
+0x2024c394 Skinny Thigh Stretchable
+
+# Limb_skinnyThigh1.prop
+0x2ddfe1cd Skinny1 Thigh Stretchable
+
+# Limb_skinnyThigh2.prop
+0x2ddfe1ce Skinny2 Thigh Stretchable
+
+# Limb_skinnyThigh3.prop
+0x2ddfe1cf Skinny3 Thigh Stretchable
+
+# Limb_StretchBone.prop
+0x3d312eed Stretchable Bone
+
+# Limb_tentacle_01Assembly.prop
+0xd372f1e4 assembly tentacle
+
+# Limb_Thigh.prop
+0xbaef1840 Thigh Bone
+
+# Limb_thoracicAssembly.prop
+0x9876d56b Thoracic Limbus
+
+# Limb_UberLimb.prop
+0xa9946d00 human Thigh
+
+# Limb_UberLimbNew.prop
+0xdec3c22a human Thigh
+
+# Limb_UberLimb_bicep.prop
+0x749e3248 human bicep
+
+# Limb_UberLimb_bicepNew.prop
+0xbcdd7052 human bicep
+
+# Limb_UberLimb_calf.prop
+0x5971cf21 human calf
+
+# Limb_UberLimb_calfNew.prop
+0x33fccc91 human calf
+
+# Limb_UberLimb_forearm.prop
+0x9199c94d human forearm
+
+# Limb_UberLimb_forearmNew.prop
+0x2051ae2d human forearm
+
+# Limb_uprightAssembly.prop
+0x33463b6f Biped Limb
+
+# SimpleUVdCube_SporeTangentShader.prop
+0x0ac0fa01 SimpleUVdCube_SporeTangentShader
+
+# CE_grasper_default_01.prop
+0x0df11468 Bulbous Fingers
+
+# CE_mouth_beak_herbivore_04_dan.prop
+0x3731c0c9 Ridged Bill
+
+# CE_movement_default_01.prop
+0x7f815c91 Pads
+
+# Limb_assembly_x_arm_01.prop
+0xc432e4b0 Meekling
+
+# Limb_assembly_x_arm_02.prop
+0xc432e4b3 Deltroid
+
+# Limb_assembly_x_arm_03.prop
+0xc432e4b2 Doubelbow
+
+# Limb_assembly_x_arm_04.prop
+0xc432e4b5 Cutty
+
+# Limb_assembly_x_arm_05.prop
+0xc432e4b4 Skrappy
+
+# Limb_assembly_x_arm_06.prop
+0xc432e4b7 Cutty
+
+# Limb_assembly_x_arm_07.prop
+0xc432e4b6 Gunnshow
+
+# Limb_assembly_x_arm_08.prop
+0xc432e4b9 Slackwrist
+
+# Limb_assembly_x_arm_09.prop
+0xc432e4b8 Python
+
+# Limb_assembly_x_arm_10.prop
+0xc332e2de Bulgo
+
+# Limb_assembly_x_arm_11.prop
+0xc332e2df Flextor
+
+# Limb_assembly_x_arm_12.prop
+0xc332e2dc Burly
+
+# Limb_assembly_x_arm_13.prop
+0xc332e2dd Wizardsleeve
+
+# Limb_assembly_x_arm_14.prop
+0xc332e2da arm 01
+
+# Limb_assembly_x_leg_01.prop
+0x4552678e Thundercalf
+
+# Limb_assembly_x_leg_02.prop
+0x4552678d Broncosaurus
+
+# Limb_assembly_x_leg_03.prop
+0x4552678c Thighstrider
+
+# Limb_assembly_x_leg_04.prop
+0x4552678b Calfinated
+
+# Limb_assembly_x_leg_05.prop
+0x4552678a Stompbottom
+
+# Limb_assembly_x_leg_06.prop
+0x45526789 Qopazcoatl
+
+# Limb_assembly_x_leg_07.prop
+0x45526788 Yumstick
+
+# Limb_assembly_x_leg_08.prop
+0x45526787 Cankle
+
+# Limb_assembly_x_leg_09.prop
+0x45526786 Brawnysaurus
+
+# Limb_assembly_x_leg_10.prop
+0x4452661c Steatopiggy
+
+# Limb_assembly_x_leg_11.prop
+0x4452661d Phatella
+
+# Limb_assembly_x_leg_12.prop
+0x4452661e Callypigeon
+
+# Limb_assembly_x_leg_13.prop
+0x4452661f Matchstick
+
+# Limb_assembly_x_leg_14.prop
+0x44526618 Ostrichopath
+
+# CE_sense_eye_simple_01.prop
+0x4b1ae659 Optic Orb
+
+# CE_sense_eye_simple_02.prop
+0x4b1ae65a Ocubulge
+
+# CE_sense_eye_simple_03.prop
+0x4b1ae65b Eyebissed
+
+# CE_sense_eye_simple_04.prop
+0x4b1ae65c Scrutineye 

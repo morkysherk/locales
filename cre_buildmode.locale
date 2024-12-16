@@ -1,0 +1,136 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Build Mode
+
+0x00000021 ~guide: -h3~ Parts Palette
+
+0x00000031 ~guide: -h2~ The creature Parts Palette is on the left of the screen when you enter the Creature Creator.  There are several categories of parts; mouths, senses, limb etc.  Select the part category tab that you want to see all of the parts in that group.
+
+0x00000041 ~guide: -h3~ Unlocking Parts
+
+0x00000051 ~guide: -h2~ During the Creature Stage you will start with a set of parts available to you based on your actions as a cell.  Each new part that you discover and collect will unlock in the Creature Creator and you can elect to add these parts when you decide to evolve your creature.
+
+0x00000061 ~guide: -h3~ Selecting and Adding Parts
+
+0x00000071 ~guide: -h2~ To select a part click on it in the parts palette and then drag it from the palette onto your creature and position it where you want it.
+
+0x00000081 ~guide: -h3~ Removing Parts
+
+0x00000091 ~guide: -h2~ You can remove parts as well as add them to your creature.  Just click on the part you wish to remove, hold the Left Mouse Button and drag the part off of your cell, or click the backspace key on your keyboard to remove the part.  You will get the DNA point value of that part added back to your DNA budget.
+
+0x00000092 ~guide: -h1~ Modifying Parts
+
+0x000000a1 ~guide: -h3~ Editing Parts With Handles
+
+0x000000b1 ~guide: -h2~ Click a part on your creature to reveal handles that let you manipulate just that part.
+
+0x000000c1 ~guide: -h3~ Parts Controls
+
+0x000000d1 ~guide: -bullet~ Adjustment Arrow: Change a part's height, width, length, or curl. Just pull and see what it does.
+
+0x000000e1 ~guide: -bullet~ Position Ball: Reposition parts or, in the case of horns, antlers, etc., change the direction they face
+
+0x000000f1 ~guide: -bullet~ Rotation Ring: Rotate parts
+
+0x000000f2 ~guide: -h3~ Scaling Parts
+
+0x000000f3 ~guide: -h4~ To increase or decrease the size of a part that you have added to your creature,
+
+0x000000f4 ~guide: -bullet~ select the part by clicking on it.
+
+0x000000f5 ~guide: -bullet~ scroll the mouse wheel or use the up or down arrow to scale that part.
+
+0x00000121 ~guide: -h1~ Cloning Parts
+
+0x00000131 ~guide: -h2~ To copy a part that you have already added to your creature, click on that part while holding down the ALT key on your keyboard, then drag the copy to another spot on your creature.  You will be charged DNA points for these copies.
+
+0x00000141 ~guide: -h1~ Shaping the Torso
+
+0x00000151 ~guide: -h3~ Torso
+
+0x00000161 ~guide: -bullet~ Move your mouse over your creature's torso to reveal its spine.
+
+0x00000171 ~guide: -bullet~ Highlight an individual vertebra by mousing over it.
+
+0x00000181 ~guide: -bullet~ Scroll the mouse wheel or using the up or down arrow on your keyboard to increase or decrease the size of the torso at that vertebra.
+
+0x00000191 ~guide: -bullet~ Click and hold the Left Mouse Button on that vertebra to bend the spine at that point.
+
+0x000001e1 ~guide: -h1~ Add Length to the Spine
+
+0x000001f1 ~guide: -h2~ Move your mouse over the torso to reveal the creature's spine.  Click the torso, you will see arrows appear at both ends of the spine.  Click either arrow and drag outward to add vertebrae or inward to delete vertebrae.
+
+0x00000201 ~guide: -h2~ NOTE: If you shorten your creature's spine (and therefore, body) once it has body parts, you may notice one or more body parts that turn red. This indicates that you are unable to shorten the spine that much because the parts "live" on that section of the body.
+
+0x00000211 ~guide: -h3~ Bending the body
+
+0x00000221 ~guide: -h2~ To bend the spine, click and drag an individual vertebra. The best method is to go vertebra by vertebra making small adjustments.
+
+0x00000231 ~guide: -h1~ Limbs
+
+0x00000241 ~guide: -image-left-h3 0x100d977c!button-limbs-norm.png~ Editing Limbs
+
+0x00000251 ~guide: -h2~ On limbs, the joints act as position balls, you can move them around or scale them.  Rotating your creature to face you can make it easier to manipulate the limbs.   Move limbs back and forth with the creature facing sideways to you, move limbs up and down with the creature facing toward or away from you. At times it may be necessary to move your creature's torso up a little to make room for limbs.  Just click and hold the Left Mouse Button on your creature's torso area and move the torso to the position you wish.
+
+0x00000261 ~guide: -h3~ Adding Graspers or Feet
+
+0x00000271 ~guide: -h2~ The end of a limb is the only spot on a creature where you can place a foot or a grasper.   Each limb comes with a starter foot or grasper, you can replace these by simply adding a new foot or grasper in its place.
+
+0x00000281 ~guide: -h1~ Access Advanced Part Handles
+
+0x00000291 ~guide: -h2~ You can access more part handles once you have a part on your creature by selecting that part and holding down the tab key while you select a part.  You'll see additional part handles that let you control the placement of each part to a greater extent.
+
+0x000002c1 ~guide: -h3~ Advanced Limbs Controls
+
+0x000002d1 ~guide: -bullet~ Hold the  CTRL key and click between two joints of a limb to remove a section (you can't remove the shoulder or hip segment).
+
+0x000002d2 ~guide: -bullet~ Hold the CTRL key and drag a new limb to join it to the remaining joints of the other limb.
+
+0x000002e1 ~guide: -h1~ Complexity and Budget
+
+0x000002f1 ~guide: -h3~ Complexity Meter
+
+0x00000301 ~guide: -image-left 0x05556b31!complexitymeter.png~ 
+
+0x00000311 ~guide: -h2~ The complexity meter measures the complexity of your creature's anatomy.
+
+0x00000321 ~guide: -h2~ If your creature becomes overly complex, you will not be able to add any more parts.
+
+0x00000331 ~guide: -h3~ The DNA Budget
+
+0x00000341 ~guide: -h2~ Each part you put on your creature costs DNA points.
+
+0x00000351 ~guide: -h2~ Once you run out of points to spend, you will not be able to add any more parts.
+
+0x00000361 ~guide: -h1~ Creature Abilities
+
+0x00000371 ~guide: -h2~ Each part you add to your creature advances your creature's abilities.  The rollover information on each part gives you details about what abilities each part delivers.
+
+0x00000381 ~guide: -h3~ Creature Abilities Summary
+
+0x00000391 ~guide: -h2~ The sum of your creature's abilities can be seen in the upper right corner in the abilities summary area.  You can click on any of the ability buttons to get a quick preview of your creature performing that ability.
+
+0x000003a1 ~guide: -h3~ Abilities
+
+0x000003b1 ~guide: -h2~ Displays abilities such as; call, sneak, jump, or glide and what level they are.
+
+0x000003c1 ~guide: -h4~ Combat
+
+0x000003d1 ~guide: -h2~ Displays your creature's attack abilities and what level they are.
+
+0x000003e1 ~guide: -h4~ Social
+
+0x000003f1 ~guide: -h2~ Displays your creature's social abilities and what level they are.
+
+0x00000401 ~guide: -h4~ Speed
+
+0x00000411 ~guide: -h2~ Displays your creature's speed level.
+
+0x00000421 ~guide: -h4~ Health
+
+0x00000431 ~guide: -h2~ Displays how much health your creature has.  The higher the number, the more hits your creature can take in battle before dying.
+
+0x00000441 ~guide: -h4~ Diet
+
+0x00000451 ~guide: -h2~ Your evolutionary history as a cell has set in stone whether you will survive by a carnivorous, herbivorous or omnivorous diet. The mouth types available to you in the Creature Creator will only be those which support your diet.
+
+0x00000461 ~guide: -h2~ Note:  If you entered the Creature Creator from the Create option, you will be able to choose the mouth and diet of your creature.
+

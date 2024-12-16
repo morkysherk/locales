@@ -1,0 +1,57 @@
+﻿0x00000011 ~guide: -h1~ Welcome to the Cell Creator
+
+0x00000021 ~guide: -h2~ As you play through the Cell Stage of Spore you will discover and collect parts and earn DNA points by eating.  The Cell Creator is where you can spend those DNA points on the parts you have collected to evolve your cell. Parts increase your cell's abilities.  You can also change your colors and shape. Enter the Cell Creator at any time by calling a mate, and clicking on it to initiate laying an egg.
+
+0x00000031 ~guide: -h3~ The Cell Creator Modes
+
+0x00000041 ~guide: -image-left 0x05556b31!piemenu-button-edit-norm2.png~ Build Mode - where you add parts and change the shape of your cell.
+
+0x00000051 ~guide: -image-left 0x05556b31!button_mode-paint-norm.png~ Paint Mode - where you change the style and color of your cell.
+
+0x00000061 ~guide: -h2~ Each time you enter the Cell Creator you will begin in Build Mode.
+
+0x00000071 ~guide: -h3~ Some Essentials
+
+0x00000081 ~guide: -bullet~ Your cell is pointing toward the arrow on the dais.  When putting on mouths, it is best to put them on the front of your cell.
+
+0x00000091 ~guide: -bullet~ To change between Build Mode and Paint Mode, click on the mode buttons positioned at the top center of your game screen.
+
+0x000000a1 ~guide: -bullet~ Two things every cell needs before you can save and exit the Cell Creator: a mouth, and a name.
+
+0x000000b1 ~guide: -h1~ Controls
+
+0x000000c1 ~guide: -h3~ Camera Controls
+
+0x000000d1 ~guide: -h4~ Camera Rotate
+
+0x000000e1 ~guide: -image-left 0x05556b31!rotate1.png~ The rotate buttons rotate the camera around your cell
+
+0x000000f1 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera around the cell
+
+0x00000101 ~guide: -bullet~ Or, hold any mouse button and drag on the background to rotate
+
+0x00000111 ~guide: -h4~ Camera Zoom
+
+0x00000121 ~guide: -image-left 0x05556b31!zoom1.png~ Zooms the camera in and out
+
+0x00000131 ~guide: -bullet~ Hold down the Shift key and scroll the middle mouse wheel to zoom in and out
+
+0x00000141 ~guide: -bullet~ Or, hold the + and - keys to zoom in and out
+
+0x00000161 ~guide: -h3~ Undo/Redo
+
+0x00000171 ~guide: -image-left 0x05556b31!CE_button-undo-redo.png~ You can undo or redo any action or series of actions you take using the undo or redo buttons.
+
+0x00000181 ~guide: -h1~ Name and Describe your Cell
+
+0x00000191 ~guide: -h2~ Don't let your cell go out into the world without a name! Click 'Name Your Cell' to give it a name and  a quick bio!
+
+0x000001a1 ~guide: -h1~ Saving Cells
+
+0x000001b1 ~guide: -h2~ Click the green check mark when you have finished evolving your Cell.
+
+0x000001c1 ~guide: -bullet~ If you entered the Cell Creator from the tide pool, you will return to the Cell Stage to play and evolve some more.
+
+0x000001d1 ~guide: -h1~ Cancel
+
+0x000001e1 ~guide: -h2~ If you don't want any of the modifications you have made in the Cell Creator to be used, click on the Cancel button.  Your cell will return to the tide pool in its previous state of evolution.

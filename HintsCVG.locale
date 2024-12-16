@@ -1,0 +1,68 @@
+﻿
+# cvg-buyunit.prop      
+0x5f673569 DEAD STRING
+
+# cvg-camrotate.prop
+0x78902403 Hold the left and right mouse buttons at the same time to pitch and rotate the camera
+0x069c5fae Hold Command, Option and Left Mouse Button to pitch and rotate the camera
+
+# cvg-camtranslate.prop
+0x0e55eca8 Use the arrow keys to pan the camera
+
+# cvg-camzoom.prop
+0xa3c7ad83 Use your mouse wheel or the +/- keys to zoom the camera
+
+# cvg-cityattacked.prop
+0xc41056c9 One of your cities is under attack
+
+# cvg-comm.prop
+0x8502ddaf DEAD STRING
+
+# cvg-communityeditortooexpensive.prop
+0x1ec695fc You cannot afford that item 
+
+# cvg-economic.prop
+0xa19e6a9e With a vehicle selected, right click on a friendly city hall to propose a trade route
+
+# cvg-harvester.prop
+0x3b6a5acd DEAD STRING
+
+# cvg-healvehicle.prop
+0x8364c1a1 Move your damaged vehicles near one of your cities to repair them
+
+# cvg-military.prop
+0x93cbc498 With a vehicle selected, click on an opposing city with the right mouse button to attack
+
+# cvg-mine.prop     CURRENTLY NOT USED  04/16/2008
+0xf2d69920 Click on a spice geyser to mine spice
+
+# cvg-moveunit.prop
+0xcf4b9704 With a vehicle selected, right click on a location to move to that spot
+
+# cvg-nodeattacked.prop
+0x1a698b62 A spice geyser is under attack [REMOVE]
+
+# cvg-plannerbuildings.prop
+0x44f8d3ca Click on the City Planner button to expand your city with more buildings 
+
+# cvg-plannervehicles.prop
+0xb8efa0c2 Click on your city hall button to buy more vehicles {REMOVE}
+
+# cvg-purchasecity.prop
+0x6da3c46b A city is now available for purchase {REMOVE SHOULD BE EVENT LOG)
+
+# cvg-religious.prop
+0xb753ce34 With a vehicle selected, right click on an opposing city to convert it
+
+# cvg-selectunit.prop
+0x9c85ff01 Click on your vehicle with the left mouse button or drag a box around it to select it
+
+# cvg-techlevelupgrade.prop
+0xb5867cf5 DEAD STRING
+
+# cvg-transitiontospace.prop
+0xba7836a3 DEAD STRING
+
+# cvg-cityunhappy.prop
+0x063a8471 Your city is unhappy.  Open the City Planner to add, sell, or rearrange buildings
+

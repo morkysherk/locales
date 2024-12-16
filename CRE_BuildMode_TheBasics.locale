@@ -1,0 +1,70 @@
+﻿0x00000011 ~guide: -h1~ Welcome to the Creature Creator
+
+0x00000021 ~guide: -h2~ As you play through the Creature Stage of Spore you will discover and collect parts and earn DNA points by eating.  The Creature Creator is where to go to evolve your creature. You can add parts to increase your creatures' abilities, change your colors and even your shape.  You can enter the Creature Creator at any time by finding a mate among your nest mates and interacting with them.
+
+0x00000031 ~guide: -h1~ The Creature Creator Modes
+
+0x00000041 ~guide: -image-left 0x05556b31!piemenu-button-edit-norm2.png~ Build Mode - where you add parts and change the shape of your creature.
+
+0x00000051 ~guide: -image-left 0x05556b31!button_mode-paint-norm.png~ Paint Mode - where you change the style and color of your creature.
+
+0x00000061 ~guide: -image-left 0x05556b31!button_mode-play-norm.png~ Test Drive - where you can take your creature for a spin, take pictures of it, send postcards to friends and more...
+
+0x00000071 ~guide: -h2~ Each time you enter the Creature Creator you will begin in Build Mode.
+
+0x00000081 ~guide: -h3~ Some Essentials
+
+0x00000091 ~guide: -bullet~ It is important to know which direction your creature is facing.  The front of your creature is pointing toward the arrow on the dais.
+
+0x000000a1 ~guide: -bullet~ To change between the three creator modes, click on the buttons positioned at the top center of the Creator screen.
+
+0x000000b1 ~guide: -bullet~ Two things every creature needs before you can save and leave the Creature Creator; a mouth, and a name.
+
+0x000000c1 ~guide: -h1~ Camera Controls
+
+0x000000d1 ~guide: -h3~ Camera Rotate
+
+0x000000e1 ~guide: -image-left 0x05556b31!rotate1.png~ The rotate buttons rotate the camera around your creature
+
+0x000000f1 ~guide: -bullet~ Or, hold any mouse button and drag on the background to rotate
+
+0x00000101 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera
+
+0x00000111 ~guide: -h3~ Camera Zoom
+
+0x00000121 ~guide: -image-left 0x05556b31!zoom1.png~ Zooms the camera in and out
+
+0x00000131 ~guide: -bullet~ Or, hold down the Shift key and scroll the middle mouse wheel to zoom in and out
+
+0x00000141 ~guide: -bullet~ The + and - keys also zoom in and out
+
+0x00000151 ~guide: -h3~ Undo/Redo
+
+0x00000161 ~guide: -image-left 0x05556b31!CE_button-undo-redo.png~ You can undo or redo any action or series of actions you take using the undo or redo buttons.
+
+0x00000171 ~guide: -h1~ Name and Describe
+
+0x00000181 ~guide: -h2~ Don't let your creature go out into the world without a name! Click 'Name Your Creature' to give it a name and then give it a quick bio as well as tags for sharing.
+
+0x00000191 ~guide: -h1~ Saving Creatures
+
+0x000001a1 ~guide: -h2~ Click the green check mark, save and exit,  when you have finished evolving your Creature.
+
+0x000001b1 ~guide: -bullet~ If you entered the Creature Creator from the Creature Stage, you will return to hatch at your nest, learn to use your new abilities, and continue to play and evolve some more.
+
+0x000001c1 ~guide: -bullet~ If you entered the Creature Creator from the Create option, Save and Exit will take you to the Sporepedia.
+
+0x000001d1 ~guide: -h1~ Cancel
+
+0x000001e1 ~guide: -h2~ If you don't want any of the modifications you have made in the Creature Creator to be used.  Click on the Cancel button.  Your creature will return to its nest in its previous state of evolution.
+
+0x000001f1 ~guide: -h1~ Additional Options
+
+0x00000201 ~guide: -h2~ If you entered the Creature Creator from the Create options you will have a few additional options.
+
+0x00000211 ~guide: -bullet~ New Creation - this button will toggle through alternate torso shapes.
+
+0x00000221 ~guide: -bullet~ Save - this allows you to save a work in progress.  It will not exit the Creature Creator.
+
+0x00000231 ~guide: -bullet~ Share - After you save a Creature, you can click this button to send it to the Spore servers and share your creation with other Spore players.
+

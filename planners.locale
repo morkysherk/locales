@@ -1,0 +1,181 @@
+﻿# Civ Legend Text
+0x06675640 City Legend
+0x06675641 Blue links increase the city’s income. Green links increase the city's happiness, red links decrease happiness, white links are neutral.
+
+# Space Legend Text
+0x06675642 Colony Legend
+0x06675643 Blue links increase the colony’s spice production. Green links increase the colony's happiness, red links decrease happiness, white links are neutral.
+
+# Colony Terraform Value
+0x062768f8 ~terraform_level~
+
+# Income text
+0x06258eb9 Income: +~civ_income~/min
+0x0653ea92 +~city_income~/min
+0x068c71fb +~city_income~/hour
+
+# Tribe tool category labels
+0x056e8be4 Food and Healing
+0x056e8be5 Instruments
+0x056e8be6 Weapons
+
+# Tooltips for the building swatch
+0x04a50266 Design your building (TEMP)
+0x04a50267 Design a new building
+0x04a50268 Modify this building
+0x04a50269 Choose a building from the catalog
+
+# houses
+0x00000001 Design a new house!  ~br~Increases city population and vehicle cap.
+0x00000002 Create Your Own
+0x00000003 Modify
+0x00000004 Select
+
+# entertainment
+0x10000001 Design a new entertainment building! ~br~Increases happiness which protects against religious attacks.
+0x10000002 Create Your Own
+0x10000003 Modify
+0x10000004 Select
+
+# factory
+0x20000001 Design a new factory! ~br~Increases income but lowers happiness.
+0x20000002 Create Your Own
+0x20000003 Modify
+0x20000004 Select
+
+# city hall
+0x30000002 Create Your Own
+0x30000003 Modify
+0x30000004 Select
+
+#####################
+
+# Tooltips for the vehicle swatch
+0x04a505a2 Create your vehicle (TEMP)
+0x04a505a3 Create a new vehicle
+0x04a505a4 Modify
+0x04a505a5 Select
+
+# harvester
+0xA0000001 Design your harvester!
+0xA0000002 Design a new harvester.
+0xA0000003 Modify your harvester.
+0xA0000004 Choose a harvester from the catalog.
+
+
+
+# air-cultural
+0x01000001 Create or select your religious vehicle!
+0x01000002 Create Your Own
+0x01000003 Modify
+0x01000004 Select
+
+# air-military
+0x02000001 Create or select your military vehicle!
+0x02000002 Create Your Own
+0x02000003 Modify
+0x02000004 Select
+
+# air-diplo
+0x03000001 Create or select your economic vehicle!
+0x03000002 Create Your Own
+0x03000003 Modify
+0x03000004 Select
+
+# air-economic
+0x04000001 Create or select your economic vehicle!
+0x04000002 Create Your Own
+0x04000003 Modify
+0x04000004 Select
+
+
+
+# land-cultural
+0x11000001 Create or select your religious vehicle!
+0x11000002 Create Your Own
+0x11000003 Modify
+0x11000004 Select
+
+# land-military
+0x12000001 Create or select your military vehicle!
+0x12000002 Create Your Own
+0x12000003 Modify
+0x12000004 Select
+
+# land-diplo
+0x13000001 Create or select your economic vehicle!
+0x13000002 Create Your Own
+0x13000003 Modify
+0x13000004 Select
+
+# land-economic
+0x14000001 Create or select your economic vehicle!
+0x14000002 Create Your Own
+0x14000003 Modify
+0x14000004 Select
+
+
+# sea-cultural
+0x21000001 Create or select your religious vehicle!
+0x21000002 Create Your Own
+0x21000003 Modify
+0x21000004 Select
+
+# sea-military
+0x22000001 Create or select your military vehicle!
+0x22000002 Create Your Own
+0x22000003 Modify
+0x22000004 Select
+
+# sea-diplo
+0x23000001 Create or select your economic vehicle!
+0x23000002 Create Your Own
+0x23000003 Modify
+0x23000004 Select
+
+# sea-economic
+0x24000001 Create or select your economic vehicle!
+0x24000002 Create Your Own
+0x24000003 Modify
+0x24000004 Select
+
+# colony-land
+0x32000001 Create or select your colony land vehicle!
+0x32000002 Create Your Own
+0x32000003 Modify
+0x32000004 Select
+
+# colony-sea
+0x33000001 Create or select your colony sea vehicle!
+0x33000002 Create Your Own
+0x33000003 Modify
+0x33000004 Select
+
+# colony-air
+0x34000001 Create or select your colony air vehicle!
+0x34000002 Create Your Own
+0x34000003 Modify
+0x34000004 Select
+
+# colony vehicles
+0x35000001 Colonies manage vehicle purchase as they grow.
+0x35000002 Create a new colony vehicle.
+
+# ufo
+0x31000001 Design your spaceship!
+0x31000002 Create Your Own
+0x31000003 Modify
+0x31000004 Select
+0x31000005 Gain control of all 12 cities on the planet to invent a space vessel!
+0x31000006 Spaceships are great for flying about the galaxy.
+
+#########################################################
+
+# Naming Prompts
+
+# City naming
+0x40000001 City Name
+0x40000002 Colony Name
+
+# Common UI
+0x40000010 Sell For 

@@ -1,0 +1,693 @@
+﻿# BE_classic_01.prop
+0xcce7e453 Barn Roof
+
+# BE_classic_02.prop
+0xcce7e450 Civic Roof
+
+# BE_classic_03.prop
+0xcce7e451 Tower Roof
+
+# BE_classic_04.prop
+0xcce7e456 Dome Roof
+
+# BE_classic_05.prop
+0xcce7e457 Cubicle
+
+# BE_classic_06.prop
+0xcce7e454 Columnar
+
+# BE_classic_07.prop
+0xcce7e455 Octo-cottage
+
+# BE_classic_08.prop
+0xcce7e45a Candominium
+
+# BE_classic_09.prop
+0xcce7e45b classic 09
+
+# BE_classic_10.prop
+0xcde7e5c5 classic 10
+
+# BE_classic_11.prop
+0xcde7e5c4 classic 11
+
+# BE_classic_12.prop
+0xcde7e5c7 classic 12
+
+# BE_classic_13.prop
+0xcde7e5c6 Glazier Box
+
+# BE_classic_14.prop
+0xcde7e5c1 Beveled Bay
+
+# BE_classic_15.prop
+0xcde7e5c0 Porthole
+
+# BE_classic_16.prop
+0xcde7e5c3 New Colonial
+
+# BE_classic_17.prop
+0xcde7e5c2 Double Doors
+
+# BE_classic_18.prop
+0xcde7e5cd Civics Lesson
+
+# BE_classic_19.prop
+0xcde7e5cc Double-Deco
+
+# BE_classic_20.prop
+0xcae7e10c Lancet Columns
+
+# BE_classic_21.prop
+0xcae7e10d classic 21
+
+# BE_classic_22.prop
+0xcae7e10e classic 22
+
+# BE_fortress_01.prop
+0x6a3842c7 Narva Roof
+
+# BE_fortress_02.prop
+0x6a3842c4 Ivangorod Roof
+
+# BE_fortress_03.prop
+0x6a3842c5 Merlon Roof
+
+# BE_fortress_04.prop
+0x6a3842c2 Drum Roof
+
+# BE_fortress_05.prop
+0x6a3842c3 Buttresshead
+
+# BE_fortress_06.prop
+0x6a3842c0 Castle Ramparts
+
+# BE_fortress_07.prop
+0x6a3842c1 Archway
+
+# BE_fortress_08.prop
+0x6a3842ce Octo-Tower
+
+# BE_fortress_09.prop
+0x6a3842cf Cobbled Portal
+
+# BE_fortress_10.prop
+0x6b3844b9 Machicolation
+
+# BE_fortress_11.prop
+0x6b3844b8 Muntin
+
+# BE_fortress_12.prop
+0x6b3844bb Spoorish Lancet
+
+# BE_fortress_13.prop
+0x6b3844ba Sci-Fi Slider
+
+# BE_fortress_14.prop
+0x6b3844bd Cobbled Gate
+
+# BE_fortress_15.prop
+0x6b3844bc Drawbridge
+
+# BE_fortress_16.prop
+0x6b3844bf Portcullis
+
+# BE_organic_fun_01.prop
+0x60bdd174 Bubble Fab
+
+# BE_organic_fun_02.prop
+0x60bdd177 Bachelor Vat
+
+# BE_organic_fun_03.prop
+0x60bdd176 Octo-Lashings
+
+# BE_organic_fun_04.prop
+0x60bdd171 Thinkin' Logs
+
+# BE_organic_fun_05.prop
+0x60bdd170 Arched Hut Door
+
+# BE_organic_fun_06.prop
+0x60bdd173 Lashed Entrance
+
+# BE_organic_fun_07.prop
+0x60bdd172 Leather Roof
+
+# BE_organic_fun_08.prop
+0x60bdd17d Stretched Tarp
+
+# BE_organic_fun_09.prop
+0x60bdd17c Wishbone Pane
+
+# BE_organic_fun_10.prop
+0x5fbdcf82 Hearth Hole
+
+# BE_organic_fun_11.prop
+0x5fbdcf83 Domed Ledge
+
+# BE_organic_fun_12.prop
+0x5fbdcf80 Cream Topping
+
+# BE_organic_fun_13.prop
+0x5fbdcf81 Berry Roof
+
+# BE_organic_fun_14.prop
+0x5fbdcf86 Amoebic Outlook
+
+# BE_organic_fun_15.prop
+0x5fbdcf87 Bio Window
+
+# BE_organic_fun_16.prop
+0x5fbdcf84 Tree Fort
+
+# BE_Platonic_01.prop
+0xaf877f21 Pyramid
+
+# BE_Platonic_02.prop
+0xaf877f22 Bivouac
+
+# BE_Platonic_03.prop
+0xaf877f23 Top Cap
+
+# BE_Platonic_04.prop
+0xaf877f24 Buckyhome
+
+# BE_Platonic_05.prop
+0xaf877f25 Building Block
+
+# BE_Platonic_06.prop
+0xaf877f26 Tube Cabin
+
+# BE_Platonic_07.prop
+0xaf877f27 Octa-roost
+
+# BE_Platonic_08.prop
+0xaf877f28 Dollop Habitat
+
+# BE_scary_01.prop
+0x6955a1b3 Scare-itecture
+
+# BE_scary_02.prop
+0x6955a1b0 Bristly Abode
+
+# BE_scary_03.prop
+0x6955a1b1 Bungle-oh!
+
+# BE_scary_04.prop
+0x6955a1b6 The Haunt
+
+# BE_scary_05.prop
+0x6955a1b7 Yagura Roof
+
+# BE_scary_06.prop
+0x6955a1b4 Mempo Roof
+
+# BE_scary_07.prop
+0x6955a1b5 Kabuto Roof
+
+# BE_scary_08.prop
+0x6955a1ba Himeji Roof
+
+# BE_scary_09.prop
+0x6955a1bb Terror Nook
+
+# BE_scary_10.prop
+0x6a55a325 Horned Portal
+
+# BE_scary_11.prop
+0x6a55a324 Aperture
+
+# BE_scary_12.prop
+0x6a55a327 Egress
+
+# BE_scary_13.prop
+0x6a55a326 Fang Porthole
+
+# BE_scary_14.prop
+0x6a55a321 Trophy Porthole
+
+# BE_scary_15.prop
+0x6a55a320 Gaping Maw
+
+# BE_scary_16.prop
+0x6a55a323 Portal Nostrils
+
+# BE_tech_01.prop
+0xd86e4605 Futuro
+
+# BE_tech_01x.prop
+0xba9839a7 Tech 01
+
+# BE_tech_02.prop
+0xd86e4606 Deco-Toaster
+
+# BE_tech_03.prop
+0xd86e4607 Maxx Ramparts
+
+# BE_tech_04.prop
+0xd86e4600 Concentricle
+
+# BE_tech_05.prop
+0xd86e4601 Cake Top Roof
+
+# BE_tech_06.prop
+0xd86e4602 Balboa Roof
+
+# BE_tech_07.prop
+0xd86e4603 Van Alen Roof
+
+# BE_tech_08.prop
+0xd86e460c Gehry Roof
+
+# BE_tech_09.prop
+0xd86e460d Escape Hatch
+
+# BE_tech_10.prop
+0xd96e47f7 Pressure Hatch
+
+# BE_tech_11.prop
+0xd96e47f6 Irising Opening
+
+# BE_tech_12.prop
+0xd96e47f5 Pod Bay Doors
+
+# BE_tech_13.prop
+0xd96e47f4 Vacuum Porthole
+
+# BE_tech_14.prop
+0xd96e47f3 Bolted Porthole
+
+# BE_tech_15.prop
+0xd96e47f2 Window Flaps
+
+# BE_tech_16.prop
+0xd96e47f1 Polygon Window
+
+# BE_Details_Awning_04.prop
+0xe9fabef5 Hive Cover
+
+# BE_Details_Balcony_01.prop
+0xf242d152 Raw Demagogue
+
+# BE_Detail_Chimney_01.prop
+0x058d8169 Soot Belcher
+
+# BE_Details_Greeble_02.prop
+0xf54f583d Power Converter
+
+# BE_Details_Light_04.prop
+0x6c001723 Industry Light
+
+# BE_Details_Themed_03.prop
+0xb4813e2b Hanging Fang
+
+# BE_Details_windmill_01.prop
+0x1544e512 El Quixote
+
+# BE_Details_Balcony_02.prop
+0xf242d151 Chief's Perch
+
+# BE_Details_Balcony_03.prop
+0xf242d150 Bully Pulpit
+
+# BE_Details_Balcony_04.prop
+0xf242d157 Charismatic
+
+# BE_Details_Awning_01.prop
+0xe9fabef0 Awning
+
+# BE_Details_Awning_02.prop
+0xe9fabef3 Lashed Awning
+
+# BE_Details_Awning_03.prop
+0xe9fabef2 Awning of Doom
+
+# BE_Details_Chimney_02.prop
+0x058d816a Smokey Fungi
+
+# BE_Details_Chimney_03.prop
+0x058d816b Black Smoker
+
+# BE_Details_Chimney_04.prop
+0x058d816c Carbon Vent
+
+# BE_Details_Greeble_01.prop
+0xf54f583e Gear Boxen
+
+# BE_Details_Greeble_03.prop
+0xf54f583c Plasma Still
+
+# BE_Details_Greeble_04.prop
+0xf54f583b Fission Station
+
+# BE_Details_Light_01.prop
+0x6c001726 Street Lamp
+
+# BE_Details_Light_02.prop
+0x6c001725 Torchiere
+
+# BE_Details_Light_03.prop
+0x6c001724 Light Sphere
+
+# BE_Details_Themed_01.prop
+0xb4813e29 Fortified Flair
+
+# BE_Details_Themed_02.prop
+0xb4813e2a Vacuole
+
+# BE_Details_Themed_04.prop
+0xb4813e2c Majestic Prong
+
+# BE_Details_Windmill_02.prop
+0x1544e511 Steampunk Mill
+
+# BE_Details_Windmill_03.prop
+0x1544e510 Artisan Mill
+
+# BE_Details_Windmill_04.prop
+0x1544e517 Air Powered
+
+# BE_Details_Chimney_05.prop
+0x058d816d Bubble Tops
+
+# BE_Details_Chimney_06.prop
+0x058d816e Old Spewie 
+
+# BE_Details_Chimney_07.prop
+0x058d816f Confetti Blower 
+
+# BE_Details_Chimney_08.prop
+0x058d8160 Little Puffer 
+
+# BE_Details_Gear_01.prop
+0x77ea6291 Twirl Gear 
+
+# BE_Details_Gear_02.prop
+0x77ea6292 Fancy Fan
+
+# BE_Details_Gear_03.prop
+0x77ea6293 Metal Twister 
+
+# BE_Details_Gear_04.prop
+0x77ea6294 Aqua Swisher 
+
+# BE_Details_Light_05.prop
+0x6c001722 Little Beam 
+
+# BE_Details_Light_06.prop
+0x6c001721 Orbit Shiner 
+
+# BE_Details_Light_07.prop
+0x6c001720 Spot Light
+
+# BE_Details_Light_08.prop
+0x6c00172f Fire Fly Beams 
+
+# BE_Details_Light_09.prop
+0x6c00172e Cublious Sign 
+
+# BE_Details_Light_10.prop
+0x6b0015b4 Mosko Sign  
+
+# BE_Details_Light_11.prop
+0x6b0015b5 Lamski Sign
+
+# BE_Details_Light_12.prop
+0x6b0015b6 Ginog Sign 
+
+# BE_Details_Light_13.prop
+0x6b0015b7 Levanter Finder
+
+# BE_Details_Light_14.prop
+0x6b0015b0 Sciroco Vane 
+
+# BE_Details_Light_15.prop
+0x6b0015b1 Huba Seeker 
+
+# BE_Details_Light_16.prop
+0x6b0015b2 Chincook Sensor 
+
+# BE_Details_Plant_01.prop
+0x5fbbab9f Daisy May 
+
+# BE_Details_Plant_02.prop
+0x5fbbab9c Viking Horn 
+
+# BE_Details_Plant_03.prop
+0x5fbbab9d Sagrada Uva 
+
+# BE_Details_Plant_04.prop
+0x5fbbab9a Anemone Planta 
+
+# BE_Details_Pump_01.prop
+0x67539388 Piston Pusher 
+
+# BE_Details_Pump_02.prop
+0x6753938b Kuba Steamer 
+
+# BE_Details_Pump_03.prop
+0x6753938a Tire Pouse 
+
+# BE_Details_Pump_04.prop
+0x6753938d Criket Pump
+
+# BE_Details_Radar_01.prop
+0x4a6d589e Yepun Seeker
+
+# BE_Details_Radar_02.prop
+0x4a6d589d Antu Receiver 
+
+# BE_Details_Radar_03.prop
+0x4a6d589c Qua-yen Sighter 
+
+# BE_Details_Radar_04.prop
+0x4a6d589b Me-li-pal Finder 
+
+# BE_Details_Flag_01.prop
+0x82eaa290 Little Johnny
+
+# BE_Details_Flag_02.prop
+0x82eaa293 Friar Tucker
+
+# BE_Details_Flag_03.prop
+0x82eaa292 Mad Maid Marian
+
+# BE_Details_Flag_04.prop
+0x82eaa295 Sherwood Fawks 
+
+# BE_connector_classic_01.prop
+0xdd4eaf83 Colaba Causeway
+
+# BE_connector_classic_02.prop
+0xdd4eaf80 Kesher
+
+# BE_connector_classic_03.prop
+0xdd4eaf81 Attache 
+
+# BE_connector_classic_04.prop
+0xdd4eaf86 Connexion 
+
+# BE_connector_fortress_01.prop
+0x0c37cc37 Overpassed
+
+# BE_connector_fortress_02.prop
+0x0c37cc34 Fastenate
+
+# BE_connector_fortress_03.prop
+0x0c37cc35 Marry Way
+
+# BE_connector_fortress_04.prop
+0x0c37cc32 Weaver
+
+# BE_connector_organic_01.prop
+0x4c0e3e4a Correlation Station
+
+# BE_connector_organic_02.prop
+0x4c0e3e49 Walkthrough 
+
+# BE_connector_organic_03.prop
+0x4c0e3e48 Hitch 
+
+# BE_connector_organic_04.prop
+0x4c0e3e4f Promenada 
+
+# BE_connector_platonic_01.prop
+0xc90af331 Rejoinder
+
+# BE_connector_platonic_02.prop
+0xc90af332 Up Periscope 
+
+# BE_connector_platonic_03.prop
+0xc90af333 Colonanade
+
+# BE_connector_platonic_04.prop
+0xc90af334 Loggia
+
+# BE_connector_scary_01.prop
+0x5283c6c3 Piazza Della Spora
+
+# BE_connector_scary_02.prop
+0x5283c6c0 Portico
+
+# BE_connector_scary_03.prop
+0x5283c6c1 Stoa way
+
+# BE_connector_scary_04.prop
+0x5283c6c6 Ponte Vexio
+
+# BE_connector_tech_01.prop
+0x007ad275 Passage
+
+# BE_connector_tech_02.prop
+0x007ad276 Veranda
+
+# BE_connector_tech_03.prop
+0x007ad277 Jetway
+
+# BE_connector_tech_04.prop
+0x007ad270 Skywalked
+
+# BE_Details_Chimney_09.prop
+0x058d8161 WWW 
+
+# BE_Details_Chimney_10.prop
+0x068d82db VVV 
+
+# BE_Details_Chimney_11.prop
+0x068d82da UUU 
+
+# BE_Details_Chimney_12.prop
+0x068d82d9 TTT 
+
+# BE_Details_House_01.prop
+0x25806a26 Lawn Art 
+
+# BE_Details_House_02.prop
+0x25806a25 Window Boxing
+
+# BE_Details_House_03.prop
+0x25806a24 Wishing Well 
+
+# BE_Details_House_04.prop
+0x25806a23 Pajaro Paradiso 
+
+# BE_Details_House_05.prop
+0x25806a22 Overlook
+
+# BE_Details_House_06.prop
+0x25806a21 Stonewall
+
+# BE_Details_House_07.prop
+0x25806a20 Portal
+
+# BE_Details_House_08.prop
+0x25806a2f Entree
+
+# BE_Details_Shapes_01.prop
+0x296b1090 Cubed
+
+# BE_Details_Shapes_02.prop
+0x296b1093 Pointed 
+
+# BE_Details_Shapes_03.prop
+0x296b1092 Cylindra 
+
+# BE_Details_Shapes_04.prop
+0x296b1095 Esphereal 
+
+# BE_Details_Shapes_05.prop
+0x296b1094 Donut 
+
+# BE_Details_Shapes_06.prop
+0x296b1097 Plop
+
+# BE_Details_Shapes_08.prop
+0x296b1099 Parasol
+
+# BE_Details_Shapes_09.prop
+0x296b1098 Kickboard 
+
+# BE_Details_Shapes_10.prop
+0x286b0f3e Patch 
+
+# BE_Details_Shapes_11.prop
+0x286b0f3f Crayon Topper
+
+# BE_Details_Shapes_12.prop
+0x286b0f3c Button 
+
+# BE_Details_Shapes_13.prop
+0x286b0f3d Batty
+
+# BE_Details_Shapes_14.prop
+0x286b0f3a Acicularis
+
+# BE_Details_Shapes_15.prop
+0x286b0f3b Tear Dropped 
+
+# BE_Details_Shapes_16.prop
+0x286b0f38 Sands of Time 
+
+# BE_Details_Shapes_17.prop
+0x286b0f39 Lozenge 
+
+# BE_Details_Shapes_18.prop
+0x286b0f36 Pedoep
+# BE_Details_Shapes_19.prop
+0x286b0f37 Boxy
+
+# BE_Details_Shapes_20.prop
+0x276b0d4b Puffer
+
+# BE_Details_Shapes_21.prop
+0x276b0d4a Epee
+
+# BE_Details_Shapes_22.prop
+0x276b0d49 Fringe Grabber 
+
+# BE_Details_Shapes_23.prop
+0x276b0d48 Mushroom Stalk
+
+# BE_Details_Shapes_24.prop
+0x276b0d4f Tuning Time
+
+# BE_Details_Shapes_25.prop
+0x276b0d4e Party Favor 
+
+# BE_Details_Shapes_26.prop
+0x276b0d4d Illumine
+
+# BE_Details_Shapes_27.prop
+0x276b0d4c Acorn
+
+# BE_Details_Shapes_28.prop
+0x276b0d43 Your Turn 
+
+# BE_Details_Shapes_07.prop
+0x296b1096 Polyhedron 
+
+# BE_Details_House_09.prop
+0x25806a2e Light Cane
+
+# BE_Details_House_10.prop
+0x248068b4 Picnic Time
+
+# BE_Details_Cupola_01.prop
+0x0f8d9dd8 Teepee
+
+# BE_Details_FactoryLights_01.prop
+0x0989a5e9 Beamed
+
+# BE_Details_FactoryLights_02.prop
+0x0989a5ea Spotty Light 
+
+# BE_Details_Cupola_02.prop
+0x0f8d9ddb Fiercesom
+
+# BE_Details_Cupola_03.prop
+0x0f8d9dda Jefferson
+
+# BE_Details_Cupola_04.prop
+0x0f8d9ddd Carousel
+
+

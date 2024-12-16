@@ -1,0 +1,36 @@
+﻿#######################################
+# event logs
+
+0x00000004 You have captured the city called ~target_city_name~.
+0x00000005 You have converted the city called ~target_city_name~.
+0x0000000E ~target_city_name~ has been captured!
+0x0000000F ~target_city_name~ has been converted!
+0x00000018 ~target_city_name~ is now available for purchase.
+0x00000019 Your attempt to purchase ~target_city_name~ has failed.
+0x0000001A You have successfully purchased ~target_city_name~!
+
+# TradeRouteAccepted: Player sent a vehicle to a foreign city to propose trade route
+0x0000001B ~target_city_name~ has accepted a trade route proposal from you.
+# TradeRouteRejected: Player sent a vehicle to a foreign city to propose trade route
+0x0000001E ~target_city_name~ has rejected a trade route proposal from you.
+# TradeRouteEstablished:  NPC-to-player trade route established.
+0x0000001C A trade route has been established in ~target_city_name~.
+
+0x00000021 Your city, ~target_city_name~, is under attack!
+0x00000023 Set your vehicle to begin mining by clicking on the spice geyser.
+0x00000024 ~target_city_name~ has been founded!
+0x00000026 ~source_civ_name~ is no more.
+0x00000027 ~source_civ_name~ has captured ~target_city_name~!
+0x00000028 You are now At War with ~source_civ_name~.
+0x00000029 You are now At War with ~source_civ_name~.
+0x0000002A You are no longer At War with ~source_civ_name~.
+0x0000002B You are no longer Allied with ~source_civ_name~.
+0x0000002C You are now Allied with ~source_civ_name~.
+0x0000002F One of your spice derricks is under attack!
+0x00000030 You loot %d Sporebucks from the Tribe!
+0x00000031 You got a free vehicle from the Tribe!
+0x00000032 You have claimed a spice geyser.
+0x00000033 You have captured a spice derrick.
+0x00000034 ~target_city_name~ is celebrating, giving increased income!
+0x00000035 Click on a city to launch.
+0x00000036 The tribe is hostile and attacks your vehicle!

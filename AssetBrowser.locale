@@ -1,0 +1,79 @@
+﻿# AssetBrowserAssetGrid.layout
+0x058b5c10 Sort By:
+0x058b5c11 Time Created
+0x058b5c12 Title
+0x058b5c13 Creator
+0x058b5c14 Type
+0x058b5c15 Shared
+0x058b5c16 Online content only available when logged in
+0x058b5c17 Online content only available when logged in
+0x058b5c18 Create Your Own
+0x058b5c19 Go Back
+0x058b5c1a Relationship
+0x058b5c27 Time Downloaded
+0x058b5c28 Creepy & Cute
+
+# vehicle stats
+0x058b5c1b Health
+0x058b5c1c Power
+0x058b5c1d Speed
+# creature stats
+0x058b5c1e Omnivore
+0x058b5c1f Carnivore
+0x058b5c20 Herbivore
+0x058b5c21 Attack
+0x058b5c22 Social
+
+# vehicle stats (specific)
+0x058b5c24 Military Power
+0x058b5c25 Religious Power
+0x058b5c26 Economic Power
+
+# AssetViewLarge.layout
+0x058b60f2 Description:
+0x058b60f3 Tags:
+0x058b60f4 Asset Name
+0x058b60f5 Asset Creator
+0x058b60f6 by
+0x058b60f7 Next
+0x058b60f8 Previous
+0xd4af63e8 Please Wait...
+
+# ProfileView.layout
+0x062ee735 Profile Page
+
+# AssetBrowser.layout
+0x05b1a59c Search
+0x05b1a59d Sporepedia™
+0x05b1a59e Welcome ~username~
+
+# SPUIAssetView.cpp
+# PLEASE NOTE: The days cannot be used anywhere else besides on sporepedia card, as Finnish needs these all to be small caps
+
+0x05b175e8 Sunday
+0x05b175e9 Monday
+0x05b175ea Tuesday
+0x05b175eb Wednesday
+0x05b175ec Thursday
+0x05b175ed Friday
+0x05b175ee Saturday
+0x05b175ef Last ~day_of_week~
+0x05b175f0 ~seconds~s ago
+0x05b175f1 ~minutes~m ago
+0x05b175f2 ~hours~h ago
+0x05b175f4 ~modelname~
+0x05b175f5 ~username~
+0x05b175f6 <Missing>
+
+# MakeNewSporecastDialog.layout
+0x06162c1e Add to Sporecast
+0x06162c1f Choose Sporecast:
+0x06162c22 Make New Sporecast
+0x06162c24 New
+0x06162c25 Ok
+
+
+0x74bf153f You might encounter...
+0x74bf153e Find it while playing to add it to the Sporepedia!
+
+0x34f8116d This trait will unlock:

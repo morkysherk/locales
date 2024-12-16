@@ -1,0 +1,92 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Build.png~ Build Mode
+
+0x00000021 ~guide: -h3~ The Parts Palette
+
+0x00000031 ~guide: -h2~ The Cell Parts Palette is on the left of the screen when you enter the Cell Creator.
+
+0x00000041 ~guide: -h3~ Unlocking Parts
+
+0x00000051 ~guide: -h2~ During the Cell Stage you will start with a limited set of parts.  Each new part that you collect in the tide pool will unlock in the Cell Creator allowing you to add these parts when you evolve your cell.
+
+0x00000061 ~guide: -h3~ Selecting and Adding Parts
+
+0x00000071 ~guide: -h2~ To select a part, click on it in the Parts Palette and then drag it from the palette onto your cell and position it where you want it.
+
+0x00000081 ~guide: -h3~ Removing Parts
+
+0x00000091 ~guide: -h2~ Click on the part you wish to remove, hold the Left Mouse Button and drag the part off of your cell, or once a part is selected, click the backspace key on your keyboard.  You will get the DNA point value of that part added back to your DNA budget.
+
+0x000000a1 ~guide: -h3~ Abilities
+
+0x000000b1 ~guide: -h2~ Each part you add to your cell adds new abilities.  A part's abilities are noted in the pop up information as you roll over that part.  As you add parts to your cell, you will see the summary of your cell's abilities in the upper right hand corner of the Cell Creator.
+
+0x000000e1 ~guide: -h3~ Cloning Parts
+
+0x000000f1 ~guide: -h2~ To copy a part that you have already added to your cell, click on that part while holding down the ALT key on your keyboard, then drag the copy to another spot on your cell.  You will be charged DNA points for these copies.
+
+0x00000101 ~guide: -h1~ Shaping Torso and Parts
+
+0x00000111 ~guide: -h3~ Torso
+
+0x00000121 ~guide: -bullet~ Move your mouse over your cell's torso to reveal its spine.
+
+0x00000131 ~guide: -bullet~ Highlight an individual vertebra by mousing over it.
+
+0x00000141 ~guide: -bullet~ Scroll the mouse wheel or use the up or down arrow on your keyboard to increase or decrease the size of the torso at that vertebra.
+
+0x00000151 ~guide: -h3~ Scaling Parts
+
+0x00000161 ~guide: -h2~ To increase or decrease the size of a part that you have added to your cell, select the part by clicking on it and then scroll the mouse wheel or use the up or down arrow to scale that part.
+
+0x00000171 ~guide: -h1~ Cell Abilities
+
+0x00000181 ~guide: -h2~ Each part that you add to your cell gives your cell new abilities.  These are summarized in the upper right corner of Build Mode.
+
+0x00000191 ~guide: -h3~ Diet
+
+0x000001a1 ~guide: -h4~ The mouth or mouths you add to your cell will determine its diet:
+
+0x000001b1 ~guide: -bullet~ Filter Mouth - This mouth will make your cell an herbivore.  Your diet will be green plant pods.
+
+0x000001c1 ~guide: -bullet~ Jaw Mouth - This mouth will make your cell a carnivore.  Your diet will be other cells, which you will defeat and then eat.
+
+0x000001d1 ~guide: -bullet~ Proboscis Mouth - This mouth will make your cell an omnivore.  You will be able to eat both green plants as well as other cells.
+
+0x000001e1 ~guide: -h3~ Attack
+
+0x000001f1 ~guide: -bullet~ Spike - Both a great defensive and offensive weapon depending on its position on your cell.
+
+0x00000201 ~guide: -bullet~ Poison - This poison sac will trail a cloud of poison behind you.
+
+0x00000211 ~guide: -bullet~ Electricity - The electric weapon automatically discharges and disables nearby predators, it will then recharge for a short period before discharging again.
+
+0x00000221 ~guide: -h3~ Movement
+
+0x00000231 ~guide: -bullet~ Flagella - Each flagella you add, will increase your speed.  Flagella are great for speed but turn a bit slowly.
+
+0x00000241 ~guide: -bullet~ Cilia - Adds speed and turning speed.
+
+0x00000251 ~guide: -bullet~ Jets - Adds speed and bursts of speed.
+
+0x00000261 ~guide: -h3~ Eyes
+
+0x00000271 ~guide: -bullet~ Eyes add character and sight.  Just try evolving without any eyes!
+
+0x00000281 ~guide: -h3~ Preview
+
+0x00000291 ~guide: -h2~ Want to see how your cell will move in the tide pool?  Click on the ability buttons in the Abilities Summary area.
+
+0x000002a1 ~guide: -h1~ Complexity and Budget
+
+0x000002b1 ~guide: -h3~ Complexity Meter
+
+0x000002c1 ~guide: -image-left 0x05556b31!complexitymeter.png~ 
+
+0x000002d1 ~guide: -h2~ The complexity meter measures the complexity of your cell's anatomy.
+
+0x000002e1 ~guide: -h2~ If your cell becomes overly complex, you will not be able to add any more parts.
+
+0x000002f1 ~guide: -h3~ The DNA Budget
+
+0x00000301 ~guide: -image-left 0x05556b31!DNA_helix_small.png.png~ Each part you put on your cell costs DNA points.  Once you run out of DNA points you won't be able to add any more parts.
+

@@ -1,0 +1,32 @@
+﻿
+0x00000091 Creature Creator
+
+0x00000051 Cell Creator
+
+0x00000011 Cell Stage
+
+0x00000021 Creature Stage
+
+0x00000031 Tribe Stage
+
+0x00000141 Vehicle Creator
+
+0x000001b1 Building Creator
+
+0x00000261 Spaceship Creator
+
+0x00000611 Sporepedia
+
+0x00000621 Civilization Stage
+
+# Options_SporeGuide - feedListCategoryName
+0x00001611 Settings
+
+# SPG_SporeGuide - feedListCategoryName
+0x00000987 Space Stage
+
+# GGE_SporeGuide - feedListCategoryName
+0x00009871 The Galaxy
+
+# Outfitters_SporeGuide - feedListCategoryName
+0x00008861 Outfitters

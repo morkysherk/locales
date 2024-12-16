@@ -1,0 +1,95 @@
+﻿
+# edi-blockpurchased.prop
+0xe1003992 Drag a part from the palette to add to your creation
+
+# edi-blockscaled.prop
+0xedda5389 Scroll the mouse wheel to scale parts 
+
+# edi-cameramoved.prop
+0x1ff46afa Click and drag the background to rotate the camera
+
+# edi-errorbadcharacters.prop
+0x0593533d The name contains invalid characters
+
+# edi-errorblankname.prop
+0x0593532b You must give your creation a name before you can save
+
+# edi-errorcannotloadintoeditor.prop
+0x05ba1727 This creation cannot be loaded
+
+# edi-errorfailedload.prop
+0x059493f1 This creation cannot be loaded
+
+# edi-errorhasfloatingparts.prop
+0x1cdaa322 This creation cannot be loaded
+
+# edi-errorhasunloadableblocks.prop
+0xb2499a05 This creation has parts from an expansion you don't have
+
+# edi-errorhasunloadabletextures.prop
+0x05338a1f This creation is invalid
+
+# edi-errorintersectingendeffectors.prop
+0x6b242b79 This creation is invalid
+
+# edi-errorinvalidcomplexity.prop
+0x3106fe9b The creation has too many parts
+
+# edi-errorinvalidname.prop
+0x6a1e1cca The name of this creation is either blank or has invalid characters
+
+# edi-errorinvalidpaint.prop
+0x90dd7c99 This creation cannot be saved
+
+# edi-errorinvalidparents.prop
+0x8ec0f9b6 This creation cannot be saved
+
+# edi-errorinvalidparts.prop
+0x74e889bf The creation cannot be saved
+
+# edi-errorinvalidscales.prop
+0xf3915f1a This creation cannot be saved
+
+# edi-errorinvalidsymmetry.prop
+0x129b2ca9 This creation cannot be saved
+
+# edi-errormissingpacks.prop
+0x4d523de8 The creation cannot be saved
+
+# edi-errormouthfront.prop
+0x44f89e14 Mouths work best on the front of the creation
+
+# edi-errornolimbs.prop
+0x0f49e842 You need a limb to attach a foot or grasper
+
+# edi-errornomouth.prop
+0x1f83d13c Your creation needs a mouth
+
+# edi-errornotpainted.prop
+0x4aee3558 The creation has not been painted yet
+
+# edi-erroroutofbounds.prop
+0xed466ada The creation cannot be loaded
+
+# Over budget
+0x53371dff The creation is over budget
+# Save
+0xa8cfb7c8 You need at least 3 parts to Save
+
+# edi-errorstatsoutofrange.prop
+0x7fd1b365 This creation is invalid
+
+# edi-errortoosmall.prop
+0x86257ff9 This creation is invalid
+
+# edi-errortoosmallabsolutez.prop
+0x059352e0 This creation is invalid
+
+# edi-errortoosmallx.prop
+0x059351f6 This creation is invalid
+
+# edi-errortoosmally.prop
+0x05935235 This creation is invalid
+
+# edi-errortoosmallz.prop
+0x05935251 This creation is invalid

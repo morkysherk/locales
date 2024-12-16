@@ -1,0 +1,212 @@
+﻿#######################################
+# event logs
+
+#in code.
+0x03ffe77b A new plant, ~game_plant_name~, has been scanned and added to your Sporepedia.
+0x03ffe7fb The ~game_plant_name~ plant has already been scanned.
+0x03ffe7ff A new creature, ~creature_name~, has been scanned and added to your Sporepedia.
+0x03ffe803 ~creature_name~ has already been scanned.
+0x04374114 A new building, ~building_name~, has been scanned and added to your Sporepedia.
+0x04374125 ~building_name~ has already been scanned.
+0x04377191 A new vehicle, ~vehicle_name~, has been scanned and added to your Sporepedia.
+0x04377196 ~vehicle_name~ has already been scanned.
+0x043ad9e0 A new spaceship, ~ufo_name~, has been scanned and added to your Sporepedia.
+0x043ad9f2 ~ufo_name~ has already been scanned.
+
+
+#standard....
+0x0000004a Too toxic for your cargo hold. Incinerating...
+0x00000049 The ~race~ empire has cancelled a mission because our relationship has soured.
+0x00000048 Your Grox awareness-o-meter is reading 'Insanely scared'
+0x00000047 Your Grox awareness-o-meter is reading 'Kinda sorta scared'
+0x00000046 Your Grox awareness-o-meter just moved up to 'Insanely scared
+0x00000045 Your Grox awareness-o-meter just moved down to 'Kinda sorta scared'
+0x00000044 Your Grox awareness-o-meter just moved up to 'Kinda sorta scared'
+0x00000043 Your Grox awareness-o-meter just moved down to 'So not scared. Should I be?'
+0x00000042 Your Grox awareness-o-meter just moved up to 'So not scared. Should I be?'
+0x00000041 The ~race~ empire has been destroyed.
+0x00000040 The alliance between the ~race~ and ~race2~ has broken down.
+0x0000003f The ~race~ and ~race2~ have formed an alliance.
+0x0000003e The ~race~ and ~race2~ signed a peace treaty.
+0x0000003d The ~race~ empire declared war on the ~race2~ empire.
+0x0000003c You've failed at getting this city to worship you. Try another. [not in use]
+0x0000003b Every city on this planet now worships you!  [not in use]
+0x0000003a You can't settle here.  The ~star_name~ system is already home to another species. 
+0x00000039 ~count~ of ~city_count~ ~^p^count^city^cities~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000037 If you keep shooting at them, they're going to shoot back at you.
+0x00000035 One of your allied ships was destroyed!
+0x00000036 A fabulous new artifact has been detected.
+0x00000034 You don't have enough money to use that tool.
+0x057f4c52 You don't have enough energy to use that tool.
+0x00000032 Add a building to upgrade your colony.
+0x00000031 This planet is already claimed.
+0x0000002f Colonies can't survive underwater. Place your colony on land.
+0x0000002e Animals can't survive in lava. Place them on land.
+0x0000002d Dropping creatures from high altitudes kills them.  Beam them down gently.
+0x0000002c That herbivore can't survive on this planet. Add more plants.
+0x0000002b That species can't survive under water. Place them on land.
+0x0000002a Plants can't survive in lava.  Place them on land.
+0x00000029 This plant is not the right size to fit the local ecosystem, try a different size of plant.
+0x00000028 Plants can't survive under water.  Place them on land.
+0x00000027 Dropping abducted guys kills them.  Beam them down gently.
+0x00000026 Spread the word, but do it one planet at a time.
+0x00000025 The ~race~ empire has taken control of the ~star_name~ system and colonized a new planet!
+0x00000024 The ~race~ empire has lost control of the ~star_name~ system.
+0x00000023 Enemy spaceship destroyed! 
+0x00000022 The ~generic_name~ species was starved to extinction.
+0x00000021 The ~generic_name~ has become extinct.
+0x00000020 The ~generic_name~ species has become extinct from a lack of plants.
+0x0000001f ~generic_name~ became extinct. You are placing things too close to each other. Try placing on the other side of the planet. [not in use]
+0x0000001e Something on this planet has become extinct because the T-Score has dropped.
+0x06037bb6 Something on this planet has become extinct because of rising water levels.
+0x0000001d You found ~count~ charges of ~tool_name~!
+0x0000001c Your cargo hold is full.  You need to free up some slots.
+0x0000001b Life support critical!
+0x06159ae6 The ~race~ is losing interest in your alliance.  Pay them a visit.
+0x0000001a Your alliance with the ~race~ has been severed.
+0x06527a66 The ~race~ is losing interest in your trade route. Improve your relationship!
+0x06527a69 Your trade route with the ~race~ has been severed.
+0x00000019 Return to your Homeworld. A new assignment is ready.
+0x00000018 You've established a colony on ~planet_name~!
+0x00000017 All tribes on ~planet_name~ worship you! [not in use]
+0x00000016 You're destroying your own buildings.
+0x00000011 Avast!  ~planet_name~ is being plundered by pirates.
+0x00000010 You've found ~rare_name~,from the collection of ~rare_count~ ~rare_group~.
+0x0000000f This planet can not support additional colonies until you improve the T-Score.
+0x0000000e Your scan was successful. All of the data is tracked in your Sporepedia.
+0x0000000d The T-Score of ~planet_name~ is now ~terraform_level~.
+0x0541a219 You stabilized the T-Score of the planet.
+0x0541a247 You completed a section of the ecosystem, enabling enhanced colonies.
+0x0000000c Fly to one of your safe colonies to repair your spaceship.
+0x0000000b Your expedition has gone bankrupt. Better wait for a tow. [not in use]
+0x00000008 ~count~ of ~tribe_count~ ~^p^count^tribe^tribes~ on this planet now ~^p^count^worships^worship~ you! [not in use]
+0x00000006 False Prophet! This tribe thinks you're religion is for wussies. [not in use]
+0x00000005 Your worshippers in ~planet_name~ has become a technological civilization.  [not in use]
+0x00000004 The ~race~ empire have declared war on you.  Prepare for battle.
+0x05807d8e The ~race~ empire has stopped their war with you.
+0x00000003 Your ally has sent a new ship to join your fleet.
+0x00000002 Seeing as you have enough help, one of your allied ships has left for home.
+0x00000001 You can't use that tool on your homeworld.
+0x04bd7870 You don't have any allies to come to your aid!
+0x04bd78a5 There are no hostilities on this planet for your allies to help with.
+0x04bd78a0 Your allies are already helping you!
+0x04d28917 New tools now available.
+0x04e38cf9 That tool can only be used on your colony planets.
+0x0580c3fa That tool can only be used on other Empire's planets.
+0x04e39f9a You can only have one of these per planet!
+0x04e3aafd That object must be placed on land.
+0x04e3ab1a You can't put that down inside a colony.
+0x04ea4fd8 You killed the Grox on this planet by terraforming the planet to T1!
+0x04ea4fd9 Your scanners failed to identify the inhabitants of this planet. Report back to Homeworld.
+0x04ed0a12 You have been awarded 42 fantastic tools and found a rare Galactic Formation.
+0x04f615f5 You must leave the planet to save.
+0x04f77c3e That species is already present in this location.
+0x04f7b030 That carnivore can't survive on this planet. Add more herbivores.
+0x04f7b80d You need to improve the T-Score of ~planet_name~ for that to survive here.
+0x06707faa That ecological niche is full and can't support another species.
+0x0546a708 This wildlife sanctuary can't accommodate any more animals. 
+0x05483ab4 You have added ~creature_name~ to your wildlife sanctuary. The preserve has ~animal_count~ out of ~prop_file:0x02ae0c7e!0xa6d1bc70~~tuning_int:0x05469bf8~ possible animals.
+0x0567757c Your trading partners at the star system ~star_name~ think well of you. Perhaps the ~race~ is open to further diplomatic entreaties.
+0x05790c96 Incoming transmission from the ~race~!
+0x066f10ab Incoming transmission from your homeworld!
+0x066f10b8 Incoming transmission from your colony!
+0x0591ccd5 You've found a rare Galactic Formation. 
+0x0591ccd6 You've found a unique planet!
+0x05c2bc26 You must fill up one at least one row of plants and animals before uplifting a planet!
+0x06170f80 This tool requires a target to fire.
+0x061dbc92 The target is out of range.
+0x0637c896 It's a trap! You've been ambushed by pirates!
+0x0637c897 Collected : ~tool_name~.
+0x065bcda0 Beware: Stealing objects from other planets angers the local empire.
+0x065bcda7 Beware: Abducting citizens angers the local empire.
+
+# badgeunlocknotification.prop - eventDescription
+0xc5b93c90 Badge Unlocked
+
+# colonyfailednospice.prop - eventDescription
+0x6c1b54a2 Colonies must be placed near spice.
+
+# genericmissionalert.prop - eventDescription
+0xc04c32dd <Mission Progress Text here>
+
+# genericmissionpersistent.prop - eventDescription
+0x0c0da13a <Text will go in here>
+
+# genericmissionprogress.prop - eventDescription
+0x77cbb958 <Mission Progress Text here>
+
+# genericmissionstatus.prop - eventDescription
+0x748d2299 <Mission Status Text here>
+
+# spicecollected.prop - eventDescription
+0xab572097 Collected Spice.
+
+# posseupgrade.prop - eventDescription
+0x86a4c320 You've earned the right to add an ally ship to your fleet.
+
+# toolalreadyhavesquire.prop - eventDescription
+0x7110910f You already have a Mini-U.
+
+# toolcantuseoveracity.prop - eventDescription
+0x66b14b29 This tool can't be used above a city.
+
+# toolcantuseoverwater.prop - eventDescription
+0xef5072a2 This tool cannot be used over water.
+
+# toolempireonly.prop - eventDescription
+0x2188fd0a This tool can only be used on empire planets.
+
+# toolmustbecreaturetech.prop - eventDescription
+0xfef0b8f1 This tool can only be used on wild planets.
+
+# toolmusthavetraderoute.prop - eventDescription
+0x70d7c7a4 This tool can only be used on systems that have a trade route.
+
+# toolmustnotbeempire.prop - eventDescription
+0xa4d8f065 This tool can't be used on empire planets.
+
+# toolposseisfull.prop - eventDescription
+0xab736885 You do not have enough room in your fleet for another ship.
+
+# tooltooclosetocolonyobject.prop - eventDescription
+0x45f9bf92 You cannot use that tool so close to a structure.
+
+# tooltooclosetospice.prop - eventDescription
+0x79c50119 The colony is too close to spice.
+
+# tooltoofarfromspice.prop - eventDescription
+0x36b3e3fd The colony will be too far from spice.
+
+# tooltoohigh.prop - eventDescription
+0xa6e556ac You are too high up to use this tool.
+
+# toolmustbehighesttech.prop - eventDescription
+0x2bdbd446 You cannot use this tool. The planet is at the highest level.
+
+# ToolAnimalMustBePresent.prop - eventDescription
+0x0671ce05 An animal must be present for you to use this tool!
+
+# ToolMonolithFailureGeneric.prop - event description
+0x0671fb24 You cannot use the monolith on this planet!
+
+# toolmustnotbezoo.prop - eventDescription
+0xa8b00035 You cannot use this tool on a Wildlife Sanctuary planet.
+
+# tooltscoretoolow.prop - eventDescription
+0xa9bc64aa This planet's T-Score is too low to use that tool.
+
+# PlannerTScoreTooLow.prop - eventDescription
+0x064c024e You must raise the T-Score on the planet to enter the Colony Planner. [not in use]
+
+0x0654c9df This planet has surrendered, but there are still more planets in the system.
+
+0x0654ca48 A city has surrendered to you.
+
+0x065bac9f You can't use this tool on an epic creature.
+
+0x065bfffa You have no room to collect any more spice.
+
+# PlanetUpliftedToTribe/Civ/Space.prop
+0x067710b2 Planet ~planet_name~ in star ~star_name~ has evolved to the Tribe stage!
+0x06771164 Planet ~planet_name~ in star ~star_name~ has evolved to the Civ stage!
+0x06771171 Planet ~planet_name~ in star ~star_name~ has evolved to the Space stage!

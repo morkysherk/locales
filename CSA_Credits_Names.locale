@@ -1,0 +1,445 @@
+﻿# WARNING: This is an auto-generated file.  I wouldn't modify this file manually if I were you...
+
+# DEVELOPMENT TEAM
+
+#--disabled--0xf8994976 Rajesh Ajjanagadde
+#--disabled--0x1cdb1702 Brodie Andersen
+#--disabled--0x425bd3c6 Colin Andrews
+#--disabled--0x3cd33dc0 Michael Arsers
+#--disabled--0xb346dc4c Zach Baharov
+#--disabled--0xd0ea7a58 Alex Bilyk
+#--disabled--0x3e2d2b12 Lucy Bradshaw
+#--disabled--0x9f5090ef Tom Bui
+#--disabled--0xdd8412dc Jenna Chalmers
+#--disabled--0xac989011 Bryan Chan
+#--disabled--0x54967f49 Kai Chang
+#--disabled--0x958c1083 Eddy Chiang
+#--disabled--0xc180aec5 Yee Cheng Chin
+#--disabled--0x99b9e0af Lydia Choy
+#--disabled--0x5ddd32f9 John Cimino
+#--disabled--0xdd548b80 Kate Compton
+#--disabled--0x3e5b8e03 Michael Cormier
+#--disabled--0x4c193236 Dave "The Enemy of Quality" Culyba
+#--disabled--0x0513b364 John DeWeese
+#--disabled--0xcf04d125 Theresa Duringer
+#--disabled--0xf4eaf30f James Dong
+#--disabled--0xfed4b3ea Steve Eng
+#--disabled--0x2dcad4df Ryan Enslow
+#--disabled--0x640fe8f6 Mark Fong
+#--disabled--0x7498bd8f Sarah Jenny Fuchs
+#--disabled--0x305f024d Shannon Galvin
+#--disabled--0x6b6e7da4 Ben Gardella
+#--disabled--0x831f5b02 Jeff Gates
+#--disabled--0x3345e81a Tony Gialdini
+#--disabled--0xb64aaee4 Steven Gieng
+#--disabled--0xa5c494e4 Henry Goffin
+#--disabled--0x79855a34 Justin Graham
+#--disabled--0x6a20003a Eric "Cricket" Grundstrom
+#--disabled--0x3e9c1024 Chris Hecker
+#--disabled--0xbf285ea6 Alex Hutchinson
+#--disabled--0xff58d695 Ryan Ingram
+#--disabled--0xcaf3411b Umaru Jalloh
+#--disabled--0xaa4ddb53 Soren Johnson
+#--disabled--0x1251612d Kent Jolly
+#--disabled--0xd534a3e4 Kip Katsarelis
+#--disabled--0x03fcb02b Alex Kerfoot
+#--disabled--0xdbf23be9 John Khoo
+#--disabled--0x1bbc8ed1 Michael A Khoury
+#--disabled--0x2191efe7 Bob King
+#--disabled--0x469c9050 Ernie Lacson
+#--disabled--0xf35c2ab3 Alex Lam
+#--disabled--0x6bb3767b Serena Lam
+#--disabled--0x5a4ffeaa Ari Lamstein
+#--disabled--0xf75c314f Alex Lee
+#--disabled--0x30b4df16 David Lee Swenson
+#--disabled--0x1cfec7d0 Sean-Michael Lewis
+#--disabled--0x17191e79 Stone Librande
+#--disabled--0x92c81b1a Stephen Lim
+#--disabled--0x85d40315 Meghan Kane McDowell
+#--disabled--0x26ffaa0c Lauren McHugh
+#--disabled--0xf154d09d Alec Miller
+#--disabled--0x30a165b0 Emily Modde
+#--disabled--0xa4a36701 Dan Moskowitz
+#--disabled--0x68f0c40f Susie Moutray
+#--disabled--0x9a904911 Cody Murry
+#--disabled--0xa016a969 Wil Paredes
+#--disabled--0xf59289e8 Kevin Patterson
+#--disabled--0x699fa3cc Alexander Peck
+#--disabled--0x51d27f9e Bill Phelon
+#--disabled--0x88b6d43d Guillaume Pierre
+#--disabled--0x629dc207 Rob Povey
+#--disabled--0x838fbec3 Matt Powers
+#--disabled--0xebf83de5 Ocean Quigley
+#--disabled--0x39ee3221 Justin Quimby
+#--disabled--0xf7e68369 Bernd Raabe
+#--disabled--0xefd92dbe Morgan Roarty
+#--disabled--0x6cc0d42e Tobias Roberts
+#--disabled--0x922ed6dc Gal Roth
+#--disabled--0x9a0522de Holly Ruark
+#--disabled--0xfd160b49 Steven Sadler
+#--disabled--0x76ee9967 Cyril Saint Girons
+#--disabled--0xac0db013 Tammy Sauer
+#--disabled--0x384a0802 Chris Seifert
+#--disabled--0x1e405d5e Jason Shankel
+#--disabled--0xbc57c377 Caryl D Shaw
+#--disabled--0x709181bf Shalin Shodhan
+#--disabled--0x758e0d8a Bradford J. Smith
+#--disabled--0x214e4606 Trevor Somers
+#--disabled--0x6fca9127 Christian Stratton
+#--disabled--0xbf1e9e04 Peter Swearengen
+#--disabled--0x29e0bf4c Renaud Ternynck
+#--disabled--0x71cca9f9 Paul Terry
+#--disabled--0xf184510f Eric Todd
+#--disabled--0x70b1c708 Conrad Tse
+#--disabled--0x4e503651 Thomas Vu "Evil Dr Vu"
+#--disabled--0x36601976 Casey Weaver
+#--disabled--0x2780f32e Bill Willis
+#--disabled--0xa100ef66 Andrew Willmott
+#--disabled--0x2828c8c8 Will Wright
+#--disabled--0x23528b4a Masami Yamada
+#--disabled--0xe373c10e Baris Yaman
+#--disabled--0x4007b631 Kam Marie Zambel
+
+# INTERNS
+
+#--disabled--0xd3ae2221 Peter Angstadt
+#--disabled--0xf431be1f Toby Cabrera
+#--disabled--0x98e2378c Michael "Flux" Chang
+#--disabled--0x469fbc6b Louis Feng
+#--disabled--0xeb107195 Alfred Fuller
+#--disabled--0x3d4be27f Jeremy Gibson
+#--disabled--0xb0395c7d Michael Gorbsky
+#--disabled--0x3131cc94 Brad Patton
+
+# MUSIC/AUDIO
+
+#--disabled--0x10794def Brian Eno
+#--disabled--0x41de9d27 Cliff Martinez
+#--disabled--0x63baccc4 Jerry Martin
+#--disabled--0x2d7afe7d Saul Stokes
+#--disabled--0xd3999e9e Marc Russo
+
+# FIELD RECORDING
+
+#--disabled--0xe37eafdd Aligator Farm St., FL
+#--disabled--0xf3a3600f Jungle Adventures, FL
+#--disabled--0x6bf2619d Gatorland, FL
+#--disabled--0x4925e5e7 Oakland Zoo, CA
+#--disabled--0x7459330e Predators in Action, CA
+#--disabled--0x96f78012 Steve Martin's Working Wildlife,CA
+#--disabled--0x22dc0559 Riddle's elephant and wildlife sanctuary, AK
+#--disabled--0xd473a5a2 Safari West, CA
+#--disabled--0x776ee6a2 Douglass Quinn
+#--disabled--0x9d01ca68 Ann Kroeber
+#--disabled--0x62edeb25 Al Nelson
+#--disabled--0xaaf09bdf Watson Wu
+
+# DEVELOPMENT CONTRACTORS
+
+#--disabled--0x256e4687 Derek Godat
+#--disabled--0xad085e4e Sebastian G Hyde
+#--disabled--0x1e970ca0 Patrick Kelly
+#--disabled--0xb0e42fca Morgan Lynn
+#--disabled--0x6bc9ce3a Brett McLaughlin
+#--disabled--0x1cccd8f8 Aaron McLeran
+#--disabled--0x4540f1e0 Ferby Miguel
+#--disabled--0x7765f6e1 Christian Scheurer
+#--disabled--0xbb8405df Craig Schwartz
+#--disabled--0x8d31171d Walter Jon Williams
+
+# VOICE TALENT
+
+#--disabled--0x2cdc7db6 Dee Baker
+#--disabled--0xe31bcdfd Bill Cameron
+#--disabled--0xea575561 Pat Fraley
+#--disabled--0xd1e1a255 Roger Jackson
+
+# MARKETING
+
+#--disabled--0x3624ce9f Patrick Buechner
+#--disabled--0x07dbc3c2 Eric Chu
+#--disabled--0xaa2d7a54 Waddy Dacay
+#--disabled--0x1519191b Ulf Johansson
+#--disabled--0xf79f80af Kyoko Matsushita
+#--disabled--0x44d3c85e Darren Montgomery
+#--disabled--0x54c70d7f Brandon Barber
+
+# INTERNATIONAL MARKETING
+
+#--disabled--0x5b2fb1af Duke Chang
+#--disabled--0x71b31c10 Deeka Macdonald
+#--disabled--0x3bd73c94 Brendan Geraghty
+#--disabled--0xe045f6e8 Henry Robles
+#--disabled--0x807fcb82 Daphne Chua
+
+# CREATIVE SERVICES
+
+#--disabled--0xcc80c4f0 Vyn Arnold
+#--disabled--0x4d253962 Holden Hume
+
+# PUBLIC RELATIONS
+
+#--disabled--0xf9a3c4a4 Bryce Baer
+#--disabled--0x68e6753a April Jones
+#--disabled--0x341008cc Tammy Schachter
+#--disabled--0xbdfe4dab Tiffany Steckler
+
+# DEVELOPMENT TESTING
+
+#--disabled--0xb07d1a36 Ian  Armstrong
+#--disabled--0x4eadedb3 Patrick Benjamin
+#--disabled--0x02a5cc2e Ron "Chairman" Fernandez
+#--disabled--0x8ba4116a Clifton Gainor
+#--disabled--0x1ab7164a Calvin Gillman
+#--disabled--0xfe6ba6f8 Sasha Goldenson
+#--disabled--0xd937ae8e Jason Halvorson
+#--disabled--0xbd9114f9 David Kertesz
+#--disabled--0xa3935c55 Jeffrey "Johnny Magma" Manglicamot
+#--disabled--0xe460f0ee Brian Marble
+#--disabled--0xe1797755 Jeff Miller
+#--disabled--0x2d1948ea Leonard Park
+#--disabled--0xd4fc92ca Brevin Pretorius
+#--disabled--0x70490cb2 Jeff Rodkey
+#--disabled--0xc2bb9592 Kurtis Seid
+#--disabled--0x08e52f63 Bryce Shelton
+#--disabled--0x05847081 Eric Topf
+#--disabled--0xdb1203d9 Anthony Tunac
+#--disabled--0xee887bca Michael Williams
+
+# DOCUMENTATION
+
+#--disabled--0xca618ae5 Daniel Davis
+
+# LOCALIZATION, ASIA
+
+#--disabled--0xb35e13ee Chris Ashimine
+#--disabled--0x2a856da8 Semin Choi
+#--disabled--0x7b5e6436 Hideaki Ikeda
+#--disabled--0x2c35b7c7 Krispol Jaijongrak
+#--disabled--0x89e0bba8 Nice Lee
+#--disabled--0xf20f6e48 Leon Li
+#--disabled--0x6dc2b626 Sun Liang
+#--disabled--0x376263de Ratakorn Meythangkul
+#--disabled--0xbe115af2 Yuhei Nasu
+#--disabled--0x437f33ab Jaebum Park
+#--disabled--0x70aee32e Jasmine Phua
+#--disabled--0xc0f48374 Kenji Ryan
+#--disabled--0x90886140 Seven
+#--disabled--0x68e0efe2 Hitoshi Suto
+#--disabled--0x41a875f6 Miki Suzuki
+#--disabled--0xc5f5c2e3 Jazz Wang
+#--disabled--0xcb77afee Thantida Warunyaporn
+#--disabled--0xc6fd1847 Bonam Yoo
+
+# LOCALIZATION, EUROPE
+
+#--disabled--0xc093edf2 Alberto Abad Ballesteros
+#--disabled--0x2d3cebe0 Esther Gómez Babin
+#--disabled--0xb780dd6c Virginia Cano Abella
+#--disabled--0x1b026c67 Eduardo Cocero Torres
+#--disabled--0x3b4fca13 Juan Comesaña
+#--disabled--0xca35500b Dorina Diakoumopoulou
+#--disabled--0x5d4b9a3e Iker Aneiros Jarillo
+#--disabled--0x4f56e7d2 Maria Beatriz Silva Piovezanni
+#--disabled--0xde06715e César Puerta
+#--disabled--0x59341227 Ramón Santamaría Pena
+
+# LOCALIZATION COORDINATION, EUROPE
+
+#--disabled--0x8e257deb Marcos Cardoso
+#--disabled--0x95ee82cf Marcin Król
+#--disabled--0x5460d042 Nadine Monschau
+#--disabled--0x7a2768f8 Audrey Demanget
+#--disabled--0xa56191f2 Marcel Elsner
+#--disabled--0x7d294a67 Mária Gyöngyi Nagy
+#--disabled--0x4e88d66a Stefano Mozzi
+#--disabled--0x0566fe10 Silvia Favia
+#--disabled--0xb1ce7347 Andreas Pajarinen
+#--disabled--0x6047c348 Jakub Nowicki
+#--disabled--0xd6366c53 Bruno dos Santos Pereira
+#--disabled--0x0991a873 Pavel Rutski
+#--disabled--0x03661913 Ana Esther Rodríguez
+
+# LOCALIZATION TESTING, EUROPE
+
+#--disabled--0x8e8a6604 Theofanis Anestopoulos
+#--disabled--0x44f521c2 Anders Bengtson
+#--disabled--0x5b2ad06c Giuliano Bettanin
+#--disabled--0xe036fecf Grzegorz Bonikowski
+#--disabled--0xc6fbe290 Serena Cannizzaro
+#--disabled--0x67e086b0 CEET Ltd.
+#--disabled--0x602eeb93 Philippe Charel
+#--disabled--0xbc22d440 Estrella del Campo
+#--disabled--0xedbfee91 Alessio De Fazio
+#--disabled--0xa6f159e8 Gus Díaz
+#--disabled--0xfb07e52f Iñaki Domenech
+#--disabled--0xe8b53e9d Kim Dorff
+#--disabled--0xd462677b Jan Enevoldsen
+#--disabled--0xb5e118ac EuroGreek Translations Limited
+#--disabled--0x06844bd4 Constanze Gottwick
+#--disabled--0xd9009107 Ivan Gryzunov
+#--disabled--0x531c739b Manuel Guerra
+#--disabled--0x0d4be182 Romain Guilloteau
+#--disabled--0xf6df7fd1 Antti Ikäläinen
+#--disabled--0xae420ed4 Laurent Jardin
+#--disabled--0x5af70c9b Piotr Klinger
+#--disabled--0x19a8fd10 Lukas Kotrly
+#--disabled--0x8949e7db Marta Krajewska
+#--disabled--0xc352159d Joanna Kuczkowska
+#--disabled--0x64c156a0 Carlos Llorach
+#--disabled--0x93a3b45f Francisco Martinez
+#--disabled--0x8b75f77b Irina Matinian
+#--disabled--0x69ebcb52 Vladimir Melnikov
+#--disabled--0x396b09f6 Janusz Mrzigod
+#--disabled--0x9ecbbd10 Kira Nepochatova
+#--disabled--0x82754806 Tatyana Nizova
+#--disabled--0x303b53da Petter Notstrand
+#--disabled--0x4303ad94 Maxim Onischenko
+#--disabled--0x6d010faa Cseperke Papp
+#--disabled--0x4519abe3 Quoted Tradução e Localização
+#--disabled--0xaaa4e341 Jakub Radziminski
+#--disabled--0x9c451c11 Tore Sand
+#--disabled--0x2d343347 Stian Schultz
+#--disabled--0x6b94fad1 SDI Media Netherlands
+#--disabled--0x836f95b6 Synthesis International S.r.l.
+#--disabled--0xd67299be Gergo Szendy
+#--disabled--0x9623ed29 Davide Tabacco
+#--disabled--0xdf8c21c3 Fabio Teixeira
+#--disabled--0x3617a56e Shoshannah Tekofsky
+#--disabled--0x16581769 Salva Tintoré
+#--disabled--0xfd794a45 Iñaki Valladares
+#--disabled--0x2fd83631 Carmen Vidal
+#--disabled--0x87235882 Ben Wagner
+#--disabled--0x1821e3eb Walkthru, Inc.
+#--disabled--0x0dfd3794 ZELENKA Czech Republic s.r.o
+
+# QUALITY ASSURANCE
+
+#--disabled--0xeda3fcf7 Brian Alberson
+#--disabled--0x70661695 Chris Anjos
+#--disabled--0x7f4ec3e2 Gemma Ballesteros
+#--disabled--0xec85fd26 Angelo Bayan
+#--disabled--0xa4d0a9d2 Angelina Bella
+#--disabled--0x208aae8f Robert Bierman
+#--disabled--0x05b26596 Joey Borla
+#--disabled--0xa7320b4a Xavier Buenaventura
+#--disabled--0xaa330521 Daniel Canton
+#--disabled--0x1353e696 Dave Caron
+#--disabled--0x8c026a53 Jonathan Choy
+#--disabled--0x040913b7 William Crom
+#--disabled--0x944e65b2 John Cross
+#--disabled--0xedb9b09d William Davis
+#--disabled--0xf7e7231c Ernesto De La Rosa
+#--disabled--0x381c907b Jasmine Deleon
+#--disabled--0x7cc6b555 Kyle Dunham
+#--disabled--0xb3b62ba2 Matt Eaton
+#--disabled--0xf4bb4c50 Ann Engberg
+#--disabled--0xe1f4da5d Matthew Fite
+#--disabled--0x43c2ef28 Behrang Garakani
+#--disabled--0x328944b7 Mark Gonzales
+#--disabled--0xfda8e1b3 Marcus Goodrich
+#--disabled--0xb7039881 Joe Greene
+#--disabled--0xfdf305ec James Heenan
+#--disabled--0x873cb454 Don Hipolito
+#--disabled--0x07a12478 Matthew Hively
+#--disabled--0x6baea358 Santos Huesso
+#--disabled--0xea2cf307 Steve Jaccaud
+#--disabled--0x2766586b Kim Jaccaud
+#--disabled--0x98f9347a Kaylene Jetmore
+#--disabled--0x6bf84367 Mark Johnson
+#--disabled--0x7dc2ba1c Matt Kile
+#--disabled--0x4b583ac1 Dave Koerner
+#--disabled--0xed697eab Jason Lehman
+#--disabled--0x0bbbcd7d Andrew Miller
+#--disabled--0x09a9458c Jon Naugle
+#--disabled--0x0d26bc52 Huey Ngo
+#--disabled--0xc4e99f15 Carlos Orellana
+#--disabled--0x40bda2d7 Rashmi Raghuraman
+#--disabled--0x1f444e78 Josh Riemersma
+#--disabled--0x51ca5254 Ashley Roberts
+#--disabled--0x4b61a912 Ron Robertson
+#--disabled--0x2a66eb82 Alan Ross
+#--disabled--0x1645655d Craig Simon
+#--disabled--0x8f3721e2 Mark Sison
+#--disabled--0xe17bb9c4 Tren Sparks
+#--disabled--0x72095a33 Dave Steele
+#--disabled--0x75bffabb Ericka Sykes
+#--disabled--0x06d1490b Forrest Tarleton
+#--disabled--0x9f9fa648 Alex Wong
+#--disabled--0x210c3e10 Sam Worf
+#--disabled--0x06314756 J'Monne "Gremlin" Brown
+#--disabled--0x06314757 Robert "Neoian" Wilson
+#--disabled--0x06314758 Leo Kuma
+#--disabled--0x06314759 Shaun Kiggens
+#--disabled--0x0631475a Victor Romero
+
+
+# EA EXECUTIVE LEADERSHIP
+
+#--disabled--0x805de540 Frank Gibeau
+#--disabled--0x3fb3036e Bing Gordon
+#--disabled--0x0d4f3661 Neil Young
+
+# FINANCE
+
+#--disabled--0x502b1380 Sharon Andrews
+#--disabled--0x0ba30822 Jesse Dishart
+#--disabled--0x1038471b Andy Georg
+#--disabled--0x4bf169a1 Christina Sawyer
+
+# DEVELOPMENT PAST
+
+#--disabled--0x4ec75039 Todd Allendorf
+#--disabled--0xd2509d1b Morgan "Buddy" Betts
+#--disabled--0x3b5d6f90 Paul Boyle
+#--disabled--0x5ba660bc Claire Curtin
+#--disabled--0x14a1cad7 David (grue) DeBry
+#--disabled--0xe317b7bd Geoff Garnett
+#--disabled--0x7198e87f Chaim Gingold
+#--disabled--0x50e960d4 Ed Goldman
+#--disabled--0x94968b1b James Grieve
+#--disabled--0xb55b31b3 Joseph Knight
+#--disabled--0x2673accb Andrew Lackey
+#--disabled--0xf3583c45 Jordan Maynard
+#--disabled--0xe7e0ae0a Jane Ng
+#--disabled--0xedd85cd6 Sean O'Neil
+#--disabled--0x21fff773 Jeff Pace
+#--disabled--0xe4144e90 Jens Page
+#--disabled--0xe42c0327 Brian Sharp
+#--disabled--0x4bce51b2 Cat Sheu
+#--disabled--0x5977279a Matt Small
+#--disabled--0xfe6f00e9 Chris Trottier
+#--disabled--0x93c3d6b2 Kees van Prooijen
+
+# SPECIAL THANKS TO...
+
+#--disabled--0xc355a061 Arnson Communications
+#--disabled--0x003dc5f4 Luc Barthelet
+#--disabled--0xca7c41d5 bolt|peters
+#--disabled--0xdba8341b Shawn Conly
+#--disabled--0xb6d02eac Carter Edgerton
+#--disabled--0xdc028bb9 Sarah Flannery
+#--disabled--0xadd98e21 Jonathan Flesher
+#--disabled--0x8cfe7f4e Freestyle Interactive
+#--disabled--0x7bb5819f Ondraus Jenkins
+#--disabled--0xf4ba14db Greg Johnson
+#--disabled--0x1c574cda Jason Haber
+#--disabled--0xc56228e7 Jeb Havens
+#--disabled--0xdc624bc0 Avery Lee
+#--disabled--0xe9053595 Blake Maltby
+#--disabled--0x94c83c6c Amelia Maynard
+#--disabled--0xe9a52048 Amber Mayo
+#--disabled--0x3bf5a898 Virginia McArthur
+#--disabled--0x5e9a4552 Pat O'Brien
+#--disabled--0x2a061850 oogie
+#--disabled--0xf0d93a7f Randy Pausch
+#--disabled--0x64c94d23 Paul Pedriana
+#--disabled--0xd1eecba5 Ken Perlin
+#--disabled--0x66935895 Jonathan Sari
+#--disabled--0x3e5e3c5d Rod Swanson
+#--disabled--0xb2b5a915 Dave Sullivan
+#--disabled--0x06314997 Christian Reyes
+#--disabled--0x06314998 Wieden + Kennedy
+
+
+

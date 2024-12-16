@@ -1,0 +1,610 @@
+﻿# WARNING: This is an auto-generated file.  I wouldn't modify this file manually if I were you.  Go talk to Kai.
+
+# DEVELOPMENT TEAM
+
+0xf8994976 Rajesh Ajjanagadde
+0x1cdb1702 Brodie Andersen
+0x425bd3c6 Colin Andrews
+0x3cd33dc0 Michael Arsers
+0xb346dc4c Zach Baharov
+0xd0ea7a58 Alex Bilyk
+0x3e2d2b12 Lucy Bradshaw
+0x9f5090ef Tom Bui
+0xdd8412dc Jenna Chalmers
+0xac989011 Bryan Chan
+0x54967f49 Kai Chang
+0x958c1083 Eddy Chiang
+0xc180aec5 Yee Cheng Chin
+0x99b9e0af Lydia Choy
+0x5ddd32f9 John Cimino
+0xdd548b80 Kate Compton
+0x3e5b8e03 Michael Cormier
+0x382682f3 Dave “The Enemy of Quality” Culyba
+0x0513b364 John DeWeese
+0xcf04d125 Theresa Duringer
+0xf4eaf30f James Dong
+0xfed4b3ea Steve Eng
+0x2dcad4df Ryan Enslow
+0x640fe8f6 Mark Fong
+0x7498bd8f Sarah Jenny Fuchs
+0x305f024d Shannon Galvin
+0x6b6e7da4 Ben Gardella
+0x831f5b02 Jeff Gates
+0x3345e81a Tony Gialdini
+0xb64aaee4 Steven Gieng
+0xa5c494e4 Henry Goffin
+0x79855a34 Justin Graham
+0x153660b7 Eric “Cricket” Grundstrom
+0x3e9c1024 Chris Hecker
+0xbf285ea6 Alex Hutchinson
+0xff58d695 Ryan Ingram
+0xcaf3411b Umaru Jalloh
+0xaa4ddb53 Soren Johnson
+0x1251612d Kent Jolly
+0xd534a3e4 Kip Katsarelis
+0x03fcb02b Alex Kerfoot
+0xdbf23be9 John Khoo
+0x1bbc8ed1 Michael A Khoury
+0x2191efe7 Bob King
+0x469c9050 Ernie Lacson
+0xf35c2ab3 Alex Lam
+0x6bb3767b Serena Lam
+0x5a4ffeaa Ari Lamstein
+0xf75c314f Alex Lee
+0x30b4df16 David Lee Swenson
+0x1cfec7d0 Sean-Michael Lewis
+0x17191e79 Stone Librande
+0x92c81b1a Stephen Lim
+0x85d40315 Meghan Kane McDowell
+0x26ffaa0c Lauren McHugh
+0xf154d09d Alec Miller
+0x30a165b0 Emily Modde
+0xa4a36701 Dan Moskowitz
+0x68f0c40f Susie Moutray
+0x9a904911 Cody Murry
+0xa016a969 Wil Paredes
+0xf59289e8 Kevin Patterson
+0x699fa3cc Alexander Peck
+0x51d27f9e Bill Phelon
+0x88b6d43d Guillaume Pierre
+0x629dc207 Rob Povey
+0x838fbec3 Matt Powers
+0xebf83de5 Ocean Quigley
+0x39ee3221 Justin Quimby
+0xf7e68369 Bernd Raabe
+0xefd92dbe Morgan Roarty
+0x6cc0d42e Tobias Roberts
+0x922ed6dc Gal Roth
+0x9a0522de Holly Ruark
+0xfd160b49 Steven Sadler
+0x76ee9967 Cyril Saint Girons
+0xac0db013 Tammy Sauer
+0x6a9ad5a8 Derrick Schneider
+0x384a0802 Chris Seifert
+0x1e405d5e Jason Shankel
+0xbc57c377 Caryl D Shaw
+0x709181bf Shalin Shodhan
+0x758e0d8a Bradford J. Smith
+0x214e4606 Trevor Somers
+0x6fca9127 Christian Stratton
+0xbf1e9e04 Peter Swearengen
+0x29e0bf4c Renaud Ternynck
+0x71cca9f9 Paul Terry
+0xf184510f Eric Todd
+0x70b1c708 Conrad Tse
+0xde8d5d34 Michael Twardos
+0x4920fe9e Thomas Vu “Evil Dr Vu”
+0x36601976 Casey Weaver
+0x2780f32e Bill Willis
+0xa100ef66 Andrew Willmott
+0x2828c8c8 Will Wright
+0x23528b4a Masami Yamada
+0xe373c10e Baris Yaman
+0x4007b631 Kam Marie Zambel
+
+# INTERNS
+
+0xd3ae2221 Peter Angstadt
+0xf431be1f Toby Cabrera
+0x41e5fcab Sean Catchpole
+0x98e2378c Michael "Flux" Chang
+0x469fbc6b Louis Feng
+0xeb107195 Alfred Fuller
+0x3d4be27f Jeremy Gibson
+0xb0395c7d Michael Gorbsky
+0xe9991e91 Ben Humbertson
+0x3131cc94 Brad Patton
+0x08e941db Mike Rossmassler
+
+# MUSIC/AUDIO
+
+0x77ec0183 Peter Chilvers
+0x10794def Brian Eno
+0x41de9d27 Cliff Martinez
+0x63baccc4 Jerry Martin
+0x2d7afe7d Saul Stokes
+0xd3999e9e Marc Russo
+
+# FIELD RECORDING
+
+0xe37eafdd Aligator Farm St., FL
+0xf3a3600f Jungle Adventures, FL
+0x6bf2619d Gatorland, FL
+0x4925e5e7 Oakland Zoo, CA
+0x7459330e Predators in Action, CA
+0xcc8b9f46 Steve Martin’s Working Wildlife,CA
+0x5f9a4b1d Riddle’s Elephant and Wildlife Sanctuary, AK
+0xd473a5a2 Safari West, CA
+0x776ee6a2 Douglass Quinn
+0x9d01ca68 Ann Kroeber
+0x62edeb25 Al Nelson
+0xaaf09bdf Watson Wu
+
+# DEVELOPMENT CONTRACTORS
+
+0x256e4687 Derek Godat
+0xad085e4e Sebastian G Hyde
+0x1e970ca0 Patrick Kelly
+0xb0e42fca Morgan Lynn
+0x6bc9ce3a Brett McLaughlin
+0x1cccd8f8 Aaron McLeran
+0x4540f1e0 Ferby Miguel
+0x7765f6e1 Christian Scheurer
+0x0b6827ca Spence Snyder
+0xbb8405df Craig Schwartz
+0x8d31171d Walter Jon Williams
+
+# VOICE TALENT
+
+0x2cdc7db6 Dee Baker
+0x00eefe3d Deborah Ben Eliezer
+0xe31bcdfd Bill Cameron
+0x975d9261 Andrew Chaikin
+0xea575561 Pat Fraley
+0xd1e1a255 Roger Jackson
+0x9138f0ce Cynthia Marcucci
+
+# MARKETING
+
+0x3624ce9f Patrick Buechner
+0x07dbc3c2 Eric Chu
+0xaa2d7a54 Waddy Dacay
+0x1519191b Ulf Johansson
+0xf79f80af Kyoko Matsushita
+0x44d3c85e Darren Montgomery
+0x54c70d7f Brandon Barber
+
+# INTERNATIONAL MARKETING
+
+0x5b2fb1af Duke Chang
+0x71b31c10 Deeka Macdonald
+0x3bd73c94 Brendan Geraghty
+0xe045f6e8 Henry Robles
+0x807fcb82 Daphne Chua
+
+# CREATIVE SERVICES
+
+0xcc80c4f0 Vyn Arnold
+0x4d253962 Holden Hume
+
+# PUBLIC RELATIONS
+
+0xf9a3c4a4 Bryce Baer
+0x341008cc Tammy Schachter
+0xbdfe4dab Tiffany Steckler
+0x23805ac1 Amanda Taggart
+
+# DEVELOPMENT TESTING
+
+0x9ff68e80 Emmanuel Acevedo
+0xb07d1a36 Ian  Armstrong
+0x4eadedb3 Patrick Benjamin
+0x0d24d091 Ron “Chairman” Fernandez
+0x8ba4116a Clifton Gainor
+0x1ab7164a Calvin Gillman
+0xfe6ba6f8 Sasha Goldenson
+0x2dd8d8c4 Jason Naoki Halvorson
+0xbd9114f9 David Kertesz
+0xbb0fe586 Jeffrey “Johnny Magma” Manglicamot
+0xe460f0ee Brian Marble
+0xe1797755 Jeff Miller
+0x2d1948ea Leonard Park
+0x07615bf6 Christopher Pinder
+0xd4fc92ca Brevin Pretorius
+0x70490cb2 Jeff Rodkey
+0xc2bb9592 Kurtis Seid
+0x08e52f63 Bryce Shelton
+0x05847081 Eric Topf
+0xdb1203d9 Anthony Tunac
+0x60862e64 Michael Merwan Williams
+
+# DOCUMENTATION
+
+0xca618ae5 Daniel Davis
+
+# LOCALIZATION, ASIA
+
+0xb35e13ee Chris Ashimine
+0x2a856da8 Semin Choi
+0x31bc1fa0 Spike Do
+0x8d9e5406 Eiji Hara
+0xd3e0c567 Mitsuo Iijima
+0x7b5e6436 Hideaki Ikeda
+0x2c35b7c7 Krispol Jaijongrak
+0xf20f6e48 Leon Li
+0x65f22297 Zhiqi Li
+0x6dc2b626 Sun Liang
+0xd918146e Yun Yue Lim
+0x7f62ee14 Jason Lim
+0x543b64c2 Jerry Lin
+0x791a59ad Sky Lin
+0x376263de Ratakorn Meythangkul
+0xd44b6fc2 Junsuke Misawa
+0x2f22e09f Seiichi Nakamura
+0xbe115af2 Yuhei Nasu
+0x437f33ab Jaebum Park
+0xba10faa9 Meari Park
+0xaa2df033 Eugene Peh
+0x70aee32e Jasmine Phua
+0xe74a58a0 Mhd Luqman bin Rahim
+0xc0f48374 Kenji Ryan
+0xe3d6e86a Atsuko Saso
+0xb5a0db4f Hirohisa Sato
+0x90886140 Seven
+0xf44d4139 Yunki Shin
+0xb0fe62c0 Takeshi Sugiura
+0x68e0efe2 Hitoshi Suto
+0x41a875f6 Miki Suzuki
+0xc78a383c Takaaki Suzuki
+0x0ba98266 Ryan Tan
+0x3ec9bd5d Tuck Yee Tham
+0x7f9d9115 Marcus Tsao
+0xc5f5c2e3 Jazz Wang
+0xcb77afee Thantida Warunyaporn
+0x9ce6a8df Max Xie
+0xc6fd1847 Bonam Yoo
+
+# LOCALIZATION, EUROPE
+
+0xc093edf2 Alberto Abad Ballesteros
+0x0dcefb15 Esther Gómez Babin
+0xb780dd6c Virginia Cano Abella
+0x1b026c67 Eduardo Cocero Torres
+0x360d01f6 Juan Comesaña
+0xbb10bca3 Pablo Dopico
+0x5d4b9a3e Iker Aneiros Jarillo
+0x4f56e7d2 Maria Beatriz Silva Piovezanni
+0x87acd30f César Puerta
+0xa26102cb Ramón Santamaría Pena
+0xec09eac3 Juan Serrano Yuste
+
+# LOCALIZATION COORDINATION, EUROPE
+
+0x8e257deb Marcos Cardoso
+0x1ff69d3c Chantal Cervoni
+0x1601908c Marcin Król
+0x5460d042 Nadine Monschau
+0x7a2768f8 Audrey Demanget
+0xa56191f2 Marcel Elsner
+0x2e9cd5cd Mária Gyöngyi Nagy
+0x11ea13ae Laura Mangione
+0x4e88d66a Stefano Mozzi
+0x0566fe10 Silvia Favia
+0xb1ce7347 Andreas Pajarinen
+0x6047c348 Jakub Nowicki
+0xd6366c53 Bruno dos Santos Pereira
+0x0991a873 Pavel Rutski
+0xdc5d7984 Ana Esther Rodríguez
+
+# LOCALIZATION TESTING, EUROPE
+
+0x69249295 Ricardo Albuquerque
+0x8e8a6604 Theofanis Anestopoulos
+0xdf921405 Tatyana Apraksina
+0x75bb1d5d Babelia - Traducoes, Lda
+0x510c1c90 Thomas Baedorff
+0x7d38d4c5 Ivan Barreras
+0x5b2ad06c Giuliano Bettanin
+0x2148cfac Robert Bock
+0xe036fecf Grzegorz Bonikowski
+0xa2539ad0 Stefano Buffoli
+0x507ef220 Michael Brostrom
+0x67e086b0 CEET Ltd.
+0x1128cdae Frederic Champ
+0x602eeb93 Philippe Charel
+0xbc22d440 Estrella del Campo
+0xc39ccabd Paolo Catozzella
+0x89339f05 Alessio De Fazio
+0xd492dced Gus Díaz
+0xe8b53e9d Kim Dorff
+0xd2a9bdca Lucas Dupleix
+0x2db6225c Martin Eriksson
+0xb5e118ac EuroGreek Translations Limited
+0x7801b59c Fontolo Studio LTD
+0xdd058cae Renaud Gonzalez
+0x62cd3a0a Andreas Grabner
+0xd9009107 Ivan Gryzunov
+0x0d4be182 Romain Guilloteau
+0xab37bf19 Erik Gynnerstedt
+0x72a95e13 Stinus Højensbo
+0x39289676 Mats Holm
+0x979519df Norbert Horvath
+0xdb9a17af Antti Ikäläinen
+0x89783be5 Ricardo Izquierdo
+0x7047065f Esther Jansen
+0x5af70c9b Piotr Klinger
+0x19a8fd10 Lukas Kotrly
+0x220f0ff5 Joanna Kuczkowska
+0xf575563e Nadia Krupko
+0xa0d19ae7 Anastasiya Levshina
+0x415cd1ea Sarkhan Lyutfaliev
+0xe99e4ed8 Ismael Duran Lopez
+0xe8cd8a80 Andreas Lundgren
+0xdfd8e4ac Alessio Maccabelli
+0x93a3b45f Francisco Martinez
+0x41bfe708 Herve Mathieu
+0x69ebcb52 Vladimir Melnikov
+0x7e23ffed Liliana Morosini
+0x396b09f6 Janusz Mrzigod
+0x9ecbbd10 Kira Nepochatova
+0x3e723d18 Daniel Nilsson
+0x82754806 Tatyana Nizova
+0x303b53da Petter Notstrand
+0x4303ad94 Maxim Onischenko
+0x7bb366d7 Quoted Tradução e Localização
+0xaaa4e341 Jakub Radziminski
+0xe2aeca76 Jose Ramon Sagarna
+0x9c451c11 Tore Sand
+0xd0d29007 Jim Soedirman
+0x6b94fad1 SDI Media Netherlands
+0x836f95b6 Synthesis International S.r.l.
+0xd67299be Gergo Szendy
+0x3617a56e Shoshannah Tekofsky
+0x6fac9ed0 Salva Tintoré
+0x099d78e2 Andrea Vargova
+0x1821e3eb Walkthru, Inc.
+0x72108cae Martin Zimmermann
+
+# QUALITY ASSURANCE
+
+0x18dea784 Jeremy Acs
+0xeda3fcf7 Brian Alberson
+0x3d2fa9aa Jonathan Allard
+0x70661695 Chris Anjos
+0x3661e807 Jonathan Barinque
+0xec85fd26 Angelo Bayan
+0xab7f6bee Brian Barnes
+0xb1e4a598 Angelina "Ryshili" Bella
+0x208aae8f Robert Bierman
+0x12438ed7 Jerome Bolusan
+0x05b26596 Joey Borla
+0x327c26cf Josh Bollegar
+0xb6d9f677 J'monne "Gremlin" Brown
+0xa7320b4a Xavier Buenaventura
+0x1353e696 Dave Caron
+0xc491ea8a Aleksandre "Sancho" Chachava
+0x0ee5d9ac Jonathan "McOwner"  Choy
+0x5e80646b Bill Davis
+0xf7e7231c Ernesto De La Rosa
+0x7cc6b555 Kyle Dunham
+0x259a0588 Keith Earley
+0x0d8bd439 Sean Ellis
+0x132da62e Timothy Evans
+0xe1f4da5d Matthew Fite
+0xa8375f19 Don Foley
+0xfd87a469 Jason Fricanp
+0xcc902436 Roberto Gomez
+0x328944b7 Mark Gonzales
+0xd7313864 Brian Gorrasi
+0x312c7875 Tim Gottschalk
+0xb7039881 Joe Greene
+0xb1ba8ed1 Anthony Gruen
+0x510ecf91 Francesco Gualdi
+0xfb8944e8 Jamil Hale
+0x5b532806 Jeff Hamilton
+0x517e6f84 Allen Haybert
+0x7948b899 DJ Hipolito
+0x96e30b33 Matthew "Caesar"  Hively
+0x7a01d182 Charlie Huguenard
+0x12a84f9a Alvi Islamaj
+0xea2cf307 Steve Jaccaud
+0x5e04e61e Kaylene N. Jetmore
+0xde538260 Steve Jenkins
+0x6bf84367 Mark Johnson
+0x3f975580 Eric Keenan
+0x50b98d8c Theodore Kefalas
+0x7dc2ba1c Matt Kile
+0x8d3570ae Shaun Kiggens
+0x4b583ac1 Dave Koerner
+0xbb5fa14f Leo Kuma
+0xbbdfb81b Matt Landi
+0xeee85fac Harly Larsen
+0xe4c67bbf Joey Leblanc
+0xed697eab Jason Lehman
+0x058375c8 Linda Lemieux
+0x333b4fdd Blake Marsh
+0x8b572285 Heather Martin
+0x50eb1f21 Theo Mascardo
+0xbdb7a0bb James McBride
+0xa042f382 Ryan Morales
+0x09a9458c Jon Naugle
+0xf3c502d7 Joseph Ocampo
+0xb0a7e7ae Rame Oun
+0x6afaa334 Konstantin Perekipchenko
+0x3b41ff4c Josh Platt
+0xd7202807 Justin Polotan
+0x6fa4e17f Vanessa Powell
+0x40bda2d7 Rashmi Raghuraman
+0xf78292b6 Brandon Rees
+0x8c14cd62 Stephanie Refuerzo
+0x1f444e78 Josh Riemersma
+0xef552502 Victor Romero
+0x1645655d Craig Simon
+0x8f3721e2 Mark Sison
+0x35914daa Eugene Smilovitsky
+0xe17bb9c4 Tren Sparks
+0x72095a33 Dave Steele
+0xa43a087c Scott Stockwell
+0x75bffabb Ericka Sykes
+0xc013c00d Forrest T. Tarleton
+0x611384d7 Raymond Tam
+0xa461e28c Eric Tiongo
+0x80a80267 Raul Tobias
+0xb9eae1c7 Duran Walker
+0x22a9f6cb Robert "Neoian" Wilson
+0x9f9fa648 Alex Wong
+0x210c3e10 Sam Worf
+0xae95633f Jing Zhao
+0x86b492f7 Yu Chen Zheng
+
+# EA CERT
+
+0xe2489b9b Rene  Apperley
+0x4f4d8b19 James  Arup
+0x2bb032ac Sherwyn Augustus
+0xa13b746e Earl Baker
+0x604ccd4f Stephen  Baker
+0x61f97ad4 Dave Beck
+0x357a50a7 James Bolton
+0x9885d651 Matt Bright
+0xde9b084e Phil Brown
+0x7f6568e7 Mike Bullen
+0x40632c3e Collin Carey
+0xdfee5b2b Pedro Castro
+0xb6ec15b7 Sandra Champanhet
+0xcccbba6a Lawinjeya Chandrakumarb
+0x66351937 Kwang-Hi Cho
+0x09c92d76 Andy Chung
+0x0a226b1d Nic Cobb
+0x1a651930 Jason Collins
+0xe3e56cae Steve Cook
+0x8f705063 Rob Cooke
+0x1eff9e53 Benjamin Crick
+0x518e5c67 Ricardo De Avila
+0xf9557b92 Lawrence Donohue
+0x9020f8fd James Featherstone
+0x9bcfa08b Mike Fenton
+0x032b33b3 David Fielding
+0xbd3a16ea Seferino Gallardo
+0x6a622d5a Eron Garcia
+0xb6eb4dfd Juan Antonio Garcia de Quinto
+0x3d0154f5 Laura George
+0xc8b8aac9 Daniel Green
+0xed6543e0 Wes Hendrix
+0xa083b4d7 Allen Horton
+0x6e2867fc Joseph Huggett
+0x001df2a3 Morgan Hughes
+0xcf1535f0 Errol Ismail
+0x2352f51b Ben Jackson
+0xa18dedba Ryan Jacobson
+0x4104f675 Darryl Jenkins
+0x9e0ff313 Harry Kashouli
+0xd32fcf59 Amy Kenah
+0x74893f6e Kyle Killion
+0xade2d11f Mike Kushner
+0x67153e28 Raymond Langford
+0xcdb830eb Alex Lawson
+0xe3634dbf Conrad Leiden
+0x24e66be8 Matt Loft
+0x06eada3e Damon Lumley
+0x98ab3e05 Anh Luong
+0xbe0dd0b1 Daniel Martell
+0x5c7df265 Shaun McCourt
+0xcd5005d3 Adam McIntosh
+0xe4c08f37 Russell Medeiros
+0xb85060e9 James Melling
+0x69d14a14 Garrett Muldoon
+0xd238fc52 Mitchell Munter
+0x00bb53b2 Stuart Oswald
+0xd08c3bd5 Dee Patel
+0x312b8774 Eduardo Ponz
+0x738d93ee Andy Pritchard
+0xffb8c302 Lucas Richard
+0x5464dbd7 Ryan Roque
+0x89851b16 Joyce Sacman
+0xc29bdada Joaquin Sanz Jimenez
+0x5c4f73a5 Seb Serrano
+0xdc1a1272 Chance Shiflett
+0xa0dfd429 Richard Silva
+0x2ea1501f Julie Staub
+0x00b49da7 Jonas Stockfleth
+0xa011f6f7 Chris Strong
+0xe00c18b3 Timo Tolonen
+0xa3f4ac72 Eduardo Varela
+0x0fa2e20a Robin Volker
+0xdb623d22 Tim Wileman
+0xc3ccaddd Bobby Williams
+
+# EA EXECUTIVE LEADERSHIP
+
+0x805de540 Frank Gibeau
+0x0d4f3661 Neil Young
+
+# FINANCE
+
+0x502b1380 Sharon Andrews
+0x0ba30822 Jesse Dishart
+0x1038471b Andy Georg
+0x4bf169a1 Christina Sawyer
+
+# DEVELOPMENT PAST
+
+0x4ec75039 Todd Allendorf
+0xd2509d1b Morgan "Buddy" Betts
+0x3b5d6f90 Paul Boyle
+0x5ba660bc Claire Curtin
+0x14a1cad7 David (grue) DeBry
+0xdc028bb9 Sarah Flannery
+0xe317b7bd Geoff Garnett
+0x7198e87f Chaim Gingold
+0x50e960d4 Ed Goldman
+0x94968b1b James Grieve
+0x68e6753a April Jones
+0x2673accb Andrew Lackey
+0xf3583c45 Jordan Maynard
+0xe7e0ae0a Jane Ng
+0xedd85cd6 Sean O'Neil
+0x21fff773 Jeff Pace
+0xe4144e90 Jens Page
+0xe42c0327 Brian Sharp
+0x4bce51b2 Cat Sheu
+0x5977279a Matt Small
+0xfe6f00e9 Chris Trottier
+0x93c3d6b2 Kees van Prooijen
+
+# SPECIAL INSPIRATION PROVIDED BY:
+
+0x78d2a7ca Dan Bunten
+0xc355a061 Arnson Communications
+0x003dc5f4 Luc Barthelet
+0xca7c41d5 bolt|peters
+0x62efb2c4 Daniel Bunten
+0xdba8341b Shawn Conly
+0xdac1130e Hillary Dixon
+0xb6d02eac Carter Edgerton
+0xadd98e21 Jonathan Flesher
+0xb8d55b0e Ron Gerhards
+0x4b9d629b Andrew Green
+0x8cfe7f4e Freestyle Interactive
+0x7bb5819f Ondraus Jenkins
+0xa2c907cf Greg Johnson
+0xdc624bc0 Avery Lee
+0x2bd247a1 Felipe Lenero
+0xe9053595 Blake Maltby
+0x94c83c6c Amelia Maynard
+0xe9a52048 Amber Mayo
+0x6ea1e419 Kevin McGloin
+0x90a7f57f Patrick McMorris
+0x73e15e6e Pat O’Brien
+0x2a061850 oogie
+0xf0d93a7f Randy Pausch
+0x64c94d23 Paul Pedriana
+0xd1eecba5 Ken Perlin
+0xfb181067 Greg Salter
+0x66935895 Jonathan Sari
+0x3e5e3c5d Rod Swanson
+0xb2b5a915 Dave Sullivan
+0x0a3de65a Weiden+Kennedy
+0xedd4f94a Tony White
+
+

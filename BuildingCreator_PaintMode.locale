@@ -1,0 +1,66 @@
+﻿0x00000011 ~guide: -image-left-h1 0x05556b31!Paint.png~ Paint Mode
+
+0x00000021 ~guide: -h3~ Painting Your Building
+
+0x00000031 ~guide: -h2~ Now that you've created the perfect building, it's time to add a little color.  Select Paint Mode at the top of the Building Creator. The Paint Palette will open on the right of the Building Creator Screen.
+
+0x00000041 ~guide: -h1~ You can paint your building in one of three ways:
+
+0x00000051 ~guide: -bullet~ Complete Styles - just one click and your building will take on the style of the sample image in the Complete Styles Palette.
+
+0x00000071 ~guide: -bullet~ Partial Styles -  allows you to apply specific textures and colors of your choice in three regions: walls and roofs, windows and doors, and details.
+
+0x00000081 ~guide: -h2~ or
+
+0x00000091 ~guide: -bullet~ Paint Brush Mode - allows you to customize the textures and colors for each region on each individual building block.
+
+0x000000a1 ~guide: -h1~ Paint Like
+
+0x000000b1 ~guide: -h2~ You also have an option to paint your buildings to match other buildings  you have created yourself or shared with  friends.  Or even paint your building like a creature!
+
+0x000000c1 ~guide: -bullet~ Select the Paint Like option in the Complete Styles Palette to access the Sporepedia.
+
+0x000000d1 ~guide: -bullet~ Select the creation whose paint style you'd like to copy and click the green check mark.
+
+0x000000e1 ~guide: -bullet~ When you return to Paint Mode your building will be painted with your style selection.
+
+0x000000f1 ~guide: -h1~ Partial Styles
+
+0x00000111 ~guide: -h2~ You can choose one style for each region.   You can also choose the color of each region.  One tip: Choose the style first and the color second.
+
+0x00000121 ~guide: -h3~ There are three regions:
+
+0x00000131 ~guide: -bullet~ Walls and Roofs  - paints all wall and roof parts
+
+0x00000141 ~guide: -bullet~ Window and Doors - paints all window, door, connector and function parts
+
+0x00000151 ~guide: -bullet~ Details - paints all detail and effect parts
+
+0x00000161 ~guide: -h3~ Customize Pattern Colors:
+
+0x00000171 ~guide: -bullet~ Select one of the pattern swatches.
+
+0x00000181 ~guide: -bullet~ Click and hold a paint swatch in the color palette to see more color options, then drag your cursor to the color you want and select and release.
+
+0x00000191 ~guide: -h1~ Paint Brush Mode
+
+0x000001a1 ~guide: -h2~ Paint Brush Mode allows you to paint the regions of each individual building block separately.
+
+0x000001b1 ~guide: -h3~ Paint Brush Steps
+
+0x000001c1 ~guide: -bullet~ Select a pattern swatch, you will see it appear alongside the color palette selector.
+
+0x000001d1 ~guide: -bullet~ Most pattern swatches have a primary and secondary color.  Chose one color from the top row of the color palette selector and another color from the bottom row of the palette color selector.
+
+0x000001e1 ~guide: -bullet~ Move your cursor to your building, it will appear as a paint bucket over to your building.  Areas of your building will outline in blue, this is the area that will be painted when you click.  Click to paint the area you wish with your pattern.
+
+0x000001e2 ~guide: -bullet~ To paint all regions of the selected block, hold the shift key.
+
+# 0x000001f1 ~guide: -h3~ Paint Brush Mode Advanced Features
+
+# 0x00000201 ~guide: -h2~ Painting Multiple Blocks or Regions
+
+# 0x00000211 ~guide: -bullet~ Press the 1 key.  Hold the Control key and place your paint bucket over a block, the region that will be painted will highlight, as well as that same region on all IDENTICAL blocks.  Click to paint that region on all block simultaneously.
+
+# 0x00000221 ~guide: -bullet~ Press the 2 key.  Hold the Control key and place your paint bucket over a block region to select all like similar regions on ALL blocks.  Click to paint all of the outlined regions simultaneously.
+

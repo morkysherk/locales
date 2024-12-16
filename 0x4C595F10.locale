@@ -1,0 +1,72 @@
+﻿0x00000011 ~guide: -h1~ Welcome to the Vehicle Creator
+
+0x00000021 ~guide: -bullet~ Enter the Vehicle Creator during the Civilization stage from the City Planner, during the Space Stage via the Colony Planner, or via Create option in the Spore Galaxy entry.
+
+0x00000031 ~guide: -bullet~ There are three types of vehicles; land, sea and air.
+
+0x00000041 ~guide: -bullet~ A Vehicle's specialty matches its city's specialty of Military, Religious or Economic.  The specialty will determine the types of parts you can place on your vehicle.
+
+0x00000061 ~guide: -bullet~ Your vehicle's design impacts its performance in the game. You will have a limited number of parts you can add to your vehicle.  You can distribute these parts in each of the vehicle capability categories; Health, Power and Speed.
+
+0x00000071 ~guide: -h3~ The Vehicle Creator Modes.
+
+0x00000081 ~guide: -image-left 0x05556b31!piemenu-button-edit-norm2.png~ Build Mode - where you build and detail vehicles.
+
+0x00000091 ~guide: -image-left 0x05556b31!button_mode-paint-norm.png~ Paint Mode - where you paint your vehicles.
+
+0x000000a1 ~guide: -h2~ Each time you enter the Vehicle Creator you begin in Build Mode.
+
+0x000000b1 ~guide: -h1~ Some Essentials
+
+0x00000101 ~guide: -bullet~ To switch between the two creator modes, click on the buttons positioned at the top center of the Creator screen.
+
+0x00000111 ~guide: -bullet~ Every vehicle must have at least two things before you can save and exit the Vehicle Creator; at least three parts and a name.
+
+0x00000121 ~guide: -h3~ Camera Controls
+
+0x00000131 ~guide: -h4~ Camera Rotate
+
+0x00000141 ~guide: -image-left 0x05556b31!rotate1.png~ The rotate buttons rotate the camera around your vehicle.
+
+0x00000151 ~guide: -bullet~ Or, hold any mouse button and drag on the background to rotate
+
+0x00000161 ~guide: -bullet~ The &lt; and &gt; keys also rotate the camera
+
+0x00000171 ~guide: -h4~ Camera Zoom
+
+0x00000181 ~guide: -image-left 0x05556b31!zoom1.png~ Zooms the camera in and out
+
+0x00000191 ~guide: -bullet~ Or, hold down the Shift key and scroll the middle mouse wheel to zoom in and out
+
+0x00000201 ~guide: -bullet~ The + and - keys also zoom in and out
+
+0x00000211 ~guide: -h3~ Undo/Redo
+
+0x00000221 ~guide: -image-left 0x05556b31!CE_button-undo-redo.png~ You can undo or redo any action or series of actions you take using the undo or redo buttons.
+
+0x00000231 ~guide: -h1~ Name and Describe
+
+0x00000241 ~guide: -h2~ Every vehicle needs a name.  Click on the Name Your (vehicle type) to give it a name, you can add a brief description and tags as well.
+
+0x00000251 ~guide: -h1~ Saving Vehicles
+
+0x00000261 ~guide: -h2~ Click the green check mark when you have finished creating your Vehicle.
+
+0x00000271 ~guide: -bullet~ If you entered the Vehicle Creator from either the City or Colony Planner, you will return to the planner.
+
+0x00000281 ~guide: -bullet~ If you enter the Vehicle Creator from the Create option, Save and Exit will take you to the Sporepedia.
+
+0x00000291 ~guide: -h1~ Cancel
+
+0x00000301 ~guide: -h2~ If you don't want any of the modifications you have made in the Vehicle Creator, click on the Cancel button.
+
+0x00000311 ~guide: -h1~ Additional Options
+
+0x00000321 ~guide: -h2~ If you enter the Vehicle Creator from Create, you will have a few additional options.
+
+0x00000331 ~guide: -bullet~ New Creation - Clears any work you have done and gives you a fresh, empty dais.
+
+0x00000341 ~guide: -bullet~ Save - Saves a work in progress.  It will not exit the Vehicle Creator.
+
+0x00000351 ~guide: -bullet~ Share - After you save a Vehicle, click this button to send it to the Spore servers and share your creation with other Spore players.
+

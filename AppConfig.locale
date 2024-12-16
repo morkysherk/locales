@@ -1,0 +1,16 @@
+﻿# These strings correspond with the error ids found in SPCommonOptionIDs.h
+
+0x000003e8 Another instance of the game is already running.
+0x000003e9 Could not start the renderer.~br~Please ensure your display is set to 32 bit color.
+0x000003ea Could not create the Graphics Device.~br~Direct X is not available.
+0x000003ec The game cannot find data files necessary to run.~br~Reinstallation may be neccessary.
+0x000003ed Sorry, App-Controlled Antialiasing must be set~br~ from the Video Card Control Panel.~br~~br~The game will not run.~br~Please see the README for details.
+
+0x000003f2 An older video driver is detected.~br~~br~To ensure correct visuals and gameplay,~br~installing the latest video driver is recommended.
+0x000003f3 An older video driver is detected.~br~~br~To ensure correct visuals and gameplay,~br~installing the latest video driver is recommended.
+0x000003f4 An older video driver is detected.~br~~br~To ensure correct visuals and gameplay with multiple gpus,~br~installing the latest video driver is required,~br~or multiple gpu mode must be disabled.~br~The game will not run.~br~Please see the README for details.
+
+0x000007d0 Configuration Script Failed.
+0x000007d1 Sorry, your graphics card is below our min spec.~br~The game will not run.~br~Please see the README for details.
+0x000007d2 Sorry, your graphics card is below our min spec.~br~The game will attempt to run but may fail or perform poorly.~br~Please see the README for details.
+0x000007d3 The game may run out of address space with some configurations~br~and video cards, resulting in stability problems.~br~~br~It is recommended that you install the latest Windows Vista Service Pack~br~and check for updated video drivers.~br~~br~For details see the Microsoft Knowledge Base article~br~~br~    http://support.microsoft.com/default.aspx/kb/940105~br~~br~

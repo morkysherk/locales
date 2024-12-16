@@ -1,0 +1,55 @@
+﻿#Editor name
+0x04d94893 Creature
+#Default model name
+0x04d93065 ~blank text~
+#Naming prompt
+0x0537185f Name Your Creature
+
+#Category Name - Arms & Legs
+0xa0325a4f Arms & Legs
+
+#Category Name - Details
+0xde8f240b Details
+
+#Category Name - Eyes & Senses
+0x7f466450 Eyes & Senses
+
+#Category Name - Feet
+0x9d62e363 Feet
+
+#Category Name - Graspers
+0x91ca5e8c Graspers
+
+#Category Name - Mouths
+0x887c91bb Mouths
+
+#Category Name - Weapons
+0x228d8f36 Weapons
+
+#Category Name - Cell To Creature Legs
+0x0641749a Legs
+
+#Page Name - Arms & Legs
+0x3f6ae97c Arms & Legs
+
+#Page Name - Details
+0x763d2bab Details
+
+#Page Name - Eyes & Senses
+0x4ced1fe2 Eyes & Senses
+
+#Page Name - Feet
+0xc09f1a0f Feet
+
+#Page Name - Graspers
+0xdd191a74 Graspers
+
+#Page Name - Mouths
+0x4a73c8f1 Mouths
+
+#Page Name - Weapons
+0x86729e2c Weapons
+
+#Page Name - Cell
+0xdfad9f51 Cell
+

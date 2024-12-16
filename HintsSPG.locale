@@ -1,0 +1,42 @@
+﻿
+# spg-zoomsolar.prop
+0xc0f3d187 Use <hinticon> or the mouse wheel to exit to the solar system.
+
+# spg-zoomgalaxy.prop
+0x935db087 Use <hinticon> or the mouse wheel to exit to the galactic view.
+
+# spg-flight101-abduct.prop
+0xaaaaf653 Select your abduction tool, then abduct one of the diseased animals.
+
+# spg-flight101-dropoff.prop
+0xd2ba2dcc Select the animal in your cargo hold then click left mouse button to drop it off in a city.
+
+# spg-gasgiant.prop
+0x05d15264 You can't approach a gas giant, it's too dangerous.
+
+# spg-idle.prop
+0x04f5a823 Click the right mouse button or use the arrow keys to fly your spaceship.
+
+# spg-fly.prop
+0x065688dd Click the right mouse button or use the arrow keys to fly your spaceship.
+
+# spg-altitude.prop
+0x0656887f Use your mouse wheel or press the +/- keys to change your spaceship's height.
+
+# spg-opencommfirstmissioncomplete.prop
+0xc5b7e00a Click on <hinticon> to communicate with the planet. 
+
+# spg-opencommfirsttime.prop
+0xf62dfaf2 Click on <hinticon> to communicate with planet.
+
+# spg-solarmove.prop
+0xca4e04a1 Click on another planet to fly to it.
+
+# spg-startravel.prop
+0x40bf264d Click on a star to fly to it.
+
+# spg-terraformmission-missingfauna.prop - hintText
+0x1b8bbdef Abduct animals from other planets to fill the foodweb.  
+
+# spg-terraformmission-missingflora.prop - hintText
+0x1b8bbdee Abduct plants from other planets to fill the foodweb.

@@ -1,0 +1,84 @@
+﻿##############################
+#########
+# Tutorial cinematics
+
+0x0000010A Your tribe now dominates this continent, ready to advance from simple village life to civilized city living ahead of the rest!
+0x0653adad You are about to enter Civilization.
+0x0000010D The age of technology and transportation has arrived! Your city is the first to appear on the planet, but your species no longer speaks with a single voice...soon other cities will arise, built by factions of your own species. You must unify to advance.
+0x00000213 Look for a nearby spice geyser like this one, then click on it to send your vehicle to claim it. Spice has become a valued commodity, mining it will help fill the coffers of your nation.
+0x00000400 Another tribe of your species has built a city on your continent! You may want to conquer them while they are still weak or attempt to make them an ally. 
+0x00000403 Congratulations! You've claimed your first spice geyser. This spice derrick will send a steady stream of income to your nation.
+0x00000710 Your city is under attack. Defend your city by placing turrets, adding buildings, and increasing your happiness.
+0x00000108 Your only city was captured.
+
+# Upgrades
+0x00000601 Your industrious science staff has mastered the water wheel and the mechanical conveyor! We can now build vessels to conquer the seas!
+0x00000603 Success! Even the mighty wind now obeys our technology! The aero funnel and vortex tube will allow you to build vehicles that float and spiral miles above the surface of our planet!
+0x00000605 Astounding news! We have finally defeated gravity! Space travel is now a reality. All it requires is your input on the design for the new craft.
+
+# capture - keep
+0x00000803 You've captured this military city by military means. It will remain a military city.
+0x00000804 You've converted this religious city to your religion. It will remain a religious city.
+0x00000805 You've purchased this economic city by economic means. It will remain an economic city.
+
+# capture - first, change
+0x00000900 You've captured this religious city by military means. If you keep this specialty you should target cities with low happiness in order to convert their citizens. Choose the city's specialty.
+0x00000901 You've captured this economic city by military means. Economic Cities can establish trade routes to manage your relationships and eventually buy other cities. Choose the city's specialty.
+0x00000902 You've converted this military city by religious means. If you keep this specialty you can build military vehicles to conquer other cities. Choose the city's specialty.
+0x00000903 You've converted this economic city by religious means. Economic Cities can establish trade routes to manage your relationships and eventually buy other cities. Choose the city's specialty.
+0x00000904 You've bought out this military city. If you keep this specialty you can build military vehicles to conquer other cities. Choose the city's specialty.
+0x00000905 You've bought out this religious city. If you keep this specialty you should target cities with low happiness in order to convert their citizens. Choose the city's specialty.
+
+# capture - not first, change
+0x00000906 You've captured this religious city by military means. Choose the city's specialty.
+0x00000907 You've captured this economic city by military means. Choose the city's specialty.
+0x00000908 You've converted this military city by religious means. Choose the city's specialty.
+0x00000909 You've converted this economic city by religious means. Choose the city's specialty.
+0x00000910 You've bought out this military city. Choose the city's specialty.
+0x00000911 You've bought out this religious city. Choose the city's specialty.
+
+0x00000300 Military
+0x00000301 Religious
+0x00000302 Economic
+0x00000303 Military
+0x00000304 Religious
+0x00000305 Economic
+
+# superweapons
+0x00000700 Your ICBM has conquered the world.
+0x00000701 Your Messiah has conquered the world.
+0x00000702 Your Global Merger has conquered the world.
+
+
+# Not In use
+0x00000102 [[[[[NOT IN USE]]]]] Your goal is to conquer, convert or purchase every city on this planet. Continued conquest will lead to new vehicle types and eventually to the space age.
+0x00000103 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x0000011E [[[[[NOT IN USE]]]]] Now that the city is yours, you can rename it here if you like.
+0x00000120 [[[[[NOT IN USE]]]]] You've captured a city!
+0x00000401 [[[[[NOT IN USE]]]]] Choose this city's specialization:
+0x00000602 [[[[[NOT IN USE]]]]] We also believe there are applications for this technology that may eventual propel our nation into space. Continue your conquests!
+0x00000604 [[[[[NOT IN USE]]]]] Better still, this technology has allowed us to take another step toward the stars, but we will need to conquer or ally ourselves with several more cities if we wish to succeed. Continue your advances!
+0x00000606 [[[[[NOT IN USE]]]]] At your earliest convenience you should construct a ship worthy of our species and send it outside of this planet to explore the universe.
+0x00000501 [[[[[NOT IN USE]]]]] Your civilization has specialized in military. Now that your population has reached 40 you can build your first military vehicle.
+0x00000502 [[[[[NOT IN USE]]]]] Your civilization has specialized in religion. Now that your population has reached 40 you can build your first religious vehicle. Target unhappy cities to convert them.
+0x00000503 [[[[[NOT IN USE]]]]] Your civilization has specialized in economics. Now that your population has reached 40 you can build your first economic vehicle. Establish trade routes, manage your relationships and buy other cities to progress.
+0x00000109 [[[[[NOT IN USE]]]]] Congratulations you've conquered your planet! Click on your city hall to launch a spaceship and explore space!
+0x00000104 [[[[[NOT IN USE]]]]] Your city has grown! New vehicle types are available for purchase!
+0x0000010E [[[[[NOT IN USE]]]]] ~blank text~
+0x0000010F [[[[[NOT IN USE]]]]] ~blank text~
+0x00000110 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000111 [[[[[NOT IN USE]]]]] ~blank text~
+0x00000212 [[[[[NOT IN USE]]]]] This is the first vehicle in your fleet. Your first task is to send it to claim a spice node.
+0x0000010C [[[[[NOT IN USE]]]]] ~blank text~
+0x00000402 [[[[[NOT IN USE]]]]] Another tribe has built a city on your continent! You may want to conquer them while they are still weak or choose to make them an ally.
+
+
+# Deleted
+0x00000114 DELETED
+0x0000011F DELETED
+0x00000500 DELETED
+0x00000600 DELETED
+0x00000100 DELETED
+0x00000101 DELETED
+0x00000112 DELETED
+0x00000113 DELETED

@@ -1,0 +1,236 @@
+﻿# Creature Game Localized Text
+
+# minimap
+0x0658f2d0 Home Nest
+0x0658f2d1 New Nest
+0x0658f2d2 Old Nest
+0x0658f2d3 Unknown Species
+
+# con
+0xf32fe51b Alpha ~local_creature_name~
+0xb32fe522 Baby ~local_creature_name~
+0x0564e650 Pet ~local_creature_name~
+0x0595b72b Epic ~local_creature_name~
+0x94acb6f7 Rogue ~local_creature_name~
+
+# posse ui title
+0x937c25e9 Pack
+
+# Species creator
+0xb3daed77 By ~creator~
+0x73db4258 By SporeTeam
+
+#########################################################################
+### Mission Cards
+###
+### Card Text Key
+### Text 1 - Title in Mission Log Button:  This title can be little longer and include the name of an asset
+### Text 2 - Title on the Mission Card: This title should be very short (one word) and not contain any asset names due to limited space & localization
+### Text 3 - The first text on the Mission Card, displayed on the collapsed version.  Ideally this fits on 1 mission card line, 3 lines is the preferred max.
+### Text 4 - The second text on the Mission Card, displayed on the collapsed & expanded versions.  
+### Text 5 - The body text in the Mission Log.  This can be the most detailed and has plenty of space.  Often a duplicate of Text 4.
+###
+### Tokens
+### ~target_species_crg~ - The species associated with this mission
+### ~mission_remaining_crg~ - The number of things (kills, befriends) you need to do complete the goal.
+###~mission_cumu_goal_crg~ - The total number of things (kills, befriends) you need to do complete the goal, including what you've already done.
+#########################################################################
+
+# Social Card - Player has learned about posse
+0x064d4030 Impress ~target_species_crg~
+0x064d4031 Impress
+0x064d4032 Impress ~mission_remaining_crg~ ~target_species_crg~ to ally.
+0x064d4033 Once allied with this species you can heal at their nest and eventually add them to your pack.
+0x064d4034 Once allied with this species you can heal at their nest and eventually add them to your pack.
+
+# Social Card - Player has NOT yet learned about posse
+0x064d4035 Impress ~target_species_crg~
+0x064d4036 Impress
+0x064d4037 Impress ~mission_remaining_crg~ ~target_species_crg~ to ally.
+0x064d4038 Once allied with this species you can heal at their nest.
+0x064d4039 Once allied with this species you can heal at their nest.
+
+# Social Card - Hostile Species
+0x064d403a Impress ~target_species_crg~
+0x064d403b Impress
+0x064d403c You cannot impress the ~target_species_crg~! 
+0x064d403d Some species are innately hostile, or your actions have turned them permanently against you. Beware!
+0x064d403e Some species are inately hostile, or your actions have turned them permanently against you. Beware!
+
+# Social Card - Allies - Player has learned about posse
+0x064d403f Impress ~target_species_crg~
+0x064d4040 Impress
+0x064d4041 The ~target_species_crg~ are your allies!
+0x064d4042 You can heal at their nest or add them to your pack! 
+0x064d4043 You can heal at their nest or add them to your pack! 
+
+# Social Card - Mini Boss
+0x064d4044 Impress ~target_species_crg~
+0x064d4045 Impress
+0x064d4046 Impress this ~target_species_crg~ to gain a powerful ally.
+0x064d4047 This unique creature is much larger and more powerful than most other species.
+0x064d4048 This unique creature is much larger and more powerful than most other species.
+
+# Social Card - Allies - Player has NOT yet learned about posse
+0x064d4049 Impress ~target_species_crg~
+0x064d404a Impress
+0x064d404b The ~target_species_crg~ are your allies!
+0x064d404c You can heal at their nest! 
+0x064d404d You can heal at their nest! 
+
+# Combat Card
+0x064d404e Hunt ~target_species_crg~
+0x064d404f Hunt
+0x064d4050 Hunt ~mission_remaining_crg~ ~target_species_crg~
+0x064d4051 Hunt this species and eventually extinct them. 
+0x064d4052 Hunt the ~target_species_crg~ to dominate them, and eventually extinct them. 
+
+# Combat Card - Mini Boss
+0x064d4053 Hunt ~target_species_crg~
+0x064d4054 Hunt
+0x064d4055 Hunt this ~target_species_crg~ for a large DNA bonus.
+0x064d4056 This unique creature is much larger and more powerful than most other species.
+0x067394f7 This unique creature is much larger and more powerful than most other species.
+
+# Combat - Extinct
+0x064d4057 Hunt ~target_species_crg~
+0x064d4058 Hunt
+0x064d4059  The ~target_species_crg~ species is extinct!
+0x064d405a  The ~target_species_crg~ species is extinct!
+0x064d405b The ~target_species_crg~ species is extinct!
+
+# Save Baby
+0x064d405c Save Baby!
+0x064d405d Save Baby!
+0x064d405e Lead the baby safely back to your nest to save it.
+0x064d405f A ~target_species_crg~ has trapped a baby from your species! 
+0x06739532 A ~target_species_crg~ has trapped a baby from your species! 
+
+# Build Artifact
+0x064d4060 Build the Artifact!
+0x064d4061 Build the Artifact!
+0x064d4062 Collect all the pieces of the mysterious artifact.
+0x064d4063 You have discovered objects that emit a strange mystical aura to your species. Collect them all to build an icon!
+0x064d4064 You have discovered objects that emit a strange mystical aura to your species. Collect them all to build an icon!
+
+# Goal card progress
+0x53b644df ~mission_progress_crg~/~mission_cumu_goal_crg~
+
+# Combat text messages
+0x739a4e05 You are too close
+0xd39a5768 That ability is not ready yet
+0xf538b6fd You must be in combat to use that ability
+0x3538b712 You can only use that ability during a performance
+0x06778bac You have already impressed that creature
+
+# Claim Nest
+0xd538b78f Would you like to make this nest your home?  You will be reborn here if you die.
+
+# Social text messages
+
+# Player clicks disabled social button
+0xf4211908 Click on a creature to begin socializing with them
+# First time socializing
+0xf4211909 Mimic the other creature to impress them
+
+# Reward text for all cards
+0x050a34ca Reward: ~reward_evo_crg~ DNA
+
+# Eating_Carnivore Goal Card
+0x0509f9d9 Eat
+0x0509f9da Carnivores eat meat to survive. Hunt prey or find a carcass and click it to eat.
+0x0524d324 You're a carnivore. Hunt prey to eat.
+
+# Eating_Herbivore Goal Card
+0x0509f9db Eat
+0x0509f9dc Herbivores eat fruit to survive. Find fruit on trees or bushes and click it to eat.
+0x0524d325 You're an herbivore. Eat a Fruit.
+
+# Eating_Omnivore Goal Card
+0x0509f9dd Eat
+0x0509f9de Omnivores have a varied diet. Find a carcass or fruit and click it to eat.
+0x0524d326 You're an omnivore. Eat Fruit or Meat.
+
+# Find_NPC Goal Card
+0x0509fb92 Creatures
+0x0509fb93 Find a member of another species and click on them!
+0x0524d328 Meet another Species.
+
+# Find_Mate Goal Card
+0x0509fc4e Mate
+0x0509fc4f Call to find the location of your mate and then click on them to enter the creature creator!
+0x0524d329 Locate your Mate!
+
+# Add_Posse Goal Card
+0x0509fc96 Pack Members
+0x0509fc97 Add a member of your species or an allied species to your pack by impressing them.
+0x0524d32a Add a Pack Member.
+
+# Migrate Goal Card aka Find Your Mate
+0x0514f98e Migrate
+0x0514f993 Your species has moved to another nest.  Use your call and follow the trails to find them!
+0x0524d32c Migrate to a new nest.
+
+# Migrate Goal Card aka Find Your Mate
+0x0546ab9a Evolve
+0x0546ab9e Evolve your species by clicking the Advance button to form a tribe and start your civilized life.
+0x0546aba4 Form a Tribe!
+
+# Find Unlocks Card - First Part
+0x06035a51 Collect A Part
+0x06035a52 Hunt or befriend Alpha creatures to unlock new parts or find parts in Skeletons.
+0x06035a53 Find a new part to evolve.
+
+# Find Unlocks Card
+0x54d958ab Collect
+0x54d958ac Hunt or befriend Alpha creatures to unlock new parts or find parts in Skeletons.
+0x54d958ad Find new parts to evolve.
+
+# CELL Find Unlocks Card
+0xf4daf5c9 Collect
+0xf4daf5ca Hunt cells or break open meteor shards to unlock new parts.
+0xf4daf5cb Unlock Cell Parts
+
+# Hints
+0x142cd4f2 Remember that carnivores should only eat meat and herbivores should only eat fruit!
+
+0x057736c3 Click <hinticon> to create a Tribe 
+
+# crg-locatemate.prop
+0x200afd34 Click on <hinticon> to locate your mate
+
+# crg-lowhealth.prop
+0x91a0449f You've been hurt! Return to your nest to heal
+
+# crg-notarget.prop
+0x79e8f4c5 You don't have a target
+
+# crg-spitclose.prop
+0x30a611e9 You're too close
+
+# crg-verbcharge.prop
+0x6859aede That ability is not ready
+
+# crg-useabilitybite.prop
+0xc88f53c8 Click <hinticon> to learn to bite
+
+# crg-useabilitycharge.prop
+0x3424ce42 Click <hinticon> to learn to charge
+
+# crg-useabilitydance.prop
+0xb6e01de9 Click <hinticon> to learn to dance
+
+# crg-useabilitygesture.prop
+0x7f48d101 Click <hinticon> to learn to charm
+
+# crg-useabilityposture.prop
+0x8693a0fc Click <hinticon> to learn to posture
+
+# crg-useabilitysing.prop
+0x7c56fdab Click <hinticon> to learn to sing
+
+# crg-useabilityspit.prop
+0xd6fd3dec Click <hinticon> to learn to spit
+
+# crg-useabilitystrike.prop
+0x14e9f748 Click <hinticon> to learn to strike

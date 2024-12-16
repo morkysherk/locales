@@ -1,0 +1,75 @@
+﻿
+#limb_assembly_exo_l_01.prop - blockName
+0x75a5d2dc Locust Legs
+
+#limb_assembly_exo_l_02.prop - blockName
+0x75a5d2df Plated Muscle
+
+#limb_assembly_exo_l_03.prop - blockName
+0x75a5d2de Spikependage
+
+#limb_assembly_exo_l_04.prop - blockName
+0x75a5d2d9 Armored Bones
+
+#limb_assembly_exo_l_05.prop - blockName
+0x75a5d2d8 Bugleg
+
+#limb_assembly_exo_l_06.prop - blockName
+0x75a5d2db Grouchyspike
+
+#limb_assembly_exo_l_07.prop - blockName
+0x75a5d2da Centilegs
+
+#limb_assembly_exo_l_08.prop - blockName
+0x75a5d2d5 Layered Limb
+
+#limb_assembly_exo_l_09.prop - blockName
+0x75a5d2d4 Thighboned
+
+#limb_assembly_exo_l_10.prop - blockName
+0x74a5d16a Grasshopper
+
+#limb_assembly_exo_l_11.prop - blockName
+0x74a5d16b Femur Friday
+
+#limb_assembly_exo_l_12.prop - blockName
+0x74a5d168 Proprioceptive Flex
+
+#limb_assembly_exo_a_01.prop - blockName
+0x2d719437 Arm Plated
+
+#limb_assembly_exo_a_02.prop - blockName
+0x2d719434 Spiker
+
+#limb_assembly_exo_a_03.prop - blockName
+0x2d719435 Lesser Tubercle
+
+#limb_assembly_exo_a_04.prop - blockName
+0x2d719432 Delta Point
+
+#limb_assembly_exo_a_05.prop - blockName
+0x2d719433 Sinew Slug
+
+#limb_assembly_exo_a_06.prop - blockName
+0x2d719430 Brawned
+
+#limb_assembly_exo_a_07.prop - blockName
+0x2d719431 Tendonikes
+
+#limb_assembly_exo_a_08.prop - blockName
+0x2d71943e Fleshed
+
+#limb_assembly_exo_a_09.prop - blockName
+0x2d71943f Deltoid Tuberosity
+
+#limb_assembly_exo_a_10.prop - blockName
+0x2e7195a9 Humorous Humerus
+
+#limb_assembly_exo_a_11.prop - blockName
+0x2e7195a8 Khourtier
+
+#limb_assembly_exo_a_12.prop - blockName
+0x2e7195ab Holiarm
+
+#name for the Limbs button icon tooltip
+0x00000001 Exoskeleton Limbs

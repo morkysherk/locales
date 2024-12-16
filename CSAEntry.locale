@@ -1,0 +1,60 @@
+﻿# browser title
+0x0457ef9b What's New In The Universe?
+
+# load shooper
+0x0458855a Loading Sporepedia...
+
+# load editor
+0x045885c2 Loading Editor...
+
+#tool tips
+
+0x04629375 Exit
+0x04629378 Options
+0x0462937d Help
+0x0462937f Spore News
+0x04629389 Create a Creature
+0x0462938b Load a creature
+0x047539f5 Offline
+# three dots
+0x04e3f4a9 Options
+
+#registration dialog
+
+0x0552a8d8 Register
+0x0552a8d9 Login
+0x0552a8da No previous login was detected. Do you wish to register now?
+
+#exiting game
+0x055fe7f2 Are you sure you want to exit the Spore Creature Creator?
+
+#browser error
+0x0564f734 An error occured while retrieving Spore News.
+
+# patch manager
+0x05d64549 There are updates available.~br~Would you like to patch the Spore Creature Creator?
+0x05d6459a No
+0x05d645b2 Yes
+0x05d65703 Download succeeded.  Would you like to install the patch?
+0x05d657a6 WARNING: You will not see updates to the Spore Creature Creator until you have installed the patch.
+0x05d65f2c Patch Downloading...
+0x05d666d0 Download in progress.  Are you sure you want to cancel?
+0x05d679d4 Patching Process Failed
+0x05ee1440 Download Paused
+0x05ee144d Download Cancelled
+# This following string has been moved to Data/Locale/en-us/Text/CSA/CSAEntry_Patch3.txt.
+# 0x06df77e2 Updates are available.~br~Log in with your email address and password to get the latest updates.
+
+# patch manager download error message
+0x05d67a03 ~dl_error~
+0x05d67a45 Lost Server
+0x05d67a51 No Disk Space
+0x05ee138e File Write Error
+0x05ee1398 An error occurred during download
+0x05f7a60e Patching Process Failed
+
+#title windows
+0x05da7c49 SPORE™ Creature Creator
+0x05da7c4a SPORE™ Creature Creator Trial Edition
+
+

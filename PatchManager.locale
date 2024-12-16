@@ -1,0 +1,30 @@
+﻿# patch manager
+0x05d64549 There are updates available.~br~Would you like to patch Spore?
+0x05d6459a No
+0x05d645b2 Yes
+0x05d65703 Download succeeded.  Would you like to install the patch?
+0x05d657a6 WARNING: You will not see updates to Spore until you have installed the patch.
+0x05d65f2c Patch Downloading...
+0x05d666d0 Download in progress.  Are you sure you want to cancel?
+0x05d679d4 Patching Process Failed
+0x05ee1440 Download Paused
+0x05ee144d Download Cancelled
+0x061f1d7f Pause
+0x061f1d80 Cancel
+0x06395e55 Later
+0x064bf9e1 Resume
+0x06df77e2 Updates are available.~br~Log in with your email address and password to get the latest updates.
+
+# patch manager download error message
+0x05d67a03 ~generic0~
+0x05d67a45 Lost Server
+0x05d67a51 No Disk Space
+0x05ee138e File Write Error
+0x05ee1398 An error occurred during download
+
+# patch manager generic patch error message
+0x05f7a60e An error occurred while trying to apply the patch.
+
+# patch details
+0x06381b58 What's in the patch?
+0x06381b59 This patch fixes the following issues:
